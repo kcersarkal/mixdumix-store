@@ -1,7 +1,7 @@
 ﻿const PRODUCTS = [
   {
     "asin": "B0GQ9P7YGW",
-    "title": "MODUS 950mL Garrafa de Água Térmica Esportiva Inox Isolada a Vácuo com Base Emborrachada Anti Derrapante (Gradiente Preto a Verde)",
+    "title": "MODUS 950mL Garrafa de Ãgua TÃ©rmica Esportiva Inox Isolada a VÃ¡cuo com Base Emborrachada Anti Derrapante (Gradiente Preto a Verde)",
     "image": "https://m.media-amazon.com/images/I/61goRECzi9L._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -25,7 +25,7 @@
   },
   {
     "asin": "B0FDGCPSF7",
-    "title": "Garrafa Térmica De Água Isolada 950ml Quente & Frio De Aço Inox Com Alça (Roxo)",
+    "title": "Garrafa TÃ©rmica De Ãgua Isolada 950ml Quente & Frio De AÃ§o Inox Com AlÃ§a (Roxo)",
     "image": "https://m.media-amazon.com/images/I/611jgU5-pML._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -69,7 +69,7 @@
   },
   {
     "asin": "B0FLYHDHRT",
-    "title": "Jogo de Toalhas Buddemeyer Maya Extra Soft Banho Branco 4 peças",
+    "title": "Jogo de Toalhas Buddemeyer Maya Extra Soft Banho Branco 4 peÃ§as",
     "image": "https://m.media-amazon.com/images/I/514yarM6gBL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -113,7 +113,7 @@
   },
   {
     "asin": "8568014003",
-    "title": "Mais esperto que o diabo: o mistério revelado da liberdade e do sucesso",
+    "title": "Mais esperto que o diabo: o mistÃ©rio revelado da liberdade e do sucesso",
     "image": "https://m.media-amazon.com/images/I/819ERrDHRcL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -157,7 +157,7 @@
   },
   {
     "asin": "B08J9GJXMV",
-    "title": "Ar-condicionado Split Teto 30000 Btus Carrier Xperience Só Frio 42zqb30c5/38tfcb30515mc 220v",
+    "title": "Ar-condicionado Split Teto 30000 Btus Carrier Xperience SÃ³ Frio 42zqb30c5/38tfcb30515mc 220v",
     "image": "https://m.media-amazon.com/images/I/51gOeZ+14xL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -182,7 +182,7 @@
   },
   {
     "asin": "B0H3QL8T85",
-    "title": "Caçarola Grigio 26cm Indução Antiaderente com Tampa e Pegador",
+    "title": "CaÃ§arola Grigio 26cm InduÃ§Ã£o Antiaderente com Tampa e Pegador",
     "image": "https://m.media-amazon.com/images/I/61YWCo0YiJL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -207,7 +207,7 @@
   },
   {
     "asin": "B0CTD56FW3",
-    "title": "Maxi Baby Móbile Para Carrinho e Berço com Chocalho Ocean",
+    "title": "Maxi Baby MÃ³bile Para Carrinho e BerÃ§o com Chocalho Ocean",
     "image": "https://m.media-amazon.com/images/I/51O0jgSkUKL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -232,7 +232,7 @@
   },
   {
     "asin": "B0FCFR7PJ4",
-    "title": "Kit 2 Barras de Apoio para Banheiro 40cm em Aço Inox SUS304, Barra de Apoio para Idoso Antiderrapante, Suporte para Idoso até 230kg",
+    "title": "Kit 2 Barras de Apoio para Banheiro 40cm em AÃ§o Inox SUS304, Barra de Apoio para Idoso Antiderrapante, Suporte para Idoso atÃ© 230kg",
     "image": "https://m.media-amazon.com/images/I/614MRAB+7BL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -257,7 +257,7 @@
   },
   {
     "asin": "B0DMMC9PP3",
-    "title": "Mochila Viagem, Mochila Feminina Avião,40L Impermeável & Expansível,com Porta USB, Mochila Notebook Masculina Grande para Trabalho Casual Esportes Hiking Escolar Presente",
+    "title": "Mochila Viagem, Mochila Feminina AviÃ£o,40L ImpermeÃ¡vel & ExpansÃ­vel,com Porta USB, Mochila Notebook Masculina Grande para Trabalho Casual Esportes Hiking Escolar Presente",
     "image": "https://m.media-amazon.com/images/I/7141EXvAliL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -276,7 +276,7 @@
   },
   {
     "asin": "B08ZDN5BZQ",
-    "title": "Pano de Chão Pacote 3 Cores Mistas em Microfibras 48x58cm",
+    "title": "Pano de ChÃ£o Pacote 3 Cores Mistas em Microfibras 48x58cm",
     "image": "https://m.media-amazon.com/images/I/71SWpSC1LkL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -301,7 +301,7 @@
   },
   {
     "asin": "B0G4RGNH5H",
-    "title": "Trailabo Colchão Inflável Queen Size 203 * 151CM com Bomba de ar Elétrica Recarregável Embutida",
+    "title": "Trailabo ColchÃ£o InflÃ¡vel Queen Size 203 * 151CM com Bomba de ar ElÃ©trica RecarregÃ¡vel Embutida",
     "image": "https://m.media-amazon.com/images/I/61zAHiM+-bL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -326,7 +326,7 @@
   },
   {
     "asin": "B0G29VX1DQ",
-    "title": "Placa de Montessori Sensorial para Crianças Brinquedo Educativo (Tema Fazenda)",
+    "title": "Placa de Montessori Sensorial para CrianÃ§as Brinquedo Educativo (Tema Fazenda)",
     "image": "https://m.media-amazon.com/images/I/71s9xo7p9YL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -345,7 +345,7 @@
   },
   {
     "asin": "B08DQQC61G",
-    "title": "Duracell Pilhas Moeda CR2032 Pack 2 Unidades �?" Ideal para Placas Mãe e Controles Automotivos",
+    "title": "Duracell Pilhas Moeda CR2032 Pack 2 Unidades â€“ Ideal para Placas MÃ£e e Controles Automotivos",
     "image": "https://m.media-amazon.com/images/I/71TJ3Ud6gtL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -370,7 +370,7 @@
   },
   {
     "asin": "B0G12JN553",
-    "title": "TakTark Babá Eletrônica, 4.3\" Monitor de BebÃª Sem WiFi com CÃ¢mera e Ãudio â€“ Remoto Zoom, VisÃ£o Noturna, Sensor de Temperatura, Monitor Seguro para Quarto de BebÃª, Idosos e Pets",
+    "title": "TakTark BabÃ¡ EletrÃ´nica, 4.3\" Monitor de BebÃª Sem WiFi com CÃ¢mera e Ãudio â€“ Remoto Zoom, VisÃ£o Noturna, Sensor de Temperatura, Monitor Seguro para Quarto de BebÃª, Idosos e Pets",
     "image": "https://m.media-amazon.com/images/I/610hqdmdZWL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -395,7 +395,7 @@
   },
   {
     "asin": "B0H32F79D9",
-    "title": "VEDO Pedal de Efeitos para Guitarra CUBE BABY Multifuncional Portátil com 9 Simulações de Amp 8 IR CAB Bluetooth Gravação em Celular Bateria Integrada Tuner e Modos PRESET/LIVE/EDIT para Músicos",
+    "title": "VEDO Pedal de Efeitos para Guitarra CUBE BABY Multifuncional PortÃ¡til com 9 SimulaÃ§Ãµes de Amp 8 IR CAB Bluetooth GravaÃ§Ã£o em Celular Bateria Integrada Tuner e Modos PRESET/LIVE/EDIT para MÃºsicos",
     "image": "https://m.media-amazon.com/images/I/71mMZ79htuL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -414,7 +414,7 @@
   },
   {
     "asin": "B0B3X8HF2Y",
-    "title": "Brastoy Blocos de Montar Magnéticos Infantil Construção Brinquedo (65 Peças)",
+    "title": "Brastoy Blocos de Montar MagnÃ©ticos Infantil ConstruÃ§Ã£o Brinquedo (65 PeÃ§as)",
     "image": "https://m.media-amazon.com/images/I/811ByrUELKL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -433,7 +433,7 @@
   },
   {
     "asin": "B0CJHZ92P6",
-    "title": "Webcam EMEET C960 4K, Sensor Sony UHD, Foco Automático PDAF, Microfones Duplos, Correção de Luz, FOV 73°, Capa de Privacidade",
+    "title": "Webcam EMEET C960 4K, Sensor Sony UHD, Foco AutomÃ¡tico PDAF, Microfones Duplos, CorreÃ§Ã£o de Luz, FOV 73Â°, Capa de Privacidade",
     "image": "https://m.media-amazon.com/images/I/71TDsZwyyEL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -482,7 +482,7 @@
   },
   {
     "asin": "B0DD3BS7WD",
-    "title": "Brastoy Blocos de Montar Magnéticos Construção Infantil Brinquedo Educativo (130 Peças)",
+    "title": "Brastoy Blocos de Montar MagnÃ©ticos ConstruÃ§Ã£o Infantil Brinquedo Educativo (130 PeÃ§as)",
     "image": "https://m.media-amazon.com/images/I/81eYzT9WzDL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -501,7 +501,7 @@
   },
   {
     "asin": "B0CQDCYSYB",
-    "title": "Smart Alimentador Pet Wi-Fi Positivo Casa Inteligente, Agendamento de Porções por App, Gravador de Voz, 4L, Sensor antiobstrução, Tigela removível �?" Compatível com Alexa e Google Assistente",
+    "title": "Smart Alimentador Pet Wi-Fi Positivo Casa Inteligente, Agendamento de PorÃ§Ãµes por App, Gravador de Voz, 4L, Sensor antiobstruÃ§Ã£o, Tigela removÃ­vel â€“ CompatÃ­vel com Alexa e Google Assistente",
     "image": "https://m.media-amazon.com/images/I/51bVWgqVPLL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -526,7 +526,7 @@
   },
   {
     "asin": "B0GFD8M69W",
-    "title": "Blocos de Montar Magnéticos Construção Brinquedos Infantil (120 Peças Tamanho Médio)",
+    "title": "Blocos de Montar MagnÃ©ticos ConstruÃ§Ã£o Brinquedos Infantil (120 PeÃ§as Tamanho MÃ©dio)",
     "image": "https://m.media-amazon.com/images/I/710UJzG8ZCL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -570,7 +570,7 @@
   },
   {
     "asin": "B0F497Y3VF",
-    "title": "Mop Spray Com 800ml �?" Esfregão Com Spray De Microfibra Com 3 Refis Laváveis, Limpeza De Chão Seco E úmido, Ideal Para Cozinha, Piso Laminado, Azulejos E Madeira",
+    "title": "Mop Spray Com 800ml â€“ EsfregÃ£o Com Spray De Microfibra Com 3 Refis LavÃ¡veis, Limpeza De ChÃ£o Seco E Ãºmido, Ideal Para Cozinha, Piso Laminado, Azulejos E Madeira",
     "image": "https://m.media-amazon.com/images/I/71fNPRfwmCL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -595,7 +595,7 @@
   },
   {
     "asin": "B0GVS3G23M",
-    "title": "TURU HOME 4 em 1 Ventilador de Ar Frio e Aquecedor,Termostato 10°C a 30°C, Oscilação 70° Timer 12h Controle Remoto, Aquecedor Cerâmico PTC, Proteção térmica, Pequeno para Quarto Escritório (127V)",
+    "title": "TURU HOME 4 em 1 Ventilador de Ar Frio e Aquecedor,Termostato 10Â°C a 30Â°C, OscilaÃ§Ã£o 70Â° Timer 12h Controle Remoto, Aquecedor CerÃ¢mico PTC, ProteÃ§Ã£o tÃ©rmica, Pequeno para Quarto EscritÃ³rio (127V)",
     "image": "https://m.media-amazon.com/images/I/71tgyI-hIEL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -639,7 +639,7 @@
   },
   {
     "asin": "8542229185",
-    "title": "Tempestade de �"nix: Edição Especial Limitada. Sequência dos fenômenos mundiais Quarta Asa e Chama de Ferro (Série O Empyriano, Livro 3)",
+    "title": "Tempestade de Ã”nix: EdiÃ§Ã£o Especial Limitada. SequÃªncia dos fenÃ´menos mundiais Quarta Asa e Chama de Ferro (SÃ©rie O Empyriano, Livro 3)",
     "image": "https://m.media-amazon.com/images/I/71aWWKWXa1L._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -683,7 +683,7 @@
   },
   {
     "asin": "6552172338",
-    "title": "Coleção Rodrigo Bibo (O Deus que destrói sonhos e Como se tornar um cristão inútil)",
+    "title": "ColeÃ§Ã£o Rodrigo Bibo (O Deus que destrÃ³i sonhos e Como se tornar um cristÃ£o inÃºtil)",
     "image": "https://m.media-amazon.com/images/I/81uxLdj-CyL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -721,7 +721,7 @@
   },
   {
     "asin": "B0FG37DF7K",
-    "title": "A última carta",
+    "title": "A Ãºltima carta",
     "image": "https://m.media-amazon.com/images/I/81daUnjD9AL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -765,7 +765,7 @@
   },
   {
     "asin": "B0H277J6KX",
-    "title": "Bomba Pressurizadora de Água Automática 220V 120W, Altura 11m, Ultra Silenciosa 33dB, Motor de Cobre, IP44, Resistente a Altas Temperaturas, Vazão 28L/min, para Chuveiros, Aquecedor Solar e Torneiras",
+    "title": "Bomba Pressurizadora de Ãgua AutomÃ¡tica 220V 120W, Altura 11m, Ultra Silenciosa 33dB, Motor de Cobre, IP44, Resistente a Altas Temperaturas, VazÃ£o 28L/min, para Chuveiros, Aquecedor Solar e Torneiras",
     "image": "https://m.media-amazon.com/images/I/61zePKPn-GL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -790,7 +790,7 @@
   },
   {
     "asin": "8574120286",
-    "title": "O grúfalo",
+    "title": "O grÃºfalo",
     "image": "https://m.media-amazon.com/images/I/A1Yw3SMln2L._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -847,7 +847,7 @@
   },
   {
     "asin": "B0H375N34M",
-    "title": "Cadeira Gamer Husky Tempest 700, Até 145kg, Almofadas, Reclinável 150º, PU, Descanso para Pés, Cinza - HCG700CZ",
+    "title": "Cadeira Gamer Husky Tempest 700, AtÃ© 145kg, Almofadas, ReclinÃ¡vel 150Âº, PU, Descanso para PÃ©s, Cinza - HCG700CZ",
     "image": "https://m.media-amazon.com/images/I/61H+ZsZid+L._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -891,7 +891,7 @@
   },
   {
     "asin": "B0G448PNJP",
-    "title": "Fones de Ouvido Baseus Bass BH1 NC, ANC Híbrido Adaptativo em Tempo Real, SuperBass 2.0, Som LDAC Alta Resolução, 80h Reprodução, 5 Microfones, Bluetooth 6.0, Preto",
+    "title": "Fones de Ouvido Baseus Bass BH1 NC, ANC HÃ­brido Adaptativo em Tempo Real, SuperBass 2.0, Som LDAC Alta ResoluÃ§Ã£o, 80h ReproduÃ§Ã£o, 5 Microfones, Bluetooth 6.0, Preto",
     "image": "https://m.media-amazon.com/images/I/71bq+xjXSIL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1016,7 +1016,7 @@
   },
   {
     "asin": "B07MZZMXPC",
-    "title": "NexGard Antipulgas e Carrapatos para Cães de 10,1 a 25kg - 1 tablete",
+    "title": "NexGard Antipulgas e Carrapatos para CÃ£es de 10,1 a 25kg - 1 tablete",
     "image": "https://m.media-amazon.com/images/I/71hnJ7KasZL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1041,7 +1041,7 @@
   },
   {
     "asin": "B07G7JWPM6",
-    "title": "Oculos Tempest Mirror Speedo �snico Prata Espelhado",
+    "title": "Oculos Tempest Mirror Speedo Ãšnico Prata Espelhado",
     "image": "https://m.media-amazon.com/images/I/51x8n93k1GL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1060,7 +1060,7 @@
   },
   {
     "asin": "B0FXZVDG74",
-    "title": "MODUS Garrafa Térmica Esportiva De Aço Inoxidável Com Isolamento A Vácuo De 950ML (Azul)",
+    "title": "MODUS Garrafa TÃ©rmica Esportiva De AÃ§o InoxidÃ¡vel Com Isolamento A VÃ¡cuo De 950ML (Azul)",
     "image": "https://m.media-amazon.com/images/I/61AWuRvjq+L._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1085,7 +1085,7 @@
   },
   {
     "asin": "B0FDHS48C5",
-    "title": "LUMAI Kit Tábua de Frios Bambu Premium e Petisqueira com Polimento Duplo | Suporte Magnético - Tábua para Servir 40cm x 29,5cm - Qualidade para Receber em Casa Familia e Amigos",
+    "title": "LUMAI Kit TÃ¡bua de Frios Bambu Premium e Petisqueira com Polimento Duplo | Suporte MagnÃ©tico - TÃ¡bua para Servir 40cm x 29,5cm - Qualidade para Receber em Casa Familia e Amigos",
     "image": "https://m.media-amazon.com/images/I/71R+W7XfVBL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1110,7 +1110,7 @@
   },
   {
     "asin": "B07V9W6N8P",
-    "title": "NexGard Antipulgas e Carrapatos para Cães de 25,1 a 50kg - 3 tabletes",
+    "title": "NexGard Antipulgas e Carrapatos para CÃ£es de 25,1 a 50kg - 3 tabletes",
     "image": "https://m.media-amazon.com/images/I/71p142qWDpL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1160,7 +1160,7 @@
   },
   {
     "asin": "B0G81Y48TW",
-    "title": "Electrolux Fogão de Embutir 4 bocas Electrolux Preto Experience Mesa Vidro e VaporBake (FE4BB) Bivolt",
+    "title": "Electrolux FogÃ£o de Embutir 4 bocas Electrolux Preto Experience Mesa Vidro e VaporBake (FE4BB) Bivolt",
     "image": "https://m.media-amazon.com/images/I/51q2P6+MTEL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1185,7 +1185,7 @@
   },
   {
     "asin": "B07Q78BR5M",
-    "title": "Aspirador de Pó vertical bateria Ergorapido 2 em 1 Electrolux 21min 2 velocidades capacidade 460Ml ERG21 Bivolt Branco",
+    "title": "Aspirador de PÃ³ vertical bateria Ergorapido 2 em 1 Electrolux 21min 2 velocidades capacidade 460Ml ERG21 Bivolt Branco",
     "image": "https://m.media-amazon.com/images/I/51dF2DGJO2L._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1209,7 +1209,7 @@
   },
   {
     "asin": "B0GK2B9LZT",
-    "title": "Filtro de Papel para Coador de Café V60, Tamanho 02, Filtro para V60 02, Filtro Cafe �?<�?<2-4 Xícaras para Cafeteira de Coar e Gotejamento (100, Branco)",
+    "title": "Filtro de Papel para Coador de CafÃ© V60, Tamanho 02, Filtro para V60 02, Filtro Cafe â€‹â€‹2-4 XÃ­caras para Cafeteira de Coar e Gotejamento (100, Branco)",
     "image": "https://m.media-amazon.com/images/I/71a+lg20TiL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1234,7 +1234,7 @@
   },
   {
     "asin": "6555658398",
-    "title": "O segredo final (Robert Langdon �?" Livro 6)",
+    "title": "O segredo final (Robert Langdon â€“ Livro 6)",
     "image": "https://m.media-amazon.com/images/I/619zAI-cZmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1253,7 +1253,7 @@
   },
   {
     "asin": "B0F2ZLCZGP",
-    "title": "Extensão de Energia Filtro de Linha Régua de Energia com 5 Tomadas 4 USB-A e 2 USB Tipo-C Cabo 2 Metros Bivolt 110-220V Potência 2500W e Carregamento Inteligente Linha Premium (Preto)",
+    "title": "ExtensÃ£o de Energia Filtro de Linha RÃ©gua de Energia com 5 Tomadas 4 USB-A e 2 USB Tipo-C Cabo 2 Metros Bivolt 110-220V PotÃªncia 2500W e Carregamento Inteligente Linha Premium (Preto)",
     "image": "https://m.media-amazon.com/images/I/51IQvSdeGkL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1278,7 +1278,7 @@
   },
   {
     "asin": "B0G6CLD9HD",
-    "title": "Monitor Portátil IPS 15.6\" Full HD 1080p, Ultrafino, USB-C/HDMI, Capa Inteligente e Alto-falantes - Extensor de Tela para Laptop e Viagem",
+    "title": "Monitor PortÃ¡til IPS 15.6\" Full HD 1080p, Ultrafino, USB-C/HDMI, Capa Inteligente e Alto-falantes - Extensor de Tela para Laptop e Viagem",
     "image": "https://m.media-amazon.com/images/I/71y9gtIwCAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1303,7 +1303,7 @@
   },
   {
     "asin": "B07G7GK7LG",
-    "title": "�"culos de Natação, Speedo, Legend, Lentes Antifog com Proteção UV, Vedação P",
+    "title": "Ã“culos de NataÃ§Ã£o, Speedo, Legend, Lentes Antifog com ProteÃ§Ã£o UV, VedaÃ§Ã£o P",
     "image": "https://m.media-amazon.com/images/I/61QoMLEaoCL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1328,7 +1328,7 @@
   },
   {
     "asin": "6555658231",
-    "title": "Um amor problemático de verão",
+    "title": "Um amor problemÃ¡tico de verÃ£o",
     "image": "https://m.media-amazon.com/images/I/81mxxQTX0wL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1347,7 +1347,7 @@
   },
   {
     "asin": "B0FHB81ZY8",
-    "title": "YESOP Fechadura Digital Eletrônica Inteligente Wifi Tag Senha Chave App Abertura �? Distância Compatível Com Tuya Preto",
+    "title": "YESOP Fechadura Digital EletrÃ´nica Inteligente Wifi Tag Senha Chave App Abertura Ã€ DistÃ¢ncia CompatÃ­vel Com Tuya Preto",
     "image": "https://m.media-amazon.com/images/I/51Lf38Win+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1372,7 +1372,7 @@
   },
   {
     "asin": "B08NF6PTG4",
-    "title": "Mop Spray FIT com reservatório 365ml, Borrifa Limpa e Seca , MOP0556, Flash Limp",
+    "title": "Mop Spray FIT com reservatÃ³rio 365ml, Borrifa Limpa e Seca , MOP0556, Flash Limp",
     "image": "https://m.media-amazon.com/images/I/6149kZdmG0L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1460,7 +1460,7 @@
   },
   {
     "asin": "B0GTLSK1T3",
-    "title": "Garrafa Térmica 750ml - Parede Dupla de Isolamento 24horas Gelado, Base Emborrachada Anti Derrapante, Anti Vazamento, BPA Free (Azul Royal)",
+    "title": "Garrafa TÃ©rmica 750ml - Parede Dupla de Isolamento 24horas Gelado, Base Emborrachada Anti Derrapante, Anti Vazamento, BPA Free (Azul Royal)",
     "image": "https://m.media-amazon.com/images/I/615sz3x+7nL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1485,7 +1485,7 @@
   },
   {
     "asin": "B0FYLHZYC9",
-    "title": "EKROTOK Kit 3 Luminária Pendente de LED, Luz de Teto para Sala de Jantar, Quarto, Cozinha, Café, Lustre Pendente (85-265V)(Lâmpadas Incluídas)",
+    "title": "EKROTOK Kit 3 LuminÃ¡ria Pendente de LED, Luz de Teto para Sala de Jantar, Quarto, Cozinha, CafÃ©, Lustre Pendente (85-265V)(LÃ¢mpadas IncluÃ­das)",
     "image": "https://m.media-amazon.com/images/I/61JS+zkrfaL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1510,7 +1510,7 @@
   },
   {
     "asin": "6555657596",
-    "title": "No fundo é amor",
+    "title": "No fundo Ã© amor",
     "image": "https://m.media-amazon.com/images/I/81XvsucSLVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1529,7 +1529,7 @@
   },
   {
     "asin": "B07K8XJF9D",
-    "title": "Garrafa Térmica Inox Parede Dupla Matterhorn 591ml Azul Mônaco Contigo",
+    "title": "Garrafa TÃ©rmica Inox Parede Dupla Matterhorn 591ml Azul MÃ´naco Contigo",
     "image": "https://m.media-amazon.com/images/I/41k8bj588BL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1554,7 +1554,7 @@
   },
   {
     "asin": "B0778S2PJF",
-    "title": "Lápis de Cor, Faber-Castell, EcoLápis Triangular Jumbo + Apontador com Depósito, 12.3012AP, 12 Cores",
+    "title": "LÃ¡pis de Cor, Faber-Castell, EcoLÃ¡pis Triangular Jumbo + Apontador com DepÃ³sito, 12.3012AP, 12 Cores",
     "image": "https://m.media-amazon.com/images/I/61Dha-vcTUL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1603,7 +1603,7 @@
   },
   {
     "asin": "B0CJRWKX2D",
-    "title": "Monitor Concórdia Gamer Curvo CZ238F 23.8\" 100hz LED Full HD HDMI VGA",
+    "title": "Monitor ConcÃ³rdia Gamer Curvo CZ238F 23.8\" 100hz LED Full HD HDMI VGA",
     "image": "https://m.media-amazon.com/images/I/61YSx-nCpAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1628,7 +1628,7 @@
   },
   {
     "asin": "B0B7SH7VT1",
-    "title": "L'Oréal Professionnel Condicionador NutriOil para nutrição e brilho, enriquecido com óleo de coco, com textura leve e para todos os tipos de cabelo, 200ml",
+    "title": "L'OrÃ©al Professionnel Condicionador NutriOil para nutriÃ§Ã£o e brilho, enriquecido com Ã³leo de coco, com textura leve e para todos os tipos de cabelo, 200ml",
     "image": "https://m.media-amazon.com/images/I/41WJylN2GUL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1653,7 +1653,7 @@
   },
   {
     "asin": "8556511937",
-    "title": "A Ascensão do Dragão: Uma história ilustrada da dinastia Targaryen �?" Volume 1",
+    "title": "A AscensÃ£o do DragÃ£o: Uma histÃ³ria ilustrada da dinastia Targaryen â€“ Volume 1",
     "image": "https://m.media-amazon.com/images/I/91889MYAFqL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1672,7 +1672,7 @@
   },
   {
     "asin": "B0G5XZDQ1V",
-    "title": "BEMMY Pantufas Felpudas para Mulheres, Confortáveis, de Pele Sintética, para Usar em Casa no Inverno, Pantufas Femininas Antiderrapante com Espuma Viscoelástica.",
+    "title": "BEMMY Pantufas Felpudas para Mulheres, ConfortÃ¡veis, de Pele SintÃ©tica, para Usar em Casa no Inverno, Pantufas Femininas Antiderrapante com Espuma ViscoelÃ¡stica.",
     "image": "https://m.media-amazon.com/images/I/71WMNlOYPsL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1716,7 +1716,7 @@
   },
   {
     "asin": "B07QNZGP3X",
-    "title": "Pilão de Mármore com Socador Cinza 11cm x 11cm - Wolff",
+    "title": "PilÃ£o de MÃ¡rmore com Socador Cinza 11cm x 11cm - Wolff",
     "image": "https://m.media-amazon.com/images/I/51uA2xg8-6L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1741,7 +1741,7 @@
   },
   {
     "asin": "B0CGVZDNNS",
-    "title": "Kit Para Lavar Carro Bike Caminhão Van Biz Onibus Moto Vonixx Blend Spray Cera Liquida Sintra Fast V-floc Shampoo Automotivo Intense Restaurador De Plasticos Internos 500ml",
+    "title": "Kit Para Lavar Carro Bike CaminhÃ£o Van Biz Onibus Moto Vonixx Blend Spray Cera Liquida Sintra Fast V-floc Shampoo Automotivo Intense Restaurador De Plasticos Internos 500ml",
     "image": "https://m.media-amazon.com/images/I/710jXHUr9LL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1766,7 +1766,7 @@
   },
   {
     "asin": "B09GSP87T9",
-    "title": "L'Oréal Professionnel Shampoo Vitamino Color, Protege e Preserva a Cor do Cabelo, Previne Danos, Adiciona Luminosidades aos Fios, 300ml",
+    "title": "L'OrÃ©al Professionnel Shampoo Vitamino Color, Protege e Preserva a Cor do Cabelo, Previne Danos, Adiciona Luminosidades aos Fios, 300ml",
     "image": "https://m.media-amazon.com/images/I/61pfEJfJEOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1791,7 +1791,7 @@
   },
   {
     "asin": "B0FVRS6ZL4",
-    "title": "VEVSHAO A16 Projetor Full HD 1080P Nativo,400 ANSI Lumens, Android 12,Wi-Fi 6 Dual Band e Bluetooth 5.0,Foco Automático,Keystone Automático,Rotação 360°,Tela de 35\" a 200\",automatic obstacle avoidance",
+    "title": "VEVSHAO A16 Projetor Full HD 1080P Nativo,400 ANSI Lumens, Android 12,Wi-Fi 6 Dual Band e Bluetooth 5.0,Foco AutomÃ¡tico,Keystone AutomÃ¡tico,RotaÃ§Ã£o 360Â°,Tela de 35\" a 200\",automatic obstacle avoidance",
     "image": "https://m.media-amazon.com/images/I/71U9q002elL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1815,7 +1815,7 @@
   },
   {
     "asin": "B0GMMPL7SS",
-    "title": "Fone de Ouvido Bluetooth 5.3, Graves Potentes, Drivers de 13mm, 14H de Reprodução, Resistência à Água, Fone sem fio tws (branco)",
+    "title": "Fone de Ouvido Bluetooth 5.3, Graves Potentes, Drivers de 13mm, 14H de ReproduÃ§Ã£o, ResistÃªncia Ã  Ãgua, Fone sem fio tws (branco)",
     "image": "https://m.media-amazon.com/images/I/51NZKI1+a+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1840,7 +1840,7 @@
   },
   {
     "asin": "B0DCFRHQSW",
-    "title": "SONGMICS Cabideiro com Rodas, Estrutura Reforçada, 45 x (160-200) x 161,5 cm, com Barra Extensível, Capacidade 150 kg, Montagem Fácil, Portátil, Prata BRHSR175E01",
+    "title": "SONGMICS Cabideiro com Rodas, Estrutura ReforÃ§ada, 45 x (160-200) x 161,5 cm, com Barra ExtensÃ­vel, Capacidade 150 kg, Montagem FÃ¡cil, PortÃ¡til, Prata BRHSR175E01",
     "image": "https://m.media-amazon.com/images/I/81EWEzMbleL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1865,7 +1865,7 @@
   },
   {
     "asin": "B09GSR58KM",
-    "title": "L'Oréal Professionnel Serie Expert Inforcer, Condicionador Fortificante Anti-Quebra para Cabelos Fracos, Danificados e com Queda, com Biotina e Vitamina B6 para Crescimento, 200ml",
+    "title": "L'OrÃ©al Professionnel Serie Expert Inforcer, Condicionador Fortificante Anti-Quebra para Cabelos Fracos, Danificados e com Queda, com Biotina e Vitamina B6 para Crescimento, 200ml",
     "image": "https://m.media-amazon.com/images/I/418vX+cfutL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1889,7 +1889,7 @@
   },
   {
     "asin": "B0F2FF1XY8",
-    "title": "Bettdow Monitor Portatil Touchscreen 15,6'', FHD 1080P Monitor Portátil Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para Notebook com VESA e Funda Inteligente magnético, Plug and Play",
+    "title": "Bettdow Monitor Portatil Touchscreen 15,6'', FHD 1080P Monitor PortÃ¡til Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para Notebook com VESA e Funda Inteligente magnÃ©tico, Plug and Play",
     "image": "https://m.media-amazon.com/images/I/71MQ6BG+muL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1914,7 +1914,7 @@
   },
   {
     "asin": "6525943949",
-    "title": "DC: A Nova Fronteira (Edição Absoluta)",
+    "title": "DC: A Nova Fronteira (EdiÃ§Ã£o Absoluta)",
     "image": "https://m.media-amazon.com/images/I/71Z5PoN6HgL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1933,7 +1933,7 @@
   },
   {
     "asin": "B0FKSFP81G",
-    "title": "Dispositivo Tradutor de Idiomas, Traductor Eletrônico Bidirecional de Voz em Tempo Real Suporta 138 Idiomas, Offline, Gravação e Tradução de Fotos para Aprendizagem",
+    "title": "Dispositivo Tradutor de Idiomas, Traductor EletrÃ´nico Bidirecional de Voz em Tempo Real Suporta 138 Idiomas, Offline, GravaÃ§Ã£o e TraduÃ§Ã£o de Fotos para Aprendizagem",
     "image": "https://m.media-amazon.com/images/I/71E8nu8t6XL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -1952,7 +1952,7 @@
   },
   {
     "asin": "B0FZWKC86T",
-    "title": "Mouse Bluetooth, Slim, Recarregável e Silencioso com acabamento Premium Para MacBook Air M5 - M4 - M3 - M2 e M1 E MacBook Pro M1 - M2 - M3 - M4 e M5 (PRETO)",
+    "title": "Mouse Bluetooth, Slim, RecarregÃ¡vel e Silencioso com acabamento Premium Para MacBook Air M5 - M4 - M3 - M2 e M1 E MacBook Pro M1 - M2 - M3 - M4 e M5 (PRETO)",
     "image": "https://m.media-amazon.com/images/I/31jZHYQ+bVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2026,7 +2026,7 @@
   },
   {
     "asin": "B0H337CSBM",
-    "title": "ENSSU Aparador De Pelos Intimos Femininos 2 em 1, Aparador de Pelos Feminino para Corpo e Virilha, Depilador Elétrico com Lâmina de Segurança, IPX7 à Prova d'Água, Carga Rápida 1H",
+    "title": "ENSSU Aparador De Pelos Intimos Femininos 2 em 1, Aparador de Pelos Feminino para Corpo e Virilha, Depilador ElÃ©trico com LÃ¢mina de SeguranÃ§a, IPX7 Ã  Prova d'Ãgua, Carga RÃ¡pida 1H",
     "image": "https://m.media-amazon.com/images/I/61eqL94c-SL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2051,7 +2051,7 @@
   },
   {
     "asin": "B0DDLK45SR",
-    "title": "Maxi Baby Tapete Ginásio Com Bolinhas Para Bebê Movie Cinza",
+    "title": "Maxi Baby Tapete GinÃ¡sio Com Bolinhas Para BebÃª Movie Cinza",
     "image": "https://m.media-amazon.com/images/I/61S3tEH25ML._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2070,7 +2070,7 @@
   },
   {
     "asin": "B0B5ZCFHJW",
-    "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Quente e Fria Branca WD11A4453BW",
+    "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Ãgua Quente e Fria Branca WD11A4453BW",
     "image": "https://m.media-amazon.com/images/I/41wb0lxaEhL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2095,7 +2095,7 @@
   },
   {
     "asin": "B0F2QZQWDN",
-    "title": "Kérastase Nutritive Sérum Capilar Noturno 8H Magic Night Travel Size Para Cabelos Secos com Nutrição Profunda, Proteção Contra a Fricção do Travesseiro e Cabelos Mais Fortes 30ml",
+    "title": "KÃ©rastase Nutritive SÃ©rum Capilar Noturno 8H Magic Night Travel Size Para Cabelos Secos com NutriÃ§Ã£o Profunda, ProteÃ§Ã£o Contra a FricÃ§Ã£o do Travesseiro e Cabelos Mais Fortes 30ml",
     "image": "https://m.media-amazon.com/images/I/615fDHBchvL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2119,7 +2119,7 @@
   },
   {
     "asin": "B0H4S1B1Y1",
-    "title": "Calça Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura",
+    "title": "CalÃ§a Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura",
     "image": "https://m.media-amazon.com/images/I/61-hQbBX-nL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2138,7 +2138,7 @@
   },
   {
     "asin": "855100204X",
-    "title": "Box para todos os garotos que já amei: Box Com os 3 Volumes da Trilogia",
+    "title": "Box para todos os garotos que jÃ¡ amei: Box Com os 3 Volumes da Trilogia",
     "image": "https://m.media-amazon.com/images/I/61iLVUFzF-S._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2176,7 +2176,7 @@
   },
   {
     "asin": "B0GQSXG7FJ",
-    "title": "Basike Fone de Ouvido Bluetooth 5.4, Headphone Bluetooth com Cancelamento de Ruído Ativo ANC, Microfone Integrado, Som de Alta Fidelidade, 40 Horas de Bateria �?" Rosa",
+    "title": "Basike Fone de Ouvido Bluetooth 5.4, Headphone Bluetooth com Cancelamento de RuÃ­do Ativo ANC, Microfone Integrado, Som de Alta Fidelidade, 40 Horas de Bateria â€“ Rosa",
     "image": "https://m.media-amazon.com/images/I/61dnK5nVdvL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2201,7 +2201,7 @@
   },
   {
     "asin": "B0C5S8NW3X",
-    "title": "Carrinho Chicco Glee 0m+ até 22kg Fechamento Automático Prático - 8087068730000",
+    "title": "Carrinho Chicco Glee 0m+ atÃ© 22kg Fechamento AutomÃ¡tico PrÃ¡tico - 8087068730000",
     "image": "https://m.media-amazon.com/images/I/61G37rbYWzL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2251,7 +2251,7 @@
   },
   {
     "asin": "B00DTRY07A",
-    "title": "Vinho Pé Tinto Esporão 750ml",
+    "title": "Vinho PÃ© Tinto EsporÃ£o 750ml",
     "image": "https://m.media-amazon.com/images/I/61b59JMnjvL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2276,7 +2276,7 @@
   },
   {
     "asin": "B01LKZ0Q20",
-    "title": "Kérastase Densifique Bain Densité Shampoo, Para Cabelos Finos e Ralos, Aporta Densidade e Volume, com Ácido Hialurônico e Ceramidas, 250ml",
+    "title": "KÃ©rastase Densifique Bain DensitÃ© Shampoo, Para Cabelos Finos e Ralos, Aporta Densidade e Volume, com Ãcido HialurÃ´nico e Ceramidas, 250ml",
     "image": "https://m.media-amazon.com/images/I/41uiZMCbKGL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2301,7 +2301,7 @@
   },
   {
     "asin": "B0DRG42PSW",
-    "title": "Suporte Articulado para Monitor �?" Braço Articulado Ajustável para Monitores de 13-32\" com Peso MÃ¡ximo de 10kg em Cada BraÃ§o, Suporte para Monitor Duplo com Gerenciamento de Cabos, Design ErgonÃ´mico",
+    "title": "Suporte Articulado para Monitor â€“ BraÃ§o Articulado AjustÃ¡vel para Monitores de 13-32\" com Peso MÃ¡ximo de 10kg em Cada BraÃ§o, Suporte para Monitor Duplo com Gerenciamento de Cabos, Design ErgonÃ´mico",
     "image": "https://m.media-amazon.com/images/I/61JWlL1qGXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2326,7 +2326,7 @@
   },
   {
     "asin": "B07PNK7JSN",
-    "title": "Vanish Tira Manchas Em Pó, Multi Power Oxi Action, para Roupas Coloridas Refil 2,5Kg",
+    "title": "Vanish Tira Manchas Em PÃ³, Multi Power Oxi Action, para Roupas Coloridas Refil 2,5Kg",
     "image": "https://m.media-amazon.com/images/I/71oeDuf8dTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2376,7 +2376,7 @@
   },
   {
     "asin": "B095BPGWPL",
-    "title": "Doce de Leite Zero Açúcar 250g - Junco",
+    "title": "Doce de Leite Zero AÃ§Ãºcar 250g - Junco",
     "image": "https://m.media-amazon.com/images/I/61WvGpIRvrL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2401,7 +2401,7 @@
   },
   {
     "asin": "B0FQP15YR5",
-    "title": "6 em 1 mixer de mão, 1000W, 8 velocidades, Exibição digital LCD, Vem com um copo de 860 ml, Triturador de 600 ml, Batedor de aço inoxidável com 4 pás, Adequado para sopas, smoothies e purés(220V)",
+    "title": "6 em 1 mixer de mÃ£o, 1000W, 8 velocidades, ExibiÃ§Ã£o digital LCD, Vem com um copo de 860 ml, Triturador de 600 ml, Batedor de aÃ§o inoxidÃ¡vel com 4 pÃ¡s, Adequado para sopas, smoothies e purÃ©s(220V)",
     "image": "https://m.media-amazon.com/images/I/61FnnecRGDL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2425,7 +2425,7 @@
   },
   {
     "asin": "B0B7SDZGBN",
-    "title": "L'Oréal Professionnel NutriOil Shampoo de Nutrição Intensa com �"leo de Coco �?" Para Cabelos Secos, Limpeza Suave e Maciez, 300 ml",
+    "title": "L'OrÃ©al Professionnel NutriOil Shampoo de NutriÃ§Ã£o Intensa com Ã“leo de Coco â€“ Para Cabelos Secos, Limpeza Suave e Maciez, 300 ml",
     "image": "https://m.media-amazon.com/images/I/51uSOCZOtXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2450,7 +2450,7 @@
   },
   {
     "asin": "B0G6K41WR4",
-    "title": "Pantufas Felpudas Impermeáveis �?<�?<para Homem, Antiderrapantes, Macias e Quentes. Pantufas Masculinas",
+    "title": "Pantufas Felpudas ImpermeÃ¡veis â€‹â€‹para Homem, Antiderrapantes, Macias e Quentes. Pantufas Masculinas",
     "image": "https://m.media-amazon.com/images/I/61fTXpl3HuL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2469,7 +2469,7 @@
   },
   {
     "asin": "B0GFX14YD9",
-    "title": "Ar­Condicionado Philco Portátil 10000BTUs Frio PAC10FN 127v",
+    "title": "ArÂ­Condicionado Philco PortÃ¡til 10000BTUs Frio PAC10FN 127v",
     "image": "https://m.media-amazon.com/images/I/519wu29AyYL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2494,7 +2494,7 @@
   },
   {
     "asin": "B0B7SH8YPV",
-    "title": "L'Oréal Professionnel NutriOil Leave-in, Hidratação e Nutrição Intensa para Cabelos Secos e Sem Brilho, com �"leo de Coco, Proteção Térmica e Antifrizz, 150ml",
+    "title": "L'OrÃ©al Professionnel NutriOil Leave-in, HidrataÃ§Ã£o e NutriÃ§Ã£o Intensa para Cabelos Secos e Sem Brilho, com Ã“leo de Coco, ProteÃ§Ã£o TÃ©rmica e Antifrizz, 150ml",
     "image": "https://m.media-amazon.com/images/I/41YAXDAgkVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2519,7 +2519,7 @@
   },
   {
     "asin": "B0DYKWFDV2",
-    "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL �?" 220 Volts",
+    "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL â€“ 220 Volts",
     "image": "https://m.media-amazon.com/images/I/41k+8htJqCL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2569,7 +2569,7 @@
   },
   {
     "asin": "B09GSQMJ5T",
-    "title": "L'Oréal Professionnel Pro Longer, Máscara de Tratamento Capilar para Cabelos Finos e Afinados, Reduz Quebra e Pontas Duplas, Proporciona Brilho, Suavidade e Densidade aos Fios, 250g",
+    "title": "L'OrÃ©al Professionnel Pro Longer, MÃ¡scara de Tratamento Capilar para Cabelos Finos e Afinados, Reduz Quebra e Pontas Duplas, Proporciona Brilho, Suavidade e Densidade aos Fios, 250g",
     "image": "https://m.media-amazon.com/images/I/51Jjvh-r-vL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2593,7 +2593,7 @@
   },
   {
     "asin": "B09KHMJLWT",
-    "title": "Forno Nardelli El�trico Bancada Top 60 Black 60 Litros",
+    "title": "Forno Nardelli Elï¿½trico Bancada Top 60 Black 60 Litros",
     "image": "https://m.media-amazon.com/images/I/51w5luRMMNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2618,7 +2618,7 @@
   },
   {
     "asin": "B0DK5YNB55",
-    "title": "Jaqueta de lã Columbia",
+    "title": "Jaqueta de lÃ£ Columbia",
     "image": "https://m.media-amazon.com/images/I/71qHwpyOvSL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2667,7 +2667,7 @@
   },
   {
     "asin": "B0FJS6WY8M",
-    "title": "BenQ Projetor MX560C XGA Business & Education, DLP, brilho de 4000 lúmens ANSI, alto contraste de 20000:1, HDMI, USB-A, vida útil extra longa da lâmpada de até 15.000 horas, alto-falante de 10 W",
+    "title": "BenQ Projetor MX560C XGA Business & Education, DLP, brilho de 4000 lÃºmens ANSI, alto contraste de 20000:1, HDMI, USB-A, vida Ãºtil extra longa da lÃ¢mpada de atÃ© 15.000 horas, alto-falante de 10 W",
     "image": "https://m.media-amazon.com/images/I/71lyau1MRpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2717,7 +2717,7 @@
   },
   {
     "asin": "B0CSSN9M6V",
-    "title": "Mesa ajustável dobrável, mesa de notebook lateral com ajuste de altura (Preto-Básico)",
+    "title": "Mesa ajustÃ¡vel dobrÃ¡vel, mesa de notebook lateral com ajuste de altura (Preto-BÃ¡sico)",
     "image": "https://m.media-amazon.com/images/I/61cXHNuWcjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2742,7 +2742,7 @@
   },
   {
     "asin": "B0G4RHZN9J",
-    "title": "Cartucho de Tinta TECKKIN Compatível com HP 667 667XL | Compatíveis com HP DeskJet Ink Advantage 2374 1275 2376 2775 2776 DeskJet Plus 6475 6476 6075, 1 Preto 1 Colorido",
+    "title": "Cartucho de Tinta TECKKIN CompatÃ­vel com HP 667 667XL | CompatÃ­veis com HP DeskJet Ink Advantage 2374 1275 2376 2775 2776 DeskJet Plus 6475 6476 6075, 1 Preto 1 Colorido",
     "image": "https://m.media-amazon.com/images/I/71+4h0jQErL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2766,7 +2766,7 @@
   },
   {
     "asin": "B07WNS4CHR",
-    "title": "EsfreBom - Prendedor Plástico Emborrachado, Embalagem com 12 Unidades, Multicor, Bettanin",
+    "title": "EsfreBom - Prendedor PlÃ¡stico Emborrachado, Embalagem com 12 Unidades, Multicor, Bettanin",
     "image": "https://m.media-amazon.com/images/I/61CjcyIK7kL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2791,7 +2791,7 @@
   },
   {
     "asin": "8576578379",
-    "title": "Os demônios: 1",
+    "title": "Os demÃ´nios: 1",
     "image": "https://m.media-amazon.com/images/I/710KQ85UH5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2810,7 +2810,7 @@
   },
   {
     "asin": "8501111643",
-    "title": "O mito de Sísifo",
+    "title": "O mito de SÃ­sifo",
     "image": "https://m.media-amazon.com/images/I/81ccIcOmAoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2829,7 +2829,7 @@
   },
   {
     "asin": "B0FP1251TD",
-    "title": "Suporte com Rodinhas Movel Ajustável Telescópico para Geladeira Fogão Máquina de Lavar Móveis Pesados até 200kgs Base Antiderrapante Estrutura Reforçada Portátil Deslizante Silencioso Versátil Durável",
+    "title": "Suporte com Rodinhas Movel AjustÃ¡vel TelescÃ³pico para Geladeira FogÃ£o MÃ¡quina de Lavar MÃ³veis Pesados atÃ© 200kgs Base Antiderrapante Estrutura ReforÃ§ada PortÃ¡til Deslizante Silencioso VersÃ¡til DurÃ¡vel",
     "image": "https://m.media-amazon.com/images/I/41iY1Zn43VL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2873,7 +2873,7 @@
   },
   {
     "asin": "B07SVH8ZWY",
-    "title": "Cúrcuma 600 mg 120 Cápsulas - Bioroots - Antioxidante e Anti-inflamatório",
+    "title": "CÃºrcuma 600 mg 120 CÃ¡psulas - Bioroots - Antioxidante e Anti-inflamatÃ³rio",
     "image": "https://m.media-amazon.com/images/I/61jZi982GeL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2892,7 +2892,7 @@
   },
   {
     "asin": "B0CJYHBJQT",
-    "title": "Microsoft 365 Family com Copilot + até 6TB de Armazenamento OneDrive (1TB por pessoa), 6 usuários - Word, Excel, PowerPoint, Outlook - PC/Mac/Iphone/Android/tablet/ - (12 Meses) - EP2-32347",
+    "title": "Microsoft 365 Family com Copilot + atÃ© 6TB de Armazenamento OneDrive (1TB por pessoa), 6 usuÃ¡rios - Word, Excel, PowerPoint, Outlook - PC/Mac/Iphone/Android/tablet/ - (12 Meses) - EP2-32347",
     "image": "https://m.media-amazon.com/images/I/51ld+kGcBoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2911,7 +2911,7 @@
   },
   {
     "asin": "B0BMNNNTYG",
-    "title": "Oikos - Rodo Dobrável para Pia com Cabo de Bambu e Silicone | Seca bancada, limpa vidros, banheiro, cozinha, cabo ergonômico, armazenamento compacto, resistente, fácil limpeza",
+    "title": "Oikos - Rodo DobrÃ¡vel para Pia com Cabo de Bambu e Silicone | Seca bancada, limpa vidros, banheiro, cozinha, cabo ergonÃ´mico, armazenamento compacto, resistente, fÃ¡cil limpeza",
     "image": "https://m.media-amazon.com/images/I/31c2gMdbpYL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2936,7 +2936,7 @@
   },
   {
     "asin": "B0FJBKR8R2",
-    "title": "Panela de Pressão Brinox 6,8L Ceramic Life Pressure Revestimento Cerâmico Com Indução Granito",
+    "title": "Panela de PressÃ£o Brinox 6,8L Ceramic Life Pressure Revestimento CerÃ¢mico Com InduÃ§Ã£o Granito",
     "image": "https://m.media-amazon.com/images/I/51zScbKTgfL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2961,7 +2961,7 @@
   },
   {
     "asin": "B0FBQ8KJ5M",
-    "title": "Teclado e Mouse Sem Fio, Bluetooth ABNT2, Recarregável USB-C, Silencioso, Compatível Notebook, PC, Tablet, Celular, Conexão 2.4GHz, Design Slim Compacto",
+    "title": "Teclado e Mouse Sem Fio, Bluetooth ABNT2, RecarregÃ¡vel USB-C, Silencioso, CompatÃ­vel Notebook, PC, Tablet, Celular, ConexÃ£o 2.4GHz, Design Slim Compacto",
     "image": "https://m.media-amazon.com/images/I/51VAJzqJX0L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -2986,7 +2986,7 @@
   },
   {
     "asin": "B07H113VJ6",
-    "title": "Multi Inseticida Automático Refil Citronela 250 ml Embalagem Econômica, SBP, 250 Ml",
+    "title": "Multi Inseticida AutomÃ¡tico Refil Citronela 250 ml Embalagem EconÃ´mica, SBP, 250 Ml",
     "image": "https://m.media-amazon.com/images/I/61FGGYOWrwL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3011,7 +3011,7 @@
   },
   {
     "asin": "B0BLV32VWZ",
-    "title": "Marco Boni Kit Prof 3 Escovas Thermal Ceramic E 1 Escova Raquete Desembaraçante 6204 Amarelo 4 Unidades.",
+    "title": "Marco Boni Kit Prof 3 Escovas Thermal Ceramic E 1 Escova Raquete DesembaraÃ§ante 6204 Amarelo 4 Unidades.",
     "image": "https://m.media-amazon.com/images/I/619q+D-LxQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3036,7 +3036,7 @@
   },
   {
     "asin": "B0FYMRR5YK",
-    "title": "EKROTOK Cadeira de Escritório com Almofada de Assento de Látex, Cadeiras Ergonômicas para Computador com Apoio de Braços Retráteis e Apoio Lombar com Encosto Alto Trabalho, Apoio de Cabeça Ajustável",
+    "title": "EKROTOK Cadeira de EscritÃ³rio com Almofada de Assento de LÃ¡tex, Cadeiras ErgonÃ´micas para Computador com Apoio de BraÃ§os RetrÃ¡teis e Apoio Lombar com Encosto Alto Trabalho, Apoio de CabeÃ§a AjustÃ¡vel",
     "image": "https://m.media-amazon.com/images/I/71lR-MmrXBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3061,7 +3061,7 @@
   },
   {
     "asin": "6586733669",
-    "title": "Harry Potter e o Cálice de Fogo: edição ilustrada interativa - acompanha brinde (edição limitada): 4",
+    "title": "Harry Potter e o CÃ¡lice de Fogo: ediÃ§Ã£o ilustrada interativa - acompanha brinde (ediÃ§Ã£o limitada): 4",
     "image": "https://m.media-amazon.com/images/I/71-+rFnpX5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3080,7 +3080,7 @@
   },
   {
     "asin": "B0D2432MMN",
-    "title": "Kit 11 potes de vidro com tampa de bambu herméticos redondos - Tüd",
+    "title": "Kit 11 potes de vidro com tampa de bambu hermÃ©ticos redondos - TÃ¼d",
     "image": "https://m.media-amazon.com/images/I/81BoVR79zoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3205,7 +3205,7 @@
   },
   {
     "asin": "B07H16L4S7",
-    "title": "Multi Inseticida Automático SBP Refil 250 ml Embalagem Econômica",
+    "title": "Multi Inseticida AutomÃ¡tico SBP Refil 250 ml Embalagem EconÃ´mica",
     "image": "https://m.media-amazon.com/images/I/61rAz3bED-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3230,7 +3230,7 @@
   },
   {
     "asin": "B076X7H4VX",
-    "title": "Garrafa Térmica Air Pot, Invicta, Inox, 1.0L",
+    "title": "Garrafa TÃ©rmica Air Pot, Invicta, Inox, 1.0L",
     "image": "https://m.media-amazon.com/images/I/417UdOlKCjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3280,7 +3280,7 @@
   },
   {
     "asin": "B0GK7QZFSK",
-    "title": "GODREAM Filtro de Cafe Individual, Coador de Cafe Individual Descartável, Filtro Drip Coffee Dose �snica, 7,5x9cm, Ideal para Casa Escritório e Viagem, 300 Filtros para Café Drip",
+    "title": "GODREAM Filtro de Cafe Individual, Coador de Cafe Individual DescartÃ¡vel, Filtro Drip Coffee Dose Ãšnica, 7,5x9cm, Ideal para Casa EscritÃ³rio e Viagem, 300 Filtros para CafÃ© Drip",
     "image": "https://m.media-amazon.com/images/I/71oEI-gl7BL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3330,7 +3330,7 @@
   },
   {
     "asin": "B07WRS2V22",
-    "title": "Brinquedo Macaco Chalesco para Cães �?" Pelúcia Interativa para Brincadeiras e Convivência Familiar",
+    "title": "Brinquedo Macaco Chalesco para CÃ£es â€“ PelÃºcia Interativa para Brincadeiras e ConvivÃªncia Familiar",
     "image": "https://m.media-amazon.com/images/I/61PKYONBoaL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3355,7 +3355,7 @@
   },
   {
     "asin": "B0843GC6QS",
-    "title": "Chalesco Tapete Higiênico Para Cães Confort Bamboo 50 Unidades",
+    "title": "Chalesco Tapete HigiÃªnico Para CÃ£es Confort Bamboo 50 Unidades",
     "image": "https://m.media-amazon.com/images/I/61Lwv5tnuTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3380,7 +3380,7 @@
   },
   {
     "asin": "B07H5WJTPX",
-    "title": "Touca de Natação, Speedo, Flat Cap, Silicone Resistente com Encaixe Confortável,Tamanho �snico",
+    "title": "Touca de NataÃ§Ã£o, Speedo, Flat Cap, Silicone Resistente com Encaixe ConfortÃ¡vel,Tamanho Ãšnico",
     "image": "https://m.media-amazon.com/images/I/518ylve8IVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3405,7 +3405,7 @@
   },
   {
     "asin": "B084C4WYD7",
-    "title": "Apis Flora PROPOMAX 30 Cápsulas",
+    "title": "Apis Flora PROPOMAX 30 CÃ¡psulas",
     "image": "https://m.media-amazon.com/images/I/71vqoGvEiML._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3435,7 +3435,7 @@
   },
   {
     "asin": "B0H4S4Y7FH",
-    "title": "Calça Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura",
+    "title": "CalÃ§a Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura",
     "image": "https://m.media-amazon.com/images/I/61BHxu3dQkL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3454,7 +3454,7 @@
   },
   {
     "asin": "B0G3XT743B",
-    "title": "Kit 3 Pijamas Baby Doll Feminino Americano Miami Aberto Verão, Malha Suede, Alça Fina com Short, Adulto",
+    "title": "Kit 3 Pijamas Baby Doll Feminino Americano Miami Aberto VerÃ£o, Malha Suede, AlÃ§a Fina com Short, Adulto",
     "image": "https://m.media-amazon.com/images/I/61KIvfyAviL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3473,7 +3473,7 @@
   },
   {
     "asin": "B0F5D79K4T",
-    "title": "Kit 3 Blusa Térmica Manga Longa Feminina Peluciada Inverno",
+    "title": "Kit 3 Blusa TÃ©rmica Manga Longa Feminina Peluciada Inverno",
     "image": "https://m.media-amazon.com/images/I/51znpvDZ1hL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3492,7 +3492,7 @@
   },
   {
     "asin": "8503009498",
-    "title": "O sol é para todos",
+    "title": "O sol Ã© para todos",
     "image": "https://m.media-amazon.com/images/I/91WKPd60P4L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3534,7 +3534,7 @@
   },
   {
     "asin": "B07FGXYH8S",
-    "title": "Aromatizador de Ambiente Bom Ar Automático Aerossol Freshmatic Refil na 2ª Unidade Campos de Lavanda",
+    "title": "Aromatizador de Ambiente Bom Ar AutomÃ¡tico Aerossol Freshmatic Refil na 2Âª Unidade Campos de Lavanda",
     "image": "https://m.media-amazon.com/images/I/715kHdE3ZxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3559,7 +3559,7 @@
   },
   {
     "asin": "B0GYVQDMNK",
-    "title": "Kit 10 Potes de Vidro Hermético 640ml Refratário Organizador Marmitas Fitness Antivazamento Ideal para Micro-ondas Forno e Freezer",
+    "title": "Kit 10 Potes de Vidro HermÃ©tico 640ml RefratÃ¡rio Organizador Marmitas Fitness Antivazamento Ideal para Micro-ondas Forno e Freezer",
     "image": "https://m.media-amazon.com/images/I/71s3Kp-8nnL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3584,7 +3584,7 @@
   },
   {
     "asin": "B0B8FXCW2Z",
-    "title": "ELG, SHCF601, Câmera Externa Full Color 1080P IP65, Lente 3.6mm, Grava Full HD 1080p, Inteligente, Wi-Fi, Protocolo ONVOF, Perfil S, Branco",
+    "title": "ELG, SHCF601, CÃ¢mera Externa Full Color 1080P IP65, Lente 3.6mm, Grava Full HD 1080p, Inteligente, Wi-Fi, Protocolo ONVOF, Perfil S, Branco",
     "image": "https://m.media-amazon.com/images/I/51vYba51ceL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3609,7 +3609,7 @@
   },
   {
     "asin": "B0FXRRJ3GH",
-    "title": "Monitor 21,5 Polegadas, Alto-falantes Integrados, Full HD 1920x1080, 100 Hz, 230cd/m², HDMI/VGA/3.55(110-240V)",
+    "title": "Monitor 21,5 Polegadas, Alto-falantes Integrados, Full HD 1920x1080, 100 Hz, 230cd/mÂ², HDMI/VGA/3.55(110-240V)",
     "image": "https://m.media-amazon.com/images/I/71B0O7oZCtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3634,7 +3634,7 @@
   },
   {
     "asin": "B08Y2CWMXH",
-    "title": "Penteadeira Ditália 7 Gav. Pe-80 Branco c/Kit Luz Camarim",
+    "title": "Penteadeira DitÃ¡lia 7 Gav. Pe-80 Branco c/Kit Luz Camarim",
     "image": "https://m.media-amazon.com/images/I/51puUZeke9L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3659,7 +3659,7 @@
   },
   {
     "asin": "B0FDGC2SK7",
-    "title": "Garrafa Térmica De Água Isolada 950ml Quente & Frio De Aço Inox Com Alça (Verde)",
+    "title": "Garrafa TÃ©rmica De Ãgua Isolada 950ml Quente & Frio De AÃ§o Inox Com AlÃ§a (Verde)",
     "image": "https://m.media-amazon.com/images/I/61kSgOiqZCL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3684,7 +3684,7 @@
   },
   {
     "asin": "B0779M1VCD",
-    "title": "Garrafa Térmica Air Pot Slim Inox 1,8L Invicta",
+    "title": "Garrafa TÃ©rmica Air Pot Slim Inox 1,8L Invicta",
     "image": "https://m.media-amazon.com/images/I/71jPfBKo8AL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3814,7 +3814,7 @@
   },
   {
     "asin": "B0D68GMZBC",
-    "title": "Cadeira de escritório Diretor Flink Preta Healer",
+    "title": "Cadeira de escritÃ³rio Diretor Flink Preta Healer",
     "image": "https://m.media-amazon.com/images/I/71xQYZMmuQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3864,7 +3864,7 @@
   },
   {
     "asin": "B0F3QBFZ43",
-    "title": "Fritadeira Midea Air Fryer 4,5L, design de dois botões, ampla faixa de temperatura de 80°C a 200°C, prato antiaderente para vegetais, 1550W, 110V, FWM45P1",
+    "title": "Fritadeira Midea Air Fryer 4,5L, design de dois botÃµes, ampla faixa de temperatura de 80Â°C a 200Â°C, prato antiaderente para vegetais, 1550W, 110V, FWM45P1",
     "image": "https://m.media-amazon.com/images/I/51FcFRfQk-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -3952,7 +3952,7 @@
   },
   {
     "asin": "B08T6JZC6D",
-    "title": "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
+    "title": "Repelente para BebÃª SBP Baby LoÃ§Ã£o Corporal com Icaridina 100ml",
     "image": "https://m.media-amazon.com/images/I/61NwUjr3q5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4027,7 +4027,7 @@
   },
   {
     "asin": "B0FT34V8XW",
-    "title": "Relógio Masculino Preto - Pulseira de Couro Preto Importado, Quartz Minimalista Redondo, Prova d´água Luxo Casual Básico Eletrônico",
+    "title": "RelÃ³gio Masculino Preto - Pulseira de Couro Preto Importado, Quartz Minimalista Redondo, Prova dÂ´Ã¡gua Luxo Casual BÃ¡sico EletrÃ´nico",
     "image": "https://m.media-amazon.com/images/I/618ce9mAI7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4096,7 +4096,7 @@
   },
   {
     "asin": "B0C9S6BLX4",
-    "title": "Bom Ar - Refil Difusor Elétrico Lavanda, embalagem promocional.",
+    "title": "Bom Ar - Refil Difusor ElÃ©trico Lavanda, embalagem promocional.",
     "image": "https://m.media-amazon.com/images/I/71ZPUg4YAOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4121,7 +4121,7 @@
   },
   {
     "asin": "B0H37BN323",
-    "title": "Robô Aspirador de Pó e Passa Pano KABUM! smart K1100 - Mapeia a Laser, 2 MOPs, até 10.000Pa, Alexa/Google, BT, 220v, Branco - KSAR110020BR",
+    "title": "RobÃ´ Aspirador de PÃ³ e Passa Pano KABUM! smart K1100 - Mapeia a Laser, 2 MOPs, atÃ© 10.000Pa, Alexa/Google, BT, 220v, Branco - KSAR110020BR",
     "image": "https://m.media-amazon.com/images/I/51bRJoeZO1L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4144,7 +4144,7 @@
   },
   {
     "asin": "B0GR5MKGN9",
-    "title": "BEMMY Armário Multiuso Caixa Armazenamento Dobrável Rodinha,Armário Organizador Grande Dobrável de 5 Níveis 131.5 * 55 * 28CM",
+    "title": "BEMMY ArmÃ¡rio Multiuso Caixa Armazenamento DobrÃ¡vel Rodinha,ArmÃ¡rio Organizador Grande DobrÃ¡vel de 5 NÃ­veis 131.5 * 55 * 28CM",
     "image": "https://m.media-amazon.com/images/I/71efM6ut8OL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4199,7 +4199,7 @@
   },
   {
     "asin": "B0GYQBPDG6",
-    "title": "Laruno Cadeira de Escritório Ergonômica Premium NR17 Preta Giratória Reclinável 145 Graus com Suporte Lombar Encosto Mesh Respirável Cadeira Gamer Regulagem de Altura e Braços Suporta até 120kg",
+    "title": "Laruno Cadeira de EscritÃ³rio ErgonÃ´mica Premium NR17 Preta GiratÃ³ria ReclinÃ¡vel 145 Graus com Suporte Lombar Encosto Mesh RespirÃ¡vel Cadeira Gamer Regulagem de Altura e BraÃ§os Suporta atÃ© 120kg",
     "image": "https://m.media-amazon.com/images/I/61At65u7OnL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4224,7 +4224,7 @@
   },
   {
     "asin": "B07RHKQJBP",
-    "title": "Repelente Líquido Elétrico SBP Refil - Caixa c/ 3 Unidades 32,9ml cada",
+    "title": "Repelente LÃ­quido ElÃ©trico SBP Refil - Caixa c/ 3 Unidades 32,9ml cada",
     "image": "https://m.media-amazon.com/images/I/61vsk6nTzOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4298,7 +4298,7 @@
   },
   {
     "asin": "B0FMZMWZTG",
-    "title": "Bolsa Case Capa Bisbel Compatível Com Jbl Boombox 4 Lançamento Premium New",
+    "title": "Bolsa Case Capa Bisbel CompatÃ­vel Com Jbl Boombox 4 LanÃ§amento Premium New",
     "image": "https://m.media-amazon.com/images/I/71bEbjrCWtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4317,7 +4317,7 @@
   },
   {
     "asin": "B0BKFSZT8G",
-    "title": "Maxi-Cosi, Travel System Anna³ Trio, Essential Black",
+    "title": "Maxi-Cosi, Travel System AnnaÂ³ Trio, Essential Black",
     "image": "https://m.media-amazon.com/images/I/510jFtGaQgL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4342,7 +4342,7 @@
   },
   {
     "asin": "B0FY62XB47",
-    "title": "Cadeira Ergonômica 3D com Suporte Lombar Ajustável - Reclinável 90°-150°, Capacidade 150kg (Preto/Cinza) (Preto)",
+    "title": "Cadeira ErgonÃ´mica 3D com Suporte Lombar AjustÃ¡vel - ReclinÃ¡vel 90Â°-150Â°, Capacidade 150kg (Preto/Cinza) (Preto)",
     "image": "https://m.media-amazon.com/images/I/81a1EFZtQ-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4430,7 +4430,7 @@
   },
   {
     "asin": "B0CGGBT8FN",
-    "title": "Kit V-Floc Shampoo Neutro Super Concentrado Automotivo + Cera Liquida Protetora Tok Final Vonixx Luva Pano Microfibra | Super Concentrado, Cera Líquida Protetora, Inclui Luva, Inclui Pano Microfibra",
+    "title": "Kit V-Floc Shampoo Neutro Super Concentrado Automotivo + Cera Liquida Protetora Tok Final Vonixx Luva Pano Microfibra | Super Concentrado, Cera LÃ­quida Protetora, Inclui Luva, Inclui Pano Microfibra",
     "image": "https://m.media-amazon.com/images/I/71By6LODSNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4503,7 +4503,7 @@
   },
   {
     "asin": "B0G4M9VMQ9",
-    "title": "AOC ACS3640 Caixa de Som para PC Gamer 10W RMS, Soundbar Estéreo USB, Alto Falante Estéreo com Iluminação RGB, Plug and Play, Alto-falantes para Computador de Mesa, Tablet, telefone celular",
+    "title": "AOC ACS3640 Caixa de Som para PC Gamer 10W RMS, Soundbar EstÃ©reo USB, Alto Falante EstÃ©reo com IluminaÃ§Ã£o RGB, Plug and Play, Alto-falantes para Computador de Mesa, Tablet, telefone celular",
     "image": "https://m.media-amazon.com/images/I/71q7dmzeGLL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4528,7 +4528,7 @@
   },
   {
     "asin": "B07W859XZ5",
-    "title": "Duracell Pilhas Auditivas Nº 13 Pack 6 Unidades �?" Alta Performance para Aparelhos Auditivos",
+    "title": "Duracell Pilhas Auditivas NÂº 13 Pack 6 Unidades â€“ Alta Performance para Aparelhos Auditivos",
     "image": "https://m.media-amazon.com/images/I/61UfO2O+mxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4553,7 +4553,7 @@
   },
   {
     "asin": "B0F8HZ11R4",
-    "title": "Fones de Ouvido QCY MeloBuds Pro, Fone Bluetooth com Cancelamento de Ruído Ativo, Certificação Hi-Res, 34 Horas De Reprodução, Preto (Black)",
+    "title": "Fones de Ouvido QCY MeloBuds Pro, Fone Bluetooth com Cancelamento de RuÃ­do Ativo, CertificaÃ§Ã£o Hi-Res, 34 Horas De ReproduÃ§Ã£o, Preto (Black)",
     "image": "https://m.media-amazon.com/images/I/512pzmWShoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4603,7 +4603,7 @@
   },
   {
     "asin": "853780827X",
-    "title": "O conde de Monte Cristo: edição bolso de luxo (Clássicos Zahar)",
+    "title": "O conde de Monte Cristo: ediÃ§Ã£o bolso de luxo (ClÃ¡ssicos Zahar)",
     "image": "https://m.media-amazon.com/images/I/81ZswN9PVPL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4646,7 +4646,7 @@
   },
   {
     "asin": "8551010220",
-    "title": "Murdle: Volume 1: 100 mistérios, de básicos a impossíveis, para solucionar usando a lógica, a habilidade e o poder de dedução",
+    "title": "Murdle: Volume 1: 100 mistÃ©rios, de bÃ¡sicos a impossÃ­veis, para solucionar usando a lÃ³gica, a habilidade e o poder de deduÃ§Ã£o",
     "image": "https://m.media-amazon.com/images/I/61ADld0OCOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4665,7 +4665,7 @@
   },
   {
     "asin": "B0DJ3C9MGL",
-    "title": "FISCHER COOKTOP �? GÁS 5 BOCAS FIT LINE TREMPE ARAMADO MESA VIDRO PRETO BIVOLT 36360-102676",
+    "title": "FISCHER COOKTOP Ã€ GÃS 5 BOCAS FIT LINE TREMPE ARAMADO MESA VIDRO PRETO BIVOLT 36360-102676",
     "image": "https://m.media-amazon.com/images/I/61z8rB+9dEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4690,7 +4690,7 @@
   },
   {
     "asin": "B0FD2Q6Z3G",
-    "title": "Cadeira de escritório ergonômica reclinável até 145° com apoio para os pés, almofada de ar, cabide e apoio de cabeça ajustável �?" Gamer e home office (Branco)",
+    "title": "Cadeira de escritÃ³rio ergonÃ´mica reclinÃ¡vel atÃ© 145Â° com apoio para os pÃ©s, almofada de ar, cabide e apoio de cabeÃ§a ajustÃ¡vel â€“ Gamer e home office (Branco)",
     "image": "https://m.media-amazon.com/images/I/717JJPC96hL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4740,7 +4740,7 @@
   },
   {
     "asin": "B0D3HHWRJ7",
-    "title": "YESOP Torneira Cozinha Parede Gourmet Bancada Articulável Dobrável INOX 304",
+    "title": "YESOP Torneira Cozinha Parede Gourmet Bancada ArticulÃ¡vel DobrÃ¡vel INOX 304",
     "image": "https://m.media-amazon.com/images/I/31e7zvFGUOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4765,7 +4765,7 @@
   },
   {
     "asin": "B0BQ4113GM",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho XXG 58 unidades �?" Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
+    "title": "Fralda DescartÃ¡vel Huggies MÃ¡xima ProteÃ§Ã£o Tamanho XXG 58 unidades â€“ Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e mÃ¡xima proteÃ§Ã£o sem fralda caÃ­da",
     "image": "https://m.media-amazon.com/images/I/81wiOY1rBhL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4790,7 +4790,7 @@
   },
   {
     "asin": "B0DR45KLST",
-    "title": "Carregador Portátil 10000mAh com Display LED, Mini Power Bank Rápido 22.5W com PD 3.0 e QC 3.0, USB-C Leve e Compatível com iPhone 16/15/14/13/12/11 e Samsung, Preto",
+    "title": "Carregador PortÃ¡til 10000mAh com Display LED, Mini Power Bank RÃ¡pido 22.5W com PD 3.0 e QC 3.0, USB-C Leve e CompatÃ­vel com iPhone 16/15/14/13/12/11 e Samsung, Preto",
     "image": "https://m.media-amazon.com/images/I/51NJI69bhaL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4815,7 +4815,7 @@
   },
   {
     "asin": "850111961X",
-    "title": "Box As peças infernais - Edição de colecionador",
+    "title": "Box As peÃ§as infernais - EdiÃ§Ã£o de colecionador",
     "image": "https://m.media-amazon.com/images/I/814tzs4N-dL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4834,7 +4834,7 @@
   },
   {
     "asin": "B07S3G6397",
-    "title": "Areia Higiênica Sílica Chalesco para Gatos 1,8 kg �?" Alta Absorção e Controle de Odores",
+    "title": "Areia HigiÃªnica SÃ­lica Chalesco para Gatos 1,8 kg â€“ Alta AbsorÃ§Ã£o e Controle de Odores",
     "image": "https://m.media-amazon.com/images/I/61hj0AAOq+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4878,7 +4878,7 @@
   },
   {
     "asin": "B0DJ3CLH7M",
-    "title": "FISCHER COOKTOP �? GÁS 4 BOCAS FIT LINE TREMPE ARAMADO MESA VIDRO PRETO BIVOLT 36350-102675",
+    "title": "FISCHER COOKTOP Ã€ GÃS 4 BOCAS FIT LINE TREMPE ARAMADO MESA VIDRO PRETO BIVOLT 36350-102675",
     "image": "https://m.media-amazon.com/images/I/714VOiXpB6L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4972,7 +4972,7 @@
   },
   {
     "asin": "B0C4K2FTDY",
-    "title": "Bicicleta Ergométrica Gallant Elite Pro Spinning Mecânica",
+    "title": "Bicicleta ErgomÃ©trica Gallant Elite Pro Spinning MecÃ¢nica",
     "image": "https://m.media-amazon.com/images/I/51JeB2u-y2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -4997,7 +4997,7 @@
   },
   {
     "asin": "B07D5JZ4B8",
-    "title": "Hastes Flexíveis Clingo - Branco",
+    "title": "Hastes FlexÃ­veis Clingo - Branco",
     "image": "https://m.media-amazon.com/images/I/61bqdEfIHpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5022,7 +5022,7 @@
   },
   {
     "asin": "B0843PRLSH",
-    "title": "Tapete Higiênico Confort Bamboo Chalesco para Cães �?" Alta Absorção, Controle de Odores e Base Impermeável | 30 Unidades",
+    "title": "Tapete HigiÃªnico Confort Bamboo Chalesco para CÃ£es â€“ Alta AbsorÃ§Ã£o, Controle de Odores e Base ImpermeÃ¡vel | 30 Unidades",
     "image": "https://m.media-amazon.com/images/I/619qfVlUpSL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5066,7 +5066,7 @@
   },
   {
     "asin": "B0BH989RB7",
-    "title": "Moedor Ajustável Plus, Preto, 110v, Hamilton Beach",
+    "title": "Moedor AjustÃ¡vel Plus, Preto, 110v, Hamilton Beach",
     "image": "https://m.media-amazon.com/images/I/71wUZm8QsEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5091,7 +5091,7 @@
   },
   {
     "asin": "B0GMMKKQDJ",
-    "title": "Fone de Ouvido Bluetooth 5.3, Graves Potentes, Drivers de 13mm, 14H de Reprodução, Resistência à Água, Fone sem fio tws (rosa)",
+    "title": "Fone de Ouvido Bluetooth 5.3, Graves Potentes, Drivers de 13mm, 14H de ReproduÃ§Ã£o, ResistÃªncia Ã  Ãgua, Fone sem fio tws (rosa)",
     "image": "https://m.media-amazon.com/images/I/51YNV8I7aTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5116,7 +5116,7 @@
   },
   {
     "asin": "B0H4RZDWG7",
-    "title": "Calça Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura",
+    "title": "CalÃ§a Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura",
     "image": "https://m.media-amazon.com/images/I/61-hQbBX-nL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5135,7 +5135,7 @@
   },
   {
     "asin": "B0FQ5XTQ6Z",
-    "title": "Cadeira de Escritório Executiva Reclinável com Suporte para Pés, Preta, Ergonômica, Giro 360°, Suporta até 120 kg",
+    "title": "Cadeira de EscritÃ³rio Executiva ReclinÃ¡vel com Suporte para PÃ©s, Preta, ErgonÃ´mica, Giro 360Â°, Suporta atÃ© 120 kg",
     "image": "https://m.media-amazon.com/images/I/71LuJJyqiRL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5179,7 +5179,7 @@
   },
   {
     "asin": "B0FYLJN5NZ",
-    "title": "EKROTOK Lustre Pendente 28CM, Lustre de Alumínio 28W com Luz de 3 Cores, Luminária De Teto com Abajur de Silicone (110-220V)",
+    "title": "EKROTOK Lustre Pendente 28CM, Lustre de AlumÃ­nio 28W com Luz de 3 Cores, LuminÃ¡ria De Teto com Abajur de Silicone (110-220V)",
     "image": "https://m.media-amazon.com/images/I/61-aYnc1NfL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5204,7 +5204,7 @@
   },
   {
     "asin": "B07RX1LPX1",
-    "title": "Máscara Desmaia Cabelo Forever Liss 200g",
+    "title": "MÃ¡scara Desmaia Cabelo Forever Liss 200g",
     "image": "https://m.media-amazon.com/images/I/51rI4sHTkEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5229,7 +5229,7 @@
   },
   {
     "asin": "B0C4B767KB",
-    "title": "Bicicleta Ergométrica Gallant Elite X Spinning Roda de Inercia 8kg até 110kg Mecânica Gsb08hbta-pt",
+    "title": "Bicicleta ErgomÃ©trica Gallant Elite X Spinning Roda de Inercia 8kg atÃ© 110kg MecÃ¢nica Gsb08hbta-pt",
     "image": "https://m.media-amazon.com/images/I/514CimJVgsL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5254,7 +5254,7 @@
   },
   {
     "asin": "B0GQ4488QQ",
-    "title": "Jogo de toalhas Buddemeyer Doris Banho Azul/Azul Claro 4 peças",
+    "title": "Jogo de toalhas Buddemeyer Doris Banho Azul/Azul Claro 4 peÃ§as",
     "image": "https://m.media-amazon.com/images/I/61T2RHNR8DL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5279,7 +5279,7 @@
   },
   {
     "asin": "B0GQ9S6VDJ",
-    "title": "MODUS 950mL Garrafa de Água Térmica Esportiva Inox Isolada a Vácuo com Base Emborrachada Anti Derrapante (Gradiente Branco a Cinza)",
+    "title": "MODUS 950mL Garrafa de Ãgua TÃ©rmica Esportiva Inox Isolada a VÃ¡cuo com Base Emborrachada Anti Derrapante (Gradiente Branco a Cinza)",
     "image": "https://m.media-amazon.com/images/I/61siK30wFyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5347,7 +5347,7 @@
   },
   {
     "asin": "B0FMY86Y9G",
-    "title": "Fones de ouvido Bluetooth 5.3 sem fio, bateria com duração de 40 horas, carregamento USB-C, classificação de resistência à água IPX6, microfone embutido, compatíveis com Android e iOS J201",
+    "title": "Fones de ouvido Bluetooth 5.3 sem fio, bateria com duraÃ§Ã£o de 40 horas, carregamento USB-C, classificaÃ§Ã£o de resistÃªncia Ã  Ã¡gua IPX6, microfone embutido, compatÃ­veis com Android e iOS J201",
     "image": "https://m.media-amazon.com/images/I/51WlZBw-1-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5372,7 +5372,7 @@
   },
   {
     "asin": "B0DWXVRPB7",
-    "title": "Buddemeyer Jogo de Toalhas Melissa Extra Soft Banho Verde/Verde Claro 5 pç",
+    "title": "Buddemeyer Jogo de Toalhas Melissa Extra Soft Banho Verde/Verde Claro 5 pÃ§",
     "image": "https://m.media-amazon.com/images/I/71G7rOgTDmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5397,7 +5397,7 @@
   },
   {
     "asin": "B0DD5G8CD5",
-    "title": "Cômoda Ditália 6 Gavetas Dm-243 Verde Oliva",
+    "title": "CÃ´moda DitÃ¡lia 6 Gavetas Dm-243 Verde Oliva",
     "image": "https://m.media-amazon.com/images/I/611dViHcbKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5422,7 +5422,7 @@
   },
   {
     "asin": "B0F3JP5TZQ",
-    "title": "Caixa de Areia Autolimpante com Tampa Aberta, Caixa de Areia Automática para Gatos para Vários Gatos com Controle de Aplicativo, Sensor de Segurança e Forros de Areia de 2 Rolos",
+    "title": "Caixa de Areia Autolimpante com Tampa Aberta, Caixa de Areia AutomÃ¡tica para Gatos para VÃ¡rios Gatos com Controle de Aplicativo, Sensor de SeguranÃ§a e Forros de Areia de 2 Rolos",
     "image": "https://m.media-amazon.com/images/I/61D52WR7BWL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5447,7 +5447,7 @@
   },
   {
     "asin": "B0GSH6DCCJ",
-    "title": "Kit 10 Potes de Vidro Herméticos 640ml com 4 Travas Ideal para Marmitas e Conservação de Alimentos, Vedação Total, Refratário para Forno e Freezer",
+    "title": "Kit 10 Potes de Vidro HermÃ©ticos 640ml com 4 Travas Ideal para Marmitas e ConservaÃ§Ã£o de Alimentos, VedaÃ§Ã£o Total, RefratÃ¡rio para Forno e Freezer",
     "image": "https://m.media-amazon.com/images/I/71sfm0MbB8L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5472,7 +5472,7 @@
   },
   {
     "asin": "B0FNXMZ99X",
-    "title": "Kit de 80 Canetas Marcador Permanente Ponta Dupla Touch Coloridas para Desenho Profissional Escolar Infantil com Estojo Organizador Base Artista Canetinhas Hidrográficas Alcool Caneta para Colorir",
+    "title": "Kit de 80 Canetas Marcador Permanente Ponta Dupla Touch Coloridas para Desenho Profissional Escolar Infantil com Estojo Organizador Base Artista Canetinhas HidrogrÃ¡ficas Alcool Caneta para Colorir",
     "image": "https://m.media-amazon.com/images/I/71fhogMN1NL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5497,7 +5497,7 @@
   },
   {
     "asin": "B0GR5ZJ36Y",
-    "title": "LUMAI Kit 3 Tigelas Bowls Inox com Tampas Herméticas e Discos para Corte",
+    "title": "LUMAI Kit 3 Tigelas Bowls Inox com Tampas HermÃ©ticas e Discos para Corte",
     "image": "https://m.media-amazon.com/images/I/61Tmhiup04L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5522,7 +5522,7 @@
   },
   {
     "asin": "B084C1L1GX",
-    "title": "Extrato de Própolis Verde 70",
+    "title": "Extrato de PrÃ³polis Verde 70",
     "image": "https://m.media-amazon.com/images/I/81FBBCE6ehL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5547,7 +5547,7 @@
   },
   {
     "asin": "B0H1S4G328",
-    "title": "Chaleira Elétrica de Vidro 2 Litros 127/ 220V com Base Giratória 360° e Aquecimento Rápido 1000W (127V)",
+    "title": "Chaleira ElÃ©trica de Vidro 2 Litros 127/ 220V com Base GiratÃ³ria 360Â° e Aquecimento RÃ¡pido 1000W (127V)",
     "image": "https://m.media-amazon.com/images/I/51RX6HKhXrL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5572,7 +5572,7 @@
   },
   {
     "asin": "B0H37C1TWT",
-    "title": "Cadeira Gamer Husky Storm 100, Até 120kg, Almofadas, Reclinável 135º, PU, Preta - HCG100PT",
+    "title": "Cadeira Gamer Husky Storm 100, AtÃ© 120kg, Almofadas, ReclinÃ¡vel 135Âº, PU, Preta - HCG100PT",
     "image": "https://m.media-amazon.com/images/I/41JUn0JDieL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5597,7 +5597,7 @@
   },
   {
     "asin": "B0G8GZPWY8",
-    "title": "EKROTOK Cadeira de Escritório com Almofada de Assento de Látex, Cadeiras Ergonômicas para Computador com Apoio de Braços Retráteis e Apoio Lombar com Encosto Alto Trabalho (Preto)",
+    "title": "EKROTOK Cadeira de EscritÃ³rio com Almofada de Assento de LÃ¡tex, Cadeiras ErgonÃ´micas para Computador com Apoio de BraÃ§os RetrÃ¡teis e Apoio Lombar com Encosto Alto Trabalho (Preto)",
     "image": "https://m.media-amazon.com/images/I/61KLtcTriUL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5641,7 +5641,7 @@
   },
   {
     "asin": "B09VTKHQKP",
-    "title": "Copo Térmico Byron SNAPSEAL�"� Preto Contigo | 591ml",
+    "title": "Copo TÃ©rmico Byron SNAPSEALâ„¢ Preto Contigo | 591ml",
     "image": "https://m.media-amazon.com/images/I/41XUqZXKBTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5665,7 +5665,7 @@
   },
   {
     "asin": "B0FL2QF7YJ",
-    "title": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, Portátil, Resistente a Respingos, Bateria de até 15h, Som JBL Pro Sound, AI Sound Boost, 100 W RMS",
+    "title": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, PortÃ¡til, Resistente a Respingos, Bateria de atÃ© 15h, Som JBL Pro Sound, AI Sound Boost, 100 W RMS",
     "image": "https://m.media-amazon.com/images/I/71Ar78y955L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5690,7 +5690,7 @@
   },
   {
     "asin": "B0FKNLQNCP",
-    "title": "Power Bank 10000 mAh, Carregador Portátil Turbo 22,5W, Display de Led Indicador de Bateria, Entrada USB e Tipo C, Tecnologia Power Delivery, Carregamento Super Rápido - Max-0561 (Preto ou Branco)",
+    "title": "Power Bank 10000 mAh, Carregador PortÃ¡til Turbo 22,5W, Display de Led Indicador de Bateria, Entrada USB e Tipo C, Tecnologia Power Delivery, Carregamento Super RÃ¡pido - Max-0561 (Preto ou Branco)",
     "image": "https://m.media-amazon.com/images/I/41WNUvfZw0L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5734,7 +5734,7 @@
   },
   {
     "asin": "B0F63J9C31",
-    "title": "Mala De Viagem Média 23Kg Expansível Polipropileno Rodas Duplas 360 Fibra Rígida Leve Resistente Para Despachar (ROXO, médio Expansível)",
+    "title": "Mala De Viagem MÃ©dia 23Kg ExpansÃ­vel Polipropileno Rodas Duplas 360 Fibra RÃ­gida Leve Resistente Para Despachar (ROXO, mÃ©dio ExpansÃ­vel)",
     "image": "https://m.media-amazon.com/images/I/61hZNjqxiuL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5753,7 +5753,7 @@
   },
   {
     "asin": "B0GFQ7ZJT5",
-    "title": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless �?" Laranja",
+    "title": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves PersonalizÃ¡veis, Bateria de atÃ© 34h, IP68, Ãudio Lossless â€“ Laranja",
     "image": "https://m.media-amazon.com/images/I/71efPyuQXOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5797,7 +5797,7 @@
   },
   {
     "asin": "B00DTRY0K2",
-    "title": "Vinho Pé Branco Esporão - 750ml",
+    "title": "Vinho PÃ© Branco EsporÃ£o - 750ml",
     "image": "https://m.media-amazon.com/images/I/61KMR+L0vKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5822,7 +5822,7 @@
   },
   {
     "asin": "B09B929QDL",
-    "title": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
+    "title": "MÃ¡quina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
     "image": "https://m.media-amazon.com/images/I/41jXZmfuQoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5847,7 +5847,7 @@
   },
   {
     "asin": "B07HJ9RKC6",
-    "title": "Chalesco Tapete Higiênico Premium para Cães 90 x 60 cm �?" Super Absorção, Controle de Odores e Base Antivazamento | 30 Unidades",
+    "title": "Chalesco Tapete HigiÃªnico Premium para CÃ£es 90 x 60 cm â€“ Super AbsorÃ§Ã£o, Controle de Odores e Base Antivazamento | 30 Unidades",
     "image": "https://m.media-amazon.com/images/I/61BD3ggolTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5866,7 +5866,7 @@
   },
   {
     "asin": "B0DPNFR7FK",
-    "title": "Mozcada - Kit 10 Potes de Vidro Marmita 330ml Hermético com Trava Retangular",
+    "title": "Mozcada - Kit 10 Potes de Vidro Marmita 330ml HermÃ©tico com Trava Retangular",
     "image": "https://m.media-amazon.com/images/I/61zv1L2QnLL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5891,7 +5891,7 @@
   },
   {
     "asin": "B0GS2KPYFH",
-    "title": "Máquina de lavar Intuitive+ Panasonic 19kg Lavagem Eficiente SmartSense Sistema Ciclone Ciclo Pet NA-F190G1WB 220v",
+    "title": "MÃ¡quina de lavar Intuitive+ Panasonic 19kg Lavagem Eficiente SmartSense Sistema Ciclone Ciclo Pet NA-F190G1WB 220v",
     "image": "https://m.media-amazon.com/images/I/41O6Nb-1k5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5946,7 +5946,7 @@
   },
   {
     "asin": "B09MWGS1YW",
-    "title": "Maxi-Cosi, Carrinho de Bebê Anna³, Essential Black",
+    "title": "Maxi-Cosi, Carrinho de BebÃª AnnaÂ³, Essential Black",
     "image": "https://m.media-amazon.com/images/I/513MftVx3SL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -5990,7 +5990,7 @@
   },
   {
     "asin": "B07FPW95CM",
-    "title": "Jameson - Whiskey Irlandês, 750 ml",
+    "title": "Jameson - Whiskey IrlandÃªs, 750 ml",
     "image": "https://m.media-amazon.com/images/I/51syfbaTceL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6015,7 +6015,7 @@
   },
   {
     "asin": "B07WRS2BQ5",
-    "title": "Chalesco Tapete Higiênico Premium para Cães 90 x 60 cm �?" Super Absorção, Controle de Odores e Base Antivazamento | 50 Unidades",
+    "title": "Chalesco Tapete HigiÃªnico Premium para CÃ£es 90 x 60 cm â€“ Super AbsorÃ§Ã£o, Controle de Odores e Base Antivazamento | 50 Unidades",
     "image": "https://m.media-amazon.com/images/I/71jHkfQe5EL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6059,7 +6059,7 @@
   },
   {
     "asin": "8535941304",
-    "title": "O peso do pássaro morto (Nova edição)",
+    "title": "O peso do pÃ¡ssaro morto (Nova ediÃ§Ã£o)",
     "image": "https://m.media-amazon.com/images/I/81H8HVeODoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6103,7 +6103,7 @@
   },
   {
     "asin": "855101448X",
-    "title": "Série Não Mexa: Não mexa neste celular + Não mexa neste arquivo",
+    "title": "SÃ©rie NÃ£o Mexa: NÃ£o mexa neste celular + NÃ£o mexa neste arquivo",
     "image": "https://m.media-amazon.com/images/I/71RkEQuK0sL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6146,7 +6146,7 @@
   },
   {
     "asin": "B0GVDPVCQ6",
-    "title": "UGREEN Power Bank de 10000mAh por Indução, PD 20W Carga Rápida, Carregador Portátil Magnético Qi 15W Máx, Bateria Externa Compatível com iPhone 17/16/15/14 Série, Xiaomi, iPad, LG",
+    "title": "UGREEN Power Bank de 10000mAh por InduÃ§Ã£o, PD 20W Carga RÃ¡pida, Carregador PortÃ¡til MagnÃ©tico Qi 15W MÃ¡x, Bateria Externa CompatÃ­vel com iPhone 17/16/15/14 SÃ©rie, Xiaomi, iPad, LG",
     "image": "https://m.media-amazon.com/images/I/510u10kYDQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6171,7 +6171,7 @@
   },
   {
     "asin": "6555658096",
-    "title": "Amor, teoricamente - Edição especial (livro + marcador exclusivo)",
+    "title": "Amor, teoricamente - EdiÃ§Ã£o especial (livro + marcador exclusivo)",
     "image": "https://m.media-amazon.com/images/I/71TMBhvnypL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6190,7 +6190,7 @@
   },
   {
     "asin": "6559801497",
-    "title": "Coleção Clássicos de E.B. White | A teia de Charlotte, Stuart Little e O cisne e o trompete",
+    "title": "ColeÃ§Ã£o ClÃ¡ssicos de E.B. White | A teia de Charlotte, Stuart Little e O cisne e o trompete",
     "image": "https://m.media-amazon.com/images/I/713SnU3Ww7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6209,7 +6209,7 @@
   },
   {
     "asin": "6556896659",
-    "title": "Bíblia Sagrada NVI Slim, Capa luxo marrom",
+    "title": "BÃ­blia Sagrada NVI Slim, Capa luxo marrom",
     "image": "https://m.media-amazon.com/images/I/81DdTkDU4FL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6228,7 +6228,7 @@
   },
   {
     "asin": "B07TTTH28T",
-    "title": "Forth Defende, Pronto Uso, Inseticida, �"leo de Neem, Azadiractina, 500ml",
+    "title": "Forth Defende, Pronto Uso, Inseticida, Ã“leo de Neem, Azadiractina, 500ml",
     "image": "https://m.media-amazon.com/images/I/51vC6TX2aQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6247,7 +6247,7 @@
   },
   {
     "asin": "B0FLYP44G8",
-    "title": "Jogo de Toalhas Buddemeyer Maya Extra Soft Banho Bege/Kaki 4 peças",
+    "title": "Jogo de Toalhas Buddemeyer Maya Extra Soft Banho Bege/Kaki 4 peÃ§as",
     "image": "https://m.media-amazon.com/images/I/61CixoeC9KL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6272,7 +6272,7 @@
   },
   {
     "asin": "6585348788",
-    "title": "Aprendiz do Vilão",
+    "title": "Aprendiz do VilÃ£o",
     "image": "https://m.media-amazon.com/images/I/81Q4iEvgkSL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6316,7 +6316,7 @@
   },
   {
     "asin": "B0FG2DG5RH",
-    "title": "TOYADENT Escova de Dente para Adultos, Macia e Confortável para Escovação Diária, 5500 Cerdas de Alta Densidade com Tampa Protetora, Kit Família com 3 Unidades para Limpeza Suave e Cuidado Bucal Diário",
+    "title": "TOYADENT Escova de Dente para Adultos, Macia e ConfortÃ¡vel para EscovaÃ§Ã£o DiÃ¡ria, 5500 Cerdas de Alta Densidade com Tampa Protetora, Kit FamÃ­lia com 3 Unidades para Limpeza Suave e Cuidado Bucal DiÃ¡rio",
     "image": "https://m.media-amazon.com/images/I/71J3bJhXwJL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6360,7 +6360,7 @@
   },
   {
     "asin": "B0CQDBRB87",
-    "title": "Soldiers Nutrition - Pré-Treino Evolution Pré Workout 300g - (Blueberry)",
+    "title": "Soldiers Nutrition - PrÃ©-Treino Evolution PrÃ© Workout 300g - (Blueberry)",
     "image": "https://m.media-amazon.com/images/I/71p+MmLxirL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6440,7 +6440,7 @@
   },
   {
     "asin": "B0DK7L1CKB",
-    "title": "Inoar, Argan Oil, Creme para Pentear Finalizador, Hidratação e Antifrizz, �"leo de Argan, Jojoba e Manteiga de Cacau, Para Todos os Tipos de Cabelos, 500g",
+    "title": "Inoar, Argan Oil, Creme para Pentear Finalizador, HidrataÃ§Ã£o e Antifrizz, Ã“leo de Argan, Jojoba e Manteiga de Cacau, Para Todos os Tipos de Cabelos, 500g",
     "image": "https://m.media-amazon.com/images/I/61-DcK9ORcL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6484,7 +6484,7 @@
   },
   {
     "asin": "B0F6LGHM75",
-    "title": "Fones de Ouvido Bluetooth Sem Fio, 80h de Bateria, Esportivos com Gancho, IPX5 à Prova d'Água, Graves Potentes, Cancelamento de Ruído, Compatível com iOS, Android e Bluetooth 5.3 (Ouro Rosa)",
+    "title": "Fones de Ouvido Bluetooth Sem Fio, 80h de Bateria, Esportivos com Gancho, IPX5 Ã  Prova d'Ãgua, Graves Potentes, Cancelamento de RuÃ­do, CompatÃ­vel com iOS, Android e Bluetooth 5.3 (Ouro Rosa)",
     "image": "https://m.media-amazon.com/images/I/61pYWhEXd9L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6509,7 +6509,7 @@
   },
   {
     "asin": "B0GQ9J35SL",
-    "title": "MODUS 950mL Garrafa de Água Térmica Esportiva Inox Isolada a Vácuo com Base Emborrachada Anti Derrapante (Gradiente Rosa-Vermelho)",
+    "title": "MODUS 950mL Garrafa de Ãgua TÃ©rmica Esportiva Inox Isolada a VÃ¡cuo com Base Emborrachada Anti Derrapante (Gradiente Rosa-Vermelho)",
     "image": "https://m.media-amazon.com/images/I/61X9xNUtLuL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6533,7 +6533,7 @@
   },
   {
     "asin": "B09HH481H8",
-    "title": "Boneca Bebê Reborn Menina Silicone Pode dar Banho Criança Presente Original 48cm Girafinha Boneca",
+    "title": "Boneca BebÃª Reborn Menina Silicone Pode dar Banho CrianÃ§a Presente Original 48cm Girafinha Boneca",
     "image": "https://m.media-amazon.com/images/I/818klTEWZoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6552,7 +6552,7 @@
   },
   {
     "asin": "B0DYF9X6KX",
-    "title": "Máquina de lavar 12Kg Philco 16 Modos de operação PLR12A 220V",
+    "title": "MÃ¡quina de lavar 12Kg Philco 16 Modos de operaÃ§Ã£o PLR12A 220V",
     "image": "https://m.media-amazon.com/images/I/41ylYrhL7ML._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6576,7 +6576,7 @@
   },
   {
     "asin": "B0DK3V1HQ7",
-    "title": "Ferro Lipossomal 30 mg 30 Cápsulas Fórmula Limpa - Bioroots - Sistema circulatório e Imunidade",
+    "title": "Ferro Lipossomal 30 mg 30 CÃ¡psulas FÃ³rmula Limpa - Bioroots - Sistema circulatÃ³rio e Imunidade",
     "image": "https://m.media-amazon.com/images/I/71XDE0B3krL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6601,7 +6601,7 @@
   },
   {
     "asin": "B0DY846XK5",
-    "title": "Gabinete Gamer Kalkan Asgard Preto Aquário sem fans KLK00040",
+    "title": "Gabinete Gamer Kalkan Asgard Preto AquÃ¡rio sem fans KLK00040",
     "image": "https://m.media-amazon.com/images/I/61K4082NmoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6626,7 +6626,7 @@
   },
   {
     "asin": "B0DWPDL1WQ",
-    "title": "Principia Kit Trio Séruns com alta eficácia comprovada clinicamente: um com Vitamina C + Ácido Ferúlico, um com Retinol + Vitamina E e um com Ácidos Hialurônicos",
+    "title": "Principia Kit Trio SÃ©runs com alta eficÃ¡cia comprovada clinicamente: um com Vitamina C + Ãcido FerÃºlico, um com Retinol + Vitamina E e um com Ãcidos HialurÃ´nicos",
     "image": "https://m.media-amazon.com/images/I/61vhYSlhVKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6650,7 +6650,7 @@
   },
   {
     "asin": "B0GQ9NJ9TC",
-    "title": "Garrafa Térmica De Água Isolada 950ml Quente & Frio De Aço Inox Com Alça (Gradiente Amarelo)",
+    "title": "Garrafa TÃ©rmica De Ãgua Isolada 950ml Quente & Frio De AÃ§o Inox Com AlÃ§a (Gradiente Amarelo)",
     "image": "https://m.media-amazon.com/images/I/61I01l9TbjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6675,7 +6675,7 @@
   },
   {
     "asin": "B0GS28823M",
-    "title": "Capa de Proteção Impermeável para Banco Traseiro de Carro - Forro Universal Antiderrapante para Cães e Pets",
+    "title": "Capa de ProteÃ§Ã£o ImpermeÃ¡vel para Banco Traseiro de Carro - Forro Universal Antiderrapante para CÃ£es e Pets",
     "image": "https://m.media-amazon.com/images/I/71g1cFUUIEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6744,7 +6744,7 @@
   },
   {
     "asin": "B0GY9P1YBP",
-    "title": "GODREAM Kit Lapis de Desenho Profissional 74 Peças com Estojo Portátil, Lapis de Cor e Grafite Profissional, Sketchbook, Borrachas, Estilete e Acessórios para Artistas e Estudantes Linha Super Premium",
+    "title": "GODREAM Kit Lapis de Desenho Profissional 74 PeÃ§as com Estojo PortÃ¡til, Lapis de Cor e Grafite Profissional, Sketchbook, Borrachas, Estilete e AcessÃ³rios para Artistas e Estudantes Linha Super Premium",
     "image": "https://m.media-amazon.com/images/I/71dDK8F6QyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6769,7 +6769,7 @@
   },
   {
     "asin": "6585930010",
-    "title": "Café com Deus Pai 2025: Porções Diárias de Transformação",
+    "title": "CafÃ© com Deus Pai 2025: PorÃ§Ãµes DiÃ¡rias de TransformaÃ§Ã£o",
     "image": "https://m.media-amazon.com/images/I/61i2OWGjOML._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6788,7 +6788,7 @@
   },
   {
     "asin": "B0DM21TQQ6",
-    "title": "Blocos de Construção Magnéticos 64 Peças, Brinquedos Magnéticos Coloridos, Brinquedos Educacionais para Meninos e Meninas com Mais de 3 Anos de Idade",
+    "title": "Blocos de ConstruÃ§Ã£o MagnÃ©ticos 64 PeÃ§as, Brinquedos MagnÃ©ticos Coloridos, Brinquedos Educacionais para Meninos e Meninas com Mais de 3 Anos de Idade",
     "image": "https://m.media-amazon.com/images/I/719Vn6UIwRL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6851,7 +6851,7 @@
   },
   {
     "asin": "8551013017",
-    "title": "Alchemised: Edição especial (capa dura + pintura trilateral)",
+    "title": "Alchemised: EdiÃ§Ã£o especial (capa dura + pintura trilateral)",
     "image": "https://m.media-amazon.com/images/I/71Up57zy7pL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6914,7 +6914,7 @@
   },
   {
     "asin": "B0G43XP3JF",
-    "title": "Estrutura de Cama de Solteiro Metálica Resistente com Cabeceira e Espaço de Armazenamento, Não Requer Colchão, Fácil Montagem, Altura 34 cm, Preto (Solteiro)",
+    "title": "Estrutura de Cama de Solteiro MetÃ¡lica Resistente com Cabeceira e EspaÃ§o de Armazenamento, NÃ£o Requer ColchÃ£o, FÃ¡cil Montagem, Altura 34 cm, Preto (Solteiro)",
     "image": "https://m.media-amazon.com/images/I/51t6AZBUz6L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6939,7 +6939,7 @@
   },
   {
     "asin": "B0D6CZK46Z",
-    "title": "MeepleBR, Ito, Party Game Cooperativo, Jogo de Cartas Família, 2 a 8 jogadores",
+    "title": "MeepleBR, Ito, Party Game Cooperativo, Jogo de Cartas FamÃ­lia, 2 a 8 jogadores",
     "image": "https://m.media-amazon.com/images/I/51QiJ6gABRL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -6983,7 +6983,7 @@
   },
   {
     "asin": "B0BVSZRH8R",
-    "title": "Kit 10 Utensílios de Cozinha LUMAI em Silicone e Aço Inox, Resistentes ao Calor, Antirriscos, com Espátula, Pegador, Concha e Colher, Preto",
+    "title": "Kit 10 UtensÃ­lios de Cozinha LUMAI em Silicone e AÃ§o Inox, Resistentes ao Calor, Antirriscos, com EspÃ¡tula, Pegador, Concha e Colher, Preto",
     "image": "https://m.media-amazon.com/images/I/71lOtIGbc2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7071,7 +7071,7 @@
   },
   {
     "asin": "6555117281",
-    "title": "Box Trilogia O Senhor dos Anéis �?" Edição com ilustrações de Alan Lee",
+    "title": "Box Trilogia O Senhor dos AnÃ©is â€“ EdiÃ§Ã£o com ilustraÃ§Ãµes de Alan Lee",
     "image": "https://m.media-amazon.com/images/I/818A5R3Bq+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7140,7 +7140,7 @@
   },
   {
     "asin": "B0DGHZ91R6",
-    "title": "Depurador e Exaustor de Parede Eos 60cm Slim Retrátil Inox Eco60dri 110V",
+    "title": "Depurador e Exaustor de Parede Eos 60cm Slim RetrÃ¡til Inox Eco60dri 110V",
     "image": "https://m.media-amazon.com/images/I/51HsA+PvdiL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7165,7 +7165,7 @@
   },
   {
     "asin": "B089LSCSVY",
-    "title": "Buró, FDP - Foi de Propósito, Jogo Divertido para Amigos, 4-12 jogadores",
+    "title": "BurÃ³, FDP - Foi de PropÃ³sito, Jogo Divertido para Amigos, 4-12 jogadores",
     "image": "https://m.media-amazon.com/images/I/71nn4-sk9QL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7234,7 +7234,7 @@
   },
   {
     "asin": "B0C6X3DT56",
-    "title": "TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, VisÃ£o Nocturna, Zoom Digital, Economia de energia VOX, Temperatura ambiente, Ideal para Pais Novos",
+    "title": "TakTark BabÃ¡ EletrÃ´nica CÃ¢mera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, VisÃ£o Nocturna, Zoom Digital, Economia de energia VOX, Temperatura ambiente, Ideal para Pais Novos",
     "image": "https://m.media-amazon.com/images/I/61AuLDm53JL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7259,7 +7259,7 @@
   },
   {
     "asin": "B0D2XSVK2F",
-    "title": "2.6L Fonte de água para gatos, Sensor sem fio USB Fonte de água Automática para Gatos e Vários Animais de Estimação, Operada sem Fio",
+    "title": "2.6L Fonte de Ã¡gua para gatos, Sensor sem fio USB Fonte de Ã¡gua AutomÃ¡tica para Gatos e VÃ¡rios Animais de EstimaÃ§Ã£o, Operada sem Fio",
     "image": "https://m.media-amazon.com/images/I/612dfW7QlEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7284,7 +7284,7 @@
   },
   {
     "asin": "B0D8QX7J6V",
-    "title": "O massacre da família Hope",
+    "title": "O massacre da famÃ­lia Hope",
     "image": "https://m.media-amazon.com/images/I/81asVXUBKkL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7303,7 +7303,7 @@
   },
   {
     "asin": "B0DFCNWQ4Y",
-    "title": "TRUSS, Truss Uso Obrigatório Shampoo de Hidratação - 1Litro",
+    "title": "TRUSS, Truss Uso ObrigatÃ³rio Shampoo de HidrataÃ§Ã£o - 1Litro",
     "image": "https://m.media-amazon.com/images/I/61Dx+9APfKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7353,7 +7353,7 @@
   },
   {
     "asin": "B0F79VGM25",
-    "title": "LUMAI Cortador de Legumes e Ralador Premium com 1,2L e Lâminas Aço Inox | Fatiador, Triturador",
+    "title": "LUMAI Cortador de Legumes e Ralador Premium com 1,2L e LÃ¢minas AÃ§o Inox | Fatiador, Triturador",
     "image": "https://m.media-amazon.com/images/I/71JCk0qTLnL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7377,7 +7377,7 @@
   },
   {
     "asin": "6555656867",
-    "title": "A hipótese do amor - Edição especial (livro + marcador exclusivo)",
+    "title": "A hipÃ³tese do amor - EdiÃ§Ã£o especial (livro + marcador exclusivo)",
     "image": "https://m.media-amazon.com/images/I/71snJkZzgmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7396,7 +7396,7 @@
   },
   {
     "asin": "B0CSQV23XB",
-    "title": "Capa De Colchão Impermeável Matelado Casal Padrão Branco",
+    "title": "Capa De ColchÃ£o ImpermeÃ¡vel Matelado Casal PadrÃ£o Branco",
     "image": "https://m.media-amazon.com/images/I/61HqU-e5icL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7440,7 +7440,7 @@
   },
   {
     "asin": "B0DM6KYWM8",
-    "title": "Impressora Brother A4 HL-L1222V Laser Monocromática, USB, 220V",
+    "title": "Impressora Brother A4 HL-L1222V Laser MonocromÃ¡tica, USB, 220V",
     "image": "https://m.media-amazon.com/images/I/51PSYacMYjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7470,7 +7470,7 @@
   },
   {
     "asin": "6555116765",
-    "title": "Do dia para a noite (Day to night) �?" Livro de colorir oficial Bobbie Goods",
+    "title": "Do dia para a noite (Day to night) â€“ Livro de colorir oficial Bobbie Goods",
     "image": "https://m.media-amazon.com/images/I/81WHNgIE-6L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7508,7 +7508,7 @@
   },
   {
     "asin": "B0DSZJRKF8",
-    "title": "VASAGLE LIRY Coleção, Armário de Armazenamento, Gabinete de Banheiro Estilo Fazenda com 4 Portas, Organizador Independente, Porta de Celeiro, Prateleira Ajustável, Branco BRBBK773W01",
+    "title": "VASAGLE LIRY ColeÃ§Ã£o, ArmÃ¡rio de Armazenamento, Gabinete de Banheiro Estilo Fazenda com 4 Portas, Organizador Independente, Porta de Celeiro, Prateleira AjustÃ¡vel, Branco BRBBK773W01",
     "image": "https://m.media-amazon.com/images/I/71QXRVYgTLL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7533,7 +7533,7 @@
   },
   {
     "asin": "B0G5H4KL59",
-    "title": "DOMEZ Jogo de Facas Cozinha 5 peças de Aço com Fio que Dura Mais, Design Ergonômico, Inclui Faca Chef, Pão, Descascar, Santoku, Churrasco Ergonômica Amolada Resistente à Ferrugem",
+    "title": "DOMEZ Jogo de Facas Cozinha 5 peÃ§as de AÃ§o com Fio que Dura Mais, Design ErgonÃ´mico, Inclui Faca Chef, PÃ£o, Descascar, Santoku, Churrasco ErgonÃ´mica Amolada Resistente Ã  Ferrugem",
     "image": "https://m.media-amazon.com/images/I/61ofajicAdL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7646,7 +7646,7 @@
   },
   {
     "asin": "B09JL678JF",
-    "title": "Oikos - Kit 3 Bowls Canelados de Bambu para Salada e Frutas | Fibra de bambu, leves, resistentes, servir refeições, petiscos, cozinha, mesa posta, fácil limpeza, reutilizáveis",
+    "title": "Oikos - Kit 3 Bowls Canelados de Bambu para Salada e Frutas | Fibra de bambu, leves, resistentes, servir refeiÃ§Ãµes, petiscos, cozinha, mesa posta, fÃ¡cil limpeza, reutilizÃ¡veis",
     "image": "https://m.media-amazon.com/images/I/51OmgGsB8GL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7671,7 +7671,7 @@
   },
   {
     "asin": "B0CNV3KG6N",
-    "title": "Inoar, Força & Brilho, Kit Shampoo 1L E Cond 800ml, Cabelos Fortes, Macios, Brilho Intenso",
+    "title": "Inoar, ForÃ§a & Brilho, Kit Shampoo 1L E Cond 800ml, Cabelos Fortes, Macios, Brilho Intenso",
     "image": "https://m.media-amazon.com/images/I/61tKgbTVzPL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7695,7 +7695,7 @@
   },
   {
     "asin": "6561262131",
-    "title": "Coleção Primeira Biblioteca Volume 01 - Box com 10 Livrinhos",
+    "title": "ColeÃ§Ã£o Primeira Biblioteca Volume 01 - Box com 10 Livrinhos",
     "image": "https://m.media-amazon.com/images/I/61DC0rJDDpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7714,7 +7714,7 @@
   },
   {
     "asin": "8580579503",
-    "title": "Os Heróis do Olimpo - Box",
+    "title": "Os HerÃ³is do Olimpo - Box",
     "image": "https://m.media-amazon.com/images/I/81bOe4CsYOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7733,7 +7733,7 @@
   },
   {
     "asin": "6585348249",
-    "title": "Assistente do Vilão (Sucesso no TikTok)",
+    "title": "Assistente do VilÃ£o (Sucesso no TikTok)",
     "image": "https://m.media-amazon.com/images/I/81DkKVIavBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7752,7 +7752,7 @@
   },
   {
     "asin": "B0F54B4SLC",
-    "title": "Mala De Viagem Média 23Kg Expansível Polipropileno Rodas Duplas 360 Fibra Rígida Leve Resistente Para Despachar (PRETO, médio Expansível)",
+    "title": "Mala De Viagem MÃ©dia 23Kg ExpansÃ­vel Polipropileno Rodas Duplas 360 Fibra RÃ­gida Leve Resistente Para Despachar (PRETO, mÃ©dio ExpansÃ­vel)",
     "image": "https://m.media-amazon.com/images/I/61yhs7KLtEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7794,7 +7794,7 @@
   },
   {
     "asin": "6555116986",
-    "title": "Coleção Bobbie Goods - Do dia para a noite + Dias quentes + Isso e aquilo",
+    "title": "ColeÃ§Ã£o Bobbie Goods - Do dia para a noite + Dias quentes + Isso e aquilo",
     "image": "https://m.media-amazon.com/images/I/81ey-UyFbaL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7813,7 +7813,7 @@
   },
   {
     "asin": "B0DG9X4WHW",
-    "title": "Microfone USB HyperX QuadCast 2 S �?" com Iluminação RGB, Ideal para Streaming e Podcast, com Controles Integrados, Iluminação LED, Suporte Antichoque Removível, Preto (9A273AA)",
+    "title": "Microfone USB HyperX QuadCast 2 S â€“ com IluminaÃ§Ã£o RGB, Ideal para Streaming e Podcast, com Controles Integrados, IluminaÃ§Ã£o LED, Suporte Antichoque RemovÃ­vel, Preto (9A273AA)",
     "image": "https://m.media-amazon.com/images/I/71yLcw8yj6L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7838,7 +7838,7 @@
   },
   {
     "asin": "B0GZWP4VKT",
-    "title": "Bold Wafer Proteico Caixa Mista 10g de Proteína com 12 Unidades sem Adição de Açúcar",
+    "title": "Bold Wafer Proteico Caixa Mista 10g de ProteÃ­na com 12 Unidades sem AdiÃ§Ã£o de AÃ§Ãºcar",
     "image": "https://m.media-amazon.com/images/I/61-rPFhPFnL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7862,7 +7862,7 @@
   },
   {
     "asin": "B004Y9LZU2",
-    "title": "Maybelline NY Instant Age Rewind Eraser Corretivo Líquido Multiuso que Corrige Olheiras e Linhas Finas, Contorna e Ilumina, Alta Cobertura e Fórmula Vegana, Cor 140 Honey, 6ml",
+    "title": "Maybelline NY Instant Age Rewind Eraser Corretivo LÃ­quido Multiuso que Corrige Olheiras e Linhas Finas, Contorna e Ilumina, Alta Cobertura e FÃ³rmula Vegana, Cor 140 Honey, 6ml",
     "image": "https://m.media-amazon.com/images/I/618U5fqQ27L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7906,7 +7906,7 @@
   },
   {
     "asin": "B0CLDZ2XBQ",
-    "title": "Colgate Creme Dental Clareador Luminous White Glow 2x70g | Kit 2 Unidades, 3% de Peróxido de Hidrogênio, Remove Mais de 10 Anos de Manchas",
+    "title": "Colgate Creme Dental Clareador Luminous White Glow 2x70g | Kit 2 Unidades, 3% de PerÃ³xido de HidrogÃªnio, Remove Mais de 10 Anos de Manchas",
     "image": "https://m.media-amazon.com/images/I/81JwlRLZUVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7931,7 +7931,7 @@
   },
   {
     "asin": "B0839M5VRD",
-    "title": "Teclado Mecânico Gamer Redragon Dark Avenger K568-2 Rgb Switch Brown Com Fio",
+    "title": "Teclado MecÃ¢nico Gamer Redragon Dark Avenger K568-2 Rgb Switch Brown Com Fio",
     "image": "https://m.media-amazon.com/images/I/618cC2HocjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7956,7 +7956,7 @@
   },
   {
     "asin": "B0G2YJTVBH",
-    "title": "Carregador 50W + Cabo Compatível i.Phone, i.Phone X Xr 8 11 12 13 14 Plus Pro Max i.Pad, Carregamento Ultra Rapido, Fonte USB-C, Carga Rápida, Produto Homologado Anatel",
+    "title": "Carregador 50W + Cabo CompatÃ­vel i.Phone, i.Phone X Xr 8 11 12 13 14 Plus Pro Max i.Pad, Carregamento Ultra Rapido, Fonte USB-C, Carga RÃ¡pida, Produto Homologado Anatel",
     "image": "https://m.media-amazon.com/images/I/71ork5trkmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -7986,7 +7986,7 @@
   },
   {
     "asin": "B0DTLQ6CSY",
-    "title": "Cerveja sem álcool Corona Cero Sunbrew Lata 350ml - Pack com 8 unidades",
+    "title": "Cerveja sem Ã¡lcool Corona Cero Sunbrew Lata 350ml - Pack com 8 unidades",
     "image": "https://m.media-amazon.com/images/I/519WxrB6kiL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8041,7 +8041,7 @@
   },
   {
     "asin": "B07S8BMFPD",
-    "title": "NexGard Antipulgas e Carrapatos para Cães de 10.1 a 25kg - 3 tabletes",
+    "title": "NexGard Antipulgas e Carrapatos para CÃ£es de 10.1 a 25kg - 3 tabletes",
     "image": "https://m.media-amazon.com/images/I/71ycX-Yb0PL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8066,7 +8066,7 @@
   },
   {
     "asin": "B0B82QC11K",
-    "title": "Pré-Treino Evolution Pré Workout 300g - Soldiers Nutrition (Limonada Suiça)",
+    "title": "PrÃ©-Treino Evolution PrÃ© Workout 300g - Soldiers Nutrition (Limonada SuiÃ§a)",
     "image": "https://m.media-amazon.com/images/I/715oPlxWD+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8140,7 +8140,7 @@
   },
   {
     "asin": "B07W71VRGX",
-    "title": "Duracell Pilha Auditiva Nº 312 Com 6 Unidades �?" Alta Performance para Aparelhos Auditivos",
+    "title": "Duracell Pilha Auditiva NÂº 312 Com 6 Unidades â€“ Alta Performance para Aparelhos Auditivos",
     "image": "https://m.media-amazon.com/images/I/61srvvZUnML._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8165,7 +8165,7 @@
   },
   {
     "asin": "B0FQCSB1B8",
-    "title": "Jogo de Toalhas Buddemeyer Fio Penteado Alva Banho Azul/Azul 4 Peças",
+    "title": "Jogo de Toalhas Buddemeyer Fio Penteado Alva Banho Azul/Azul 4 PeÃ§as",
     "image": "https://m.media-amazon.com/images/I/712PrCpe6bL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8190,7 +8190,7 @@
   },
   {
     "asin": "B0GQFWCFRV",
-    "title": "MODUS Garrafa Térmica De Grande Capacidade Fria E Quente Vácuo 1700mL (Preto)",
+    "title": "MODUS Garrafa TÃ©rmica De Grande Capacidade Fria E Quente VÃ¡cuo 1700mL (Preto)",
     "image": "https://m.media-amazon.com/images/I/61RKyyFipgL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8214,7 +8214,7 @@
   },
   {
     "asin": "B0FZ98XMN9",
-    "title": "Estrutura De Cama De Metal, Não Precisa de Box Spring,Com Espaço De Armazenamen Cor Preto (FULL)",
+    "title": "Estrutura De Cama De Metal, NÃ£o Precisa de Box Spring,Com EspaÃ§o De Armazenamen Cor Preto (FULL)",
     "image": "https://m.media-amazon.com/images/I/51+tBAUfQXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8264,7 +8264,7 @@
   },
   {
     "asin": "B0GFDR29GK",
-    "title": "Bettdow SmartWatch GPS, Relogio Smartwatch Feminino e Masculino, 1,85 polegadas HD AMOLED, chamada Bluetooth, Esportivos relógio com voz por IA, Compatível com Android iOS, 2 Pulseiras (preto)",
+    "title": "Bettdow SmartWatch GPS, Relogio Smartwatch Feminino e Masculino, 1,85 polegadas HD AMOLED, chamada Bluetooth, Esportivos relÃ³gio com voz por IA, CompatÃ­vel com Android iOS, 2 Pulseiras (preto)",
     "image": "https://m.media-amazon.com/images/I/715ZzUF4QxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8314,7 +8314,7 @@
   },
   {
     "asin": "B0CNP5BV7G",
-    "title": "Cadeira de jogos com encosto alto, apoios de braços fixos em quatro pontos, altura ajustável (Laranja)",
+    "title": "Cadeira de jogos com encosto alto, apoios de braÃ§os fixos em quatro pontos, altura ajustÃ¡vel (Laranja)",
     "image": "https://m.media-amazon.com/images/I/71SM9+iAn7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8339,7 +8339,7 @@
   },
   {
     "asin": "8551014153",
-    "title": "Não é como nos filmes: (Melhor do que nos filmes �?" vol. 2)",
+    "title": "NÃ£o Ã© como nos filmes: (Melhor do que nos filmes â€“ vol. 2)",
     "image": "https://m.media-amazon.com/images/I/71KrPChpFXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8358,7 +8358,7 @@
   },
   {
     "asin": "B0DWXSTDMX",
-    "title": "Buddemeyer Jogo de Toalhas Melissa Extra Soft, Gigante, Branco, 5 peças",
+    "title": "Buddemeyer Jogo de Toalhas Melissa Extra Soft, Gigante, Branco, 5 peÃ§as",
     "image": "https://m.media-amazon.com/images/I/51v4mCY7klL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8458,7 +8458,7 @@
   },
   {
     "asin": "B0CVNMR68Z",
-    "title": "Combo de Teclado e Mouse Ergonômico Sem Fio HP 230 - com Dongle USB Wireless, Digitação Silenciosa, Design Elegante, Até 12 Meses de Bateria, Layout BR, Preto (18H24AA#AC4)",
+    "title": "Combo de Teclado e Mouse ErgonÃ´mico Sem Fio HP 230 - com Dongle USB Wireless, DigitaÃ§Ã£o Silenciosa, Design Elegante, AtÃ© 12 Meses de Bateria, Layout BR, Preto (18H24AA#AC4)",
     "image": "https://m.media-amazon.com/images/I/71MW8ZR1vUL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8483,7 +8483,7 @@
   },
   {
     "asin": "B0D2RLMSM8",
-    "title": "M-VAVE VEDO Tank-G Pedal de Guitarra Multi-Efeitos, Effects Pedal guitarra Reverb Delay MOD AMP Bateria lítio Recarregável, 36 Presets, 9 Preamp Slots, 8 IR Cab, 3 Simulação, Delay, Cube Baby Reverb",
+    "title": "M-VAVE VEDO Tank-G Pedal de Guitarra Multi-Efeitos, Effects Pedal guitarra Reverb Delay MOD AMP Bateria lÃ­tio RecarregÃ¡vel, 36 Presets, 9 Preamp Slots, 8 IR Cab, 3 SimulaÃ§Ã£o, Delay, Cube Baby Reverb",
     "image": "https://m.media-amazon.com/images/I/713XINCLToL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8508,7 +8508,7 @@
   },
   {
     "asin": "B00007ISWA",
-    "title": "Duracell Pilha Recarregável AA 2500mAh Pequena Com 4 Unidades �?" Ideal para Controle Xbox�"�, Câmeras Digitais e Brinquedos de Alto Consumo",
+    "title": "Duracell Pilha RecarregÃ¡vel AA 2500mAh Pequena Com 4 Unidades â€“ Ideal para Controle Xboxâ„¢, CÃ¢meras Digitais e Brinquedos de Alto Consumo",
     "image": "https://m.media-amazon.com/images/I/71w9dMhQyxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8533,7 +8533,7 @@
   },
   {
     "asin": "B0DLCNDZR2",
-    "title": "Dona Chefa, Super Jogo De Panelas 10 Peças Elegan Baunilha Tampa de Vidro Antiaderente, Conjunto de Panela para Cozinha Teflon",
+    "title": "Dona Chefa, Super Jogo De Panelas 10 PeÃ§as Elegan Baunilha Tampa de Vidro Antiaderente, Conjunto de Panela para Cozinha Teflon",
     "image": "https://m.media-amazon.com/images/I/519nmYKMaIL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8558,7 +8558,7 @@
   },
   {
     "asin": "B0G5YRSFP1",
-    "title": "Potes Tampa Hermético Porta Alimentos Mantimentos Armário Cozinha (Kit 24)",
+    "title": "Potes Tampa HermÃ©tico Porta Alimentos Mantimentos ArmÃ¡rio Cozinha (Kit 24)",
     "image": "https://m.media-amazon.com/images/I/81Thu-al8UL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8602,7 +8602,7 @@
   },
   {
     "asin": "B0BXYD49TV",
-    "title": "Duracell Pilha Optimum AA Pequena Com 12 Unidades �?" Dura até 30x Mais �?" Ideal para Controle Xbox�"�, Brinquedos e Lanternas",
+    "title": "Duracell Pilha Optimum AA Pequena Com 12 Unidades â€“ Dura atÃ© 30x Mais â€“ Ideal para Controle Xboxâ„¢, Brinquedos e Lanternas",
     "image": "https://m.media-amazon.com/images/I/81PnMCTeZkL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8682,7 +8682,7 @@
   },
   {
     "asin": "B0FJM5JKNM",
-    "title": "M-VAVE Amplificador Mini para Guitarra Elétrica : 5W Portátil com Bluetooth 5.3, 2 Canais (Clean/Overdrive), Bateria Recarregável 7h - Som Profissional para Prática em Casa, Viagens e Sessões Jam",
+    "title": "M-VAVE Amplificador Mini para Guitarra ElÃ©trica : 5W PortÃ¡til com Bluetooth 5.3, 2 Canais (Clean/Overdrive), Bateria RecarregÃ¡vel 7h - Som Profissional para PrÃ¡tica em Casa, Viagens e SessÃµes Jam",
     "image": "https://m.media-amazon.com/images/I/91KN9q9q4FL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8732,7 +8732,7 @@
   },
   {
     "asin": "B0C6N14MW2",
-    "title": "Limpeza Automotiva Completa Shampoo V-floc Revitalizador Intense Cera Tok Final Limpador Sintra Fast Pano Vonixx | Shampoo V-floc, Revitalizador Intense, Cera Tok Final, Limpador Sintra Fast, Pano incluído",
+    "title": "Limpeza Automotiva Completa Shampoo V-floc Revitalizador Intense Cera Tok Final Limpador Sintra Fast Pano Vonixx | Shampoo V-floc, Revitalizador Intense, Cera Tok Final, Limpador Sintra Fast, Pano incluÃ­do",
     "image": "https://m.media-amazon.com/images/I/71T+2f67zDL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8756,7 +8756,7 @@
   },
   {
     "asin": "B0FP4J5RBJ",
-    "title": "Bettdow Monitor Portatil 18,5'', FHD 1080P Monitor Portátil Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para Notebook com VESA, Plug and Play",
+    "title": "Bettdow Monitor Portatil 18,5'', FHD 1080P Monitor PortÃ¡til Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para Notebook com VESA, Plug and Play",
     "image": "https://m.media-amazon.com/images/I/71QtBvLlX7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8806,7 +8806,7 @@
   },
   {
     "asin": "B0G15YV1HX",
-    "title": "Fogão 6 Bocas a Gás Itatiaia Star New com Acendimento Automático e Forno 82l Preto Bivolt",
+    "title": "FogÃ£o 6 Bocas a GÃ¡s Itatiaia Star New com Acendimento AutomÃ¡tico e Forno 82l Preto Bivolt",
     "image": "https://m.media-amazon.com/images/I/41RMjulsAXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8831,7 +8831,7 @@
   },
   {
     "asin": "B07LFF8HK5",
-    "title": "Depil Bella - Cera Depilatória Própolis e Mel Alto Rendimento Pague 800g Leve 1kg",
+    "title": "Depil Bella - Cera DepilatÃ³ria PrÃ³polis e Mel Alto Rendimento Pague 800g Leve 1kg",
     "image": "https://m.media-amazon.com/images/I/71HeCGu46QL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -8975,7 +8975,7 @@
   },
   {
     "asin": "855101305X",
-    "title": "Alchemised: Edição brasileira",
+    "title": "Alchemised: EdiÃ§Ã£o brasileira",
     "image": "https://m.media-amazon.com/images/I/71Ib1chR4GL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9013,7 +9013,7 @@
   },
   {
     "asin": "B0CJTYM8HT",
-    "title": "Cadeira Ergonomica Gamer Com Apoio Para Os Pés�^Rosa)",
+    "title": "Cadeira Ergonomica Gamer Com Apoio Para Os PÃ©sï¼ˆRosa)",
     "image": "https://m.media-amazon.com/images/I/71jUAYbMHTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9038,7 +9038,7 @@
   },
   {
     "asin": "8551008889",
-    "title": "Box Percy Jackson e os olimpianos - Nova edição",
+    "title": "Box Percy Jackson e os olimpianos - Nova ediÃ§Ã£o",
     "image": "https://m.media-amazon.com/images/I/61NTMkF4d+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9101,7 +9101,7 @@
   },
   {
     "asin": "6558301903",
-    "title": "Box Tetralogia Napolitana - Série A amiga genial",
+    "title": "Box Tetralogia Napolitana - SÃ©rie A amiga genial",
     "image": "https://m.media-amazon.com/images/I/91LjHOSWtHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9120,7 +9120,7 @@
   },
   {
     "asin": "B0H4143G5R",
-    "title": "Fone de Ouvido Bluetooth, fone de ouvido sem fio Bluetooth 5.4, Cancelamento de Ruído, Bateria de 16h, Funciona em Todos os Celulares e Notebooks (Branco)",
+    "title": "Fone de Ouvido Bluetooth, fone de ouvido sem fio Bluetooth 5.4, Cancelamento de RuÃ­do, Bateria de 16h, Funciona em Todos os Celulares e Notebooks (Branco)",
     "image": "https://m.media-amazon.com/images/I/51owctkluTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9195,7 +9195,7 @@
   },
   {
     "asin": "B0DWXVQB4C",
-    "title": "Buddemeyer Jogo de Toalhas Melissa Extra Soft, Banho, Branco, 5 peças",
+    "title": "Buddemeyer Jogo de Toalhas Melissa Extra Soft, Banho, Branco, 5 peÃ§as",
     "image": "https://m.media-amazon.com/images/I/51v4mCY7klL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9220,7 +9220,7 @@
   },
   {
     "asin": "B0DJDP72D6",
-    "title": "BOLD Snacks Barra de Proteína Caixa Mix - Caixa com 12 Unidades - Zero Adição de Açúcar",
+    "title": "BOLD Snacks Barra de ProteÃ­na Caixa Mix - Caixa com 12 Unidades - Zero AdiÃ§Ã£o de AÃ§Ãºcar",
     "image": "https://m.media-amazon.com/images/I/81CO99-Gh1L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9245,7 +9245,7 @@
   },
   {
     "asin": "B0F66VR4YW",
-    "title": "Ograx-3 500 Suplemento Para Cães e Gatos 90 Cápsulas 65,7g | 65,7g",
+    "title": "Ograx-3 500 Suplemento Para CÃ£es e Gatos 90 CÃ¡psulas 65,7g | 65,7g",
     "image": "https://m.media-amazon.com/images/I/51A3xCVjq2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9295,7 +9295,7 @@
   },
   {
     "asin": "B0D6DT84JD",
-    "title": "Bettdow Monitor Portatil 15,6'', FHD 1080P Monitor Portátil Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para Notebook com VESA e Funda Inteligente magnético, Plug and Play",
+    "title": "Bettdow Monitor Portatil 15,6'', FHD 1080P Monitor PortÃ¡til Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para Notebook com VESA e Funda Inteligente magnÃ©tico, Plug and Play",
     "image": "https://m.media-amazon.com/images/I/71SfTDj9NmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9320,7 +9320,7 @@
   },
   {
     "asin": "B0DM6G7929",
-    "title": "Impressora Brother HL-L1222 Laser Monocromática, USB, 110V",
+    "title": "Impressora Brother HL-L1222 Laser MonocromÃ¡tica, USB, 110V",
     "image": "https://m.media-amazon.com/images/I/51jpgI7fwnL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9375,7 +9375,7 @@
   },
   {
     "asin": "B0CV641SQ8",
-    "title": "Jogo de toalhas Buddemeyer Doris Banho 5 peças",
+    "title": "Jogo de toalhas Buddemeyer Doris Banho 5 peÃ§as",
     "image": "https://m.media-amazon.com/images/I/61n1DuVnYjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9425,7 +9425,7 @@
   },
   {
     "asin": "B0BYBFXFKH",
-    "title": "Inoar, Meu Cacho, Meu Crush �?" Creme de Pentear, Define Cachos, Hidrata e Controla o Frizz, Com �"leos Naturais e Vitaminas - 500ml",
+    "title": "Inoar, Meu Cacho, Meu Crush â€“ Creme de Pentear, Define Cachos, Hidrata e Controla o Frizz, Com Ã“leos Naturais e Vitaminas - 500ml",
     "image": "https://m.media-amazon.com/images/I/61688fq+JtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9444,7 +9444,7 @@
   },
   {
     "asin": "B0CT5YTTYP",
-    "title": "Stanley Garrafa Térmica Aerolight Fast Flow Black | 710ml",
+    "title": "Stanley Garrafa TÃ©rmica Aerolight Fast Flow Black | 710ml",
     "image": "https://m.media-amazon.com/images/I/41YpisIDGQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9469,7 +9469,7 @@
   },
   {
     "asin": "B0H36ZH72V",
-    "title": "Robô Aspirador de Pó e Passa Pano KABUM! smart K1000 - Mapeia a Laser, 2 MOPs, até 7000Pa, Alexa/Google, BT, Bivolt, Preto - KSAR1000PT",
+    "title": "RobÃ´ Aspirador de PÃ³ e Passa Pano KABUM! smart K1000 - Mapeia a Laser, 2 MOPs, atÃ© 7000Pa, Alexa/Google, BT, Bivolt, Preto - KSAR1000PT",
     "image": "https://m.media-amazon.com/images/I/51D3Olbu6yL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9513,7 +9513,7 @@
   },
   {
     "asin": "B08R8JSL9V",
-    "title": "Umidificador de Ar Ultrassônico 2,2L Bivolt Automático Fisher Price - HC055",
+    "title": "Umidificador de Ar UltrassÃ´nico 2,2L Bivolt AutomÃ¡tico Fisher Price - HC055",
     "image": "https://m.media-amazon.com/images/I/31PpgZamWvL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9587,7 +9587,7 @@
   },
   {
     "asin": "B0779CJD58",
-    "title": "Irrigador Oral Clearpik Portable 200ml Recarregável Multi Saúde - HC036",
+    "title": "Irrigador Oral Clearpik Portable 200ml RecarregÃ¡vel Multi SaÃºde - HC036",
     "image": "https://m.media-amazon.com/images/I/31LUfCnDsRL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9637,7 +9637,7 @@
   },
   {
     "asin": "B0FMXYTGSL",
-    "title": "VEDO Toca-Discos 10 em 1 com Bluetooth: Giradiscos 3 Velocidades para Vinil, Conversor LP/MP3, CD, Cassete, Rádio FM - Madeira Mogno e Alto-Falantes | Presente Retro para Colecionadores 110v/220v",
+    "title": "VEDO Toca-Discos 10 em 1 com Bluetooth: Giradiscos 3 Velocidades para Vinil, Conversor LP/MP3, CD, Cassete, RÃ¡dio FM - Madeira Mogno e Alto-Falantes | Presente Retro para Colecionadores 110v/220v",
     "image": "https://m.media-amazon.com/images/I/7184GPZUnAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9686,7 +9686,7 @@
   },
   {
     "asin": "B0GJGLNDYX",
-    "title": "Bold Barra de Proteína Caixa Mista (12 Unid) 40G com 14g de Proteína",
+    "title": "Bold Barra de ProteÃ­na Caixa Mista (12 Unid) 40G com 14g de ProteÃ­na",
     "image": "https://m.media-amazon.com/images/I/61cVXbI0OOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9710,7 +9710,7 @@
   },
   {
     "asin": "B0GGWKBY1L",
-    "title": "Cadeira de Escritório Astrella Nova Preta Ergonômica com Apoio de Cabeça e Braços 2D Articulados",
+    "title": "Cadeira de EscritÃ³rio Astrella Nova Preta ErgonÃ´mica com Apoio de CabeÃ§a e BraÃ§os 2D Articulados",
     "image": "https://m.media-amazon.com/images/I/611NtJm6zYL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9735,7 +9735,7 @@
   },
   {
     "asin": "B0BGMB1SFZ",
-    "title": "Personal Fralda Descartável Infantil Pants Baby Premium XXG, 30 Unidades",
+    "title": "Personal Fralda DescartÃ¡vel Infantil Pants Baby Premium XXG, 30 Unidades",
     "image": "https://m.media-amazon.com/images/I/61rmtPjlzUL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9860,7 +9860,7 @@
   },
   {
     "asin": "B09VC4DCCF",
-    "title": "Ricca Escova Raquete Flex Pink, Desembaraça sem quebrar, para todos os tipos de cabelo, 1 unidade",
+    "title": "Ricca Escova Raquete Flex Pink, DesembaraÃ§a sem quebrar, para todos os tipos de cabelo, 1 unidade",
     "image": "https://m.media-amazon.com/images/I/51GLf23KitL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9935,7 +9935,7 @@
   },
   {
     "asin": "B0GM1LSHQF",
-    "title": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
+    "title": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, AtÃ© 76 Horas de Bateria - Preto",
     "image": "https://m.media-amazon.com/images/I/61q9MOnS+2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9960,7 +9960,7 @@
   },
   {
     "asin": "B0C9R8RC1P",
-    "title": "Duracell Pilhas Alcalinas AAA Palito Pack 24 Unidades �?" Dura Mais - Ideal para Controle de Videogame e Brinquedos",
+    "title": "Duracell Pilhas Alcalinas AAA Palito Pack 24 Unidades â€“ Dura Mais - Ideal para Controle de Videogame e Brinquedos",
     "image": "https://m.media-amazon.com/images/I/81clRPwJt3L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -9985,7 +9985,7 @@
   },
   {
     "asin": "B0C9RVFRZD",
-    "title": "Duracell Pilhas Alcalinas AA Pequena Pack 24 Unidades �?" Dura até 10x Mais �?" Ideal para Controle de Videogame e Brinquedos",
+    "title": "Duracell Pilhas Alcalinas AA Pequena Pack 24 Unidades â€“ Dura atÃ© 10x Mais â€“ Ideal para Controle de Videogame e Brinquedos",
     "image": "https://m.media-amazon.com/images/I/81k5RxCXI5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10035,7 +10035,7 @@
   },
   {
     "asin": "B099KWB62Y",
-    "title": "Fralda Turma da Mônica Baby Mega G 44 Unidades",
+    "title": "Fralda Turma da MÃ´nica Baby Mega G 44 Unidades",
     "image": "https://m.media-amazon.com/images/I/61uE+bO-76L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10060,7 +10060,7 @@
   },
   {
     "asin": "6558382423",
-    "title": "Box Trilogia A casa dos espíritos",
+    "title": "Box Trilogia A casa dos espÃ­ritos",
     "image": "https://m.media-amazon.com/images/I/815ihRiD6AL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10104,7 +10104,7 @@
   },
   {
     "asin": "6555606649",
-    "title": "Três",
+    "title": "TrÃªs",
     "image": "https://m.media-amazon.com/images/I/6103XjAz8iL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10167,7 +10167,7 @@
   },
   {
     "asin": "B0GQSYPZXV",
-    "title": "Escorredor de Louça Suspenso,Escorredor de Louça de Parede,Inox,Organizador de Cozinha (65CM-2 Andares)",
+    "title": "Escorredor de LouÃ§a Suspenso,Escorredor de LouÃ§a de Parede,Inox,Organizador de Cozinha (65CM-2 Andares)",
     "image": "https://m.media-amazon.com/images/I/61hxxN+59FL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10211,7 +10211,7 @@
   },
   {
     "asin": "B0BQ42779Q",
-    "title": "Fralda Descartável Huggies Máxima Proteção Tamanho G 66 unidades �?" Nova fralda Supreme Care aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída (embalagem pode variar)",
+    "title": "Fralda DescartÃ¡vel Huggies MÃ¡xima ProteÃ§Ã£o Tamanho G 66 unidades â€“ Nova fralda Supreme Care aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e mÃ¡xima proteÃ§Ã£o sem fralda caÃ­da (embalagem pode variar)",
     "image": "https://m.media-amazon.com/images/I/81ULL46dPgL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10330,7 +10330,7 @@
   },
   {
     "asin": "B0FRB5NQJC",
-    "title": "Electrolux Depurador de Ar Electrolux 90cm Retrátil Preto Efficient com Luz de Led (DE9RB) 127V",
+    "title": "Electrolux Depurador de Ar Electrolux 90cm RetrÃ¡til Preto Efficient com Luz de Led (DE9RB) 127V",
     "image": "https://m.media-amazon.com/images/I/31LHdFSImuL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10355,7 +10355,7 @@
   },
   {
     "asin": "8543111536",
-    "title": "Murdoku: 80 mistérios para resolver usando a lógica",
+    "title": "Murdoku: 80 mistÃ©rios para resolver usando a lÃ³gica",
     "image": "https://m.media-amazon.com/images/I/81BZuXOk+7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10424,7 +10424,7 @@
   },
   {
     "asin": "B01DMOBT2S",
-    "title": "Apis Flora PROPOMAX Extrato Aquoso De Própolis 30 mL",
+    "title": "Apis Flora PROPOMAX Extrato Aquoso De PrÃ³polis 30 mL",
     "image": "https://m.media-amazon.com/images/I/71YiEiiRWcL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10492,7 +10492,7 @@
   },
   {
     "asin": "B0GDVJ8V2K",
-    "title": "Mala de Bordo Dermond PRO | Super Resistente, Cadeado Embutido e Rodas Silenciosas Removíveis (Rosa Vintage)",
+    "title": "Mala de Bordo Dermond PRO | Super Resistente, Cadeado Embutido e Rodas Silenciosas RemovÃ­veis (Rosa Vintage)",
     "image": "https://m.media-amazon.com/images/I/71784fCkXNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10555,7 +10555,7 @@
   },
   {
     "asin": "B0F89VV1YS",
-    "title": "MODUS Garrafa Térmica Esportiva De Aço Inoxidável Com Isolamento A Vácuo De 950ML (Verde)",
+    "title": "MODUS Garrafa TÃ©rmica Esportiva De AÃ§o InoxidÃ¡vel Com Isolamento A VÃ¡cuo De 950ML (Verde)",
     "image": "https://m.media-amazon.com/images/I/61XlEtHpMzL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10580,7 +10580,7 @@
   },
   {
     "asin": "B07F4G4LJK",
-    "title": "Coup Segunda Edição (Inclui Expansão)",
+    "title": "Coup Segunda EdiÃ§Ã£o (Inclui ExpansÃ£o)",
     "image": "https://m.media-amazon.com/images/I/61UvGpwlI9L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10605,7 +10605,7 @@
   },
   {
     "asin": "B0FX44RT9W",
-    "title": "TOYADENT Escova de Dentes Adulto Ultra Macia 6 Unidades, Cerdas Finas e Densas, Cabos Coloridos, Com Tampa Protetora, Higiene Bucal Diária, Para Família e Presente",
+    "title": "TOYADENT Escova de Dentes Adulto Ultra Macia 6 Unidades, Cerdas Finas e Densas, Cabos Coloridos, Com Tampa Protetora, Higiene Bucal DiÃ¡ria, Para FamÃ­lia e Presente",
     "image": "https://m.media-amazon.com/images/I/71Qu2IvujqL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10649,7 +10649,7 @@
   },
   {
     "asin": "B0BXWRD4PP",
-    "title": "Duracell Pilhas Optimum AAA Palito Pack 12 Unidades �?" Dura Mais �?" Para Controle de Videogame e Brinquedos",
+    "title": "Duracell Pilhas Optimum AAA Palito Pack 12 Unidades â€“ Dura Mais â€“ Para Controle de Videogame e Brinquedos",
     "image": "https://m.media-amazon.com/images/I/81a81Q9dE-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10699,7 +10699,7 @@
   },
   {
     "asin": "B0D6DGC45L",
-    "title": "Guarda Roupa Casal 8 Portas 4 Gavetas Jatobá Yescasa Cinamomo/Off White",
+    "title": "Guarda Roupa Casal 8 Portas 4 Gavetas JatobÃ¡ Yescasa Cinamomo/Off White",
     "image": "https://m.media-amazon.com/images/I/71T4MA59LsL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10724,7 +10724,7 @@
   },
   {
     "asin": "B07BWMH95Y",
-    "title": "SUPRA SOY Alimento Em Pó Supra Soy Sem Lactose Original -300G",
+    "title": "SUPRA SOY Alimento Em PÃ³ Supra Soy Sem Lactose Original -300G",
     "image": "https://m.media-amazon.com/images/I/61nyIRgivHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10774,7 +10774,7 @@
   },
   {
     "asin": "B0DJ3PW6Z6",
-    "title": "Quarto de Bebê Completo com Guarda Roupa Cômoda e Berço 100% Mdf Jolie Retrô Espresso Móveis Branco Brilho/Amêndoa",
+    "title": "Quarto de BebÃª Completo com Guarda Roupa CÃ´moda e BerÃ§o 100% Mdf Jolie RetrÃ´ Espresso MÃ³veis Branco Brilho/AmÃªndoa",
     "image": "https://m.media-amazon.com/images/I/61aFcSTyBAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10824,7 +10824,7 @@
   },
   {
     "asin": "6584004406",
-    "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
+    "title": "Vade Mecum Saraiva Tradicional - 41Âª EdiÃ§Ã£o 2026",
     "image": "https://m.media-amazon.com/images/I/81HmyZ8mCzL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10843,7 +10843,7 @@
   },
   {
     "asin": "B0B8GNV5LS",
-    "title": "ELG, SHCR600, Câmera Robô 360° Full HD 1080P Inteligente, Conexão WI-FI 2.4GHz, Compatível com Alexa, Áudio Bidirecional, Zoom Digital 6x, Branco",
+    "title": "ELG, SHCR600, CÃ¢mera RobÃ´ 360Â° Full HD 1080P Inteligente, ConexÃ£o WI-FI 2.4GHz, CompatÃ­vel com Alexa, Ãudio Bidirecional, Zoom Digital 6x, Branco",
     "image": "https://m.media-amazon.com/images/I/61mtw8duGGL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10868,7 +10868,7 @@
   },
   {
     "asin": "B0FCYX8VR8",
-    "title": "Nebulizador Inalador Ultrassônico Portátil USB Sem Fio Silencioso",
+    "title": "Nebulizador Inalador UltrassÃ´nico PortÃ¡til USB Sem Fio Silencioso",
     "image": "https://m.media-amazon.com/images/I/51gJ1LXtZGL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10962,7 +10962,7 @@
   },
   {
     "asin": "B0DPNGLTGX",
-    "title": "Mozcada - Kit 10 Potes de Vidro Marmita 420ml Hermético com Trava Retangular",
+    "title": "Mozcada - Kit 10 Potes de Vidro Marmita 420ml HermÃ©tico com Trava Retangular",
     "image": "https://m.media-amazon.com/images/I/713F+DTrWwL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -10987,7 +10987,7 @@
   },
   {
     "asin": "B0DNHGQHMY",
-    "title": "Bettdow SmartWatch, relogio smartwatch com Ecrã tátil e Alexa, à prova d'água IP68, relogio feminino e masculino, com 100+ modo esportivo e recebimento de notificações(preto)",
+    "title": "Bettdow SmartWatch, relogio smartwatch com EcrÃ£ tÃ¡til e Alexa, Ã  prova d'Ã¡gua IP68, relogio feminino e masculino, com 100+ modo esportivo e recebimento de notificaÃ§Ãµes(preto)",
     "image": "https://m.media-amazon.com/images/I/61jq8y1sVZL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11012,7 +11012,7 @@
   },
   {
     "asin": "B0D216Q2NR",
-    "title": "Ar Condicionado Split Hi Wall R32 LG Dual Inverter Voice +AI 18000 BTU/h Frio S3-Q18KL31B �?" 220 Volts",
+    "title": "Ar Condicionado Split Hi Wall R32 LG Dual Inverter Voice +AI 18000 BTU/h Frio S3-Q18KL31B â€“ 220 Volts",
     "image": "https://m.media-amazon.com/images/I/41LEG77cCPL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11037,7 +11037,7 @@
   },
   {
     "asin": "B07BSL81YD",
-    "title": "Jogo War Edição Especial",
+    "title": "Jogo War EdiÃ§Ã£o Especial",
     "image": "https://m.media-amazon.com/images/I/71gw302vfSL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11062,7 +11062,7 @@
   },
   {
     "asin": "B07PPQ5WW7",
-    "title": "Vanish Tira Manchas Em Pó, Multi Power Oxi Action, para Roupas Coloridas 1Kg",
+    "title": "Vanish Tira Manchas Em PÃ³, Multi Power Oxi Action, para Roupas Coloridas 1Kg",
     "image": "https://m.media-amazon.com/images/I/718Pl3xNpPL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11087,7 +11087,7 @@
   },
   {
     "asin": "B08YFLVSBP",
-    "title": "Brinox - Panela de Pressão 4,2L Antiaderente Ceramic Life com Fundo de Indução Pressure - Vanilla",
+    "title": "Brinox - Panela de PressÃ£o 4,2L Antiaderente Ceramic Life com Fundo de InduÃ§Ã£o Pressure - Vanilla",
     "image": "https://m.media-amazon.com/images/I/515ty+4I4BL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11112,7 +11112,7 @@
   },
   {
     "asin": "B0DDCWX1NX",
-    "title": "Apple EarPods (USB-C) �?<�?<�?<�?<�?<�?<�?<",
+    "title": "Apple EarPods (USB-C) â€‹â€‹â€‹â€‹â€‹â€‹â€‹",
     "image": "https://m.media-amazon.com/images/I/51oMc4XRaaL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11137,7 +11137,7 @@
   },
   {
     "asin": "B0GYQNNX77",
-    "title": "Laruno Cadeira de Escritório Ergonômica Premium NR17 Cinza Giratória Reclinável 145 Graus com Suporte Lombar Encosto Mesh Respirável Cadeira Gamer com Regulagem de Altura e Rodinhas Suporta até 120kg",
+    "title": "Laruno Cadeira de EscritÃ³rio ErgonÃ´mica Premium NR17 Cinza GiratÃ³ria ReclinÃ¡vel 145 Graus com Suporte Lombar Encosto Mesh RespirÃ¡vel Cadeira Gamer com Regulagem de Altura e Rodinhas Suporta atÃ© 120kg",
     "image": "https://m.media-amazon.com/images/I/61HTZEvMFaL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11162,7 +11162,7 @@
   },
   {
     "asin": "B07Y3B33KG",
-    "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+    "title": "Finish Powerball Detergente para Lava LouÃ§as em tabletes Embalagem EconÃ´mica com 91 tabletes",
     "image": "https://m.media-amazon.com/images/I/61Nf8UQrPOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11187,7 +11187,7 @@
   },
   {
     "asin": "B08FK58K8P",
-    "title": "Buddemeyer Jogo de toalhas Florentina Extra Soft Banho Bege 4 peças",
+    "title": "Buddemeyer Jogo de toalhas Florentina Extra Soft Banho Bege 4 peÃ§as",
     "image": "https://m.media-amazon.com/images/I/71GhHWgT7hL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11212,7 +11212,7 @@
   },
   {
     "asin": "B0DQP41H2M",
-    "title": "Fones de Ouvido Bluetooth 5.3 Fones de Ouvido Sem Fio 42 Horas de Reprodução Fones de Ouvido Esportivos com IPX5 à Prova d'Água Fones de Ouvido de Graves Profundos para iOS Android, Preto",
+    "title": "Fones de Ouvido Bluetooth 5.3 Fones de Ouvido Sem Fio 42 Horas de ReproduÃ§Ã£o Fones de Ouvido Esportivos com IPX5 Ã  Prova d'Ãgua Fones de Ouvido de Graves Profundos para iOS Android, Preto",
     "image": "https://m.media-amazon.com/images/I/61A6ljpbnGL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11287,7 +11287,7 @@
   },
   {
     "asin": "B0979VS2JH",
-    "title": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+    "title": "Fralda Pom Pom Protek ProteÃ§Ã£o de MÃ£e Hiper G 68 Unidades",
     "image": "https://m.media-amazon.com/images/I/71djWQQA-OL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11312,7 +11312,7 @@
   },
   {
     "asin": "B0C6MZ861Q",
-    "title": "Cooktop de Indução Quatro Bocas Eos Eci04ep 220v",
+    "title": "Cooktop de InduÃ§Ã£o Quatro Bocas Eos Eci04ep 220v",
     "image": "https://m.media-amazon.com/images/I/51iDChXZhhL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11387,7 +11387,7 @@
   },
   {
     "asin": "B07VRYJWPB",
-    "title": "Finish Power Powder Advanced Detergente para Lava Louças em Pó 2,5kg",
+    "title": "Finish Power Powder Advanced Detergente para Lava LouÃ§as em PÃ³ 2,5kg",
     "image": "https://m.media-amazon.com/images/I/61FuIlOh2GL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
@@ -11462,7 +11462,7 @@
   },
   {
     "asin": "B0G7MJPFCD",
-    "title": "Smart TV Samsung 55�?� Crystal UHD 4K Tizen LED Bivolt Wi-Fi",
+    "title": "Smart TV Samsung 55â€ Crystal UHD 4K Tizen LED Bivolt Wi-Fi",
     "image": "https://m.media-amazon.com/images/I/51oEosbR+9L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "canonical": null,
     "category": "Amazon",
