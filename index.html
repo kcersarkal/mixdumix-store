@@ -357,7 +357,7 @@ function discountPercent(p) {
     : null;
 }
 function hoursSince(iso) { return (Date.now() - new Date(iso).getTime()) / 36e5; }
-function starRow(r) { const f = Math.round(r); return "â˜…".repeat(f) + "â˜†".repeat(5-f); }
+function starRow(r) { const f = Math.round(r); return "★".repeat(f) + "★".repeat(5-f); }
 
 // Camada de seguranÃ§a: nunca renderiza um link sem a tag correta.
 function ensureAffiliateTag(url) {
@@ -401,7 +401,7 @@ function productCard(p) {
         <div class="card-body">
           <h3 class="card-title">${p.title}</h3>
 <div class="card-rating">
-  <span class="stars-wrap">â˜…â˜…â˜…â˜…â˜…<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%">â˜…â˜…â˜…â˜…â˜…</span></span>
+  <span class="stars-wrap">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%">★★★★★</span></span>
   <span class="rating-num">${p.avaliacao}</span>
   <span class="reviews-count">(${p.qtd_avaliacoes})</span>
 </div>
