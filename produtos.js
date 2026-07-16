@@ -1,30 +1,5 @@
 const PRODUCTS = [
-  {
-    "asin": "index-11",
-    "title": "Frigobar Brastemp Retrô 76 Litros Classic White - BRA08MB (110, Volts)",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/5145MQyMlBL._AC_UL600_SR600,400_.jpg",
-    "canonical": null,
-    "category": "Frigobares",
-    "price_current": null,
-    "price_original": 2399.0,
-    "parcelamento": null,
-    "tem_selo_prime": false,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 2,
-    "coupon_code": null,
-    "description": "<ul><li>O Frigobar Brastemp Retrô 76L economiza até 21% de energia¹. Design vintage com pés palito, 8 cores exclusivas e o icônico logo anos 50.</li></ul>",
-    "informacoes_produto": {
-      "Dimensões do produto": "55P x 48L x 82A centímetros",
-      "Marca": "Brastemp",
-      "Capacidade": "76 litros",
-      "Cor": "branco",
-      "Número de portas": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GQZFF9VC/ref=zg_bs_g_16745429011_d_sccl_12/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:49:59.000Z",
-    "spotlight": true
-  },
-  {
+    {
     "asin": "index-12",
     "title": "Frigobar Brastemp Retrô 76 Litros Classic Black - BRA08ME (110, Volts)",
     "image": "https://images-na.ssl-images-amazon.com/images/I/51aB+FU2oFL._AC_UL600_SR600,400_.jpg",
@@ -124,26 +99,7 @@ const PRODUCTS = [
     "last_checked_at": "2026-07-16T22:49:59.000Z",
     "spotlight": true
   },
-  {
-    "asin": "index-40",
-    "title": "Frigobar 45L Midea",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/81hC7IQpUgL._AC_UL300_SR300,200_.jpg",
-    "canonical": null,
-    "category": "Frigobares",
-    "price_current": null,
-    "price_original": 2399.0,
-    "parcelamento": null,
-    "tem_selo_prime": false,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 231,
-    "coupon_code": null,
-    "description": "<ul><li>[Compartimento Gela Rápido] Espaço que acelera o resfriamento de seus alimentos e bebidas</li><li>[Compartimentos Adequados] Supercompacto com espaço otimizado, com espaço para garrafa 2L</li><li>[Considerar Design] 45L de capacidade, dimensões de 45,0 x 47,2 x 49,2 cm. É perfeito para dormitórios universitários, escritórios, garagens e pequenos apartamentos</li><li>[Termostato ajustável] O controle da temperatura pode ser ajustado para melhor atender as condições de conservação dos alimentos, conforme o grau de utilização do aparelho</li><li>[Economia de Energia] Selo Procel e classificação “A” no Programa Brasileiro de Etiquetagem(PBE), mais economia para o seu bolso</li><li>[Componentes Incluídos] Frigobar e manual do usuário e garantia de 1 ano</li></ul>",
-    "informacoes_produto": {},
-    "affiliate_url": "https://www.amazon.com.br/Frigobar-45L-INOX-127V-Midea/dp/B0937J2WBG/ref=zg_bs_g_16745429011_d_sccl_41/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:49:59.000Z",
-    "spotlight": false
-  },
-  {
+   {
     "asin": "index-48",
     "title": "Frigobar 70L Elgin - Porta Reversível Compartimento Extra Frio Branco 110V",
     "image": "https://images-na.ssl-images-amazon.com/images/I/31aaazEcsPL._AC_UL300_SR300,200_.jpg",
