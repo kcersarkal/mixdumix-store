@@ -1,9 +1,5 @@
 const PRODUCTS = [
-<<<<<<< HEAD
-    {
-=======
   {
->>>>>>> cdf5465 (Atualizacao pipeline - 16/07/2026 20:10)
     "asin": "index-12",
     "title": "Frigobar Brastemp Retrô 76 Litros Classic Black - BRA08ME (110, Volts)",
     "image": "https://images-na.ssl-images-amazon.com/images/I/51aB+FU2oFL._AC_UL600_SR600,400_.jpg",
@@ -25,7 +21,7 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GR18BSVR/ref=zg_bs_g_16745429011_d_sccl_13/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T23:10:46.000Z",
+    "last_checked_at": "2026-07-16T23:28:52.000Z",
     "spotlight": true
   },
   {
@@ -50,7 +46,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Midea-127V-MRC06B1-Branco/dp/B0778TZGBJ/ref=zg_bs_g_16745429011_d_sccl_18/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T23:10:46.000Z",
+    "last_checked_at": "2026-07-16T23:28:52.000Z",
     "spotlight": true
   },
   {
@@ -75,7 +71,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Compact-124l-Efb131p-Preto/dp/B0C9VQ3R6V/ref=zg_bs_g_16745429011_d_sccl_23/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T23:10:46.000Z",
+    "last_checked_at": "2026-07-16T23:28:52.000Z",
     "spotlight": true
   },
   {
@@ -100,37 +96,9 @@ const PRODUCTS = [
       "Cor": "preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Geladeira-Port%C3%A1til-Quadrivolt-Caminh%C3%A3o-Bluetooth/dp/B0GRX2LDYW/ref=zg_bs_g_16745429011_d_sccl_25/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T23:10:46.000Z",
+    "last_checked_at": "2026-07-16T23:28:52.000Z",
     "spotlight": true
   },
-<<<<<<< HEAD
-   {
-    "asin": "index-48",
-    "title": "Frigobar 70L Elgin - Porta Reversível Compartimento Extra Frio Branco 110V",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/31aaazEcsPL._AC_UL300_SR300,200_.jpg",
-    "canonical": null,
-    "category": "Frigobares",
-    "price_current": null,
-    "price_original": null,
-    "parcelamento": null,
-    "tem_selo_prime": false,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 20,
-    "coupon_code": null,
-    "description": "<ul><li>Porta reversível 180°;</li><li>Termostato com 7 níveis de ajuste;</li><li>Prateleiras de vidro removíveis;</li><li>Compartimento extra frio;</li><li>Compartimento para latas;</li></ul>",
-    "informacoes_produto": {
-      "Dimensões do produto": "48,5P x 45,5L x 50,9A centímetros",
-      "Marca": "Elgin",
-      "Capacidade": "70 litros",
-      "Configuração": "Congelador na parte inferior",
-      "Cor": "branco"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Frigobar-70L-Elgin-Revers%C3%ADvel-Compartimento/dp/B0FNY36KPD/ref=zg_bs_g_16745429011_d_sccl_49/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:49:59.000Z",
-    "spotlight": false
-  },
-=======
->>>>>>> cdf5465 (Atualizacao pipeline - 16/07/2026 20:10)
   {
     "asin": "index-49",
     "title": "Frigobar 45 Litros Inverter Bivolt Preto com cor Prata",
@@ -153,7 +121,7 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Preto/dp/B0GJFGN88Z/ref=zg_bs_g_16745429011_d_sccl_50/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T23:10:46.000Z",
+    "last_checked_at": "2026-07-16T23:28:52.000Z",
     "spotlight": true
   }
 ];
