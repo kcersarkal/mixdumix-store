@@ -1,62 +1,12 @@
 const PRODUCTS = [
   {
-    "asin": "index-0",
-    "title": "Frigobar Eos 71 Litros Ice Compact Branco Efb80 220v",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/41W+miLnA1L._AC_UL600_SR600,400_.jpg",
-    "canonical": null,
-    "category": "Frigobares",
-    "price_current": 697.54,
-    "price_original": null,
-    "parcelamento": null,
-    "tem_selo_prime": false,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 2,
-    "coupon_code": null,
-    "description": "<ul><li>Classificação Energética/Inmetro A</li><li>Garantia do Compressor 10 anos</li><li>Degelo Manual</li></ul>",
-    "informacoes_produto": {
-      "Dimensões do produto": "47P x 44,9L x 67,6A centímetros",
-      "Marca": "EOS",
-      "Capacidade": "76 litros",
-      "Configuração": "Congelador interno compacto",
-      "Cor": "branco"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Compact-Branco-Efb80/dp/B0GQC5GM8M/ref=zg_bs_g_16745429011_d_sccl_1/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
-    "spotlight": true
-  },
-  {
-    "asin": "index-1",
-    "title": "Frigobar 45 Litros Inverter Bivolt Branco",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/31d6VuVOqQL._AC_UL600_SR600,400_.jpg",
-    "canonical": null,
-    "category": "Frigobares",
-    "price_current": 599.0,
-    "price_original": null,
-    "parcelamento": null,
-    "tem_selo_prime": false,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 20,
-    "coupon_code": null,
-    "description": "<ul><li>Tecnologia Inverter - Resfriamento rápido, garante a estabilidade da temperatura, preservando os alimentos por mais tempo, contribui para uma maior economia de energia com baixo nível de ruído.</li><li>Flexi Volt - Funciona tanto em 127V quanto em 220V, garantindo segurança e liberdade para usar em qualquer tomada.</li><li>Design Compacto - No tamanho ideal para qualquer ambiente, é espaçoso e funcional. Seus 45L acomodam facilmente bebidas, alimentos e até garrafas de 2 litros.</li><li>Compartimento Extra frio - Bebidas geladas mais rápido, com praticidade e conveniência, sempre que você precisar.</li><li>Compartimento de Latas - Mais organização e otimização do espaço interno com o compartimento para latas.</li></ul>",
-    "informacoes_produto": {
-      "Dimensões do produto": "45,5P x 47,2L x 49,2A centímetros",
-      "Marca": "Midea",
-      "Capacidade": "45 litros",
-      "Cor": "branco",
-      "Número de portas": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Branco/dp/B0GJG36MCZ/ref=zg_bs_g_16745429011_d_sccl_2/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
-    "spotlight": true
-  },
-  {
     "asin": "index-11",
     "title": "Frigobar Brastemp Retrô 76 Litros Classic White - BRA08MB (110, Volts)",
     "image": "https://images-na.ssl-images-amazon.com/images/I/5145MQyMlBL._AC_UL600_SR600,400_.jpg",
     "canonical": null,
     "category": "Frigobares",
     "price_current": null,
-    "price_original": null,
+    "price_original": 2399.0,
     "parcelamento": null,
     "tem_selo_prime": false,
     "avaliacao": 5.0,
@@ -71,7 +21,7 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GQZFF9VC/ref=zg_bs_g_16745429011_d_sccl_12/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
+    "last_checked_at": "2026-07-16T22:49:59.000Z",
     "spotlight": true
   },
   {
@@ -81,7 +31,7 @@ const PRODUCTS = [
     "canonical": null,
     "category": "Frigobares",
     "price_current": 1784.0,
-    "price_original": null,
+    "price_original": 2129.0,
     "parcelamento": null,
     "tem_selo_prime": false,
     "avaliacao": 5.0,
@@ -96,7 +46,7 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GR18BSVR/ref=zg_bs_g_16745429011_d_sccl_13/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
+    "last_checked_at": "2026-07-16T22:49:59.000Z",
     "spotlight": true
   },
   {
@@ -106,7 +56,7 @@ const PRODUCTS = [
     "canonical": null,
     "category": "Frigobares",
     "price_current": 719.0,
-    "price_original": null,
+    "price_original": 869.0,
     "parcelamento": null,
     "tem_selo_prime": false,
     "avaliacao": 4.7,
@@ -121,7 +71,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Midea-127V-MRC06B1-Branco/dp/B0778TZGBJ/ref=zg_bs_g_16745429011_d_sccl_18/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
+    "last_checked_at": "2026-07-16T22:49:59.000Z",
     "spotlight": true
   },
   {
@@ -131,7 +81,7 @@ const PRODUCTS = [
     "canonical": null,
     "category": "Frigobares",
     "price_current": 1103.94,
-    "price_original": null,
+    "price_original": 2079.09,
     "parcelamento": null,
     "tem_selo_prime": false,
     "avaliacao": 4.7,
@@ -146,7 +96,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Compact-124l-Efb131p-Preto/dp/B0C9VQ3R6V/ref=zg_bs_g_16745429011_d_sccl_23/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
+    "last_checked_at": "2026-07-16T22:49:59.000Z",
     "spotlight": true
   },
   {
@@ -156,7 +106,7 @@ const PRODUCTS = [
     "canonical": null,
     "category": "Frigobares",
     "price_current": 1709.9,
-    "price_original": null,
+    "price_original": 1799.9,
     "parcelamento": null,
     "tem_selo_prime": false,
     "avaliacao": 5.0,
@@ -171,8 +121,8 @@ const PRODUCTS = [
       "Cor": "preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Geladeira-Port%C3%A1til-Quadrivolt-Caminh%C3%A3o-Bluetooth/dp/B0GRX2LDYW/ref=zg_bs_g_16745429011_d_sccl_25/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
-    "spotlight": false
+    "last_checked_at": "2026-07-16T22:49:59.000Z",
+    "spotlight": true
   },
   {
     "asin": "index-40",
@@ -181,7 +131,7 @@ const PRODUCTS = [
     "canonical": null,
     "category": "Frigobares",
     "price_current": null,
-    "price_original": null,
+    "price_original": 2399.0,
     "parcelamento": null,
     "tem_selo_prime": false,
     "avaliacao": 4.7,
@@ -190,7 +140,7 @@ const PRODUCTS = [
     "description": "<ul><li>[Compartimento Gela Rápido] Espaço que acelera o resfriamento de seus alimentos e bebidas</li><li>[Compartimentos Adequados] Supercompacto com espaço otimizado, com espaço para garrafa 2L</li><li>[Considerar Design] 45L de capacidade, dimensões de 45,0 x 47,2 x 49,2 cm. É perfeito para dormitórios universitários, escritórios, garagens e pequenos apartamentos</li><li>[Termostato ajustável] O controle da temperatura pode ser ajustado para melhor atender as condições de conservação dos alimentos, conforme o grau de utilização do aparelho</li><li>[Economia de Energia] Selo Procel e classificação “A” no Programa Brasileiro de Etiquetagem(PBE), mais economia para o seu bolso</li><li>[Componentes Incluídos] Frigobar e manual do usuário e garantia de 1 ano</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Frigobar-45L-INOX-127V-Midea/dp/B0937J2WBG/ref=zg_bs_g_16745429011_d_sccl_41/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
+    "last_checked_at": "2026-07-16T22:49:59.000Z",
     "spotlight": false
   },
   {
@@ -215,7 +165,7 @@ const PRODUCTS = [
       "Cor": "branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-70L-Elgin-Revers%C3%ADvel-Compartimento/dp/B0FNY36KPD/ref=zg_bs_g_16745429011_d_sccl_49/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
+    "last_checked_at": "2026-07-16T22:49:59.000Z",
     "spotlight": false
   },
   {
@@ -225,7 +175,7 @@ const PRODUCTS = [
     "canonical": null,
     "category": "Frigobares",
     "price_current": 749.0,
-    "price_original": null,
+    "price_original": 854.05,
     "parcelamento": null,
     "tem_selo_prime": false,
     "avaliacao": 5.0,
@@ -240,7 +190,7 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Preto/dp/B0GJFGN88Z/ref=zg_bs_g_16745429011_d_sccl_50/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T22:42:42.000Z",
-    "spotlight": false
+    "last_checked_at": "2026-07-16T22:49:59.000Z",
+    "spotlight": true
   }
 ];
