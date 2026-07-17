@@ -428,92 +428,135 @@ function discountBadge(pct, size) {
 
 function pick(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
 
-function extractKeyword(title) {
-  const words = title.split(/[\s,]+/).filter(w => w.length > 4);
-  return words.length > 2 ? words.slice(0, 2).join(" ") : null;
+function detectProductType(title) {
+  const t = title.toLowerCase();
+  if (t.includes("whisky") || t.includes("whiskey") || t.includes("jameson") || t.includes("bourbon") || t.includes("maker")) return "bebida";
+  if (t.includes("notebook") || t.includes("gamer") && (t.includes("lenovo") || t.includes("acer") || t.includes("dell"))) return "notebook";
+  if (t.includes("placa") && (t.includes("video") || t.includes("gpu") || t.includes("rx") || t.includes("rtx"))) return "placa_video";
+  if (t.includes("fone") || t.includes("headphone") || t.includes("ouvido")) return "fone";
+  if (t.includes("caixa") && (t.includes("som") || t.includes("jbl") || t.includes("partybox"))) return "caixa_som";
+  if (t.includes("tv") || t.includes("smart tv")) return "tv";
+  if (t.includes("smartwatch") || t.includes("galaxy fit")) return "smartwatch";
+  if (t.includes("streaming") || t.includes("roku")) return "streaming";
+  if (t.includes("ar condicionado") || t.includes("split")) return "ar_condicionado";
+  if (t.includes("lavadora") || t.includes("roupas") || t.includes("maquina") && t.includes("lavar")) return "eletro";
+  if (t.includes("sanduicheira") || t.includes("grill") || t.includes("panela") || t.includes("pressão")) return "cozinha";
+  if (t.includes("pote") || t.includes("vidro") || t.includes("tampa")) return "cozinha";
+  if (t.includes("garrafa") || t.includes("termica") || t.includes("stanley")) return "cozinha";
+  if (t.includes("cápsula") || t.includes("dolce gusto") || t.includes("nescafé")) return "cozinha";
+  if (t.includes("filtro") || t.includes("purificador") || t.includes("refil")) return "eletro";
+  if (t.includes("suporte") && t.includes("tv")) return "acessorio_tv";
+  if (t.includes("escadinha") || t.includes("degraus")) return "infantil";
+  if (t.includes("pilha") || t.includes("carregador") || t.includes("duracell") || t.includes("bateria")) return "pilha";
+  if (t.includes("máscara") || t.includes("shampoo") || t.includes("cabelo") || t.includes("rapunzel") || t.includes("lola")) return "beleza";
+  if (t.includes("saco") && t.includes("roupas")) return "casa";
+  return "generico";
+}
+
+function analysisForType(type, p, desconto, nota, reviews) {
+  const valor = fmtPrice(p.price_current);
+  const analyses = {
+    placa_video: [
+      `Para quem busca montar ou atualizar o PC gamer, essa placa de vídeo entrega desempenho sólido em 1080p e 1440p com tecnologias como ray tracing e AMD FSR. Ideal para jogos atuais e futuros,`,
+      `Uma placa de vídeo que equilibra bem custo e performance para jogos. Com 8GB de VRAM, aguenta títulos pesados sem gargalos. Perfeita para quem quer jogar no ultra sem estourar o orçamento,`
+    ],
+    notebook: [
+      `Notebook gamer com placa de vídeo dedicada que roda os principais jogos competitivos e AAA. Além de jogar, também serve para edição de vídeo e trabalho pesado graças ao processador de alta performance,`,
+      `Ideal para quem precisa de um notebook potente tanto para trabalho quanto para lazer. A combinação de processador rápido com GPU dedicada garante fluidez em multitarefas e games,`
+    ],
+    bebida: [
+      `Um clássico entre os destilados, perfeito para quem aprecia um bom drink ou quer presentear com estilo. De sabor marcante e finalização suave, agrada tanto iniciantes quanto conhecedores,`,
+      `Reconhecido mundialmente pela qualidade, esse whiskey entrega uma experiência de sabor única. Ótimo para degustar puro, com gelo ou em coquetéis. Uma excelente adição ao seu bar,`
+    ],
+    fone: [
+      `Fone de ouvido ideal para o dia a dia, com bateria de longa duração e som de qualidade. Confortável para usar por horas, seja no trabalho, nos estudos ou se exercitando,`,
+      `Perfeito para quem passa muito tempo em chamadas ou ouvindo música. O som é equilibrado com graves presentes, e o conforto permite uso prolongado sem cansar,`
+    ],
+    caixa_som: [
+      `Caixa de som portátil que transforma qualquer ambiente em festa. O som potente preenche o espaço com qualidade, e a bateria de longa duração acompanha o rolê do início ao fim,`,
+      `Ideal para festas e confraternizações, essa caixa de som entrega graves profundos e volume de sobra. A resistência a respingos permite usar em áreas externas sem preocupação,`
+    ],
+    tv: [
+      `Smart TV com qualidade de imagem 4K e recursos inteligentes que facilitam o dia a dia. O sistema operacional é rápido e oferece acesso a todos os principais aplicativos de streaming,`,
+      `Uma TV que entrega boa qualidade de imagem com 4K e HDR, ideal para assistir filmes, séries e jogar. O design sem bordas valoriza a decoração da sala,`
+    ],
+    smartwatch: [
+      `Smartwatch completo para monitorar sua saúde e atividades físicas sem gastar muito. A tela é nítida e os sensores ajudam a acompanhar seus treinos e qualidade do sono,`,
+      `Ideal para quem quer começar a monitorar a saúde de forma prática. Leve e confortável no pulso, acompanha seus passos, calorias e notificações do celular,`
+    ],
+    streaming: [
+      `Transforma qualquer TV antiga em uma smart TV completa. Acesso a Netflix, Prime Video, Globoplay e centenas de canais gratuitos. Instalação simples e controle remoto com comando de voz,`,
+      `O dispositivo de streaming mais prático para quem quer cortar a TV por assinatura. Plug and play, cabeça na entrada HDMI e pronto — sua TV vira smart na hora,`
+    ],
+    ar_condicionado: [
+      `Ar condicionado com tecnologia inverter que economiza energia sem abrir mão do conforto. A função WindFree evita o vento direto, ideal para quem tem bebês ou pessoas sensíveis em casa,`,
+      `Sistema de climatização inteligente que aprende sua rotina e ajusta a temperatura automaticamente. Silencioso e econômico, é a escolha certa para quem busca conforto térmico sem susto na conta de luz,`
+    ],
+    eletro: [
+      `Eletrodoméstico que facilita a rotina de casa com eficiência e praticidade. O design moderno e as funções inteligentes economizam tempo no dia a dia,`,
+      `Perfeito para quem busca praticidade nas tarefas domésticas. Com tecnologia atual, entrega bons resultados gastando menos energia e água,`
+    ],
+    cozinha: [
+      `Item essencial para quem ama cozinhar e quer praticidade na cozinha. O material de qualidade garante durabilidade e facilidade na hora de limpar,`,
+      `Ideal para preparar receitas do dia a dia com mais praticidade. O design funcional e os materiais de qualidade fazem diferença no resultado final,`
+    ],
+    acessorio_tv: [
+      `Suporte universal que se adapta a praticamente qualquer TV do mercado. Instalação simples e segura, libera espaço no móvel e deixa a sala com visual mais clean,`,
+      `Solução prática e segura para fixar sua TV na parede. Com capacidade para até 100kg, é compatível com a maioria dos modelos e vem com kit de instalação completo,`
+    ],
+    infantil: [
+      `Escadinha infantil que ajuda as crianças a alcançarem a pia e o vaso sanitário com segurança. Antiderrapante e estável, dá autonomia para os pequenos no dia a dia,`,
+      `Item prático para famílias com crianças pequenas. Ajuda na hora do banho, escovação dos dentes e criação de independência. A base larga garante estabilidade,`
+    ],
+    pilha: [
+      `Essencial para manter controles, brinquedos e dispositivos sempre funcionando. Boa durabilidade e ótimo custo-benefício para quem usa pilhas com frequência,`,
+      `Kit de pilhas com excelente relação entre preço e quantidade. Ideal para quem tem muitos aparelhos em casa e não quer ficar comprando pilha toda semana,`
+    ],
+    beleza: [
+      `Produto profissional para cuidar dos cabelos em casa com resultado de salão. A fórmula trata profundamente os fios danificados devolvendo brilho e maciez,`,
+      `Ideal para quem busca tratar os cabelos com produtos de qualidade profissional. A combinação de ativos nutritivos recupera a vitalidade dos fios,`
+    ],
+    casa: [
+      `Item prático que facilita a organização da casa. Funcional e reutilizável, ajuda a proteger suas roupas e prolongar a vida útil dos tecidos,`,
+      `Solução inteligente para o dia a dia. Prático de usar e fácil de limpar, resolve aquele problema chato e ainda é reutilizável,`
+    ],
+    generico: [
+      `Produto versátil que atende bem o que se propõe. Boa avaliação dos compradores mostra que entrega o que promete,`,
+      `Uma escolha acertada para quem busca o melhor custo-benefício. Avaliado positivamente por quem já comprou,`
+    ]
+  };
+  const typeAnalyses = analyses[type] || analyses.generico;
+  return pick(typeAnalyses);
 }
 
 function generateSummary(p) {
-  const cat = p.category || "diversos";
   const desconto = discountPercent(p);
   const nota = p.avaliacao || 0;
   const reviews = p.qtd_avaliacoes || 0;
-  const keyword = extractKeyword(p.title);
+  const type = detectProductType(p.title);
 
-  const sdesconto = [
-    `com ${desconto}% de desconto`,
-    `em oferta com ${desconto}% off`,
-    `pela metade do preço original`,
-    `saindo por apenas R$ ${fmtPrice(p.price_current)}`,
-    `com super desconto de ${desconto}%`
-  ];
+  let txt = analysisForType(type, p, desconto, nota, reviews);
 
-  const srating1 = [
-    `bem avaliado (${nota}/5) por ${reviews} clientes`,
-    `nota ${nota}/5 em ${reviews} avaliações`,
-    `aprovado por ${reviews} compradores com nota ${nota}/5`
-  ];
-
-  const srating2 = [
-    `com nota ${nota}/5 dos compradores`,
-    `bem avaliado por quem comprou`,
-    `com ótima reputação entre os clientes`
-  ];
-
-  const sreviews = [
-    `já são mais de ${(reviews/1000).toFixed(0)} mil avaliações positivas`,
-    `mais de ${(reviews/1000).toFixed(0)} mil clientes aprovaram`,
-    `${(reviews/1000).toFixed(0)} mil compradores já adquiriram`
-  ];
-
-  const sreviews2 = [
-    `avaliado por ${reviews} clientes`,
-    `${reviews} compradores já experimentaram`,
-    `já são ${reviews} avaliações`
-  ];
-
-  const send = [
-    `Imperdível, corre que o estoque voa!`,
-    `Aproveita antes que o preço suba.`,
-    `Melhor hora pra comprar, não perca!`,
-    `Garanta já na Amazon.`,
-    `Estoque limitado, garanta o seu!`,
-    `Não fique de fora, compre agora.`
-  ];
-
-  const sdescontoNull = [
-    `Preço competitivo que cabe no bolso`,
-    `Custo-benefício imperdível`,
-    `Vale cada centavo pelo que entrega`
-  ];
-
-  const aberturas = [
-    `Se você busca ${keyword ? `um ${keyword}` : "qualidade"}, esta é a hora certa`,
-    `Pra quem quer economizar, esse produto`,
-    `Dica do dia para a categoria ${cat}`,
-    `${keyword ? keyword.charAt(0).toUpperCase() + keyword.slice(1) : "Este produto"} é a pedida certa para quem não abre mão de qualidade`
-  ];
-
-  let txt;
-
-  if (desconto) {
-    const abertura = desconto >= 30
-      ? pick([`Oferta relâmpago`, `Imperdível`, `O melhor desconto do dia`, `Queima de estoque`])
-      : pick([`Oportunidade única`, `Vale a pena`, `Economia garantida`]);
-    txt = `${abertura} na categoria ${cat}! ${pick(sdesconto)}`;
-    if (nota >= 4.5 && reviews >= 1000) txt += ` e ${pick(srating1)}.`;
-    else if (nota >= 4.5) txt += ` e ${pick(srating2)}.`;
-    else if (reviews >= 1000) txt += `. ${pick(sreviews)}.`;
-    else txt += `. ${pick(sreviews2)}.`;
+  if (desconto && desconto >= 20) {
+    txt += ` com ${desconto}% de desconto —`;
+  } else if (desconto) {
+    txt += ` com preço especial —`;
   } else {
-    txt = `${pick(aberturas)}. `;
-    if (nota >= 4.5 && reviews >= 1000) txt += `${pick(sdescontoNull)} e ainda ${pick(srating1)}.`;
-    else if (nota >= 4.5) txt += `${pick(sdescontoNull)} e ${pick(srating2)}.`;
-    else if (reviews >= 1000) txt += `Já ${pick(sreviews)}.`;
-    else txt += `${pick(sdescontoNull)}.`;
+    txt += ` —`;
   }
 
-  txt += ` ${pick(send)}`;
+  if (nota >= 4.5 && reviews >= 500) {
+    txt += ` e olha que não sou só eu que penso assim: ${nota}/5 de mais de ${(reviews/1000).toFixed(reviews >= 1000 ? 0 : 1)} mil compradores.`;
+  } else if (nota >= 4.0 && reviews >= 100) {
+    txt += ` e a reputação confirma: ${nota}/5 em ${reviews} avaliações na Amazon.`;
+  } else if (nota >= 4.5) {
+    txt += ` com nota ${nota}/5 de quem já comprou.`;
+  } else if (reviews >= 500) {
+    txt += ` já são mais de ${(reviews/1000).toFixed(0)} mil avaliações.`;
+  } else {
+    txt += ` vale a pena conferir.`;
+  }
+
   return txt;
 }
 
