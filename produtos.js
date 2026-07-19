@@ -404,7 +404,7 @@ const PRODUCTS = [
     "canonical": null,
     "category": "Ofertas do dia",
     "price_current": 76.9,
-    "price_original": 6.41,
+    "price_original": 136.90,
     "parcelamento": "2x de R$ 38,45",
     "tem_selo_prime": true,
     "tem_oferta": true,
