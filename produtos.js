@@ -16,7 +16,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCLXRD5X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": true
   },
   {
@@ -25,7 +25,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41q3C2LevmL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 336.98,
+    "price_current": 311.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -36,7 +36,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJ345V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": true
   },
   {
@@ -56,7 +56,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP1251TD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": true
   },
   {
@@ -76,7 +76,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHMB2W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": true
   },
   {
@@ -96,7 +96,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0876YDWVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": true
   },
   {
@@ -116,7 +116,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B084R94R4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": true
   },
   {
@@ -136,7 +136,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B086WWQX1S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -156,7 +156,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B00HGNXC8Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -176,7 +176,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B08NWQHGR4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -196,7 +196,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0D7NPF9Z2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -216,7 +216,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09B929QDL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -225,18 +225,18 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41rECLQvLwL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 750.0,
+    "price_current": 659.0,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
     "tem_oferta": true,
     "avaliacao": 4.5,
-    "qtd_avaliacoes": 974,
+    "qtd_avaliacoes": 975,
     "coupon_code": null,
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSR6FFD8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -256,7 +256,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07CZ3R2P8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -276,7 +276,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0798XT2VK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -296,7 +296,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLQJJ47J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -316,7 +316,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFRRSW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -336,7 +336,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07GWXBGYS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -356,7 +356,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7C9HXGL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -376,7 +376,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3Y8Y619?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -396,7 +396,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0816YJYQB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -416,7 +416,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -436,7 +436,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -456,7 +456,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTZBQDMC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -476,7 +476,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJJ3YY9B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -496,7 +496,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07Q6LVF9J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -516,7 +516,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FK163DY6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -536,7 +536,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09KYJBZHS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -556,7 +556,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BVNK3QD5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -576,7 +576,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHRP7S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   },
   {
@@ -596,7 +596,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVPMV5D8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:14:01.000Z",
+    "last_checked_at": "2026-07-20T20:55:32.000Z",
     "spotlight": false
   }
 ];
