@@ -39,7 +39,7 @@ const PRODUCTS = [
       "Elementos de aquecimento": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCLXRD5X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -85,7 +85,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 60L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJ345V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -122,7 +122,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 agosto 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP1251TD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -173,7 +173,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Polido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHMB2W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -212,7 +212,7 @@ const PRODUCTS = [
       "Característica do material": "Perfumado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0876YDWVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -262,7 +262,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084R94R4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -305,7 +305,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40C x 50L x 0,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086WWQX1S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -351,7 +351,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00HGNXC8Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -391,7 +391,7 @@ const PRODUCTS = [
       "Forma": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08NWQHGR4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -427,7 +427,7 @@ const PRODUCTS = [
       "Marca": "Neri Shop"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D7NPF9Z2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -479,7 +479,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B929QDL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -530,7 +530,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSR6FFD8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -564,7 +564,7 @@ const PRODUCTS = [
       "Marca": "SOFT"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CZ3R2P8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -615,7 +615,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0798XT2VK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": true
   },
   {
@@ -658,7 +658,7 @@ const PRODUCTS = [
       "Dimensões do produto": "64,5P x 64,5L x 87,1A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLQJJ47J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -709,7 +709,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFRRSW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -761,7 +761,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07GWXBGYS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -808,7 +808,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7C9HXGL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -856,7 +856,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3Y8Y619?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -905,7 +905,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0816YJYQB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -945,7 +945,7 @@ const PRODUCTS = [
       "Característica Especial": "Cuidado com lã, Inverter"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -997,7 +997,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1034,7 +1034,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "3 outubro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTZBQDMC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1090,7 +1090,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJJ3YY9B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1128,7 +1128,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Q6LVF9J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1170,7 +1170,7 @@ const PRODUCTS = [
       "Peso do produto": "19,5 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FK163DY6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1224,7 +1224,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09KYJBZHS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1265,7 +1265,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BVNK3QD5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1315,7 +1315,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHRP7S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1368,7 +1368,7 @@ const PRODUCTS = [
       "Nome do Modelo": "Fogão 4 Bocas Efficient Mesa Vidro Tripla Chama E PerfectCook"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVPMV5D8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1422,7 +1422,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CZ7DCH9X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1469,7 +1469,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3CLH7M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1502,7 +1502,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "15 janeiro 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GH1ZWV98?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1554,7 +1554,7 @@ const PRODUCTS = [
       "Local de acesso": "Superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWFNV422?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1612,7 +1612,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BDR1P7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1664,7 +1664,7 @@ const PRODUCTS = [
       "Característica Especial": "Altura ajustável, Tela digital"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8MGCTT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1703,7 +1703,7 @@ const PRODUCTS = [
       "Tipo de Fechamento": "Sem fechamento"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D27Q2HJZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1750,7 +1750,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F2JMT8MN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1799,7 +1799,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "GÁS GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076JLW8D5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1840,7 +1840,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08L9RHPCF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1890,7 +1890,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3DM5Y2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1931,7 +1931,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "preto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0886H2HQ4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -1980,7 +1980,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3Y61JMT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2032,7 +2032,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CDZKFFLC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2070,7 +2070,7 @@ const PRODUCTS = [
       "Forma": "Quadrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQL4T98R?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2115,7 +2115,7 @@ const PRODUCTS = [
       "Número de Portas": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHYX6PHF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2166,7 +2166,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCYYWTVR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2216,7 +2216,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Revestido em pó"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHM85J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2268,7 +2268,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSR5R4K6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2322,7 +2322,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GX2Q8MKK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2369,7 +2369,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Glp, Gn"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G65QJC8J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2414,7 +2414,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BH75ZS8Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2464,7 +2464,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFZHJ6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2501,7 +2501,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta eficiência"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVGR4K7Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2534,7 +2534,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084RX82RT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2573,7 +2573,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Q6LXGDQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2620,7 +2620,7 @@ const PRODUCTS = [
       "Dimensões do produto": "30P x 80L x 17,6A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CMJRVJ4V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2655,7 +2655,7 @@ const PRODUCTS = [
       "Esporte": "Tiro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0899MPT63?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2710,7 +2710,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07K29F3SB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2748,7 +2748,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 59,8L x 85A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B093XZ9TLW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": true
   },
   {
@@ -2794,7 +2794,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Diversos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754J12RW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2814,7 +2814,7 @@ const PRODUCTS = [
     "description": "<ul><li>SOM VIBRANTE E POTENTE - Experimente um áudio aprimorado — vocais mais nítidos, graves mais potentes — para uma experiência Echo Dot ainda mais imersiva.</li><li>SUAS MÚSICAS E CONTEÚDOS FAVORITOS - Reproduza músicas e podcasts do Amazon Music, Apple Music, Spotify, entre outros, ou por Bluetooth em todos os ambientes da sua casa.</li><li>SEMPRE DISPONÍVEL PARA AJUDAR - Pergunte a previsão do tempo para Alexa, defina timers com sua voz, obtenha respostas e ouça piadas. Precisa de mais uns minutinhos de sono pela manhã? É só tocar no seu Echo Dot para adiar o alarme.</li><li>MAIS CONFORTO EM CASA - Controle dispositivos de casa inteligente compatíveis por voz ou com rotinas ativadas por sensores de temperatura internos. Crie rotinas para ligar o ar condicionado se a temperatura interna estiver mais quente que o ideal.</li><li>DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE - A Amazon não vende informações pessoais de clientes. O Echo Dot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone.</li><li>APROVEITE AO MÁXIMO O PAREAMENTO DE DISPOSITIVOS - Escute música na casa toda usando os dispositivos Echo compatíveis em cômodos diferentes ou crie um sistema de home theater com o Fire TV.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2858,7 +2858,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9RVFRZD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2908,7 +2908,7 @@ const PRODUCTS = [
       "Característica Especial": "Compatível com Apple AirPlay e HomeKit, Compatível com Google Home, Compatível com Alexa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FH7LY3R4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -2968,7 +2968,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Ilimitada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3014,7 +3014,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754KMGFN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3088,7 +3088,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3137,7 +3137,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D8V3QLDD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3196,7 +3196,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084S6BCJN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3216,7 +3216,7 @@ const PRODUCTS = [
     "description": "<ul><li>Evolua sua TV instantaneamente – O Fire TV Stick HD é nosso streaming stick HD mais rápido até agora, com uma navegação simplificada que leva você direto ao seu entretenimento. Leve seus filmes, séries e TV ao vivo para onde você for com o novo perfil ultraportátil. E veja tudo ganhar vida com Full HD nítido e suporte a Wi-Fi 6.</li><li>Jogue jogos Xbox – Jogue Call of Duty: Black Ops 7, Outer Worlds 2, Ninja Gaiden 4 e centenas de jogos no seu Fire TV Stick HD com Xbox Game Pass via nuvem. Assinatura do Xbox Game Pass e controle compatível necessários. Cada um deles é vendido separadamente.</li><li>A nova experiência Fire TV (lançamento 2026) – Nossa maior atualização do Fire TV tem um design novo e moderno que leva você ao seu entretenimento rapidamente. Navegue por categorias de conteúdo dedicadas e fixe mais dos seus aplicativos favoritos. Passe menos tempo procurando e mais tempo assistindo.</li><li>Todos os seus aplicativos em um só lugar – Prime Video, Netflix, YouTube, Disney+, Apple TV, HBO Max, Globoplay e outros. É fácil encontrar o que assistir entre mais de 250 mil filmes e episódios de séries, incluindo episódios de conteúdo gratuito com anúncios. Taxas de assinatura podem ser necessárias.</li><li>Nosso stick mais portátil – Fino e leve, sem bagunça. Conecta diretamente na porta HDMI da sua TV sem bloquear outras portas. Agora alimentado pela sua TV com o cabo USB-C incluso e elimina a necessidade de um adaptador de energia.</li><li>Escolhas mais inteligentes com Alexa – Encontrar o que você ama nunca foi tão fácil. Pressione o botão de voz do controle remoto e fale naturalmente para encontrar o que assistir em seus aplicativos, gerenciar sua casa inteligente ou mergulhar em praticamente qualquer tópico.</li><li>Controle remoto por voz com Alexa – Controle sua TV, soundbar e receptor compatíveis com botões dedicados para ligar/desligar e de volume. Use os botões predefinidos para abrir os principais aplicativos. Durante a configuração do dispositivo você receberá, no e-mail da sua conta Amazon, o convite para Alexa+. Caso prefira, você pode ativar Alexa+ por voz usando o controle do seu Fire TV Stick: pressione e segure o botão Alexa e fale: \"Alexa, vamos começar\" e ative Alexa+ na tela da sua TV.</li><li>Controle sua casa inteligente – Peça para Alexa dizer a previsão do tempo, diminuir as luzes, mostrar câmeras ao vivo, tocar música e muito mais com dispositivos compatíveis.</li><li>Escute por Bluetooth – Conecte seus fones de ouvido Bluetooth para escutar de forma privada e assistir TV sem incomodar quem está ao seu redor.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DVK166SV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3290,7 +3290,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8P x 89L x 51A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJTCF75W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3367,7 +3367,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3442,7 +3442,7 @@ const PRODUCTS = [
       "Dimensões do produto": "80P x 11,4L x 50A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FF6FZF9Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3489,7 +3489,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07X4JG2G4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3555,7 +3555,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3592,7 +3592,7 @@ const PRODUCTS = [
       "Marca": "intelbras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0999NKXF9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3635,7 +3635,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9R8RC1P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3682,7 +3682,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controles automotivos, Placas-mãe de computador, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DQQC61G?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3740,7 +3740,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJMHMCBZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3797,7 +3797,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3862,7 +3862,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYVNRG3B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3905,7 +3905,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0765P3DB8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3949,7 +3949,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controlador de jogos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B2YJK7KF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -3991,7 +3991,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXYD49TV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4035,7 +4035,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controle remoto da TV"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09LD48ZZ4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4104,7 +4104,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "1920 x 1200 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4SLJNFF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4140,7 +4140,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1BS14FV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4223,7 +4223,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B098YHFT9S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4249,7 +4249,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,3 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4269,7 +4269,7 @@ const PRODUCTS = [
     "description": "<ul><li>CONHEÇA O ECHO SPOT - Um despertador inteligente com som vibrante e Alexa. Sempre pronto para te ajudar a acordar, relaxar e muito mais.</li><li>DESPERTADOR INTELIGENTE PERSONALIZÁVEL - Veja facilmente a hora, a previsão do tempo e nomes de música, controle dispositivos de casa inteligente e muito mais. Personalize o display com seu design preferido de relógio e cores divertidas.</li><li>SOM POTENTE E VIBRANTE - Curta sons com vocais nítidos e graves profundos. É só pedir para Alexa reproduzir música, podcasts e audiolivros. Veja o título do que está tocando e controle sua música também por toque.</li><li>SUA VIDA MAIS FÁCIL - Crie uma rotina de Alexa para acordar aos poucos ao som de música e com iluminação gradual. Veja rapidamente a hora, confira os lembretes ou peça para Alexa dizer a previsão do tempo.</li><li>SUA CASA MAIS CONFORTÁVEL - Controle dispositivos de casa inteligente compatíveis. É só pedir para Alexa ou tocar no display para ligar ou desligar luzes inteligentes. Crie rotinas para desligar o ar-condicionado quando você sair de casa ou acender as luzes ao pôr do sol.</li><li>DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE - A Amazon não vende informações pessoais de clientes. O Echo Spot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone e controles no aplicativo.</li><li>DESENVOLVIDO PENSANDO NA SUSTENTABILIDADE - Esse dispositivo foi feito com 36% de materiais reciclados.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0C2RS4ZG6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4314,7 +4314,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controles remotos, Flash de câmera"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07LCTKD4D?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4391,7 +4391,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPPQ5T37?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4469,7 +4469,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2560 x 1600 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9B9QDNK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4529,7 +4529,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DNHGQHMY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4575,7 +4575,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B000XSG300?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4625,7 +4625,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00007ISWA?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4651,7 +4651,7 @@ const PRODUCTS = [
       "Resolução": "2160 x 1080"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4671,7 +4671,7 @@ const PRODUCTS = [
     "description": "<ul><li>Faça streaming em full HD - Curta streaming rápido em full HD. Controle tudo por voz com o controle remoto por voz com Alexa.</li><li>Pressione e peça para Alexa - Use a sua voz para facilmente buscar e iniciar filmes e séries em diversos aplicativos.</li><li>Entretenimento sem fim – Faça streaming de mais de 250.000 filmes e episódios de séries. Assista aos seus conteúdos favoritos do Prime Video, Netflix, YouTube, HBO Max, Globoplay, Disney+ e muito mais. Tarifas de assinatura podem ser aplicadas. Os botões de aplicativos podem variar.</li><li>Leve para qualquer lugar - Conecte à porta de HDMI de qualquer TV para acessar seus aplicativos de entretenimento onde você estiver.</li><li>Assista ao vivo - TV ao vivo e esportes com Prime Video, Globoplay + canais, RecordPlus, Bandplay, Sky+, Claro TV+, Vivo Play e outros. Tarifas de assinatura podem ser aplicadas.</li><li>TV grátis - assista a conteúdos gratuitos com Pluto TV, Red Bull TV e conteúdos liberados com Globoplay, RecordPlus e Bandplay.</li><li>Ouça suas músicas favoritas - Escute no Amazon Music e Spotify. Tarifas de assinatura podem ser aplicadas.</li><li>Controle sua casa inteligente - Peça para Alexa dizer a previsão do tempo, diminuir as luzes, mostrar câmeras ao vivo, tocar música e muito mais com dispositivos compatíveis.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQMT33WX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4733,7 +4733,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN1N5C7M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4777,7 +4777,7 @@ const PRODUCTS = [
       "Protocolo de conectividade": "Wi-Fi"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTT42SDP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4856,7 +4856,7 @@ const PRODUCTS = [
       "Característica Especial": "Detecção De Movimento, Giratória, Prova D'água, Visão Noturna Infravermelho, Áudio Bidirecional"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H3QJ9PX1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4897,7 +4897,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Televisão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G467TPS1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4923,7 +4923,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,46 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CP6CVJSG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -4964,7 +4964,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Televisão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084WSRXZ6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5031,7 +5031,7 @@ const PRODUCTS = [
       "Dimensões do produto": "6,8P x 112,2L x 65,4A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F5X1GYX8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5103,7 +5103,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDB9Z96L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5162,7 +5162,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "4,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTC96JJ5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5224,7 +5224,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9MT4TTZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5274,7 +5274,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "True Wireless"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DB52X2ZW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5338,7 +5338,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9QPQYL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5406,7 +5406,7 @@ const PRODUCTS = [
       "Peso do produto": "5,2 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJ7H8WLW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5478,7 +5478,7 @@ const PRODUCTS = [
       "Dimensões do produto": "11,7P x 73,3L x 45,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F38JYBZB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5513,7 +5513,7 @@ const PRODUCTS = [
       "Quantidade de embalagens do produto": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C71VM2ZS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5569,7 +5569,7 @@ const PRODUCTS = [
       "Peso do produto": "3,42 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G491Z8QR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5628,7 +5628,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido interno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DBR3DZWG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5708,7 +5708,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8P x 73L x 46A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVY9MD19?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5768,7 +5768,7 @@ const PRODUCTS = [
       "Característica Especial": "Visão noturna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B8GNV5LS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5810,7 +5810,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "GPS"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0977CLHW5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5885,7 +5885,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHWF5G76?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5931,7 +5931,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "10,4 x 12,2 x 6,7 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BX8WSXFG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -5971,7 +5971,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256HPZJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6011,7 +6011,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22,3P x 21,5L x 7,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CDJ5DQ7M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6054,7 +6054,7 @@ const PRODUCTS = [
       "Marca": "Pazie"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYQ5FP6Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6105,7 +6105,7 @@ const PRODUCTS = [
       "Dimensões do produto": "20P x 21L x 40A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QK91PTZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6151,7 +6151,7 @@ const PRODUCTS = [
       "Característica Especial": "Multiuso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09VQ39F41?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6205,7 +6205,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32P x 36,1L x 36A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZJDLT6Z?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6254,7 +6254,7 @@ const PRODUCTS = [
       "Dimensões do produto": "27,1C x 18,8L x 20,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6302,7 +6302,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22P x 21L x 42A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DFJRCJB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6347,7 +6347,7 @@ const PRODUCTS = [
       "Dimensões do produto": "24P x 17,5L x 22A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076FGHHNG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6381,7 +6381,7 @@ const PRODUCTS = [
       "Próprio para lava-louças": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCB3HLGK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6426,7 +6426,7 @@ const PRODUCTS = [
       "Nível de torragem": "Torra clara"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CN1L7B18?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6466,7 +6466,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "29 julho 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6500,7 +6500,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H7VV8XSF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6555,7 +6555,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40,3P x 30,9L x 30,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6603,7 +6603,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 7L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6651,7 +6651,7 @@ const PRODUCTS = [
       "Característica do material": "Seguro para forno, Seguro para micro-ondas, Sem BPA"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08CPW5BR2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6696,7 +6696,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Purificador de água e bandeja para copo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08X66RQ48?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6741,7 +6741,7 @@ const PRODUCTS = [
       "Borda da lâmina": "Plana"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6788,7 +6788,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Metálico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HYKFL7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6832,7 +6832,7 @@ const PRODUCTS = [
       "Característica Especial": "Desligamento automático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076MCNZX6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6872,7 +6872,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "13 dezembro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPYT6NL2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6919,7 +6919,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYVDJDC1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -6956,7 +6956,7 @@ const PRODUCTS = [
       "Dimensões do produto": "15C x 10L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CKWDY274?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7000,7 +7000,7 @@ const PRODUCTS = [
       "Característica Especial": "Antiaderente, Compatível com fogão a gás, Compatível com fogão elétrico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKG5X376?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7042,7 +7042,7 @@ const PRODUCTS = [
       "Característica Especial": "Bocal direcionador da pipoca"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BB2NCN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7098,7 +7098,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,3P x 45L x 26,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B097CJVNWS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7139,7 +7139,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256PXM8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7185,7 +7185,7 @@ const PRODUCTS = [
       "Característica Especial": "Revestimento Antiaderente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLHZNS6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7232,7 +7232,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,3P x 45L x 36,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QN1RW8K?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7274,7 +7274,7 @@ const PRODUCTS = [
       "Característica Especial": "Leve, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR5D4ZYY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7313,7 +7313,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BLP86QT3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7363,7 +7363,7 @@ const PRODUCTS = [
       "Dimensões do produto": "18P x 20L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08J8GKC5R?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7403,7 +7403,7 @@ const PRODUCTS = [
       "Informações de embalagem": "RM"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075TGQVHT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7445,7 +7445,7 @@ const PRODUCTS = [
       "Dimensões do produto": "26,5C x 7,3L x 11,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F79VGM25?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7483,7 +7483,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 15L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076JLCYFR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7530,7 +7530,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adultos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1J7P7RL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7581,7 +7581,7 @@ const PRODUCTS = [
       "Dimensões do produto": "43,2P x 50L x 32,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0921RTR6Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7619,7 +7619,7 @@ const PRODUCTS = [
       "Forma": "Cone"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B001U7EOYA?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7660,7 +7660,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escorrer Pratos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H12YQQHC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7700,7 +7700,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Uso doméstico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C7DLXV6Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7742,7 +7742,7 @@ const PRODUCTS = [
       "Característica Especial": "Desligamento automático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09CBXQFYY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7800,7 +7800,7 @@ const PRODUCTS = [
       "Característica Especial": "Parede Dupla Isolante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5TGYNPL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7854,7 +7854,7 @@ const PRODUCTS = [
       "Dimensões do produto": "45,3P x 56,9L x 33,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D3N6ZHT8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7904,7 +7904,7 @@ const PRODUCTS = [
       "Dimensões do produto": "5,5P x 5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08YHR9C4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -7952,7 +7952,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Refrigerar"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0876T4473?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8005,7 +8005,7 @@ const PRODUCTS = [
       "Dimensões do produto": "36,3P x 25,2L x 28,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8042,7 +8042,7 @@ const PRODUCTS = [
       "Característica Especial": "Antiaderente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09W4CSX53?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8087,7 +8087,7 @@ const PRODUCTS = [
       "Característica Especial": "Capacidade De 2 Litros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H4HJBMS5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8135,7 +8135,7 @@ const PRODUCTS = [
       "Característica Especial": "Tigela removível"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C4CF2F67?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8179,7 +8179,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QCVJHN5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8219,7 +8219,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08Y5LKM6W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8272,7 +8272,7 @@ const PRODUCTS = [
       "Tipo de Cafeteira": "Máquina de café expresso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B099ZJQXMF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": true
   },
   {
@@ -8314,7 +8314,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32C x 53L x 64A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G5YRSFP1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8366,7 +8366,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40,3P x 30,7L x 31,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DD1KD5JP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8421,7 +8421,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22,3P x 28,6L x 36,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08TLH52PQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8471,7 +8471,7 @@ const PRODUCTS = [
       "Característica Especial": "Preparo de xícara única"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08S1ZS6R1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8514,7 +8514,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "POLIDO"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BJH4JH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8554,7 +8554,7 @@ const PRODUCTS = [
       "Instruções de Cuidados do Produto": "Pode ser lavado na máquina de lavar louça"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYHCY6J4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8588,7 +8588,7 @@ const PRODUCTS = [
       "É elétrico": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPPXQ58T?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8638,7 +8638,7 @@ const PRODUCTS = [
       "Dimensões do produto": "21P x 23L x 38,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07RRDLZQY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8685,7 +8685,7 @@ const PRODUCTS = [
       "Modelos de Telefone Compatíveis": "Notebook"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086CB6BXW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8747,7 +8747,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 49L x 120A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CG8J3N2H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8835,7 +8835,7 @@ const PRODUCTS = [
       "Material da moldura": "Metal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYQF5DPD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8868,7 +8868,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil e moderno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09963FWYX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8930,7 +8930,7 @@ const PRODUCTS = [
       "Dimensões do produto": "47P x 50L x 100A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BCXBC2W4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -8989,7 +8989,7 @@ const PRODUCTS = [
       "Dimensões do produto": "19C x 760L x 220Espessura milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075XMH39C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9053,7 +9053,7 @@ const PRODUCTS = [
       "Dimensões do produto": "77P x 25L x 59A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9092,7 +9092,7 @@ const PRODUCTS = [
       "Característica Especial": "Ajustável e Dobrável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FF4KZ1ZZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9134,7 +9134,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Sobre a mesa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1C2GCK4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9184,7 +9184,7 @@ const PRODUCTS = [
       "Marca": "VONDER"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078HFQHKX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9257,7 +9257,7 @@ const PRODUCTS = [
       "Característica Especial": "MDP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089Y3S71L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9307,7 +9307,7 @@ const PRODUCTS = [
       "Característica Especial": "Não é necessário Box Spring, Espaço de Armazenamento e Montagem Fácil"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZ98XMN9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9347,7 +9347,7 @@ const PRODUCTS = [
       "Característica Especial": "Articulada, Compatível Com Home Office, Dobrável, Portátil, Suporte Para Tablet"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FNNHKML3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9385,7 +9385,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2RLZN4M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9422,7 +9422,7 @@ const PRODUCTS = [
       "Peso do produto": "7,1 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXH6Y9G8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9467,7 +9467,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C5N6ST9L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9517,7 +9517,7 @@ const PRODUCTS = [
       "Característica Especial": "Empilhável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0788PY5PP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9592,7 +9592,7 @@ const PRODUCTS = [
       "Dimensões do produto": "56P x 65L x 120A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYQQXNK7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9626,7 +9626,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "20 abril 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GXX1CNPX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9680,7 +9680,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 72,5L x 54,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F8P7V1VB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9739,7 +9739,7 @@ const PRODUCTS = [
       "Limite de peso": "260 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B8ZF9DR3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9805,7 +9805,7 @@ const PRODUCTS = [
       "Peso do produto": "15 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CSD46QVZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9856,7 +9856,7 @@ const PRODUCTS = [
       "Limite de peso": "260 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B081NL17WS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": true
   },
   {
@@ -9896,7 +9896,7 @@ const PRODUCTS = [
       "Dimensões do produto": "38P x 33L x 56A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076X7T36F?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -9972,7 +9972,7 @@ const PRODUCTS = [
       "Dimensões do produto": "51P x 51L x 90,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXV6YGZQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10035,7 +10035,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 60L x 30A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ9XGMTQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10098,7 +10098,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 54L x 72A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075XM6DKH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10144,7 +10144,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "1 Count"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H37C1TWT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10197,7 +10197,7 @@ const PRODUCTS = [
       "Dimensões do produto": "62P x 59L x 33A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJCDRXJ4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10234,7 +10234,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Polipropileno (PP), Bambu"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D1S8ZFHT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10272,7 +10272,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Sobre a mesa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H3788T72?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10314,7 +10314,7 @@ const PRODUCTS = [
       "Material": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07BYGC56C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10379,7 +10379,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Pintada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076X58FPZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10415,7 +10415,7 @@ const PRODUCTS = [
       "Marca": "LUVINco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9PRYS4D?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10464,7 +10464,7 @@ const PRODUCTS = [
       "Característica Especial": "Pesado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CMJ9PYB9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10528,7 +10528,7 @@ const PRODUCTS = [
       "Dimensões do produto": "58P x 93L x 57A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9MSVSSP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10573,7 +10573,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável, Pés antiderrapantes"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B5S9HH3X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10608,7 +10608,7 @@ const PRODUCTS = [
       "Característica Especial": "Ultra-fino, Antiderrapante, Veludo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XNCLQBW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10686,7 +10686,7 @@ const PRODUCTS = [
       "Dimensões do produto": "50P x 60L x 126A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FKPKCS47?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10719,7 +10719,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWFL1L5Z?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10777,7 +10777,7 @@ const PRODUCTS = [
       "Peso do produto": "13 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CNP53LRK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10815,7 +10815,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável, Leve"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPGGHJMZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10876,7 +10876,7 @@ const PRODUCTS = [
       "Característica Especial": "Ortopédico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H6GS5PGK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10938,7 +10938,7 @@ const PRODUCTS = [
       "Dimensões do produto": "36P x 86L x 75A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07J6BXSNN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -10974,7 +10974,7 @@ const PRODUCTS = [
       "Método de refrigeração": "Ar"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9B4TQVP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11024,7 +11024,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Computadores pessoais, Notebooks"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B091B4SWR7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11062,7 +11062,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Porta-sabonete líquido, Porta-escova de dentes, Saboneteira, Porta Algodão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CBQLV32W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11137,7 +11137,7 @@ const PRODUCTS = [
       "Tipo de quarto": "6 meses contra defeitos de fabricação"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQ3NPN9R?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11173,7 +11173,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Porta Sabonete Líquido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXT573B1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11224,7 +11224,7 @@ const PRODUCTS = [
       "Peso do produto": "12 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP4XDWHF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11264,7 +11264,7 @@ const PRODUCTS = [
       "Montagem necessária": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCSQJCKQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11316,7 +11316,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32P x 52L x 170A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CMJCQGGN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11364,7 +11364,7 @@ const PRODUCTS = [
       "Marca": "Buba"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08JGF668H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11409,7 +11409,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "All Ages"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B094BQD6PG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11478,7 +11478,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "MDP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D8R1TNPX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11521,7 +11521,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33P x 109L x 54A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H4RWMDY1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11559,7 +11559,7 @@ const PRODUCTS = [
       "Característica Especial": "Desmontável, Organizador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSCC344G?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11629,7 +11629,7 @@ const PRODUCTS = [
       "Dimensões do produto": "70P x 66L x 128A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XM8KGBB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11691,7 +11691,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Laminada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GGCCH7HL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11746,7 +11746,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 48L x 130A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FYMRR5YK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11815,7 +11815,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPJ52LSR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11882,7 +11882,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVSVS9WH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11963,7 +11963,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR5NSCF7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -11989,7 +11989,7 @@ const PRODUCTS = [
       "Nome do Modelo": "iPhone 16e"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12052,7 +12052,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN2L3DZZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12113,7 +12113,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCYP5FB2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12159,7 +12159,7 @@ const PRODUCTS = [
       "Nome do Modelo": "iPhone 16"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": true
   },
   {
@@ -12218,7 +12218,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPHYC9FQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12288,7 +12288,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DQQCGG3Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12349,7 +12349,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9DBZ5T?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12421,7 +12421,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHWFBYVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12492,7 +12492,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12557,7 +12557,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "5,3 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GKQTCXL8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12608,7 +12608,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZDVS62S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12634,7 +12634,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQJ2KJ9X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12699,7 +12699,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "4,1 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSY665M3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12757,7 +12757,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN3WDS7B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12818,7 +12818,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "512 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQD3W1R4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12878,7 +12878,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,5 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1H78X95?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12930,7 +12930,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WKPK952?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -12991,7 +12991,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074L9L5KZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13049,7 +13049,7 @@ const PRODUCTS = [
       "Tamanho": "Grande"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F2N7L7HQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13093,7 +13093,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0765KZ264?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13144,7 +13144,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074HMBWQG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13197,7 +13197,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Proteção contra curto-circuito, Sem emaranhado, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F5XBMGB5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13260,7 +13260,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CHJXCJTW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13318,7 +13318,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido externo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQX6NNVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13374,7 +13374,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4L1SBV3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13415,7 +13415,7 @@ const PRODUCTS = [
       "Descrição do Teclado": "Multimídia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPTK4P38?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13458,7 +13458,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1G2TL8P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13516,7 +13516,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJ3BDN7T?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13567,7 +13567,7 @@ const PRODUCTS = [
       "Soquete da CPU": "Socket AM4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09VCJ171S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13614,7 +13614,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DT5383HM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13659,7 +13659,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BGJR1R3B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13721,7 +13721,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Uso diário"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJ3WFW9H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13804,7 +13804,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2112 x 1320 (WUXGA+) Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13842,7 +13842,7 @@ const PRODUCTS = [
       "Peso do produto": "150 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07K2F1B2S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13897,7 +13897,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09JKXGSLG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -13948,7 +13948,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF8VTNHM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14000,7 +14000,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C51J2ZXN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14053,7 +14053,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Proteção contra curto-circuito, Sem emaranhado, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPGPKYD4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14105,7 +14105,7 @@ const PRODUCTS = [
       "Marca": "PlusCable"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SRYF5L7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14151,7 +14151,7 @@ const PRODUCTS = [
       "Classe de banda de frequência": "Dual-Band"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00A0VCJPI?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14198,7 +14198,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Transferência de dados, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMXN4H9M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14262,7 +14262,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF2WSGF6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14307,7 +14307,7 @@ const PRODUCTS = [
       "Marca": "MD9"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HQVSXZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14353,7 +14353,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 9L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXDCCZBY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14400,7 +14400,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1C3MRMF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14459,7 +14459,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXNSTGGW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14514,7 +14514,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086J78G67?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14577,7 +14577,7 @@ const PRODUCTS = [
       "Instruções de cuidados com o produto": "Apenas lavagem à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0842XB4BN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14648,7 +14648,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DTTM47F9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14704,7 +14704,7 @@ const PRODUCTS = [
       "Tamanho da Alça": "Média"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHBJ7KPF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14756,7 +14756,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Computador pessoal, Notebook, Tablet"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07643MPGS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14814,7 +14814,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07T99CGDF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14875,7 +14875,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Brilhante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3144L7C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14911,7 +14911,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório, Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVPG6XR9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -14953,7 +14953,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVQ5ZY7D?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15018,7 +15018,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D8DPT7ZY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15060,7 +15060,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B01N35N6ZC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15109,7 +15109,7 @@ const PRODUCTS = [
       "Velocidade de Gravação": "3.0"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754JVBGJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15161,7 +15161,7 @@ const PRODUCTS = [
       "Interface de Saída de Vídeo": "HDMI, DisplayPort"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CSPRNRZC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15214,7 +15214,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Smartphones Android com por USB-C"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08HM6TLXM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15271,7 +15271,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B087CT8PWY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15330,7 +15330,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075VFWDD4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15379,7 +15379,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G1FGZMN2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15437,7 +15437,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00VB4CXLI?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15479,7 +15479,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório, Estudos, Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BLXHT5Q9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15532,7 +15532,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Flexível, Resistente a riscos e corrosão, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CLTBPP4X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15586,7 +15586,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GP36NXCM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15672,7 +15672,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7RVV292?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15711,7 +15711,7 @@ const PRODUCTS = [
       "Característica Especial": "Leitor De Cartão, Otg, Usb 3.0"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FKZPWCMF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15759,7 +15759,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "[POSSIBLE_USES]"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0779BRVVS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15807,7 +15807,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07574RT3C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15849,7 +15849,7 @@ const PRODUCTS = [
       "Dimensões do produto": "37P x 26,5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15903,7 +15903,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15944,7 +15944,7 @@ const PRODUCTS = [
       "Peso do produto": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CV2JXNH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -15985,7 +15985,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076N2S8FV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16032,7 +16032,7 @@ const PRODUCTS = [
       "Tensão": "120 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07JN19LDF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16091,7 +16091,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BB1XPG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16137,7 +16137,7 @@ const PRODUCTS = [
       "Tipo de material": "borracha nitrílica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F61QC5SR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16175,7 +16175,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Digital, Luz LED, Desligamento automático, Detecção de pressão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP9FF295?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16220,7 +16220,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Cromada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084L1CTXL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16263,7 +16263,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Embalagem, Presente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077P84NBQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16299,7 +16299,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8C x 29L x 26A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5T7JHF4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16339,7 +16339,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0776VVM73?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16376,7 +16376,7 @@ const PRODUCTS = [
       "Formato do Plugue": "Tipo N"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FW81NYQ9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16412,7 +16412,7 @@ const PRODUCTS = [
       "Estilo da cabeça": "Pacote de Variedades"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B092SPZFYT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16455,7 +16455,7 @@ const PRODUCTS = [
       "Característica Especial": "Secagem rápida, Resistente ao calor, Resistente à umidade, Resistente a impactos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SYBNBNF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16514,7 +16514,7 @@ const PRODUCTS = [
       "Característica Especial": "À prova d'água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08Y55DZXT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16548,7 +16548,7 @@ const PRODUCTS = [
       "Pressão Máxima de Operação": "170"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2BSP78P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16623,7 +16623,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "Sem fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XLML2YS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16664,7 +16664,7 @@ const PRODUCTS = [
       "Dimensões do produto": "11L x 11A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089KV37SZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16731,7 +16731,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Resolução HD, Sensor de imagem, Sensor de movimento"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09Q3JVDYS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16781,7 +16781,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "water_resistant"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0794JC71P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16815,7 +16815,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "15 agosto 2019"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07WDMV4WB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16861,7 +16861,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área externa, Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DY3214JL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16910,7 +16910,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "plástico, vidro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BJ82Z6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16949,7 +16949,7 @@ const PRODUCTS = [
       "Tipo de Conector": "Bivolt"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GFP98GKF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -16994,7 +16994,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Elétrico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077VTMHXQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17036,7 +17036,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "2 outubro 2020"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08KJN19FM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17091,7 +17091,7 @@ const PRODUCTS = [
       "Característica Especial": "Antialérgica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08MNFRVS7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17133,7 +17133,7 @@ const PRODUCTS = [
       "Tensão": "250 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078FGJ8XN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17174,7 +17174,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "22 abril 2018"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CLH9Y6X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17217,7 +17217,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Montagem no teto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H4J1Y5LF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17259,7 +17259,7 @@ const PRODUCTS = [
       "Material da Alça": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076KP7X7F?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17309,7 +17309,7 @@ const PRODUCTS = [
       "Tamanho Máximo do Mandril": "6 Milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08XQWLDKP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17372,7 +17372,7 @@ const PRODUCTS = [
       "Tipo de Conector": "Plug In"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07S14JHF2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17413,7 +17413,7 @@ const PRODUCTS = [
       "Forma do produto": "Líquido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B082WYPGVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17457,7 +17457,7 @@ const PRODUCTS = [
       "Forma": "Quadrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07DCWV2TQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17501,7 +17501,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07GH8YBGB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17534,7 +17534,7 @@ const PRODUCTS = [
       "Dimensões do produto": "26C x 8L x 29A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMYQN74L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17579,7 +17579,7 @@ const PRODUCTS = [
       "Forma do produto": "Líquido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07KJFV6C2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17614,7 +17614,7 @@ const PRODUCTS = [
       "Marca": "VONDER"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076ZRKZK1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17661,7 +17661,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Embalagem"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0971DYR7N?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17721,7 +17721,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área externa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYPPS4VG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17768,7 +17768,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "plástico, metal, placa_de_reboco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0794668F7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17805,7 +17805,7 @@ const PRODUCTS = [
       "Usos Específicos do Produto": "Agarração, Montagem e Reparação"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0778YTF29?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17844,7 +17844,7 @@ const PRODUCTS = [
       "Comprimento do produto": "2 Centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QXL7VZL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17878,7 +17878,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "8 abril 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWJBSF8X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17916,7 +17916,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "2 novembro 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZ6TLKS3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -17989,7 +17989,7 @@ const PRODUCTS = [
       "Característica Especial": "Visão noturna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0975WWR2C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18038,7 +18038,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Parede"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078YDP9JM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18074,7 +18074,7 @@ const PRODUCTS = [
       "Peso do produto": "80 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089DJVFCP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18114,7 +18114,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CTN73L1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18152,7 +18152,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "25 março 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GTWV96VY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18194,7 +18194,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "8 março 2018"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07BB2FJZG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18235,7 +18235,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Metal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0785W3BLR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18274,7 +18274,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076YK72YJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18315,7 +18315,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07MLQ34YP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18363,7 +18363,7 @@ const PRODUCTS = [
       "Soquete da CPU": "Socket AM5"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKFMSMYK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18406,7 +18406,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33,5P x 28L x 29,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L8SJLXN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18444,7 +18444,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLDF8C1P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18483,7 +18483,59 @@ const PRODUCTS = [
       "Volume líquido": "1 Onças líquidas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0918FHY6P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GND7R7Z8",
+    "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 24.000 Btus Frio 220v R-32",
+    "image": "https://m.media-amazon.com/images/I/51XtHBetEOL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 3899.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 5,
+    "coupon_code": null,
+    "description": "<ul><li>Comando de Voz AI</li><li>Wi-Fi ThinQ Integrado</li><li>Economia Energia 70%</li><li>Refrigeração Rápida 40%</li><li>Dual Inverter AI</li></ul>",
+    "informacoes_produto": {
+      "Potência de refrigeração": "24000 BTUs",
+      "Características especiais": "Controlado Remotamente, Activado por WiFi",
+      "Cor": "Branco",
+      "Nível de ruído": "45,43 Decibéis",
+      "Tipo de inversor": "Possui Inversor",
+      "Tipo de instalação": "Split",
+      "Requer Unidade Externa": "Sim",
+      "Voltagem": "220 Volts",
+      "Fonte de energia": "Alimentado por energia elétrica",
+      "Potência": "1790 watts",
+      "Dimensões do item P x L x A": "0,7P x 2L x 1A Metros",
+      "Peso do item": "43 Quilogramas",
+      "Método de controle": "Aplicação, Remoto, Voz",
+      "Tipo de controle": "Controle remoto",
+      "Fator de forma": "Split",
+      "Nome da marca": "LG",
+      "Nome do modelo": "SPLIT LG HW DUAL VOICE AI 24K 220V F INV R32.",
+      "Número do modelo": "S3UQ24K231C.EB2GAM1",
+      "Componentes incluídos": "evaporadora, condensadora",
+      "Fabricante": "LG",
+      "Contagem de unidades": "1 Contagem",
+      "País de origem": "Brasil",
+      "Descrição da garantia": "12 meses",
+      "ASIN": "B0GND7R7Z8",
+      "Eficiência": "A",
+      "Consumo de energia anual": "766,43 Kilowatt Hours Per Year",
+      "Capacidade": "43 quilogramas",
+      "Marca": "LG",
+      "Energia de resfriamento": "24000 BTUs",
+      "Característica Especial": "Controlado Remotamente, Activado por WiFi",
+      "Dimensões do produto": "0,7P x 2L x 1A Metros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GND7R7Z8?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18523,7 +18575,7 @@ const PRODUCTS = [
       "Característica Especial": "Cuidado com lã, Inverter"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18569,7 +18621,7 @@ const PRODUCTS = [
       "Dimensões do produto": "25P x 33L x 36,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GNCJSWF5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18609,7 +18661,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18664,7 +18716,7 @@ const PRODUCTS = [
       "Dimensões do produto": "1,89P x 8,37L x 3,07A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GPSGMTDJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18712,7 +18764,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Ultra macia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7J2KKFW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18767,7 +18819,7 @@ const PRODUCTS = [
       "Recomendação de superfície": "Tapete"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFBBHP4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18804,7 +18856,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Interior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTNWV5F9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18848,7 +18900,86 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09GSR58JF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H6QJG8FK",
+    "title": "Jogo de Panelas 13 Peças Antiaderente com Panela de Pressão",
+    "image": "https://m.media-amazon.com/images/I/61Il-23kYGL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 589.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 56,
+    "coupon_code": null,
+    "description": "<ul><li>Kit Tramontina Turim 13 peças com antiaderente Starflon Max, mais praticidade para sua cozinha</li><li>Peças em alumínio com antiaderente Starflon Max, que cozinham rápido, não grudam e facilitam a limpeza.</li><li>Peças em alumínio com antiaderente Starflon Max, que cozinham rápido, não grudam e facilitam a limpeza.</li><li>Pode ir à lava-louças e acompanha utensílios de nylon ideais para preparar e servir refeições.</li><li>Panela de pressão Tramontina Vancouver 4,5L com antiaderente Starflon Max vermelho, segura, resistente e ideal para cozinhar sem grudar.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Tramontina",
+      "Número de peças": "13",
+      "Componentes incluídos": "01 Assadeira funda, 01 Caçarola, 01 Colher, 01 Concha, 01 Espátula, 01 Pegador De Massa, 01 Fervedor/Canecão, 01 Forma Para Torta, 01 Frigideira Para Ovo, 01 Frigideira, 01 Panela Grande, 01 Panela Pequena, 01 Panela De Pressão.",
+      "Com tampa": "Sim",
+      "Fabricante": "Tramontina",
+      "Número do modelo": "20297055",
+      "País de origem": "Brasil",
+      "ASIN": "B0H6QJG8FK",
+      "Material": "Alumínio, Baquelite, Vidro Temperado e inox.",
+      "O item pode ser lavado na máquina de lavar louça?": "Sim",
+      "Características especiais": "Antiaderente",
+      "Cor": "Preto",
+      "O forno é seguro": "Sim",
+      "Marca": "Tramontina",
+      "Próprio para lava-louças": "Sim"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H6QJG8FK?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B081DJZRC9",
+    "title": "Ar Condicionado Split Cassete Gree G-Prime Compact Inverter 36000 BTU/h Frio Monofásico GULD36T1/A-S – 220 Volts",
+    "image": "https://m.media-amazon.com/images/I/513zoogzzGL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 7394.2,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 1,
+    "coupon_code": null,
+    "description": "<ul><li>Sistema frio eficiente e econômico</li><li>Serpentina de cobre com proteção anticorrosão: durabilidade superior</li><li>Filtro antibacteriano: ar mais limpo e saudável</li><li>Tecnologia Inverter: operação silenciosa e controle preciso da temperatura</li><li>Design elegante e moderno, ideal para residências e espaços comerciais</li></ul>",
+    "informacoes_produto": {
+      "Potência de refrigeração": "36000 BTUs",
+      "Características especiais": "Compressor inverter",
+      "Tipo de inversor": "Possui Inversor",
+      "Tipo de instalação": "Split",
+      "Tipo de Compressor": "rotary_scroll",
+      "Requer Unidade Externa": "Sim",
+      "Aplicação do Ar-Condicionado": "Residencial e Comercial",
+      "Fonte de energia": "Elétrico com fio",
+      "Eficiência": "Eficiente",
+      "Capacidade": "3 tons",
+      "Fator de forma": "Cassete",
+      "Nome da marca": "Gree",
+      "Ano de início": "2020",
+      "ASIN": "B081DJZRC9",
+      "Dimensões do item P x L x A": "68,9P x 100L x 100A centímetros",
+      "Método de controle": "Remoto",
+      "Tipo de controle": "Controle remoto",
+      "Tipo de garantia": "Limitada",
+      "Marca": "Gree",
+      "Energia de resfriamento": "36000 BTUs",
+      "Característica Especial": "Compressor inverter",
+      "Dimensões do produto": "68,9P x 100L x 100A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B081DJZRC9?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18890,7 +19021,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "88,9 x 50,8 x 40,6 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B099P1DB5N?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18926,7 +19057,7 @@ const PRODUCTS = [
       "Característica Especial": "Bloqueio do suor, Proteção durante todo o dia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G1PVKXCW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -18962,7 +19093,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07ND7SGST?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -19007,7 +19138,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9RVFRZD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -19043,7 +19174,7 @@ const PRODUCTS = [
       "Fator de Forma": "Independente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTR1FWDK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -19084,7 +19215,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Criança"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WLM2682?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -19150,7 +19281,49 @@ const PRODUCTS = [
       "Descrição do Disco Rígido": "512GB SSD"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FY3WHPDH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GLR43HBC",
+    "title": "Bicicleta Ergométrica Bike Spinning para Treino em Casa e Academia, Silenciosa, Ajustável e Confortável, Ideal para Cardio e Emagrecimento – Linha Fitness Premium",
+    "image": "https://m.media-amazon.com/images/I/61N2Tj3Ru5L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 449.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 190,
+    "coupon_code": null,
+    "description": "<ul><li>🚴 DESIGN ERGONÔMICO E CONFORTÁVEL – Bicicleta ergométrica com estrutura ajustável e confortável, ideal para treinos prolongados em casa com postura correta e melhor desempenho.</li><li>⚙️ SISTEMA DE INÉRCIA DE 6 KG – Volante de inércia de 6 kg que proporciona pedaladas mais suaves, estáveis e silenciosas, simulando a sensação de uma bicicleta de spinning profissional.</li><li>🤫 FUNCIONAMENTO SILENCIOSO – Sistema de pedal suave e silencioso, ideal para uso em apartamentos e residências sem incomodar familiares ou vizinhos.</li><li>📏 AJUSTES PERSONALIZÁVEIS – Guidão e assento com regulagem de altura e posição, adaptando-se a usuários de diferentes estaturas para treinos mais eficientes.</li><li>📊 PAINEL DIGITAL COMPLETO – Monitor LCD que exibe tempo, velocidade, distância, calorias e batimentos cardíacos para acompanhar sua evolução nos treinos.</li><li>🛡 ESTRUTURA ROBUSTA E ESTÁVEL – Construção reforçada que garante segurança e estabilidade durante treinos intensos, suportando usuários de até 150 kg.</li><li>🦶 Pedais seguros e antiderrapantes – Mais estabilidade e segurança para manter o ritmo do exercício com confiança.</li><li>💧 SUPORTE COM GARRAFINHA INCLUSA – Permite manter a hidratação sempre ao alcance durante o treino, aumentando conforto e rendimento.</li><li>🏠 SUA ACADEMIA EM CASA – Ideal para quem deseja praticidade, economia e liberdade para treinar no horário que preferir.</li><li>🔥 TREINO CARDIO COMPLETO PARA EMAGRECIMENTO – Perfeita para queima de calorias, fortalecimento cardiovascular e melhoria do condicionamento físico sem sair de casa.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Genérico",
+      "Usos recomendados do produto": "Interior",
+      "Nome do modelo": "Bicicleta Ergométrica Bike Spinning",
+      "Número do modelo": "0001",
+      "Número da peça": "0001",
+      "Fabricante": "Importado",
+      "País de origem": "China",
+      "ASIN": "B0GLR43HBC",
+      "Cor": "Preto",
+      "Características especiais": "Assento regulável, Guidão ajustável, Monitor digital com tempo, velocidade, distância e calorias, Níveis de resistência ajustáveis, Sensor de pulso integrado",
+      "Fonte de energia": "Elétrico com cabo",
+      "Mecanismo de resistência": "Magnético",
+      "Número de níveis de resistência": "5",
+      "Peso do item": "18 Quilogramas",
+      "Dimensões do item P x L x A": "85P x 45L x 110A centímetros",
+      "Recomendação de peso máximo": "150 Quilogramas",
+      "Descrição das Instruções de Montagem": "A bicicleta requer montagem inicial simples. O produto acompanha manual detalhado e todas as ferramentas necessárias, permitindo uma instalação rápida e segura para que você comece a treinar o quanto antes.",
+      "Material": "Metal",
+      "Marca": "Genérico",
+      "Fonte de alimentação": "Elétrico com cabo",
+      "Adequação do controle por rádio": "Interior"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GLR43HBC?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -19170,7 +19343,7 @@ const PRODUCTS = [
     "description": "<ul><li>ROSA AMARELO E AZUL COM FLUTAS MAMAO, BANANA E ABACAXI</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKVJ1HWB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -19216,2255 +19389,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08CNBSPBD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0CJLDWS2J",
-    "title": "Ápice Creme de Pentear África Baobá | Hidratação, Definição e Proteção Térmica para Cabelos Cacheados, Crespos e Ondulados | 500g",
-    "image": "https://m.media-amazon.com/images/I/7102phwGKcL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 28.49,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 1087,
-    "coupon_code": null,
-    "description": "<ul><li>Hidratação profunda com óleo de baobá: Rico em vitaminas A, D, E e F, nutre os fios, promovendo brilho e protegendo contra agressões externas.</li><li>Definição natural das curvaturas: Realça o movimento natural dos cabelos cacheados, crespos e ondulados, sem pesar ou deixar resíduos.</li><li>Proteção térmica eficaz: Contém ativo que forma uma película protetora, preservando a umidade e protegendo os fios do calor.</li><li>Fórmula vegana e liberada: Livre de sulfatos, parabenos, óleo mineral, sal, silicones e corantes, compatível com as rotinas No Poo e Low Poo.</li><li>Uso diário sem enxágue: Indicado para todos os tipos de curvatura, com pH balanceado entre 3,5 e 4,5, proporcionando cabelos saudáveis e definidos.</li></ul>",
-    "informacoes_produto": {
-      "Benefícios do produto": "Contém proteção térmica eficaz contra secadores e pranchas., Fórmula vegana e liberada, ideal para rotinas Low Poo e No Poo., Hidrata profundamente os fios e protege contra agressões externas., Pode ser usado diariamente, sem necessidade de enxágue., Realça a curvatura natural sem pesar, deixando os cabelos leves e definidos.",
-      "Tipo de cabelo": "Cabelos cacheados, Cabelos crespos, Cabelos ondulados, Finalização, Proteção térmica, Uso diário, Técnica de fitagem, Rotina No Poo, Rotina Low Poo",
-      "Aroma": "Baunilha",
-      "Formato do item": "Creme",
-      "Nome da marca": "APICE COSMETICOS",
-      "Fabricante": "APICE COSMETICOS",
-      "País de origem": "Brasil",
-      "Peso do item": "500 Gramas",
-      "ASIN": "B0CJLDWS2J",
-      "Volume de líquido": "500 Mililitros",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "1 Unidade",
-      "Volume do item": "500 Mililitros",
-      "Livre de tipo de material": "Livre de corantes, Livre de sal, Livre de silicones, Livre de sulfato, Livre de óleo mineral, Sem parabenos",
-      "Volume líquido": "500 Mililitros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CJLDWS2J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0D9YQNT3Y",
-    "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Branca 11kg 127V",
-    "image": "https://m.media-amazon.com/images/I/51Hw5cBatiL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 2719.15,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 94,
-    "coupon_code": null,
-    "description": "<ul><li>Mais performance de lavagem, menos água e energia</li><li>Lavagem rápida de 15 minutos para pequenas cargas</li><li>Limpeza profunda com vapor eliminando 99,9% de bactérias</li><li>Diamond Drum: delicadeza e preservação dos tecidos</li></ul>",
-    "informacoes_produto": {
-      "Capacidade": "11 quilogramas",
-      "Características especiais": "Vapor de higienização, Lavagem rápida",
-      "Local do acesso": "Carga frontal",
-      "Tipo de acabamento": "Branco",
-      "Opções de ciclo": "lavagem rápida, limpeza profunda com vapor",
-      "Tipo de controles": "Botão de pressão",
-      "Modo de operação": "Totalmente automático",
-      "Voltagem": "110 Volts",
-      "Entrada de interface humana": "Botões",
-      "Tipo de instalação": "Independente",
-      "Dimensões do item P x L x A": "55P x 60L x 85A centímetros",
-      "Peso do item": "65 Quilogramas",
-      "Profundidade do item": "55 centimeters",
-      "Cor": "Branco",
-      "Nome da marca": "Samsung",
-      "Usos recomendados do produto": "Comercial, Residencial",
-      "Nome do modelo": "WW11T",
-      "Fabricante": "Samsung",
-      "Número do modelo": "WW11T",
-      "Número da peça": "7638",
-      "Descrição da garantia": "12 meses",
-      "País de origem": "Brasil",
-      "ASIN": "B0D9YQNT3Y",
-      "Material do tambor do aparelho de lavagem de roupa": "Aço inox",
-      "Dimensões do produto": "55P x 60L x 85A centímetros",
-      "Marca": "Samsung",
-      "Característica Especial": "Vapor de higienização, Lavagem rápida",
-      "Local de acesso": "Carga frontal"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0D9YQNT3Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07JFTS6BS",
-    "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
-    "image": "https://m.media-amazon.com/images/I/510P6tjT3ZL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 119.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 18313,
-    "coupon_code": null,
-    "description": "<ul><li>2 EM 1: Pode ser utilizado como aspirador vertical ou portátil.</li><li>FILTRO LAVÁVEL: O filtro Cyclone é removível e lavável. Prático e fácil de limpar, não precisa de saco coletor.</li><li>FILTRO HEPA: Removível e lavável, retém até 99,5% dos ácaros e bactérias</li><li>POTÊNCIA DE 1100W: Alta eficiência na sucção, proporcionando uma limpeza mais rápida.</li><li>COLETOR DE PÓ TRANSLÚCIDO: Visualize quando o coletor de pó estiver cheio.</li><li>CABO ELÉTRICO COM 4 METROS: Alcança facilmente todos os cantos da sua casa.</li></ul>",
-    "informacoes_produto": {
-      "Características especiais": "2 em 1, Filtro lavável",
-      "Tipo de filtro": "Cyclone",
-      "Superfície Recomendada": "Carpete",
-      "Capacidade": "1,3 litros",
-      "Sucção máxima": "4,5 Metros",
-      "Cor": "Vermelho",
-      "Nível de ruído": "82 Decibéis",
-      "Portátil": "Sim",
-      "Utilização interior, exterior": "Área interna",
-      "Fonte de energia": "Energia elétrica",
-      "O produto é sem fio": "Não",
-      "Voltagem": "127 Volts",
-      "Potência": "1100 watts",
-      "Amperagem": "10 Amperes",
-      "Tempo de execução": "0 minuto",
-      "Fator de forma": "Vertical",
-      "Nome da marca": "MONDIAL",
-      "Componentes incluídos": "01 Aspirador de Pó; 01 Bocal Multiuso; 01 Bocal para cantos e frestas; 01 Bocal para Estofados; Manual de Instruções",
-      "Nome do modelo": "Aspirador de Pó Turbo Cycle",
-      "Número do modelo": "AP-36",
-      "País de origem": "China",
-      "Fabricante": "Mondial",
-      "Quantidade de itens": "1",
-      "Número de identificação de comércio internacional": "07899882306484",
-      "Ano de fabricação": "1900",
-      "Nome do Tipo de Produto": "Aspirador de Pó",
-      "ASIN": "B07JFTS6BS",
-      "Peso do item": "1,56 Quilogramas",
-      "Dimensões do item C x L x A": "13,5C x 23L x 109A centímetros",
-      "Método de controle": "Toque",
-      "Marca": "MONDIAL",
-      "Característica Especial": "2 em 1, Filtro lavável",
-      "Tipo de Filtro": "Cyclone",
-      "Recomendação de superfície": "Carpete",
-      "Fonte de alimentação": "Energia elétrica"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07JFTS6BS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08BN8VD23",
-    "title": "Placa Mãe Gigabyte B550M AORUS ELITE (AM4/DDR4/HDMI/M.2(PCIe,NVMe,SATA3)/VRM Solution/USB3.2) - B550M AORUS ELITE",
-    "image": "https://m.media-amazon.com/images/I/81QyMksmunL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 691.82,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 4976,
-    "coupon_code": null,
-    "description": "<ul><li>A placa mãe Z490 AORUS PRO AX usa um design de alimentação de CPU digital de 12 1 fases que inclui o controlador PWM digital e o DrMOS</li><li>Este controlador 100% digital e conectores de alimentação de CPU de 8 4 pinos sólidos adicionais oferecem incrível precisão no fornecimento de energia para os componentes mais consumidores de energia e sensíveis à energia da placa-mãe, permitindo que os entusiastas obtenham o desempenho máximo absoluto do novo Intel 10-core CPU</li><li>Marca Gigabyte</li><li>Explore a nossa gama de produtos</li><li>Capacidade de armazenamento de memória: 128.0 GB</li></ul>",
-    "informacoes_produto": {
-      "Soquete de CPU": "Soquete AM4",
-      "Dispositivos compatíveis": "Computador pessoal",
-      "Tecnologia de memória RAM": "DDR4",
-      "Processadores compatíveis": "Ryzen Series",
-      "Tipo de chipset": "AMD 550X",
-      "Velocidade do clock da memória": "4733 MHz",
-      "Plataforma": "Windows 10, Windows 11",
-      "Modelo da CPU": "AMD Ryzen 5 5600G",
-      "Capacidade de armazenamento da memória": "128 GB",
-      "Tamanho máximo da memória RAM": "128 GB",
-      "Tipo do conector de energia principal": "24 pinos",
-      "Interface da placa de vídeo": "PCI Express",
-      "Slots de memória disponíveis": "1",
-      "Número de portas": "4",
-      "Total de portas SATA": "4",
-      "Total de portas USB 2.0": "4",
-      "Total de portas USB": "8",
-      "Total de portas Ethernet": "1",
-      "Total de portas HDMI": "1",
-      "Total de portas PCIe": "3",
-      "Família do Chipset": "AMD",
-      "Nome da marca": "GIGABYTE",
-      "Nome do modelo": "B550M",
-      "Número do modelo": "B550M AORUS ELITE",
-      "Fabricante": "Gigabyte",
-      "Contagem de unidades": "1 Unidade",
-      "Número de identificação de comércio internacional": "04719331809546",
-      "Nome do Tipo de Produto": "Placa-Mãe",
-      "Peso do item": "1 Quilogramas",
-      "Número da peça": "B550M AORUS ELITE",
-      "Descrição da garantia": "12 meses",
-      "ASIN": "B08BN8VD23",
-      "Dimensões do item C x L x A": "24,4C x 24,4L x 4A centímetros",
-      "Marca": "GIGABYTE",
-      "Soquete da CPU": "Soquete AM4",
-      "Dispositivos Compatíveis": "Computador pessoal",
-      "Tecnologia da Memória RAM": "DDR4",
-      "Processadores Compatíveis": "Ryzen Series"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B08BN8VD23?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H4VFZYNG",
-    "title": "Xixaomiro Tablet Android 15 Pad 10.1\", Câmera 13MP + 5MP, Bateria 8000mAh – Kit Completo com Caneta, Mouse, Teclado e Capa, Adequado para Estudo, Trabalho e Lazer (Verde)",
-    "image": "https://m.media-amazon.com/images/I/71WYTPS9uQL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 719.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.3,
-    "qtd_avaliacoes": 68,
-    "coupon_code": null,
-    "description": "<ul><li>【High-definition Display】A 10-inch screen with a resolution of 1920×1200, presenting clear and sharp images, vivid and lively colors, as well as high-quality episode and video playback effects. The brightness can be adjusted, suitable for indoor and outdoor environments, such as balconies, courtyards and public transportation vehicles. It is comfortable and convenient to use. Dual speakers provide a balanced and immersive audio experience.</li><li>【Lida facilmente com múltiplas tarefas】Navegue rapidamente pela web e alterne entre aplicações instantaneamente. Pode abrir várias abas no navegador, assistir a vídeos, editar planilhas ou participar de reuniões no Google Meet sem qualquer atraso. Seja para trabalho em casa, estudo, jogos ou entretenimento, consegue executar diversas tarefas com excelência.</li><li>【Rapidez de resposta 】Este tablet está equipado com o sistema nativo Android 15, proporcionando uma experiência de utilização suave, interface simples e sem atrasos. O sistema responde rapidamente, oferece recursos mais robustos de proteção de privacidade e proporciona uma experiência otimizada no uso da tela.</li><li>【Original-Kit Stylus Pen】Equipped with a dedicated tip, it has a sensitive touch and a comfortable grip, ensuring precise and continuous writing experience. It is suitable for taking notes in daily classes, annotating documents, and drawing on images. The touch operation perfectly combines with the finger's habit on the screen, making it convenient to use. It is convenient for students to participate in online courses and allows for free drawing when relaxing.</li><li>【Portátil e fácil de transportar】O corpo é leve e fino, permitindo colocá-lo facilmente numa mochila, bolsa ou pasta grande. É adequado para uso ao ir ao trabalho, visitar a biblioteca, viajar ou relaxar em casa. Inclui uma capa protetora e uma bateria de 8000mAh, garantindo longa duração de energia.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "xixaomiro",
-      "Nome do modelo": "Tablet Android 15",
-      "Geração": "Android 15",
-      "Descrição da faixa etária": "Adulto",
-      "Componentes incluídos": "ablet, Carregador Cabo OTG, Película de Proteção, Caneta stylus",
-      "País de origem": "China",
-      "Descrição da garantia": "1",
-      "Número do modelo": "Pad 5",
-      "Usos específicos do produto": "Educação, Entretenimento, Trabalho",
-      "Estilo": "Moderno E Compacto",
-      "Fabricante": "xixaomiro",
-      "Configuração": "Tablet Android 15",
-      "Tamanho": "10.1 Polegadas",
-      "Contagem de unidades": "1 Unidade",
-      "Certificação de teste externa": "Não aplicável",
-      "ASIN": "B0H4VFZYNG",
-      "Interface de hardware": "Bluetooth",
-      "Tecnologia de comunicação sem fio": "Wi-fi",
-      "Tecnologia de celular": "5G",
-      "Total de portas USB": "1",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
-      "Descrição da câmera": "Câmera Frontal De 5 Mp, Traseira",
-      "Resolução do sensor fotográfico traseiro da câmara": "13 MP",
-      "Número de câmaras traseiras": "1",
-      "Formato de áudio compatível": "Mp4",
-      "Entrada de fone de ouvido": "3,5 mm",
-      "Sistema operacional": "Android 15",
-      "Cor": "verde",
-      "Fabricante da placa de vídeo": "Qualcomm",
-      "Dimensões do item C x L x Espessura": "24C x 18L x 1Espessura centímetros",
-      "Descrição da placa de vídeo": "Integrada",
-      "Tamanho da tela": "10,1 Polegadas",
-      "Resolução máxima da tela": "1920 Pixels",
-      "Tipo de tela": "LED",
-      "Resolução nativa": "1920 x 1200 pixels",
-      "Brilho máximo do visor": "800 Revestimento NIT",
-      "Taxa de Atualização da Tela em Hertz": "120",
-      "Capacidade de armazenamento da memória": "128 GB",
-      "Memória RAM instalada": "8 GB",
-      "Slots de memória disponíveis": "1",
-      "Tamanho da memória do computador": "128 GB",
-      "Tamanho do disco rígido": "128 GB",
-      "Duração da bateria": "8 Horas",
-      "Capacidade da bateria": "8000 Milliamp Hours",
-      "Composição da célula da pilha": "Polímero de lítio",
-      "Conteúdo de energia da bateria de lítio": "8000 Miliamperes Horas (mAh)",
-      "Descrição do processador": "CPU A523 Octa-core",
-      "Fabricante do modelo da CPU": "Qualcomm",
-      "Número do modelo da CPU": "A523 Octa-core",
-      "Características especiais": "Bluetooth, Câmera Frontal E Traseira, Tela Sensível Ao Toque, Wi-fi",
-      "Funcionalidade de segurança biométrica": "Reconhecimento Facial",
-      "Marca": "xixaomiro",
-      "Nome do Modelo": "Tablet Android 15",
-      "Capacidade de Armazenamento de Memória": "128 GB",
-      "Tamanho da Tela": "10,1 Polegadas",
-      "Resolução máxima do visor": "1920 Pixels"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H4VFZYNG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B09GSQMJ5T",
-    "title": "L'Oréal Professionnel Pro Longer, Máscara de Tratamento Capilar para Cabelos Finos e Afinados, Reduz Quebra e Pontas Duplas, Proporciona Brilho, Suavidade e Densidade aos Fios, 250g",
-    "image": "https://m.media-amazon.com/images/I/51Jjvh-r-vL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 148.08,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 3043,
-    "coupon_code": null,
-    "description": "<ul><li>Máscara profissional para cabelos longos que preenche as pontas, devolvendo a densidade e evitando o corte.</li><li>Com tecnologia Filler-A100 e Aminoácidos que reforçam a fibra, preenchem e fortalecem os cabelos longos.</li><li>Reduz a quebra dos fios em 94%* e diminui as pontas duplas em 66%**, para um comprimento mais uniforme.</li><li>Deixa o cabelo 5x mais brilhante*, com toque sedoso e aparência visivelmente mais saudável da raiz às pontas.</li><li>Conquiste o cabelo longo dos seus sonhos: forte, denso, com pontas preenchidas e um brilho espetacular.</li></ul>",
-    "informacoes_produto": {
-      "Formato do item": "Creme",
-      "Tipo de cabelo": "Todos",
-      "Benefícios do produto": "Trata instantaneamente pontas finas e quebradiças, fortalecendo a fibra com resultados já na 1ª aplicação.",
-      "Aroma": "Sem perfume",
-      "Additional Features": "Hipoalergênico",
-      "Contagem de unidades": "250.0 milliliters",
-      "Quantidade de itens": "1",
-      "Dimensões do artigo": "8,3 x 8,3 x 6,9 centímetros",
-      "Volume de líquido": "250 Mililitros",
-      "Peso do item": "290 Gramas",
-      "Tamanho": "250 g (Pacote de 1)",
-      "Nome da marca": "L'Oréal Professionnel Paris",
-      "Descrição da faixa etária": "Adulto",
-      "Fabricante": "L´Oreal",
-      "Número da peça": "1000096",
-      "Nome do Tipo de Produto": "Máscara de Tratamento Para Renovação de Pontas Pro Longer Serie Expert 250G",
-      "País de origem": "Brasil",
-      "ASIN": "B09GSQMJ5T",
-      "Características do material": "Sem crueldade",
-      "Marca": "L'Oréal Professionnel Paris",
-      "Forma do produto": "Creme",
-      "Característica do material": "Sem crueldade",
-      "Tipo de Cabelo": "Todos"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B09GSQMJ5T?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0C9R8RC1P",
-    "title": "Duracell Pilhas Alcalinas AAA Palito Pack 24 Unidades – Dura Mais - Ideal para Controle de Videogame e Brinquedos",
-    "image": "https://m.media-amazon.com/images/I/81clRPwJt3L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 99.65,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 2480,
-    "coupon_code": null,
-    "description": "<ul><li>Pilha Duracell Alcalina AAA que fornece mais duração e potência para os aparelhos</li><li>Dura mais, muito mais</li><li>Longa duração: As pilhas alcalinas AA Duracell duram mais que as pilhas comuns de zinco-carbono, oferecendo energia confiável e de alto desempenho</li><li>As pilhas Duracell podem manter sua capacidade energética por até 10 anos, mesmo sem uso, garantindo energia disponível quando você precisar</li><li>Projetadas para oferecer o melhor desempenho em dispositivos de uso diário, como brinquedos, lanternas, controles remotos e teclados</li></ul>",
-    "informacoes_produto": {
-      "Tipo de bateria": "24 AAA baterias necessárias. (inclusas)",
-      "Nome da marca": "Duracell",
-      "Número do modelo": "C&amp;B AAA 24",
-      "Nome do modelo": "Pilha Alcalina AAA24",
-      "UPC": "041333050461",
-      "Fabricante": "Duracell",
-      "Certificação de teste externa": "Não aplicável",
-      "Descrição da garantia": "12 meses com o fabricante",
-      "País de origem": "China",
-      "ASIN": "B0C9R8RC1P",
-      "Capacidade da bateria": "100",
-      "Voltagem": "1,5 Volts",
-      "Reutilização": "Não recarregável",
-      "Contagem de unidades": "24 unidade",
-      "Peso da bateria": "280 Gramas",
-      "Dimensões do artigo": "38 x 46 x 85 milímetros",
-      "Usos recomendados do produto": "Brinquedos, Controle de videogame, Controle remoto",
-      "Composição da célula da pilha": "Alcalina",
-      "Número de baterias": "24 AAA baterias necessárias. (inclusas)",
-      "Marca": "Duracell",
-      "Composição das células da bateria": "Alcalina",
-      "Capacidade da Bateria": "100",
-      "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0C9R8RC1P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B077BY915Y",
-    "title": "Máscara Matizadora Specialist Blonde Amend 300g",
-    "image": "https://m.media-amazon.com/images/I/51RMP-9e4fL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 29.29,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 6449,
-    "coupon_code": null,
-    "description": "<ul><li>Alta Concentração de Pigmentos: Fórmula desenvolvida com alta concentração de pigmentos para um resultado matizador eficaz</li><li>Efeito Matizador Imediato: Proporciona efeito matizador imediato nos cabelos loiros e descoloridos</li><li>Neutralização de Tons Indesejados: Neutraliza os indesejáveis tons amarelados ou alaranjados dos fios</li><li>Ingredientes Nutritivos: Com Polissacarídeos Nutri-Protetores e Extrato de Mirtilo para nutrição profunda</li><li>Fortalecimento e Recuperação: Fórmula com aminoácidos fortalecedores e antioxidantes que fortificam e recuperam os fios porosos e danificados</li></ul>",
-    "informacoes_produto": {
-      "Formato do item": "Creme",
-      "Tipo de cabelo": "Quimicamente tratados",
-      "Benefícios do produto": "Intensificação da cor",
-      "Aroma": "Sem perfume",
-      "Additional Features": "Matização para Cabelos Loiros",
-      "Tipo de pacote": "SIM",
-      "Tipo de condicionador de cabelo": "Máscara de condicionador do cabelo",
-      "Características do material": "Reciclável",
-      "Princípios ativos": "Polissacarídeos Nutri-Protetores, Extrato de Mirtilo, Aminoácidos",
-      "Usos recomendados do produto": "Recomendado para cabelos loiros",
-      "Contagem de unidades": "1 Unidade",
-      "Quantidade de itens": "1",
-      "Dimensões do artigo": "9,6 x 10,6 x 6,7 centímetros",
-      "Volume de líquido": "300 Mililitros",
-      "Peso do item": "302 Gramas",
-      "Tamanho": "300 g (Pacote de 1)",
-      "Nome da marca": "Amend",
-      "Descrição da faixa etária": "Adulto",
-      "Fabricante": "Amend",
-      "UPC": "304066490400",
-      "Número do modelo": "1155-1",
-      "Número da peça": "1155",
-      "Nome do Tipo de Produto": "Máscara Matizadora Specialist Blonde",
-      "País de origem": "Brasil",
-      "ASIN": "B077BY915Y",
-      "Marca": "Amend",
-      "Forma do produto": "Creme",
-      "Característica do material": "Reciclável",
-      "Tipo de Cabelo": "Quimicamente tratados",
-      "Vantagens do produto": "Intensificação da cor"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B077BY915Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B076CF5DFL",
-    "title": "Aquecedor A Ar, Mondial, Cinza/Branco, 2000W, 220V - A-08",
-    "image": "https://m.media-amazon.com/images/I/61Af2D6mMzL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 99.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 4520,
-    "coupon_code": null,
-    "description": "<ul><li>3 EM 1: Aquece, circula e desumidifica o ar, garantindo um ambiente quentinho e confortável;</li><li>2 NÍVEIS DE AQUECIMENTO: Controle a temperatura de acordo com sua preferência;</li><li>TRIPLO SISTEMA DE SEGURANÇA: Proteção contra superaquecimento;</li><li>MAIS SILENCIOSO: Aquece o ambiente com baixo ruído e proporciona noites tranquilas e agradáveis;</li><li>PORTÁTIL: Leve, compacto e com alça para transporte.</li></ul>",
-    "informacoes_produto": {
-      "Características especiais": "Leve, Portátil, Silencioso",
-      "Fator de forma": "Compacto Portátil",
-      "Utilização interior, exterior": "Área interna",
-      "Fonte de energia": "Elétrico com fio",
-      "Método de aquecimento": "Circulação De Ar, Convecção Forçada Por Ventilador, Desumidificação",
-      "Usos recomendados do produto": "Casa",
-      "Tipo de montagem": "Montagem no chão",
-      "Tipo de sala": "Quarto",
-      "Cobertura de aquecimento": "Ambientes Internos De Pequeno A Médio Porte",
-      "Elemento de aquecimento": "Resistência Elétrica Com Ventilador",
-      "Saída de calor": "1500 Watts",
-      "Tipo de combustível": "Elétrico",
-      "Número de velocidades": "2",
-      "Voltagem": "220 Volts",
-      "Amperagem": "10 Amperes",
-      "Cor": "Cinza/Branco",
-      "Nome da marca": "MONDIAL",
-      "País de origem": "China",
-      "Número do modelo": "A-08",
-      "Descrição da garantia": "12",
-      "Ano de fabricação": "1900",
-      "Número de identificação de comércio internacional": "07899882303186",
-      "Número da peça": "A08",
-      "Nome do Tipo de Produto": "Aquecedor a Ar",
-      "Fabricante": "Mondial",
-      "Componentes incluídos": "1 Aquecedor, 1 Manual de Instruções.",
-      "ASIN": "B076CF5DFL",
-      "Dimensões do item P x L x A": "13,4P x 22L x 26,4A centímetros",
-      "Marca": "MONDIAL",
-      "Característica Especial": "Leve, Portátil, Silencioso",
-      "Fator de Forma": "Compacto Portátil",
-      "Ambiente interno/externo": "Área interna"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B076CF5DFL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B000WLN7AM",
-    "title": "Whisky Bourbon Maker's Mark 750ml",
-    "image": "https://m.media-amazon.com/images/I/7199P9zzMGL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 119.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 3381,
-    "coupon_code": null,
-    "description": "<ul><li>Com coloração âmbar, laranja-amarelada, o bourbon tornou-se um dos destilados mais apreciados no mundo.</li><li>Diferentemente da composição do whisky tradicional, o Maker’s Mark não possui centeio na sua formulação, e sim, trigo doce e vermelho de inverno, milho e cevada.</li><li>O sucesso é fruto de um processo produtivo minucioso, que segue à risca os padrões de qualidade.</li><li>A produção é feita em baixa escala, em lotes individuais que não ultrapassam 19 barris por lote.</li><li>O Maker’s Mark é envelhecido por cerca de seis anos, depois de engarrafado é então selado em uma garrafa de forma única e selada com a cera vermelha na rolha.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Maker's Mark",
-      "Tipo alcoólico": "Bourbon",
-      "Sabor": "Chocolate",
-      "Quantidade de itens": "1",
-      "País de origem": "USA",
-      "Conteúdo alcoólico": "45 %",
-      "Descrição do conteúdo líquido": "Bebidas e destilados",
-      "Formato do item": "Garrafa",
-      "UPC": "085246342978 029147100244 085246502198 085246502204 085246139431",
-      "Número de identificação de comércio internacional": "00085246139431, 00085246342978, 00085246502198",
-      "Número do modelo": "MAKER-RED70",
-      "Número da peça": "MAKER-RED70",
-      "Item Nype Name": "Whisky Makers Mark 750Ml",
-      "Tipo de dieta": "Sem glúten",
-      "Fabricante": "Suntory Global Spirits BR",
-      "ASIN": "B000WLN7AM",
-      "Contagem de unidades": "750.0 Mililitro",
-      "Volume de líquido": "750 Mililitros",
-      "Peso do item": "127,94 Gramas",
-      "Peso do pacote": "1,3 Quilogramas",
-      "Total de pacotes": "1",
-      "Volume do item": "750 Mililitros",
-      "Informações sobre alérgenos": "Contém: Não contém glúten",
-      "Marca": "Maker's Mark",
-      "Tipo de álcool": "Bourbon",
-      "Quantidade de Unidades": "750.0 Mililitro",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B000WLN7AM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H2G38ZNW",
-    "title": "Kit 3 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 300g - Bepantol Baby",
-    "image": "https://m.media-amazon.com/images/I/61HlHA-XVpL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 132.89,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 28,
-    "coupon_code": null,
-    "description": "<ul><li>- Idade Recomendada: A partir do Nascimento - Restaura a Pele de Dentro para Fora. - Mantém a Hidratação da Pele.</li><li>- Proteção Pura e Delicada. - Clinicamente Testado. - Livre de Fragrâncias.</li><li>- Livre de Agentes Irritantes. - Livre de Parabenos. - Livre de Conservantes.</li><li>- Possui Vitamina B5. - Possui Lanolina. - Barreira Transparente.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Bepantol",
-      "Contagem de unidades": "1.0 unidade",
-      "Fabricante": "Bayer",
-      "ASIN": "B0H2G38ZNW"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H2G38ZNW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FHS18Q1N",
-    "title": "Smartphone Xiaomi Poco X7 Pro 5G NFC Preto Black 512GB ROM 12GB [2412DPC0AG] | 2412DPC0AG",
-    "image": "https://m.media-amazon.com/images/I/51C+i0RsFfL._AC_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2390,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 23,
-    "coupon_code": null,
-    "description": "<ul><li>x7 pro 512 12gb</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "HyperOs",
-      "Memória RAM instalada": "12 GB",
-      "Capacidade de armazenamento da memória": "12 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Touch",
-      "Tamanho máximo suportado pela memória flash": "512 GB",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "Cabo USB",
-      "Descrição da garantia": "90 dias",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "jogos, entretenimento",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 109372414550/ Modelo:2412DPC0AG",
-      "ASIN": "B0FHS18Q1N",
-      "Resolução": "8165 x 6124 pixel",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G, NFC",
-      "Tecnologia de rede sem fios": "NFC",
-      "Resolução do sensor fotográfico frontal": "20 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
-      "Número de câmaras traseiras": "1",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "6000 Milliamp Hours",
-      "Potência da bateria": "5110",
-      "Duração da bateria": "2,5 Dias",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "HyperOs",
-      "Tamanho instalado da memória RAM": "12 GB",
-      "Capacidade de Armazenamento de Memória": "12 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FHS18Q1N?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GN23K43X",
-    "title": "Xiaomi Smartphone Poco X8 Pro 256GB / 8GB Ram MINT GREEN (Verde) Global com NFC | Global, NFC",
-    "image": "https://m.media-amazon.com/images/I/615Hkp8u98L._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2459.89,
-    "price_original": 12499,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.3,
-    "qtd_avaliacoes": 6,
-    "coupon_code": null,
-    "description": "<ul><li>Processador de Alto Desempenho: Eleve seu limite com o novo processador Dimensity 8500-Ultra, transformando seu dia em pura eficiência e diversão sem travamentos para games pesados e multitarefas sem esforço</li><li>Tela AMOLED 120Hz de 1.5K: Desfrute de cores vibrantes e fluidez perfeita com tela AMOLED de 6,59 polegadas, 120Hz, cores intensas, excelente visibilidade e alta responsividade para entretenimento e jogos</li><li>Câmera de 50MP com OIS: Capture fotos nítidas em qualquer ocasião com a câmera traseira de 50MP Sony IMX882 equipada com estabilização óptica de imagem, proporcionando qualidade de estúdio no seu dia a dia</li><li>Bateria de 6500mAh com Carregamento Rápido 100W: Tenha liberdade total com bateria de longa duração e carregador 100W HyperCharger, eliminando pausas inesperadas e permitindo viver intensamente sem preocupações com recarga</li><li>Memória e Armazenamento Generosos: Equipado com 8GB de RAM e 256GB de armazenamento interno, oferecendo espaço amplo para aplicativos, fotos, vídeos e arquivos sem comprometer o desempenho do dispositivo</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "ANDROID",
-      "Memória RAM instalada": "8 GB",
-      "Velocidade da CPU": "3,4 GHz",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Verde Menta",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "TELA RETA",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "Resistente à água",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "01 X CABO USB-C, 01 X CAPA PROTETORA, 01 X FERRAMENTA EJETORA DE CHIP, 01 x CARREGADOR DE TOMADA PADRÃO GLOBAL(PODENDO IR COM ADAPTADOR EM ALGUNS CASOS), 01 x POCO X8 Pro 5G 256GB",
-      "Descrição da garantia": "3 MESES",
-      "Fabricante": "xiaomi",
-      "Usos específicos do produto": "Gaming, Photography, Entertainment, Multitasking",
-      "Certificação de teste externa": "Anatel: 087792509185 / Modelo: 2511FPC34G, Anatel: 087792509185",
-      "ASIN": "B0GN23K43X",
-      "Tamanho da tela": "6,59 Polegadas",
-      "Resolução": "2756 × 1268",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2756 × 1268",
-      "Densidade do pixel de exibição": "460 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, Infravermelha, NFC, Wi-fi",
-      "Tecnologia de rede sem fios": "GSM",
-      "Resolução do sensor fotográfico frontal": "20 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50.0, 8.0 MP",
-      "Número de câmaras traseiras": "2",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "6500 Milliamp Hours",
-      "Potência da bateria": "6500",
-      "Resolução de captura de vídeo": "1080p, 4k",
-      "Taxa de quadros": "30 fps, 60 fps",
-      "GPS": "true",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "ANDROID",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Velocidade do CPU": "3,4 GHz",
-      "Capacidade de Armazenamento de Memória": "256 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GN23K43X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": true
-  },
-  {
-    "asin": "B0GZLL5D74",
-    "title": "Smartphone Motorola Edge 70 PRO 5G - 256GB 24GB (12GB RAM+12GB Ram Boost), 4 câmeras de 50MP, Tela 1.5K extreme AMOLED 144Hz,",
-    "image": "https://m.media-amazon.com/images/I/61QCeDQ0JaL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3599.1,
-    "price_original": 4499,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 1,
-    "coupon_code": null,
-    "description": "<ul><li>Criado com estilo para você</li><li>4 câmeras de 50 MP</li><li>A maior bateria da categoria*</li><li>Brilho e fluidez à máxima potência*</li><li>Construído com alto padrão de resistência*</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Memória RAM instalada": "12 GB",
-      "Modelo da CPU": "Snapdragon",
-      "Velocidade da CPU": "5,6 GHz",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Azul Escuro",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Desbloqueio Facial, Impressão Digital na tela",
-      "Nível de resistência à água": "À prova d'água",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "01 Telefone",
-      "Descrição da garantia": "12 Meses",
-      "Fabricante": "Motorola",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 08822-25-00330/ Modelo: XT2607-1",
-      "ASIN": "B0GZLL5D74",
-      "Tamanho da tela": "6,8 Polegadas",
-      "Resolução": "1220 X 2712",
-      "Taxa de atualização": "144",
-      "Tipo de tela": "Extreme AMOLED",
-      "Resolução máxima da tela": "1220 X 2712",
-      "Densidade do pixel de exibição": "450 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
-      "Tecnologia de rede sem fios": "Bluetooth, Wi-Fi",
-      "Resolução do sensor fotográfico frontal": "50 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
-      "Número de câmaras traseiras": "4",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "6500 Milliamp Hours",
-      "Potência da bateria": "6500.0",
-      "Marca": "Motorola",
-      "Sistema Operacional": "Android 16",
-      "Tamanho instalado da memória RAM": "12 GB",
-      "Velocidade do CPU": "5,6 GHz"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GZLL5D74?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1NS1XQD",
-    "title": "Smartphone Xiaomi Poco X8 Pro, 512GB, 8GB RAM, Verde | NFC",
-    "image": "https://m.media-amazon.com/images/I/31j4D5njl6L._AC_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2699.84,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 2,
-    "coupon_code": null,
-    "description": "<ul><li>X8 Pro 512GB / 8GB</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Memória RAM instalada": "8 GB",
-      "Velocidade da CPU": "3,4 GHz",
-      "Capacidade de armazenamento da memória": "8 GB",
-      "Cor": "Verde",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Touch",
-      "Funcionalidade de segurança biométrica": "Impressão digital",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "À prova d'água",
-      "Resolução do sensor fotográfico frontal": "20 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50.0, 8.0 MP",
-      "Número de câmaras traseiras": "2",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "6500 Milliamp Hours",
-      "Potência da bateria": "6500",
-      "Resolução de captura de vídeo": "4k",
-      "Taxa de quadros": "120",
-      "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
-      "Tamanho da tela": "6,5 Polegadas",
-      "Resolução": "1268 x 2756",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "1268 Pixels",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G, Bluetooth, GPS, NFC, Wi-fi",
-      "Tecnologia de rede sem fios": "GSM, LTE, UMTS",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "Cabo USB",
-      "Descrição da garantia": "90 dias",
-      "Fabricante": "Xiaomi",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "Anatel: 087792509185 / Modelo: 2511FPC34G",
-      "ASIN": "B0H1NS1XQD",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "Android 16",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Velocidade do CPU": "3,4 GHz",
-      "Capacidade de Armazenamento de Memória": "8 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1NS1XQD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H2WXYRQ5",
-    "title": "Smartphone Xiaomi Redmi Note 15 Pro 5G 256GB - 8GB Ram Preto Black",
-    "image": "https://m.media-amazon.com/images/I/611imsL0sPL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2069.99,
-    "price_original": 2199,
-    "discount_percentage": 5.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 2,
-    "coupon_code": null,
-    "description": "<ul><li>Redmi Note 15 Pro 5G 512gb 8gb</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "HyperOs",
-      "Memória RAM instalada": "8 GB",
-      "Modelo da CPU": "Mediatek Dimensity 7400",
-      "Capacidade de armazenamento da memória": "8 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Touch",
-      "Tamanho máximo suportado pela memória flash": "256 GB",
-      "Resolução do sensor fotográfico traseiro da câmara": "200 MP",
-      "Capacidade da bateria": "6580 Milliamp Hours",
-      "Potência da bateria": "6580",
-      "Duração da bateria": "1 Dias",
-      "Resolução de captura de vídeo": "4k",
-      "Resolução": "1500 x 750",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "Cabo USB",
-      "Descrição da garantia": "90 dias",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "entretenimento, fotografia, jogos, esportes ao ar livre",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL:062732509185/Model:25080RABDG",
-      "ASIN": "B0H2WXYRQ5",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "HyperOs",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Capacidade de Armazenamento de Memória": "8 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H2WXYRQ5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GZLT5PX9",
-    "title": "Smartphone Motorola Edge 70 PRO 5G - 256GB 24GB (12GB RAM+12GB Ram Boost), 4 câmeras de 50MP, Tela 1.5K extreme AMOLED 144Hz,",
-    "image": "https://m.media-amazon.com/images/I/61g8N2P8ClL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3599.1,
-    "price_original": 4499,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 2,
-    "coupon_code": null,
-    "description": "<ul><li>Criado com estilo para você</li><li>4 câmeras de 50 MP</li><li>A maior bateria da categoria*</li><li>Brilho e fluidez à máxima potência*</li><li>Construído com alto padrão de resistência*</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Memória RAM instalada": "24 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Madeira",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Desbloqueio Facial, Impressão Digital na tela",
-      "Nível de resistência à água": "À prova d'água",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "01 Telefone",
-      "Descrição da garantia": "12 Meses",
-      "Fabricante": "Motorola",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 08822-25-00330/ Modelo: XT2607-1",
-      "ASIN": "B0GZLT5PX9",
-      "Tamanho da tela": "6,8 Polegadas",
-      "Taxa de atualização": "144",
-      "Tipo de tela": "Extreme AMOLED",
-      "Resolução máxima da tela": "1220 X 2712",
-      "Densidade do pixel de exibição": "450 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "50 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
-      "Número de câmaras traseiras": "4",
-      "Capacidade da bateria": "6500 Milliamp Hours",
-      "Potência da bateria": "6500.0",
-      "Marca": "Motorola",
-      "Sistema Operacional": "Android 16",
-      "Tamanho instalado da memória RAM": "24 GB",
-      "Capacidade de Armazenamento de Memória": "256 GB",
-      "Tamanho da Tela": "6,8 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GZLT5PX9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H5X34DNR",
-    "title": "Smartphone Motorola Moto e13 64gb 4gb Ram Câmera 13mp + Selfie 5mp Tela 6.5 Dual Sim - Grafite (Recondicionado)",
-    "image": "https://m.media-amazon.com/images/I/51Hbitl2OqL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 589,
-    "price_original": 1899,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 13 Go",
-      "Memória RAM instalada": "4 GB",
-      "Capacidade de armazenamento da memória": "64 GB",
-      "Cor": "Verde",
-      "Tipo de conector": "USB tipo C",
-      "Características especiais": "Dual SIM, GPS integrado, Processador Octa Core, Tela sensível ao toque",
-      "Tamanho máximo suportado pela memória flash": "64 GB",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2023",
-      "Componentes incluídos": "Adaptador, Cabo USB, Ejetor da bandeja SIM",
-      "Descrição da garantia": "Garantia limitada de 90 dias",
-      "Fabricante": "Motorola",
-      "Usos específicos do produto": "Uso diário",
-      "UPC": "728434247494",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 182272200330",
-      "ASIN": "B0GVK8YQFF",
-      "Tamanho da tela": "6,5 Polegadas",
-      "Resolução": "720 x 1600",
-      "Tipo de tela": "LCD",
-      "Resolução máxima da tela": "720x1600 Pixels",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "4G",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Charging Time": "2 Milliampere Hour (mAh)",
-      "Potência da bateria": "5000 Milliampere Hour (mAh)",
-      "Peso do item": "180 Gramas",
-      "Dimensões do artigo": "8 x 75 x 164 milímetros",
-      "Marca": "Motorola",
-      "Tamanho instalado da memória RAM": "4 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H5X34DNR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H34VM48S",
-    "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 44mm - Grafite",
-    "image": "https://m.media-amazon.com/images/I/51YIQ+39+VL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3598.9,
-    "price_original": 3599,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>1 Galaxy A57 5G (256GB) - Cinza</li><li>1 Galaxy Watch8 BT 44mm - Grafite</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16.0",
-      "Memória RAM instalada": "8 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Cinza",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2026",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 44mm - Grafite",
-      "Descrição da garantia": "12 meses",
-      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
-      "Certificação de teste externa": "ANATEL: 073162500953 / MODEL: SM-A576B/DS",
-      "ASIN": "B0H34VM48S",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1080 x 2340",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Potência da bateria": "5000 Milliamp Hours",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 16.0",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Capacidade de Armazenamento de Memória": "256 GB",
-      "Tamanho da Tela": "6,7 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H34VM48S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GYPQBXVX",
-    "title": "Smartphones Motorola Moto G47 5G - 128GB 12GB (4GB RAM + 8GB RAM Boost), Camera 50 MP Sony LYTIA 600, Tela FHD+ de 120hz - Ro",
-    "image": "https://m.media-amazon.com/images/I/51WBF-uDwmL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 1349.1,
-    "price_original": 1799,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.4,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>A evolução da fotografia com a câmera de 50 MP Sony LYTIAᵀᴹ 600*</li><li>A vida exige, ele resiste*</li><li>Vá da pergunta à resposta instantaneamente com o Google Gemini*</li><li>Solte o som com Volume Boost</li><li>O aliado de sua produtividade com performance veloz e 5G</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Memória RAM instalada": "12 GB",
-      "Capacidade de armazenamento da memória": "128 GB",
-      "Cor": "Rosa",
-      "Contagem de slots do cartão SIM": "SIM único",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "01 CABO USB-A / USB-C, 01 CARREGADOR TURBOPOWER™ 20 W, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 MANUAL, 01 Telefone",
-      "Descrição da garantia": "12 Meses",
-      "Fabricante": "Motorola",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 003302600330 / Modelo: XT2625-1",
-      "ASIN": "B0GYPQBXVX",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1080 x 2400",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "FHD+",
-      "Resolução máxima da tela": "1080x2400 Pixels",
-      "Densidade do pixel de exibição": "391 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth",
-      "Tecnologia de rede sem fios": "Wi-Fi",
-      "Resolução do sensor fotográfico frontal": "32 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
-      "Capacidade da bateria": "5200 Milliamp Hours",
-      "Potência da bateria": "5200",
-      "Marca": "Motorola",
-      "Sistema Operacional": "Android 16",
-      "Tamanho instalado da memória RAM": "12 GB",
-      "Capacidade de Armazenamento de Memória": "128 GB",
-      "Tamanho da Tela": "6,7 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GYPQBXVX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0G2BHH8SR",
-    "title": "Smartphone Xiaomi Redmi Note 15 Pro 5G 512GB - 8GB Ram Azul",
-    "image": "https://m.media-amazon.com/images/I/61aMEEInj6L._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3590,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>Redmi Note 15 Pro 5G 512gb 8gb</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "HyperOs",
-      "Capacidade de armazenamento da memória": "512 GB",
-      "Cor": "Azul",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Touch",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "Cabo USB",
-      "Descrição da garantia": "90 dias",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "jogos, streaming, navegação",
-      "Certificação de teste externa": "ANATEL:062732509185/Model:25080RABDG",
-      "ASIN": "B0G2BHH8SR",
-      "Tamanho da tela": "6,83 Polegadas",
-      "Resolução": "1.5K",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de rede sem fios": "Bluetooth, LTE, Wi-Fi",
-      "Resolução do sensor fotográfico traseiro da câmara": "200 MP",
-      "Potência da bateria": "6580",
-      "Dimensões do artigo": "8 x 78 x 164 milímetros",
-      "Resolução de captura de vídeo": "4k",
-      "Marca": "XIAOMI"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0G2BHH8SR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GZQTLQ9S",
-    "title": "Smartphone Motorola Razr Fold 5G - 1TB 32GB (16GB RAM+16GB Ram Boost), Tela interna 8.1\" e externa 6.6”, extreme AMOLED, 3 câ",
-    "image": "https://m.media-amazon.com/images/I/61FYTXh5vhL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 11999,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.3,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>A melhor câmera do mundo em um dobrável*</li><li>A melhor bateria da categoria*</li><li>Brilho e fluidez de imagem na maior tela Extreme AMOLED da categoria*</li><li>O ápice da produtividade</li><li>Resistência que inspira confiança*</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Memória RAM instalada": "16 GB",
-      "Capacidade de armazenamento da memória": "1024 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "01 CABO USB-C/ USB-C, 01 CAPA PROTETORA, 01 CARREGADOR TURBOPOWER™ 90 W, 01 ESTOJO DE CARREGAMENTO, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 KIT DE MANUAIS, 01 MOTO PEN ULTRA, 01 Telefone",
-      "Descrição da garantia": "12 Meses",
-      "Fabricante": "Motorola",
-      "Usos específicos do produto": "fotografia, trabalho",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 08337-25-00330/ Modelo: XT2651-1",
-      "ASIN": "B0GZQTLQ9S",
-      "Tamanho da tela": "6,6 Polegadas",
-      "Taxa de atualização": "165",
-      "Tipo de tela": "Extreme AMOLED",
-      "Resolução máxima da tela": "1080 x 2520",
-      "Densidade do pixel de exibição": "418 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "32 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
-      "Capacidade da bateria": "6000 Milliamp Hours",
-      "Potência da bateria": "6000.0",
-      "Marca": "Motorola",
-      "Tamanho instalado da memória RAM": "16 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GZQTLQ9S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H2WRYZYJ",
-    "title": "Smartphone Xiaomi Redmi Note 15 Pro 5G 512GB - 8GB Ram Titanuim",
-    "image": "https://m.media-amazon.com/images/I/41loeOpY1aL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2559.99,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.3,
-    "qtd_avaliacoes": 7,
-    "coupon_code": null,
-    "description": "<ul><li>Redmi Note 15 Pro 5G 512gb 8gb</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "HyperOs",
-      "Memória RAM instalada": "8 GB",
-      "Modelo da CPU": "Mediatek Dimensity 7400",
-      "Capacidade de armazenamento da memória": "8 GB",
-      "Cor": "Titanium",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Touch",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "Cabo USB",
-      "Descrição da garantia": "90 dias",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "gaming, photography, streaming, working",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL:062732509185/Model:25080RABDG",
-      "ASIN": "B0H2WRYZYJ",
-      "Resolução": "1.5K",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G",
-      "Resolução do sensor fotográfico traseiro da câmara": "200 MP",
-      "Capacidade da bateria": "6580 Milliamp Hours",
-      "Potência da bateria": "6580",
-      "Resolução de captura de vídeo": "4k",
-      "Marca": "XIAOMI",
-      "Tamanho instalado da memória RAM": "8 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H2WRYZYJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H2N4QTVC",
-    "title": "Apple iPhone 17 Pro Max (256 GB) - Prateado (Seminovo)",
-    "image": "https://m.media-amazon.com/images/I/41Vti34Yv+L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 9210.99,
-    "price_original": 10999,
-    "discount_percentage": 16.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "iOS",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Prateado",
-      "Tipo de conector": "USB Type C",
-      "Potência da bateria": "18,75 Watt Hours",
-      "Tipo de tela": "OLED",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Nome da marca": "Apple",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "Cabo USB-c",
-      "Descrição da garantia": "Garantia limitada de 90 dias",
-      "Fabricante": "Apple",
-      "UPC": "728434341017",
-      "Certificação de teste externa": "36392501993",
-      "ASIN": "B0H2N4QTVC",
-      "Marca": "Apple",
-      "Nome do modelo": "iPhone 17 Pro Max",
-      "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H2N4QTVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1YB1WCT",
-    "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Buds Core - Preto",
-    "image": "https://m.media-amazon.com/images/I/41H6PpK8G2L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3059,
-    "price_original": 3599,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>1 A57 5G (256GB) - Cinza</li><li>1 Galaxy Buds Core - Preto</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16.0",
-      "Memória RAM instalada": "8 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Cinza",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2026",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "Galaxy A57 5G (256GB) - Cinza + Galaxy Buds Core - Preto",
-      "Descrição da garantia": "12 meses",
-      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
-      "Certificação de teste externa": "ANATEL: 073162500953 / MODEL: SM-A576B/DS",
-      "ASIN": "B0H1YB1WCT",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "FHD+",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2340x1080 Pixels",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Zoom digital": "10 x",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Potência da bateria": "5000 Milliamp Hours",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 16.0",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Capacidade de Armazenamento de Memória": "256 GB",
-      "Tamanho da Tela": "6,7 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1YB1WCT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H34TQ34J",
-    "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
-    "image": "https://m.media-amazon.com/images/I/514zBmQbj+L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3498.9,
-    "price_original": 3599,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>1 Galaxy A57 5G (256GB) - Cinza</li><li>1 Galaxy Watch8 BT 40mm - Grafite</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16.0",
-      "Memória RAM instalada": "8 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Cinza",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2026",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
-      "Descrição da garantia": "12 meses",
-      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
-      "Certificação de teste externa": "ANATEL: 073162500953 / MODEL: SM-A576B/DS",
-      "ASIN": "B0H34TQ34J",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1080 x 2340",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Potência da bateria": "5000 Milliamp Hours",
-      "Marca": "Samsung",
-      "Tamanho instalado da memória RAM": "8 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H34TQ34J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H6NNJL1V",
-    "title": "Smartphone Motorola Edge 50 Neo 5G - 256GB 16GB (8GB RAM+8GB Ram Boost) 50MP Sony Camera Moto AI Ultrarresistencia militar -",
-    "image": "https://m.media-amazon.com/images/I/61gbpgrR5VL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2299,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.2,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>Dual SIM</li><li>GPS integrado</li><li>Processador Octa Core</li><li>Tela sensível ao toque</li><li>Resistente à Água</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 14",
-      "Memória RAM instalada": "16 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Grisalle",
-      "Tipo de conector": "USB tipo C",
-      "Características especiais": "Dual SIM, GPS integrado, Processador Octa Core, Resistente à Água, Tela sensível ao toque",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2024",
-      "Componentes incluídos": "Cabo USB, Ejetor da bandeja SIM",
-      "Descrição da garantia": "Garantia limitada de 90 dias",
-      "Fabricante": "Motorola",
-      "UPC": "728434397311",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 069842400330/ Modelo:XT2409-2",
-      "ASIN": "B0H6NNJL1V",
-      "Tamanho da tela": "6,4 Polegadas",
-      "Resolução": "1200 x 2670",
-      "Tipo de tela": "OLED",
-      "Resolução máxima da tela": "1200 x 2670 Pixels",
-      "Densidade do pixel de exibição": "460 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
-      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
-      "Potência da bateria": "4300 Milliamp Hours",
-      "Peso do item": "171 Gramas",
-      "Dimensões do artigo": "8 x 71 x 154 milímetros",
-      "Marca": "Motorola",
-      "Sistema Operacional": "Android 14",
-      "Tamanho instalado da memória RAM": "16 GB",
-      "Capacidade de Armazenamento de Memória": "256 GB",
-      "Tamanho da Tela": "6,4 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H6NNJL1V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1N3GXRX",
-    "title": "Smartphone Motorola Edge 50 5G - 256GB 24GB (12GB RAM+12GB Ram Boost) 50MP Sony Camera Moto AI Ultrarresistencia militar - Gr",
-    "image": "https://m.media-amazon.com/images/I/61S1KH7RaXL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 1307.07,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android",
-      "Memória RAM instalada": "24 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Grey - Vegan Leather",
-      "Tipo de conector": "USB tipo C",
-      "Tamanho máximo suportado pela memória flash": "256 GB",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2024",
-      "Componentes incluídos": "01 Telefone",
-      "Descrição da garantia": "Garantia limitada de 90 dias",
-      "Fabricante": "Motorola",
-      "Usos específicos do produto": "Atividades ao ar livre, esportes radicais, trabalho em construção",
-      "UPC": "728434326533",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 065652400330/ Modelo: XT2407-2",
-      "ASIN": "B0H1N3GXRX",
-      "Resolução": "1220 x 2712",
-      "Tipo de tela": "Super HD (1220x2712) | HDR10+ | pOLED | 120 Hz",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G",
-      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
-      "Descrição da bateria": "Íon de lítio",
-      "Potência da bateria": "5000.0",
-      "Peso do item": "170 Gramas",
-      "Dimensões do artigo": "16 x 7,2 x 0,8 centímetros",
-      "Duração da bateria": "15 Minutos",
-      "Marca": "Motorola",
-      "Tamanho instalado da memória RAM": "24 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1N3GXRX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GYPY79H9",
-    "title": "Smartphone Motorola Razr 70 5G - 256GB 24GB (8GB RAM+16GB Ram Boost) Tela dobrável 6,9\" Extreme AMOLED 120hz e externa 3,6” G",
-    "image": "https://m.media-amazon.com/images/I/61v9DOMgN5L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 4949.1,
-    "price_original": 5499,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>Tela externa inteligente com Corning Gorilla Glass Victus</li><li>Zoom inteligente no modo filmadora</li><li>Resistente por natureza</li><li>Tela interna mais vibrante e imersiva</li><li>A melhor bateria da categoria</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Memória RAM instalada": "8 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Verde",
-      "Contagem de slots do cartão SIM": "SIM único",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Tamanho máximo suportado pela memória flash": "256 GB",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "01 CABO USB-A / USB-C, 01 CARREGADOR TURBOPOWER™ 33 W, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 MANUAL, 01 Telefone",
-      "Descrição da garantia": "12 Meses",
-      "Fabricante": "Motorola",
-      "Contagem de unidades": "1 Count de 24GB",
-      "Certificação de teste externa": "ANATEL: 06941-25-00330/ Modelo: XT2657-1",
-      "ASIN": "B0GYPY79H9",
-      "Tamanho da tela": "6,9 Polegadas",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "1080 x 2640",
-      "Densidade do pixel de exibição": "413 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth",
-      "Tecnologia de rede sem fios": "Wi-Fi",
-      "Resolução do sensor fotográfico frontal": "32 MP",
-      "Capacidade da bateria": "4800 Milliamp Hours",
-      "Potência da bateria": "4800",
-      "Marca": "Motorola",
-      "Sistema Operacional": "Android 16",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Capacidade de Armazenamento de Memória": "256 GB",
-      "Tamanho da Tela": "6,9 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GYPY79H9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GW9FH9B8",
-    "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Prata",
-    "image": "https://m.media-amazon.com/images/I/51VgFRTqJmL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 9199,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.1,
-    "qtd_avaliacoes": 6,
-    "coupon_code": null,
-    "description": "<ul><li>O design elegante e resistente traz uma construção slim e refinada, com toque premium e feita para durar.</li><li>Multitarefa rápida e eficiente com um chipset avançado e desempenho de alto nível.</li><li>O sistema de câmeras com AI aprimora o processamento para detalhes mais nítidos e melhores fotos em baixa luz.</li></ul>",
-    "informacoes_produto": {
-      "Cor": "Prata",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tamanho da tela": "6,3 Polegadas",
-      "Nome da marca": "Samsung",
-      "ASIN": "B0GW9FH9B8",
-      "Marca": "Samsung",
-      "Tamanho da Tela": "6,3 Polegadas",
-      "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GW9FH9B8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0F4PMQK69",
-    "title": "Smartphone Xiaomi Poco X7 5G NFC Black (Preto) 12GB RAM 512GB ROM",
-    "image": "https://m.media-amazon.com/images/I/514JU22HlZL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2385,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 1.0,
-    "qtd_avaliacoes": 1,
-    "coupon_code": null,
-    "description": "<ul><li>Poco X7 12GB 512GB</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "HyperOS",
-      "Memória RAM instalada": "12 GB",
-      "Capacidade de armazenamento da memória": "12 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Touch",
-      "Funcionalidade de segurança biométrica": "Reconhecimento facial e de impressões digitais",
-      "Tamanho máximo suportado pela memória flash": "512 GB",
-      "Resolução do sensor fotográfico frontal": "20 MP",
-      "Número de câmaras traseiras": "3",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "5110 Milliamp Hours",
-      "Potência da bateria": "5110",
-      "Tamanho da tela": "6,67 Polegadas",
-      "Resolução": "1220x2712",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G, NFC",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "Cabo USB",
-      "Descrição da garantia": "90 dias",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "Fotografia, Entretenimento",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 086532409185/ Modelo:24095PCADG",
-      "ASIN": "B0F4PMQK69",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "HyperOS",
-      "Tamanho instalado da memória RAM": "12 GB",
-      "Capacidade de Armazenamento de Memória": "12 GB",
-      "Tamanho da Tela": "6,67 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0F4PMQK69?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GZQX7CBJ",
-    "title": "Smartphone Motorola Moto G Max 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), câmera 200MP, OIS, Tela 1.5K extreme AMOLED 120hz,",
-    "image": "https://m.media-amazon.com/images/I/61QB3He7d8L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2207,
-    "price_original": 2799,
-    "discount_percentage": 21.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>O máximo em fotografia com 200 MP*</li><li>Máximo impacto. Ultrarresistente com sofisticação.*</li><li>O máximo em entretenimento*</li><li>Bateria com fôlego máximo para o seu dia todo*</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Memória RAM instalada": "24 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Grafite",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Desbloqueio Facial, Impressão Digital na tela",
-      "Tamanho máximo suportado pela memória flash": "256 GB",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "01 CABO USB-A / USB-C, 01 CARREGADOR TURBOPOWER™ 33 W, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 MANUAL, 01 Telefone",
-      "Descrição da garantia": "12 Meses",
-      "Fabricante": "Motorola",
-      "Usos específicos do produto": "entretenimento, fotografia",
-      "Contagem de unidades": "1 Count de 24GB RAM",
-      "Certificação de teste externa": "ANATEL: 08809-25-00330 / Modelo: XT2621-5",
-      "ASIN": "B0GZQX7CBJ",
-      "Tamanho da tela": "6,8 Polegadas",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "Extreme AMOLED",
-      "Resolução máxima da tela": "1272 x 2772",
-      "Densidade do pixel de exibição": "450 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "32 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "200 MP",
-      "Capacidade da bateria": "5200 Milliamp Hours",
-      "Potência da bateria": "5200.0",
-      "Marca": "Motorola",
-      "Tamanho instalado da memória RAM": "24 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GZQX7CBJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1NSD956",
-    "title": "Smartphone Xiaomi Redmi Note 15 Roxo Purple 8GB RAM 256GB ROM (2510DRA23L)",
-    "image": "https://m.media-amazon.com/images/I/51UjEKPb1uL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 1334.99,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 2,
-    "coupon_code": null,
-    "description": "<ul><li>Redmi Note 15 4G</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "hyperos",
-      "Memória RAM instalada": "8 GB",
-      "Capacidade de armazenamento da memória": "8 GB",
-      "Cor": "Roxo",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Touch",
-      "Tamanho máximo suportado pela memória flash": "256 GB",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "Cabo USB",
-      "Descrição da garantia": "90 dias",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "Uso diário, entretenimento, redes sociais",
-      "Contagem de unidades": "1 Unidade",
-      "Certificação de teste externa": "ANATEL: 075022509185/ Model:2510DRA23L",
-      "ASIN": "B0H1NSD956",
-      "Tamanho da tela": "6,77 Polegadas",
-      "Resolução": "2392x1080",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2392x1080 pixels",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "4G",
-      "Tecnologia de conectividade": "4G",
-      "Tecnologia de rede sem fios": "LTE",
-      "Resolução do sensor fotográfico frontal": "20 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "108 MP",
-      "Número de câmaras traseiras": "2",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "6000 Milliamp Hours",
-      "Potência da bateria": "6000",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "hyperos",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Capacidade de Armazenamento de Memória": "8 GB",
-      "Tamanho da Tela": "6,77 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1NSD956?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1YYX6VP",
-    "title": "Samsung Combo Galaxy S26 (256GB) - Preto + Galaxy Buds Core - Preto",
-    "image": "https://m.media-amazon.com/images/I/51cMxfOf8lL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 7549,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>1 Galaxy S26 (256GB) - Preto</li><li>1 Galaxy Buds Core - Preto</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16.0",
-      "Memória RAM instalada": "12 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2026",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "Galaxy S26 (256GB) - Preto + Galaxy Buds Core - Preto",
-      "Descrição da garantia": "12 meses",
-      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
-      "Certificação de teste externa": "ANATEL: 074042500953 / MODEL: SM-S942B/DS",
-      "ASIN": "B0H1YYX6VP",
-      "Tamanho da tela": "6,3 Polegadas",
-      "Resolução": "FHD+",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2340x1080 Pixels",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Zoom digital": "30 x",
-      "Capacidade da bateria": "4300 Milliamp Hours",
-      "Potência da bateria": "4300 Milliamp Hours",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 16.0",
-      "Tamanho instalado da memória RAM": "12 GB",
-      "Capacidade de Armazenamento de Memória": "256 GB",
-      "Tamanho da Tela": "6,3 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1YYX6VP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H34WKMJJ",
-    "title": "Samsung Combo Galaxy A37 5G (256GB) - Preto + Galaxy Watch8 BT 44mm - Grafite",
-    "image": "https://m.media-amazon.com/images/I/51UcpjjARKL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3398.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>1 Galaxy A37 5G (256GB) - Preto</li><li>1 Galaxy Watch8 BT 44mm - Grafite</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16.0",
-      "Memória RAM instalada": "8 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2026",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "Galaxy A37 5G (256GB) - Preto + Galaxy Watch8 BT 44mm - Grafite",
-      "Descrição da garantia": "12 meses",
-      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
-      "Certificação de teste externa": "ANATEL: 090452500953 / MODEL: SM-A376B/DS",
-      "ASIN": "B0H34WKMJJ",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1080 x 2340",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Potência da bateria": "5000 Milliamp Hours",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 16.0",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Capacidade de Armazenamento de Memória": "256 GB",
-      "Tamanho da Tela": "6,7 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H34WKMJJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1YLBMMC",
-    "title": "Samsung Combo Galaxy S26 (256GB) - Preto + Galaxy Buds3 FE - Preto",
-    "image": "https://m.media-amazon.com/images/I/413mOzp2Z0L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 7549,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 1,
-    "coupon_code": null,
-    "description": "<ul><li>1 Galaxy S26 (256GB) - Preto</li><li>1 Galaxy Buds3 FE - Preto</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16.0",
-      "Memória RAM instalada": "12 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "Galaxy S26 (256GB) - Preto + Galaxy Buds3 FE - Preto",
-      "Descrição da garantia": "12 meses",
-      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
-      "Certificação de teste externa": "ANATEL: 074042500953 / MODEL: SM-S942B/DS",
-      "ASIN": "B0H1YLBMMC",
-      "Tamanho da tela": "6,3 Polegadas",
-      "Resolução": "FHD+",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2340x1080 Pixels",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Zoom digital": "30 x",
-      "Capacidade da bateria": "4300 Milliamp Hours",
-      "Potência da bateria": "4300 Milliamp Hours",
-      "Marca": "Samsung",
-      "Tamanho instalado da memória RAM": "12 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1YLBMMC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1YY12R8",
-    "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Bateria Carregador Portátil",
-    "image": "https://m.media-amazon.com/images/I/41jwYJ9GrlL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3059,
-    "price_original": 3599,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>1 Galaxy A57 5G (256GB) - Cinza</li><li>1 Bateria Carregador Portátil Samsung 20000mAh</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16.0",
-      "Memória RAM instalada": "8 GB",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Cinza",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2026",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "Galaxy A57 5G (256GB) - Cinza + Bateria Carregador Portátil",
-      "Descrição da garantia": "12 meses",
-      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
-      "Certificação de teste externa": "ANATEL: 073162500953 / MODEL: SM-A576B/DS",
-      "ASIN": "B0H1YY12R8",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "FHD+",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2340x1080 Pixels",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Zoom digital": "10 x",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Potência da bateria": "5000 Milliamp Hours",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 16.0",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Capacidade de Armazenamento de Memória": "256 GB",
-      "Tamanho da Tela": "6,7 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1YY12R8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1SLW7L1",
-    "title": "Smartphone Xiaomi Poco X7 5G NFC Black (Preto) 12GB RAM 512GB ROM",
-    "image": "https://m.media-amazon.com/images/I/51NngRdz8SL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3090,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 2,
-    "coupon_code": null,
-    "description": "<ul><li>Poco X7 12GB 512GB</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "HyperOS",
-      "Memória RAM instalada": "12 GB",
-      "Capacidade de armazenamento da memória": "12 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Touch",
-      "Funcionalidade de segurança biométrica": "Reconhecimento facial e de impressões digitais",
-      "Tamanho máximo suportado pela memória flash": "512 GB",
-      "Resolução do sensor fotográfico frontal": "20 MP",
-      "Número de câmaras traseiras": "3",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "5110 Milliamp Hours",
-      "Potência da bateria": "5110",
-      "Tamanho da tela": "6,67 Polegadas",
-      "Resolução": "1220x2712",
-      "Tipo de tela": "AMOLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G, NFC",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "Cabo USB",
-      "Descrição da garantia": "90 dias",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "Fotografia, entretenimento, multitarefa",
-      "Certificação de teste externa": "ANATEL: 086532409185/ Modelo:24095PCADG",
-      "ASIN": "B0H1SLW7L1",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "HyperOS",
-      "Tamanho instalado da memória RAM": "12 GB",
-      "Capacidade de Armazenamento de Memória": "12 GB",
-      "Tamanho da Tela": "6,67 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1SLW7L1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H37ZQQFP",
-    "title": "Smartphone Motorola Edge 60 PRO 5G - 512GB 24GB (12GB RAM+12GB Ram Boost) Tela Quad-Curve moto AI 50MP Sony Camera ultrarresi",
-    "image": "https://m.media-amazon.com/images/I/61nJltNUq2L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 3499,
-    "price_original": 4499,
-    "discount_percentage": 22.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 15",
-      "Capacidade de armazenamento da memória": "512 GB",
-      "Cor": "Rosa",
-      "Tipo de conector": "USB tipo C",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "01 Cabo USB-C/ USB-C, 01 Carregador TurboPower™ 90W, 01 Ferramenta de remoção do chip, 01 Manual, 01 Telefone",
-      "Descrição da garantia": "Garantia limitada de 90 dias",
-      "Fabricante": "Motorola",
-      "UPC": "728434349402",
-      "Certificação de teste externa": "ANATEL: 11108-24-00330 / Modelo: XT2507-1",
-      "ASIN": "B0H37ZQQFP",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1220 x 2712",
-      "Tipo de tela": "Super HD ( 1220 X 2712), HDR10+ | pOLED | 120 Hz",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de conectividade": "Bluetooth, Wi-fi, GPS, NFC",
-      "Capacidade da bateria": "6000 Milliamp Hours",
-      "Potência da bateria": "6000.0",
-      "Peso do item": "428,7 Gramas",
-      "Dimensões do artigo": "50 x 80 x 170 milímetros",
-      "Marca": "Motorola",
-      "Sistema Operacional": "Android 15",
-      "Capacidade de Armazenamento de Memória": "512 GB",
-      "Tamanho da Tela": "6,7 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H37ZQQFP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0CW9MHHHT",
-    "title": "Motorola G34 5G (azul gelo, 4 GB de RAM, 128 GB de armazenamento) (Seminovo)",
-    "image": "https://m.media-amazon.com/images/I/718zShPNUqL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 761.17,
-    "price_original": 1899,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
-    "informacoes_produto": {
-      "Capacidade de armazenamento da memória": "128 GB",
-      "Entrada de interface humana": "Tela tátil",
-      "Características especiais": "Acelerômetro, Bluetooth, Carregamento rápido, Câmera, Câmera dupla, Câmera frontal, Câmera primária, Desbloqueio facial, GPS, Internet, Scanner de impressões digitais, Sensor de luz, Sensor de proximidade, Tela sensível ao toque, USB, Wifi",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2023",
-      "Descrição da garantia": "Garantia limitada de 90 dias",
-      "Fabricante": "Motorola",
-      "UPC": "786513717436",
-      "Certificação de teste externa": "203412300330",
-      "ASIN": "B0CW9MHHHT",
-      "Tamanho da tela": "6,34 Polegadas",
-      "Proporção de aspecto": "16:9",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Peso do item": "180 Gramas",
-      "Dimensões do artigo": "16,3 x 7,5 x 0,8 centímetros",
-      "Marca": "Motorola",
-      "Capacidade de Armazenamento de Memória": "128 GB",
-      "Tamanho da Tela": "6,34 Polegadas",
-      "Nome do Modelo": "Motorola moto G34 5G",
-      "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CW9MHHHT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GZPRQ9JJ",
-    "title": "Smartphone Motorola Razr Fold 5G - FIFA World Cup Collection - 1TB 32GB (16GB RAM+16GB Ram Boost), Tela interna 8.1\" e extern",
-    "image": "https://m.media-amazon.com/images/I/61eVXBhjG7L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 16999,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.3,
-    "qtd_avaliacoes": null,
-    "coupon_code": "Aplicar Cupom de R$3000",
-    "description": "<ul><li>Detalhes banhados a ouro 24K</li><li>A melhor câmera do mundo em um dobrável</li><li>\"Conteúdos Exclusivos da Copa do Mundo da FIFA 2026 para você. Planos de fundo, ringtones e filtros personalizados\"</li><li>A melhor bateria da categoria*</li><li>Brilho e fluidez de imagem na maior tela Extreme AMOLED da categoria*</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Capacidade de armazenamento da memória": "1024 GB",
-      "Cor": "Preto Fifa",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Tamanho máximo suportado pela memória flash": "1 TB",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "01 CABO USB-C/ USB-C, 01 CAPA PROTETORA, 01 CARREGADOR TURBOPOWER™ 90 W, 01 ESTOJO DE CARREGAMENTO, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 KIT DE MANUAIS, 01 MOTO PEN ULTRA, 01 Telefone",
-      "Descrição da garantia": "12 Meses",
-      "Fabricante": "Motorola",
-      "Usos específicos do produto": "Esportes e Entretenimento",
-      "Contagem de unidades": "1 Unidade",
-      "Certificação de teste externa": "ANATEL: 08337-25-00330/ Modelo: XT2651-1",
-      "ASIN": "B0GZPRQ9JJ",
-      "Tamanho da tela": "6,6 Polegadas",
-      "Taxa de atualização": "165",
-      "Tipo de tela": "Extreme AMOLED",
-      "Resolução máxima da tela": "1080 x 2520",
-      "Densidade do pixel de exibição": "418 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
-      "Resolução do sensor fotográfico frontal": "32 MP",
-      "Capacidade da bateria": "6000 Milliamp Hours",
-      "Potência da bateria": "6000.0",
-      "Marca": "Motorola",
-      "Sistema Operacional": "Android 16",
-      "Capacidade de Armazenamento de Memória": "1024 GB",
-      "Tamanho da Tela": "6,6 Polegadas",
-      "Taxa de Atualização": "165"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GZPRQ9JJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GND7R7Z8",
-    "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 24.000 Btus Frio 220v R-32",
-    "image": "https://m.media-amazon.com/images/I/51XtHBetEOL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 3899.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 5,
-    "coupon_code": null,
-    "description": "<ul><li>Comando de Voz AI</li><li>Wi-Fi ThinQ Integrado</li><li>Economia Energia 70%</li><li>Refrigeração Rápida 40%</li><li>Dual Inverter AI</li></ul>",
-    "informacoes_produto": {
-      "Potência de refrigeração": "24000 BTUs",
-      "Características especiais": "Controlado Remotamente, Activado por WiFi",
-      "Cor": "Branco",
-      "Nível de ruído": "45,43 Decibéis",
-      "Tipo de inversor": "Possui Inversor",
-      "Tipo de instalação": "Split",
-      "Requer Unidade Externa": "Sim",
-      "Voltagem": "220 Volts",
-      "Fonte de energia": "Alimentado por energia elétrica",
-      "Potência": "1790 watts",
-      "Dimensões do item P x L x A": "0,7P x 2L x 1A Metros",
-      "Peso do item": "43 Quilogramas",
-      "Método de controle": "Aplicação, Remoto, Voz",
-      "Tipo de controle": "Controle remoto",
-      "Fator de forma": "Split",
-      "Nome da marca": "LG",
-      "Nome do modelo": "SPLIT LG HW DUAL VOICE AI 24K 220V F INV R32.",
-      "Número do modelo": "S3UQ24K231C.EB2GAM1",
-      "Componentes incluídos": "evaporadora, condensadora",
-      "Fabricante": "LG",
-      "Contagem de unidades": "1 Contagem",
-      "País de origem": "Brasil",
-      "Descrição da garantia": "12 meses",
-      "ASIN": "B0GND7R7Z8",
-      "Eficiência": "A",
-      "Consumo de energia anual": "766,43 Kilowatt Hours Per Year",
-      "Capacidade": "43 quilogramas",
-      "Marca": "LG",
-      "Energia de resfriamento": "24000 BTUs",
-      "Característica Especial": "Controlado Remotamente, Activado por WiFi",
-      "Dimensões do produto": "0,7P x 2L x 1A Metros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GND7R7Z8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H6QJG8FK",
-    "title": "Jogo de Panelas 13 Peças Antiaderente com Panela de Pressão",
-    "image": "https://m.media-amazon.com/images/I/61Il-23kYGL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 589.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.3,
-    "qtd_avaliacoes": 56,
-    "coupon_code": null,
-    "description": "<ul><li>Kit Tramontina Turim 13 peças com antiaderente Starflon Max, mais praticidade para sua cozinha</li><li>Peças em alumínio com antiaderente Starflon Max, que cozinham rápido, não grudam e facilitam a limpeza.</li><li>Peças em alumínio com antiaderente Starflon Max, que cozinham rápido, não grudam e facilitam a limpeza.</li><li>Pode ir à lava-louças e acompanha utensílios de nylon ideais para preparar e servir refeições.</li><li>Panela de pressão Tramontina Vancouver 4,5L com antiaderente Starflon Max vermelho, segura, resistente e ideal para cozinhar sem grudar.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Tramontina",
-      "Número de peças": "13",
-      "Componentes incluídos": "01 Assadeira funda, 01 Caçarola, 01 Colher, 01 Concha, 01 Espátula, 01 Pegador De Massa, 01 Fervedor/Canecão, 01 Forma Para Torta, 01 Frigideira Para Ovo, 01 Frigideira, 01 Panela Grande, 01 Panela Pequena, 01 Panela De Pressão.",
-      "Com tampa": "Sim",
-      "Fabricante": "Tramontina",
-      "Número do modelo": "20297055",
-      "País de origem": "Brasil",
-      "ASIN": "B0H6QJG8FK",
-      "Material": "Alumínio, Baquelite, Vidro Temperado e inox.",
-      "O item pode ser lavado na máquina de lavar louça?": "Sim",
-      "Características especiais": "Antiaderente",
-      "Cor": "Preto",
-      "O forno é seguro": "Sim",
-      "Marca": "Tramontina",
-      "Próprio para lava-louças": "Sim"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H6QJG8FK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B081DJZRC9",
-    "title": "Ar Condicionado Split Cassete Gree G-Prime Compact Inverter 36000 BTU/h Frio Monofásico GULD36T1/A-S – 220 Volts",
-    "image": "https://m.media-amazon.com/images/I/513zoogzzGL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 7394.2,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 1,
-    "coupon_code": null,
-    "description": "<ul><li>Sistema frio eficiente e econômico</li><li>Serpentina de cobre com proteção anticorrosão: durabilidade superior</li><li>Filtro antibacteriano: ar mais limpo e saudável</li><li>Tecnologia Inverter: operação silenciosa e controle preciso da temperatura</li><li>Design elegante e moderno, ideal para residências e espaços comerciais</li></ul>",
-    "informacoes_produto": {
-      "Potência de refrigeração": "36000 BTUs",
-      "Características especiais": "Compressor inverter",
-      "Tipo de inversor": "Possui Inversor",
-      "Tipo de instalação": "Split",
-      "Tipo de Compressor": "rotary_scroll",
-      "Requer Unidade Externa": "Sim",
-      "Aplicação do Ar-Condicionado": "Residencial e Comercial",
-      "Fonte de energia": "Elétrico com fio",
-      "Eficiência": "Eficiente",
-      "Capacidade": "3 tons",
-      "Fator de forma": "Cassete",
-      "Nome da marca": "Gree",
-      "Ano de início": "2020",
-      "ASIN": "B081DJZRC9",
-      "Dimensões do item P x L x A": "68,9P x 100L x 100A centímetros",
-      "Método de controle": "Remoto",
-      "Tipo de controle": "Controle remoto",
-      "Tipo de garantia": "Limitada",
-      "Marca": "Gree",
-      "Energia de resfriamento": "36000 BTUs",
-      "Característica Especial": "Compressor inverter",
-      "Dimensões do produto": "68,9P x 100L x 100A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B081DJZRC9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GLR43HBC",
-    "title": "Bicicleta Ergométrica Bike Spinning para Treino em Casa e Academia, Silenciosa, Ajustável e Confortável, Ideal para Cardio e Emagrecimento – Linha Fitness Premium",
-    "image": "https://m.media-amazon.com/images/I/61N2Tj3Ru5L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 449.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.3,
-    "qtd_avaliacoes": 190,
-    "coupon_code": null,
-    "description": "<ul><li>🚴 DESIGN ERGONÔMICO E CONFORTÁVEL – Bicicleta ergométrica com estrutura ajustável e confortável, ideal para treinos prolongados em casa com postura correta e melhor desempenho.</li><li>⚙️ SISTEMA DE INÉRCIA DE 6 KG – Volante de inércia de 6 kg que proporciona pedaladas mais suaves, estáveis e silenciosas, simulando a sensação de uma bicicleta de spinning profissional.</li><li>🤫 FUNCIONAMENTO SILENCIOSO – Sistema de pedal suave e silencioso, ideal para uso em apartamentos e residências sem incomodar familiares ou vizinhos.</li><li>📏 AJUSTES PERSONALIZÁVEIS – Guidão e assento com regulagem de altura e posição, adaptando-se a usuários de diferentes estaturas para treinos mais eficientes.</li><li>📊 PAINEL DIGITAL COMPLETO – Monitor LCD que exibe tempo, velocidade, distância, calorias e batimentos cardíacos para acompanhar sua evolução nos treinos.</li><li>🛡 ESTRUTURA ROBUSTA E ESTÁVEL – Construção reforçada que garante segurança e estabilidade durante treinos intensos, suportando usuários de até 150 kg.</li><li>🦶 Pedais seguros e antiderrapantes – Mais estabilidade e segurança para manter o ritmo do exercício com confiança.</li><li>💧 SUPORTE COM GARRAFINHA INCLUSA – Permite manter a hidratação sempre ao alcance durante o treino, aumentando conforto e rendimento.</li><li>🏠 SUA ACADEMIA EM CASA – Ideal para quem deseja praticidade, economia e liberdade para treinar no horário que preferir.</li><li>🔥 TREINO CARDIO COMPLETO PARA EMAGRECIMENTO – Perfeita para queima de calorias, fortalecimento cardiovascular e melhoria do condicionamento físico sem sair de casa.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Genérico",
-      "Usos recomendados do produto": "Interior",
-      "Nome do modelo": "Bicicleta Ergométrica Bike Spinning",
-      "Número do modelo": "0001",
-      "Número da peça": "0001",
-      "Fabricante": "Importado",
-      "País de origem": "China",
-      "ASIN": "B0GLR43HBC",
-      "Cor": "Preto",
-      "Características especiais": "Assento regulável, Guidão ajustável, Monitor digital com tempo, velocidade, distância e calorias, Níveis de resistência ajustáveis, Sensor de pulso integrado",
-      "Fonte de energia": "Elétrico com cabo",
-      "Mecanismo de resistência": "Magnético",
-      "Número de níveis de resistência": "5",
-      "Peso do item": "18 Quilogramas",
-      "Dimensões do item P x L x A": "85P x 45L x 110A centímetros",
-      "Recomendação de peso máximo": "150 Quilogramas",
-      "Descrição das Instruções de Montagem": "A bicicleta requer montagem inicial simples. O produto acompanha manual detalhado e todas as ferramentas necessárias, permitindo uma instalação rápida e segura para que você comece a treinar o quanto antes.",
-      "Material": "Metal",
-      "Marca": "Genérico",
-      "Fonte de alimentação": "Elétrico com cabo",
-      "Adequação do controle por rádio": "Interior"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GLR43HBC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21557,7 +19482,43 @@ const PRODUCTS = [
       "Dimensões do produto": "8,8P x 122,6L x 71,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPBQQ4TN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CJLDWS2J",
+    "title": "Ápice Creme de Pentear África Baobá | Hidratação, Definição e Proteção Térmica para Cabelos Cacheados, Crespos e Ondulados | 500g",
+    "image": "https://m.media-amazon.com/images/I/7102phwGKcL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 28.49,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1087,
+    "coupon_code": null,
+    "description": "<ul><li>Hidratação profunda com óleo de baobá: Rico em vitaminas A, D, E e F, nutre os fios, promovendo brilho e protegendo contra agressões externas.</li><li>Definição natural das curvaturas: Realça o movimento natural dos cabelos cacheados, crespos e ondulados, sem pesar ou deixar resíduos.</li><li>Proteção térmica eficaz: Contém ativo que forma uma película protetora, preservando a umidade e protegendo os fios do calor.</li><li>Fórmula vegana e liberada: Livre de sulfatos, parabenos, óleo mineral, sal, silicones e corantes, compatível com as rotinas No Poo e Low Poo.</li><li>Uso diário sem enxágue: Indicado para todos os tipos de curvatura, com pH balanceado entre 3,5 e 4,5, proporcionando cabelos saudáveis e definidos.</li></ul>",
+    "informacoes_produto": {
+      "Benefícios do produto": "Contém proteção térmica eficaz contra secadores e pranchas., Fórmula vegana e liberada, ideal para rotinas Low Poo e No Poo., Hidrata profundamente os fios e protege contra agressões externas., Pode ser usado diariamente, sem necessidade de enxágue., Realça a curvatura natural sem pesar, deixando os cabelos leves e definidos.",
+      "Tipo de cabelo": "Cabelos cacheados, Cabelos crespos, Cabelos ondulados, Finalização, Proteção térmica, Uso diário, Técnica de fitagem, Rotina No Poo, Rotina Low Poo",
+      "Aroma": "Baunilha",
+      "Formato do item": "Creme",
+      "Nome da marca": "APICE COSMETICOS",
+      "Fabricante": "APICE COSMETICOS",
+      "País de origem": "Brasil",
+      "Peso do item": "500 Gramas",
+      "ASIN": "B0CJLDWS2J",
+      "Volume de líquido": "500 Mililitros",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "1 Unidade",
+      "Volume do item": "500 Mililitros",
+      "Livre de tipo de material": "Livre de corantes, Livre de sal, Livre de silicones, Livre de sulfato, Livre de óleo mineral, Sem parabenos",
+      "Volume líquido": "500 Mililitros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CJLDWS2J?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21636,7 +19597,56 @@ const PRODUCTS = [
       "Dimensões do produto": "14,3P x 72,7L x 45,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C15434GB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0D9YQNT3Y",
+    "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Branca 11kg 127V",
+    "image": "https://m.media-amazon.com/images/I/51Hw5cBatiL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 2719.15,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 94,
+    "coupon_code": null,
+    "description": "<ul><li>Mais performance de lavagem, menos água e energia</li><li>Lavagem rápida de 15 minutos para pequenas cargas</li><li>Limpeza profunda com vapor eliminando 99,9% de bactérias</li><li>Diamond Drum: delicadeza e preservação dos tecidos</li></ul>",
+    "informacoes_produto": {
+      "Capacidade": "11 quilogramas",
+      "Características especiais": "Vapor de higienização, Lavagem rápida",
+      "Local do acesso": "Carga frontal",
+      "Tipo de acabamento": "Branco",
+      "Opções de ciclo": "lavagem rápida, limpeza profunda com vapor",
+      "Tipo de controles": "Botão de pressão",
+      "Modo de operação": "Totalmente automático",
+      "Voltagem": "110 Volts",
+      "Entrada de interface humana": "Botões",
+      "Tipo de instalação": "Independente",
+      "Dimensões do item P x L x A": "55P x 60L x 85A centímetros",
+      "Peso do item": "65 Quilogramas",
+      "Profundidade do item": "55 centimeters",
+      "Cor": "Branco",
+      "Nome da marca": "Samsung",
+      "Usos recomendados do produto": "Comercial, Residencial",
+      "Nome do modelo": "WW11T",
+      "Fabricante": "Samsung",
+      "Número do modelo": "WW11T",
+      "Número da peça": "7638",
+      "Descrição da garantia": "12 meses",
+      "País de origem": "Brasil",
+      "ASIN": "B0D9YQNT3Y",
+      "Material do tambor do aparelho de lavagem de roupa": "Aço inox",
+      "Dimensões do produto": "55P x 60L x 85A centímetros",
+      "Marca": "Samsung",
+      "Característica Especial": "Vapor de higienização, Lavagem rápida",
+      "Local de acesso": "Carga frontal"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0D9YQNT3Y?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21684,7 +19694,287 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Danificado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D7NZ3N7P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07JFTS6BS",
+    "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
+    "image": "https://m.media-amazon.com/images/I/510P6tjT3ZL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 119.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 18313,
+    "coupon_code": null,
+    "description": "<ul><li>2 EM 1: Pode ser utilizado como aspirador vertical ou portátil.</li><li>FILTRO LAVÁVEL: O filtro Cyclone é removível e lavável. Prático e fácil de limpar, não precisa de saco coletor.</li><li>FILTRO HEPA: Removível e lavável, retém até 99,5% dos ácaros e bactérias</li><li>POTÊNCIA DE 1100W: Alta eficiência na sucção, proporcionando uma limpeza mais rápida.</li><li>COLETOR DE PÓ TRANSLÚCIDO: Visualize quando o coletor de pó estiver cheio.</li><li>CABO ELÉTRICO COM 4 METROS: Alcança facilmente todos os cantos da sua casa.</li></ul>",
+    "informacoes_produto": {
+      "Características especiais": "2 em 1, Filtro lavável",
+      "Tipo de filtro": "Cyclone",
+      "Superfície Recomendada": "Carpete",
+      "Capacidade": "1,3 litros",
+      "Sucção máxima": "4,5 Metros",
+      "Cor": "Vermelho",
+      "Nível de ruído": "82 Decibéis",
+      "Portátil": "Sim",
+      "Utilização interior, exterior": "Área interna",
+      "Fonte de energia": "Energia elétrica",
+      "O produto é sem fio": "Não",
+      "Voltagem": "127 Volts",
+      "Potência": "1100 watts",
+      "Amperagem": "10 Amperes",
+      "Tempo de execução": "0 minuto",
+      "Fator de forma": "Vertical",
+      "Nome da marca": "MONDIAL",
+      "Componentes incluídos": "01 Aspirador de Pó; 01 Bocal Multiuso; 01 Bocal para cantos e frestas; 01 Bocal para Estofados; Manual de Instruções",
+      "Nome do modelo": "Aspirador de Pó Turbo Cycle",
+      "Número do modelo": "AP-36",
+      "País de origem": "China",
+      "Fabricante": "Mondial",
+      "Quantidade de itens": "1",
+      "Número de identificação de comércio internacional": "07899882306484",
+      "Ano de fabricação": "1900",
+      "Nome do Tipo de Produto": "Aspirador de Pó",
+      "ASIN": "B07JFTS6BS",
+      "Peso do item": "1,56 Quilogramas",
+      "Dimensões do item C x L x A": "13,5C x 23L x 109A centímetros",
+      "Método de controle": "Toque",
+      "Marca": "MONDIAL",
+      "Característica Especial": "2 em 1, Filtro lavável",
+      "Tipo de Filtro": "Cyclone",
+      "Recomendação de superfície": "Carpete",
+      "Fonte de alimentação": "Energia elétrica"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07JFTS6BS?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08BN8VD23",
+    "title": "Placa Mãe Gigabyte B550M AORUS ELITE (AM4/DDR4/HDMI/M.2(PCIe,NVMe,SATA3)/VRM Solution/USB3.2) - B550M AORUS ELITE",
+    "image": "https://m.media-amazon.com/images/I/81QyMksmunL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 691.82,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 4976,
+    "coupon_code": null,
+    "description": "<ul><li>A placa mãe Z490 AORUS PRO AX usa um design de alimentação de CPU digital de 12 1 fases que inclui o controlador PWM digital e o DrMOS</li><li>Este controlador 100% digital e conectores de alimentação de CPU de 8 4 pinos sólidos adicionais oferecem incrível precisão no fornecimento de energia para os componentes mais consumidores de energia e sensíveis à energia da placa-mãe, permitindo que os entusiastas obtenham o desempenho máximo absoluto do novo Intel 10-core CPU</li><li>Marca Gigabyte</li><li>Explore a nossa gama de produtos</li><li>Capacidade de armazenamento de memória: 128.0 GB</li></ul>",
+    "informacoes_produto": {
+      "Soquete de CPU": "Soquete AM4",
+      "Dispositivos compatíveis": "Computador pessoal",
+      "Tecnologia de memória RAM": "DDR4",
+      "Processadores compatíveis": "Ryzen Series",
+      "Tipo de chipset": "AMD 550X",
+      "Velocidade do clock da memória": "4733 MHz",
+      "Plataforma": "Windows 10, Windows 11",
+      "Modelo da CPU": "AMD Ryzen 5 5600G",
+      "Capacidade de armazenamento da memória": "128 GB",
+      "Tamanho máximo da memória RAM": "128 GB",
+      "Tipo do conector de energia principal": "24 pinos",
+      "Interface da placa de vídeo": "PCI Express",
+      "Slots de memória disponíveis": "1",
+      "Número de portas": "4",
+      "Total de portas SATA": "4",
+      "Total de portas USB 2.0": "4",
+      "Total de portas USB": "8",
+      "Total de portas Ethernet": "1",
+      "Total de portas HDMI": "1",
+      "Total de portas PCIe": "3",
+      "Família do Chipset": "AMD",
+      "Nome da marca": "GIGABYTE",
+      "Nome do modelo": "B550M",
+      "Número do modelo": "B550M AORUS ELITE",
+      "Fabricante": "Gigabyte",
+      "Contagem de unidades": "1 Unidade",
+      "Número de identificação de comércio internacional": "04719331809546",
+      "Nome do Tipo de Produto": "Placa-Mãe",
+      "Peso do item": "1 Quilogramas",
+      "Número da peça": "B550M AORUS ELITE",
+      "Descrição da garantia": "12 meses",
+      "ASIN": "B08BN8VD23",
+      "Dimensões do item C x L x A": "24,4C x 24,4L x 4A centímetros",
+      "Marca": "GIGABYTE",
+      "Soquete da CPU": "Soquete AM4",
+      "Dispositivos Compatíveis": "Computador pessoal",
+      "Tecnologia da Memória RAM": "DDR4",
+      "Processadores Compatíveis": "Ryzen Series"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B08BN8VD23?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H4VFZYNG",
+    "title": "Xixaomiro Tablet Android 15 Pad 10.1\", Câmera 13MP + 5MP, Bateria 8000mAh – Kit Completo com Caneta, Mouse, Teclado e Capa, Adequado para Estudo, Trabalho e Lazer (Verde)",
+    "image": "https://m.media-amazon.com/images/I/71WYTPS9uQL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 719.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 68,
+    "coupon_code": null,
+    "description": "<ul><li>【High-definition Display】A 10-inch screen with a resolution of 1920×1200, presenting clear and sharp images, vivid and lively colors, as well as high-quality episode and video playback effects. The brightness can be adjusted, suitable for indoor and outdoor environments, such as balconies, courtyards and public transportation vehicles. It is comfortable and convenient to use. Dual speakers provide a balanced and immersive audio experience.</li><li>【Lida facilmente com múltiplas tarefas】Navegue rapidamente pela web e alterne entre aplicações instantaneamente. Pode abrir várias abas no navegador, assistir a vídeos, editar planilhas ou participar de reuniões no Google Meet sem qualquer atraso. Seja para trabalho em casa, estudo, jogos ou entretenimento, consegue executar diversas tarefas com excelência.</li><li>【Rapidez de resposta 】Este tablet está equipado com o sistema nativo Android 15, proporcionando uma experiência de utilização suave, interface simples e sem atrasos. O sistema responde rapidamente, oferece recursos mais robustos de proteção de privacidade e proporciona uma experiência otimizada no uso da tela.</li><li>【Original-Kit Stylus Pen】Equipped with a dedicated tip, it has a sensitive touch and a comfortable grip, ensuring precise and continuous writing experience. It is suitable for taking notes in daily classes, annotating documents, and drawing on images. The touch operation perfectly combines with the finger's habit on the screen, making it convenient to use. It is convenient for students to participate in online courses and allows for free drawing when relaxing.</li><li>【Portátil e fácil de transportar】O corpo é leve e fino, permitindo colocá-lo facilmente numa mochila, bolsa ou pasta grande. É adequado para uso ao ir ao trabalho, visitar a biblioteca, viajar ou relaxar em casa. Inclui uma capa protetora e uma bateria de 8000mAh, garantindo longa duração de energia.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "xixaomiro",
+      "Nome do modelo": "Tablet Android 15",
+      "Geração": "Android 15",
+      "Descrição da faixa etária": "Adulto",
+      "Componentes incluídos": "ablet, Carregador Cabo OTG, Película de Proteção, Caneta stylus",
+      "País de origem": "China",
+      "Descrição da garantia": "1",
+      "Número do modelo": "Pad 5",
+      "Usos específicos do produto": "Educação, Entretenimento, Trabalho",
+      "Estilo": "Moderno E Compacto",
+      "Fabricante": "xixaomiro",
+      "Configuração": "Tablet Android 15",
+      "Tamanho": "10.1 Polegadas",
+      "Contagem de unidades": "1 Unidade",
+      "Certificação de teste externa": "Não aplicável",
+      "ASIN": "B0H4VFZYNG",
+      "Interface de hardware": "Bluetooth",
+      "Tecnologia de comunicação sem fio": "Wi-fi",
+      "Tecnologia de celular": "5G",
+      "Total de portas USB": "1",
+      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
+      "Descrição da câmera": "Câmera Frontal De 5 Mp, Traseira",
+      "Resolução do sensor fotográfico traseiro da câmara": "13 MP",
+      "Número de câmaras traseiras": "1",
+      "Formato de áudio compatível": "Mp4",
+      "Entrada de fone de ouvido": "3,5 mm",
+      "Sistema operacional": "Android 15",
+      "Cor": "verde",
+      "Fabricante da placa de vídeo": "Qualcomm",
+      "Dimensões do item C x L x Espessura": "24C x 18L x 1Espessura centímetros",
+      "Descrição da placa de vídeo": "Integrada",
+      "Tamanho da tela": "10,1 Polegadas",
+      "Resolução máxima da tela": "1920 Pixels",
+      "Tipo de tela": "LED",
+      "Resolução nativa": "1920 x 1200 pixels",
+      "Brilho máximo do visor": "800 Revestimento NIT",
+      "Taxa de Atualização da Tela em Hertz": "120",
+      "Capacidade de armazenamento da memória": "128 GB",
+      "Memória RAM instalada": "8 GB",
+      "Slots de memória disponíveis": "1",
+      "Tamanho da memória do computador": "128 GB",
+      "Tamanho do disco rígido": "128 GB",
+      "Duração da bateria": "8 Horas",
+      "Capacidade da bateria": "8000 Milliamp Hours",
+      "Composição da célula da pilha": "Polímero de lítio",
+      "Conteúdo de energia da bateria de lítio": "8000 Miliamperes Horas (mAh)",
+      "Descrição do processador": "CPU A523 Octa-core",
+      "Fabricante do modelo da CPU": "Qualcomm",
+      "Número do modelo da CPU": "A523 Octa-core",
+      "Características especiais": "Bluetooth, Câmera Frontal E Traseira, Tela Sensível Ao Toque, Wi-fi",
+      "Funcionalidade de segurança biométrica": "Reconhecimento Facial",
+      "Marca": "xixaomiro",
+      "Nome do Modelo": "Tablet Android 15",
+      "Capacidade de Armazenamento de Memória": "128 GB",
+      "Tamanho da Tela": "10,1 Polegadas",
+      "Resolução máxima do visor": "1920 Pixels"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H4VFZYNG?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09GSQMJ5T",
+    "title": "L'Oréal Professionnel Pro Longer, Máscara de Tratamento Capilar para Cabelos Finos e Afinados, Reduz Quebra e Pontas Duplas, Proporciona Brilho, Suavidade e Densidade aos Fios, 250g",
+    "image": "https://m.media-amazon.com/images/I/51Jjvh-r-vL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 148.08,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 3043,
+    "coupon_code": null,
+    "description": "<ul><li>Máscara profissional para cabelos longos que preenche as pontas, devolvendo a densidade e evitando o corte.</li><li>Com tecnologia Filler-A100 e Aminoácidos que reforçam a fibra, preenchem e fortalecem os cabelos longos.</li><li>Reduz a quebra dos fios em 94%* e diminui as pontas duplas em 66%**, para um comprimento mais uniforme.</li><li>Deixa o cabelo 5x mais brilhante*, com toque sedoso e aparência visivelmente mais saudável da raiz às pontas.</li><li>Conquiste o cabelo longo dos seus sonhos: forte, denso, com pontas preenchidas e um brilho espetacular.</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Creme",
+      "Tipo de cabelo": "Todos",
+      "Benefícios do produto": "Trata instantaneamente pontas finas e quebradiças, fortalecendo a fibra com resultados já na 1ª aplicação.",
+      "Aroma": "Sem perfume",
+      "Additional Features": "Hipoalergênico",
+      "Contagem de unidades": "250.0 milliliters",
+      "Quantidade de itens": "1",
+      "Dimensões do artigo": "8,3 x 8,3 x 6,9 centímetros",
+      "Volume de líquido": "250 Mililitros",
+      "Peso do item": "290 Gramas",
+      "Tamanho": "250 g (Pacote de 1)",
+      "Nome da marca": "L'Oréal Professionnel Paris",
+      "Descrição da faixa etária": "Adulto",
+      "Fabricante": "L´Oreal",
+      "Número da peça": "1000096",
+      "Nome do Tipo de Produto": "Máscara de Tratamento Para Renovação de Pontas Pro Longer Serie Expert 250G",
+      "País de origem": "Brasil",
+      "ASIN": "B09GSQMJ5T",
+      "Características do material": "Sem crueldade",
+      "Marca": "L'Oréal Professionnel Paris",
+      "Forma do produto": "Creme",
+      "Característica do material": "Sem crueldade",
+      "Tipo de Cabelo": "Todos"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B09GSQMJ5T?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0C9R8RC1P",
+    "title": "Duracell Pilhas Alcalinas AAA Palito Pack 24 Unidades – Dura Mais - Ideal para Controle de Videogame e Brinquedos",
+    "image": "https://m.media-amazon.com/images/I/81clRPwJt3L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 99.65,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 2480,
+    "coupon_code": null,
+    "description": "<ul><li>Pilha Duracell Alcalina AAA que fornece mais duração e potência para os aparelhos</li><li>Dura mais, muito mais</li><li>Longa duração: As pilhas alcalinas AA Duracell duram mais que as pilhas comuns de zinco-carbono, oferecendo energia confiável e de alto desempenho</li><li>As pilhas Duracell podem manter sua capacidade energética por até 10 anos, mesmo sem uso, garantindo energia disponível quando você precisar</li><li>Projetadas para oferecer o melhor desempenho em dispositivos de uso diário, como brinquedos, lanternas, controles remotos e teclados</li></ul>",
+    "informacoes_produto": {
+      "Tipo de bateria": "24 AAA baterias necessárias. (inclusas)",
+      "Nome da marca": "Duracell",
+      "Número do modelo": "C&amp;B AAA 24",
+      "Nome do modelo": "Pilha Alcalina AAA24",
+      "UPC": "041333050461",
+      "Fabricante": "Duracell",
+      "Certificação de teste externa": "Não aplicável",
+      "Descrição da garantia": "12 meses com o fabricante",
+      "País de origem": "China",
+      "ASIN": "B0C9R8RC1P",
+      "Capacidade da bateria": "100",
+      "Voltagem": "1,5 Volts",
+      "Reutilização": "Não recarregável",
+      "Contagem de unidades": "24 unidade",
+      "Peso da bateria": "280 Gramas",
+      "Dimensões do artigo": "38 x 46 x 85 milímetros",
+      "Usos recomendados do produto": "Brinquedos, Controle de videogame, Controle remoto",
+      "Composição da célula da pilha": "Alcalina",
+      "Número de baterias": "24 AAA baterias necessárias. (inclusas)",
+      "Marca": "Duracell",
+      "Composição das células da bateria": "Alcalina",
+      "Capacidade da Bateria": "100",
+      "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0C9R8RC1P?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21731,7 +20021,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07X4JG2G4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21769,7 +20059,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Ondulado, Cacheado, Crespo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09X9KDZBB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21823,7 +20113,58 @@ const PRODUCTS = [
       "Ajuste ao Tamanho": "Neutro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHS7QVMB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B077BY915Y",
+    "title": "Máscara Matizadora Specialist Blonde Amend 300g",
+    "image": "https://m.media-amazon.com/images/I/51RMP-9e4fL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 29.29,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 6449,
+    "coupon_code": null,
+    "description": "<ul><li>Alta Concentração de Pigmentos: Fórmula desenvolvida com alta concentração de pigmentos para um resultado matizador eficaz</li><li>Efeito Matizador Imediato: Proporciona efeito matizador imediato nos cabelos loiros e descoloridos</li><li>Neutralização de Tons Indesejados: Neutraliza os indesejáveis tons amarelados ou alaranjados dos fios</li><li>Ingredientes Nutritivos: Com Polissacarídeos Nutri-Protetores e Extrato de Mirtilo para nutrição profunda</li><li>Fortalecimento e Recuperação: Fórmula com aminoácidos fortalecedores e antioxidantes que fortificam e recuperam os fios porosos e danificados</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Creme",
+      "Tipo de cabelo": "Quimicamente tratados",
+      "Benefícios do produto": "Intensificação da cor",
+      "Aroma": "Sem perfume",
+      "Additional Features": "Matização para Cabelos Loiros",
+      "Tipo de pacote": "SIM",
+      "Tipo de condicionador de cabelo": "Máscara de condicionador do cabelo",
+      "Características do material": "Reciclável",
+      "Princípios ativos": "Polissacarídeos Nutri-Protetores, Extrato de Mirtilo, Aminoácidos",
+      "Usos recomendados do produto": "Recomendado para cabelos loiros",
+      "Contagem de unidades": "1 Unidade",
+      "Quantidade de itens": "1",
+      "Dimensões do artigo": "9,6 x 10,6 x 6,7 centímetros",
+      "Volume de líquido": "300 Mililitros",
+      "Peso do item": "302 Gramas",
+      "Tamanho": "300 g (Pacote de 1)",
+      "Nome da marca": "Amend",
+      "Descrição da faixa etária": "Adulto",
+      "Fabricante": "Amend",
+      "UPC": "304066490400",
+      "Número do modelo": "1155-1",
+      "Número da peça": "1155",
+      "Nome do Tipo de Produto": "Máscara Matizadora Specialist Blonde",
+      "País de origem": "Brasil",
+      "ASIN": "B077BY915Y",
+      "Marca": "Amend",
+      "Forma do produto": "Creme",
+      "Característica do material": "Reciclável",
+      "Tipo de Cabelo": "Quimicamente tratados",
+      "Vantagens do produto": "Intensificação da cor"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B077BY915Y?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21865,7 +20206,60 @@ const PRODUCTS = [
       "Número de itens": "91"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Y3B33KG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B076CF5DFL",
+    "title": "Aquecedor A Ar, Mondial, Cinza/Branco, 2000W, 220V - A-08",
+    "image": "https://m.media-amazon.com/images/I/61Af2D6mMzL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 99.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 4520,
+    "coupon_code": null,
+    "description": "<ul><li>3 EM 1: Aquece, circula e desumidifica o ar, garantindo um ambiente quentinho e confortável;</li><li>2 NÍVEIS DE AQUECIMENTO: Controle a temperatura de acordo com sua preferência;</li><li>TRIPLO SISTEMA DE SEGURANÇA: Proteção contra superaquecimento;</li><li>MAIS SILENCIOSO: Aquece o ambiente com baixo ruído e proporciona noites tranquilas e agradáveis;</li><li>PORTÁTIL: Leve, compacto e com alça para transporte.</li></ul>",
+    "informacoes_produto": {
+      "Características especiais": "Leve, Portátil, Silencioso",
+      "Fator de forma": "Compacto Portátil",
+      "Utilização interior, exterior": "Área interna",
+      "Fonte de energia": "Elétrico com fio",
+      "Método de aquecimento": "Circulação De Ar, Convecção Forçada Por Ventilador, Desumidificação",
+      "Usos recomendados do produto": "Casa",
+      "Tipo de montagem": "Montagem no chão",
+      "Tipo de sala": "Quarto",
+      "Cobertura de aquecimento": "Ambientes Internos De Pequeno A Médio Porte",
+      "Elemento de aquecimento": "Resistência Elétrica Com Ventilador",
+      "Saída de calor": "1500 Watts",
+      "Tipo de combustível": "Elétrico",
+      "Número de velocidades": "2",
+      "Voltagem": "220 Volts",
+      "Amperagem": "10 Amperes",
+      "Cor": "Cinza/Branco",
+      "Nome da marca": "MONDIAL",
+      "País de origem": "China",
+      "Número do modelo": "A-08",
+      "Descrição da garantia": "12",
+      "Ano de fabricação": "1900",
+      "Número de identificação de comércio internacional": "07899882303186",
+      "Número da peça": "A08",
+      "Nome do Tipo de Produto": "Aquecedor a Ar",
+      "Fabricante": "Mondial",
+      "Componentes incluídos": "1 Aquecedor, 1 Manual de Instruções.",
+      "ASIN": "B076CF5DFL",
+      "Dimensões do item P x L x A": "13,4P x 22L x 26,4A centímetros",
+      "Marca": "MONDIAL",
+      "Característica Especial": "Leve, Portátil, Silencioso",
+      "Fator de Forma": "Compacto Portátil",
+      "Ambiente interno/externo": "Área interna"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B076CF5DFL?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21916,7 +20310,55 @@ const PRODUCTS = [
       "Característica Especial": "Durável, Resistente a rugas, Resistente ao desbotamento, Respirável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09SBHNPRF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B000WLN7AM",
+    "title": "Whisky Bourbon Maker's Mark 750ml",
+    "image": "https://m.media-amazon.com/images/I/7199P9zzMGL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 119.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 3381,
+    "coupon_code": null,
+    "description": "<ul><li>Com coloração âmbar, laranja-amarelada, o bourbon tornou-se um dos destilados mais apreciados no mundo.</li><li>Diferentemente da composição do whisky tradicional, o Maker’s Mark não possui centeio na sua formulação, e sim, trigo doce e vermelho de inverno, milho e cevada.</li><li>O sucesso é fruto de um processo produtivo minucioso, que segue à risca os padrões de qualidade.</li><li>A produção é feita em baixa escala, em lotes individuais que não ultrapassam 19 barris por lote.</li><li>O Maker’s Mark é envelhecido por cerca de seis anos, depois de engarrafado é então selado em uma garrafa de forma única e selada com a cera vermelha na rolha.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Maker's Mark",
+      "Tipo alcoólico": "Bourbon",
+      "Sabor": "Chocolate",
+      "Quantidade de itens": "1",
+      "País de origem": "USA",
+      "Conteúdo alcoólico": "45 %",
+      "Descrição do conteúdo líquido": "Bebidas e destilados",
+      "Formato do item": "Garrafa",
+      "UPC": "085246342978 029147100244 085246502198 085246502204 085246139431",
+      "Número de identificação de comércio internacional": "00085246139431, 00085246342978, 00085246502198",
+      "Número do modelo": "MAKER-RED70",
+      "Número da peça": "MAKER-RED70",
+      "Item Nype Name": "Whisky Makers Mark 750Ml",
+      "Tipo de dieta": "Sem glúten",
+      "Fabricante": "Suntory Global Spirits BR",
+      "ASIN": "B000WLN7AM",
+      "Contagem de unidades": "750.0 Mililitro",
+      "Volume de líquido": "750 Mililitros",
+      "Peso do item": "127,94 Gramas",
+      "Peso do pacote": "1,3 Quilogramas",
+      "Total de pacotes": "1",
+      "Volume do item": "750 Mililitros",
+      "Informações sobre alérgenos": "Contém: Não contém glúten",
+      "Marca": "Maker's Mark",
+      "Tipo de álcool": "Bourbon",
+      "Quantidade de Unidades": "750.0 Mililitro",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B000WLN7AM?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -21959,7 +20401,32 @@ const PRODUCTS = [
       "Característica Especial": "Tamanho de bolso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09532P5P4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H2G38ZNW",
+    "title": "Kit 3 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 300g - Bepantol Baby",
+    "image": "https://m.media-amazon.com/images/I/61HlHA-XVpL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 132.89,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 28,
+    "coupon_code": null,
+    "description": "<ul><li>- Idade Recomendada: A partir do Nascimento - Restaura a Pele de Dentro para Fora. - Mantém a Hidratação da Pele.</li><li>- Proteção Pura e Delicada. - Clinicamente Testado. - Livre de Fragrâncias.</li><li>- Livre de Agentes Irritantes. - Livre de Parabenos. - Livre de Conservantes.</li><li>- Possui Vitamina B5. - Possui Lanolina. - Barreira Transparente.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Bepantol",
+      "Contagem de unidades": "1.0 unidade",
+      "Fabricante": "Bayer",
+      "ASIN": "B0H2G38ZNW"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H2G38ZNW?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   },
   {
@@ -22025,7 +20492,1540 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CBQXGZ85?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T19:20:19.000Z",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FHS18Q1N",
+    "title": "Smartphone Xiaomi Poco X7 Pro 5G NFC Preto Black 512GB ROM 12GB [2412DPC0AG] | 2412DPC0AG",
+    "image": "https://m.media-amazon.com/images/I/51C+i0RsFfL._AC_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2390,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 23,
+    "coupon_code": null,
+    "description": "<ul><li>x7 pro 512 12gb</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "HyperOs",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "12 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Tamanho máximo suportado pela memória flash": "512 GB",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "jogos, entretenimento",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 109372414550/ Modelo:2412DPC0AG",
+      "ASIN": "B0FHS18Q1N",
+      "Resolução": "8165 x 6124 pixel",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G, NFC",
+      "Tecnologia de rede sem fios": "NFC",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Número de câmaras traseiras": "1",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "6000 Milliamp Hours",
+      "Potência da bateria": "5110",
+      "Duração da bateria": "2,5 Dias",
+      "Marca": "XIAOMI",
+      "Sistema Operacional": "HyperOs",
+      "Tamanho instalado da memória RAM": "12 GB",
+      "Capacidade de Armazenamento de Memória": "12 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FHS18Q1N?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GN23K43X",
+    "title": "Xiaomi Smartphone Poco X8 Pro 256GB / 8GB Ram MINT GREEN (Verde) Global com NFC | Global, NFC",
+    "image": "https://m.media-amazon.com/images/I/615Hkp8u98L._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2459.89,
+    "price_original": 12499,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 6,
+    "coupon_code": null,
+    "description": "<ul><li>Processador de Alto Desempenho: Eleve seu limite com o novo processador Dimensity 8500-Ultra, transformando seu dia em pura eficiência e diversão sem travamentos para games pesados e multitarefas sem esforço</li><li>Tela AMOLED 120Hz de 1.5K: Desfrute de cores vibrantes e fluidez perfeita com tela AMOLED de 6,59 polegadas, 120Hz, cores intensas, excelente visibilidade e alta responsividade para entretenimento e jogos</li><li>Câmera de 50MP com OIS: Capture fotos nítidas em qualquer ocasião com a câmera traseira de 50MP Sony IMX882 equipada com estabilização óptica de imagem, proporcionando qualidade de estúdio no seu dia a dia</li><li>Bateria de 6500mAh com Carregamento Rápido 100W: Tenha liberdade total com bateria de longa duração e carregador 100W HyperCharger, eliminando pausas inesperadas e permitindo viver intensamente sem preocupações com recarga</li><li>Memória e Armazenamento Generosos: Equipado com 8GB de RAM e 256GB de armazenamento interno, oferecendo espaço amplo para aplicativos, fotos, vídeos e arquivos sem comprometer o desempenho do dispositivo</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "ANDROID",
+      "Memória RAM instalada": "8 GB",
+      "Velocidade da CPU": "3,4 GHz",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Verde Menta",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "TELA RETA",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Tamanho do cartão SIM": "Nano",
+      "Nível de resistência à água": "Resistente à água",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 X CABO USB-C, 01 X CAPA PROTETORA, 01 X FERRAMENTA EJETORA DE CHIP, 01 x CARREGADOR DE TOMADA PADRÃO GLOBAL(PODENDO IR COM ADAPTADOR EM ALGUNS CASOS), 01 x POCO X8 Pro 5G 256GB",
+      "Descrição da garantia": "3 MESES",
+      "Fabricante": "xiaomi",
+      "Usos específicos do produto": "Gaming, Photography, Entertainment, Multitasking",
+      "Certificação de teste externa": "Anatel: 087792509185 / Modelo: 2511FPC34G, Anatel: 087792509185",
+      "ASIN": "B0GN23K43X",
+      "Tamanho da tela": "6,59 Polegadas",
+      "Resolução": "2756 × 1268",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2756 × 1268",
+      "Densidade do pixel de exibição": "460 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, Infravermelha, NFC, Wi-fi",
+      "Tecnologia de rede sem fios": "GSM",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50.0, 8.0 MP",
+      "Número de câmaras traseiras": "2",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "6500 Milliamp Hours",
+      "Potência da bateria": "6500",
+      "Resolução de captura de vídeo": "1080p, 4k",
+      "Taxa de quadros": "30 fps, 60 fps",
+      "GPS": "true",
+      "Marca": "XIAOMI",
+      "Sistema Operacional": "ANDROID",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Velocidade do CPU": "3,4 GHz",
+      "Capacidade de Armazenamento de Memória": "256 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GN23K43X?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": true
+  },
+  {
+    "asin": "B0GZLL5D74",
+    "title": "Smartphone Motorola Edge 70 PRO 5G - 256GB 24GB (12GB RAM+12GB Ram Boost), 4 câmeras de 50MP, Tela 1.5K extreme AMOLED 144Hz,",
+    "image": "https://m.media-amazon.com/images/I/61QCeDQ0JaL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3599.1,
+    "price_original": 4499,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 1,
+    "coupon_code": null,
+    "description": "<ul><li>Criado com estilo para você</li><li>4 câmeras de 50 MP</li><li>A maior bateria da categoria*</li><li>Brilho e fluidez à máxima potência*</li><li>Construído com alto padrão de resistência*</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "12 GB",
+      "Modelo da CPU": "Snapdragon",
+      "Velocidade da CPU": "5,6 GHz",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Azul Escuro",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Desbloqueio Facial, Impressão Digital na tela",
+      "Nível de resistência à água": "À prova d'água",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 08822-25-00330/ Modelo: XT2607-1",
+      "ASIN": "B0GZLL5D74",
+      "Tamanho da tela": "6,8 Polegadas",
+      "Resolução": "1220 X 2712",
+      "Taxa de atualização": "144",
+      "Tipo de tela": "Extreme AMOLED",
+      "Resolução máxima da tela": "1220 X 2712",
+      "Densidade do pixel de exibição": "450 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
+      "Tecnologia de rede sem fios": "Bluetooth, Wi-Fi",
+      "Resolução do sensor fotográfico frontal": "50 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Número de câmaras traseiras": "4",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "6500 Milliamp Hours",
+      "Potência da bateria": "6500.0",
+      "Marca": "Motorola",
+      "Sistema Operacional": "Android 16",
+      "Tamanho instalado da memória RAM": "12 GB",
+      "Velocidade do CPU": "5,6 GHz"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GZLL5D74?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1NS1XQD",
+    "title": "Smartphone Xiaomi Poco X8 Pro, 512GB, 8GB RAM, Verde | NFC",
+    "image": "https://m.media-amazon.com/images/I/31j4D5njl6L._AC_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2699.84,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 2,
+    "coupon_code": null,
+    "description": "<ul><li>X8 Pro 512GB / 8GB</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "8 GB",
+      "Velocidade da CPU": "3,4 GHz",
+      "Capacidade de armazenamento da memória": "8 GB",
+      "Cor": "Verde",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Funcionalidade de segurança biométrica": "Impressão digital",
+      "Tamanho do cartão SIM": "Nano",
+      "Nível de resistência à água": "À prova d'água",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50.0, 8.0 MP",
+      "Número de câmaras traseiras": "2",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "6500 Milliamp Hours",
+      "Potência da bateria": "6500",
+      "Resolução de captura de vídeo": "4k",
+      "Taxa de quadros": "120",
+      "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+      "Tamanho da tela": "6,5 Polegadas",
+      "Resolução": "1268 x 2756",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "1268 Pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G, Bluetooth, GPS, NFC, Wi-fi",
+      "Tecnologia de rede sem fios": "GSM, LTE, UMTS",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "Anatel: 087792509185 / Modelo: 2511FPC34G",
+      "ASIN": "B0H1NS1XQD",
+      "Marca": "XIAOMI",
+      "Sistema Operacional": "Android 16",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Velocidade do CPU": "3,4 GHz",
+      "Capacidade de Armazenamento de Memória": "8 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H1NS1XQD?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H2WXYRQ5",
+    "title": "Smartphone Xiaomi Redmi Note 15 Pro 5G 256GB - 8GB Ram Preto Black",
+    "image": "https://m.media-amazon.com/images/I/611imsL0sPL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2069.99,
+    "price_original": 2199,
+    "discount_percentage": 5.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 2,
+    "coupon_code": null,
+    "description": "<ul><li>Redmi Note 15 Pro 5G 512gb 8gb</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "HyperOs",
+      "Memória RAM instalada": "8 GB",
+      "Modelo da CPU": "Mediatek Dimensity 7400",
+      "Capacidade de armazenamento da memória": "8 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Resolução do sensor fotográfico traseiro da câmara": "200 MP",
+      "Capacidade da bateria": "6580 Milliamp Hours",
+      "Potência da bateria": "6580",
+      "Duração da bateria": "1 Dias",
+      "Resolução de captura de vídeo": "4k",
+      "Resolução": "1500 x 750",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "entretenimento, fotografia, jogos, esportes ao ar livre",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL:062732509185/Model:25080RABDG",
+      "ASIN": "B0H2WXYRQ5",
+      "Marca": "XIAOMI",
+      "Sistema Operacional": "HyperOs",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Capacidade de Armazenamento de Memória": "8 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H2WXYRQ5?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GZLT5PX9",
+    "title": "Smartphone Motorola Edge 70 PRO 5G - 256GB 24GB (12GB RAM+12GB Ram Boost), 4 câmeras de 50MP, Tela 1.5K extreme AMOLED 144Hz,",
+    "image": "https://m.media-amazon.com/images/I/61g8N2P8ClL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3599.1,
+    "price_original": 4499,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 2,
+    "coupon_code": null,
+    "description": "<ul><li>Criado com estilo para você</li><li>4 câmeras de 50 MP</li><li>A maior bateria da categoria*</li><li>Brilho e fluidez à máxima potência*</li><li>Construído com alto padrão de resistência*</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "24 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Madeira",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Desbloqueio Facial, Impressão Digital na tela",
+      "Nível de resistência à água": "À prova d'água",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 08822-25-00330/ Modelo: XT2607-1",
+      "ASIN": "B0GZLT5PX9",
+      "Tamanho da tela": "6,8 Polegadas",
+      "Taxa de atualização": "144",
+      "Tipo de tela": "Extreme AMOLED",
+      "Resolução máxima da tela": "1220 X 2712",
+      "Densidade do pixel de exibição": "450 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "50 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Número de câmaras traseiras": "4",
+      "Capacidade da bateria": "6500 Milliamp Hours",
+      "Potência da bateria": "6500.0",
+      "Marca": "Motorola",
+      "Sistema Operacional": "Android 16",
+      "Tamanho instalado da memória RAM": "24 GB",
+      "Capacidade de Armazenamento de Memória": "256 GB",
+      "Tamanho da Tela": "6,8 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GZLT5PX9?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H5X34DNR",
+    "title": "Smartphone Motorola Moto e13 64gb 4gb Ram Câmera 13mp + Selfie 5mp Tela 6.5 Dual Sim - Grafite (Recondicionado)",
+    "image": "https://m.media-amazon.com/images/I/51Hbitl2OqL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 589,
+    "price_original": 1899,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 13 Go",
+      "Memória RAM instalada": "4 GB",
+      "Capacidade de armazenamento da memória": "64 GB",
+      "Cor": "Verde",
+      "Tipo de conector": "USB tipo C",
+      "Características especiais": "Dual SIM, GPS integrado, Processador Octa Core, Tela sensível ao toque",
+      "Tamanho máximo suportado pela memória flash": "64 GB",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2023",
+      "Componentes incluídos": "Adaptador, Cabo USB, Ejetor da bandeja SIM",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Motorola",
+      "Usos específicos do produto": "Uso diário",
+      "UPC": "728434247494",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 182272200330",
+      "ASIN": "B0GVK8YQFF",
+      "Tamanho da tela": "6,5 Polegadas",
+      "Resolução": "720 x 1600",
+      "Tipo de tela": "LCD",
+      "Resolução máxima da tela": "720x1600 Pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "4G",
+      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Charging Time": "2 Milliampere Hour (mAh)",
+      "Potência da bateria": "5000 Milliampere Hour (mAh)",
+      "Peso do item": "180 Gramas",
+      "Dimensões do artigo": "8 x 75 x 164 milímetros",
+      "Marca": "Motorola",
+      "Tamanho instalado da memória RAM": "4 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H5X34DNR?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H34VM48S",
+    "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 44mm - Grafite",
+    "image": "https://m.media-amazon.com/images/I/51YIQ+39+VL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3598.9,
+    "price_original": 3599,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>1 Galaxy A57 5G (256GB) - Cinza</li><li>1 Galaxy Watch8 BT 44mm - Grafite</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "8 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Cinza",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 44mm - Grafite",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Certificação de teste externa": "ANATEL: 073162500953 / MODEL: SM-A576B/DS",
+      "ASIN": "B0H34VM48S",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "1080 x 2340",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Potência da bateria": "5000 Milliamp Hours",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 16.0",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Capacidade de Armazenamento de Memória": "256 GB",
+      "Tamanho da Tela": "6,7 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H34VM48S?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GYPQBXVX",
+    "title": "Smartphones Motorola Moto G47 5G - 128GB 12GB (4GB RAM + 8GB RAM Boost), Camera 50 MP Sony LYTIA 600, Tela FHD+ de 120hz - Ro",
+    "image": "https://m.media-amazon.com/images/I/51WBF-uDwmL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 1349.1,
+    "price_original": 1799,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>A evolução da fotografia com a câmera de 50 MP Sony LYTIAᵀᴹ 600*</li><li>A vida exige, ele resiste*</li><li>Vá da pergunta à resposta instantaneamente com o Google Gemini*</li><li>Solte o som com Volume Boost</li><li>O aliado de sua produtividade com performance veloz e 5G</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "128 GB",
+      "Cor": "Rosa",
+      "Contagem de slots do cartão SIM": "SIM único",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 CABO USB-A / USB-C, 01 CARREGADOR TURBOPOWER™ 20 W, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 MANUAL, 01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 003302600330 / Modelo: XT2625-1",
+      "ASIN": "B0GYPQBXVX",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "1080 x 2400",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "FHD+",
+      "Resolução máxima da tela": "1080x2400 Pixels",
+      "Densidade do pixel de exibição": "391 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth",
+      "Tecnologia de rede sem fios": "Wi-Fi",
+      "Resolução do sensor fotográfico frontal": "32 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Capacidade da bateria": "5200 Milliamp Hours",
+      "Potência da bateria": "5200",
+      "Marca": "Motorola",
+      "Sistema Operacional": "Android 16",
+      "Tamanho instalado da memória RAM": "12 GB",
+      "Capacidade de Armazenamento de Memória": "128 GB",
+      "Tamanho da Tela": "6,7 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GYPQBXVX?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0G2BHH8SR",
+    "title": "Smartphone Xiaomi Redmi Note 15 Pro 5G 512GB - 8GB Ram Azul",
+    "image": "https://m.media-amazon.com/images/I/61aMEEInj6L._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3590,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Redmi Note 15 Pro 5G 512gb 8gb</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "HyperOs",
+      "Capacidade de armazenamento da memória": "512 GB",
+      "Cor": "Azul",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "jogos, streaming, navegação",
+      "Certificação de teste externa": "ANATEL:062732509185/Model:25080RABDG",
+      "ASIN": "B0G2BHH8SR",
+      "Tamanho da tela": "6,83 Polegadas",
+      "Resolução": "1.5K",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de rede sem fios": "Bluetooth, LTE, Wi-Fi",
+      "Resolução do sensor fotográfico traseiro da câmara": "200 MP",
+      "Potência da bateria": "6580",
+      "Dimensões do artigo": "8 x 78 x 164 milímetros",
+      "Resolução de captura de vídeo": "4k",
+      "Marca": "XIAOMI"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0G2BHH8SR?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GZQTLQ9S",
+    "title": "Smartphone Motorola Razr Fold 5G - 1TB 32GB (16GB RAM+16GB Ram Boost), Tela interna 8.1\" e externa 6.6”, extreme AMOLED, 3 câ",
+    "image": "https://m.media-amazon.com/images/I/61FYTXh5vhL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 11999,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>A melhor câmera do mundo em um dobrável*</li><li>A melhor bateria da categoria*</li><li>Brilho e fluidez de imagem na maior tela Extreme AMOLED da categoria*</li><li>O ápice da produtividade</li><li>Resistência que inspira confiança*</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "16 GB",
+      "Capacidade de armazenamento da memória": "1024 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 CABO USB-C/ USB-C, 01 CAPA PROTETORA, 01 CARREGADOR TURBOPOWER™ 90 W, 01 ESTOJO DE CARREGAMENTO, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 KIT DE MANUAIS, 01 MOTO PEN ULTRA, 01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Usos específicos do produto": "fotografia, trabalho",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 08337-25-00330/ Modelo: XT2651-1",
+      "ASIN": "B0GZQTLQ9S",
+      "Tamanho da tela": "6,6 Polegadas",
+      "Taxa de atualização": "165",
+      "Tipo de tela": "Extreme AMOLED",
+      "Resolução máxima da tela": "1080 x 2520",
+      "Densidade do pixel de exibição": "418 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "32 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Capacidade da bateria": "6000 Milliamp Hours",
+      "Potência da bateria": "6000.0",
+      "Marca": "Motorola",
+      "Tamanho instalado da memória RAM": "16 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GZQTLQ9S?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H2WRYZYJ",
+    "title": "Smartphone Xiaomi Redmi Note 15 Pro 5G 512GB - 8GB Ram Titanuim",
+    "image": "https://m.media-amazon.com/images/I/41loeOpY1aL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2559.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 7,
+    "coupon_code": null,
+    "description": "<ul><li>Redmi Note 15 Pro 5G 512gb 8gb</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "HyperOs",
+      "Memória RAM instalada": "8 GB",
+      "Modelo da CPU": "Mediatek Dimensity 7400",
+      "Capacidade de armazenamento da memória": "8 GB",
+      "Cor": "Titanium",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "gaming, photography, streaming, working",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL:062732509185/Model:25080RABDG",
+      "ASIN": "B0H2WRYZYJ",
+      "Resolução": "1.5K",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G",
+      "Resolução do sensor fotográfico traseiro da câmara": "200 MP",
+      "Capacidade da bateria": "6580 Milliamp Hours",
+      "Potência da bateria": "6580",
+      "Resolução de captura de vídeo": "4k",
+      "Marca": "XIAOMI",
+      "Tamanho instalado da memória RAM": "8 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H2WRYZYJ?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H2N4QTVC",
+    "title": "Apple iPhone 17 Pro Max (256 GB) - Prateado (Seminovo)",
+    "image": "https://m.media-amazon.com/images/I/41Vti34Yv+L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 9210.99,
+    "price_original": 10999,
+    "discount_percentage": 16.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "iOS",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Prateado",
+      "Tipo de conector": "USB Type C",
+      "Potência da bateria": "18,75 Watt Hours",
+      "Tipo de tela": "OLED",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Nome da marca": "Apple",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Cabo USB-c",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Apple",
+      "UPC": "728434341017",
+      "Certificação de teste externa": "36392501993",
+      "ASIN": "B0H2N4QTVC",
+      "Marca": "Apple",
+      "Nome do modelo": "iPhone 17 Pro Max",
+      "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H2N4QTVC?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1YB1WCT",
+    "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Buds Core - Preto",
+    "image": "https://m.media-amazon.com/images/I/41H6PpK8G2L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3059,
+    "price_original": 3599,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>1 A57 5G (256GB) - Cinza</li><li>1 Galaxy Buds Core - Preto</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "8 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Cinza",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "Galaxy A57 5G (256GB) - Cinza + Galaxy Buds Core - Preto",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Certificação de teste externa": "ANATEL: 073162500953 / MODEL: SM-A576B/DS",
+      "ASIN": "B0H1YB1WCT",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "FHD+",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2340x1080 Pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Zoom digital": "10 x",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Potência da bateria": "5000 Milliamp Hours",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 16.0",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Capacidade de Armazenamento de Memória": "256 GB",
+      "Tamanho da Tela": "6,7 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H1YB1WCT?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H34TQ34J",
+    "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
+    "image": "https://m.media-amazon.com/images/I/514zBmQbj+L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3498.9,
+    "price_original": 3599,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>1 Galaxy A57 5G (256GB) - Cinza</li><li>1 Galaxy Watch8 BT 40mm - Grafite</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "8 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Cinza",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Certificação de teste externa": "ANATEL: 073162500953 / MODEL: SM-A576B/DS",
+      "ASIN": "B0H34TQ34J",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "1080 x 2340",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Potência da bateria": "5000 Milliamp Hours",
+      "Marca": "Samsung",
+      "Tamanho instalado da memória RAM": "8 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H34TQ34J?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H6NNJL1V",
+    "title": "Smartphone Motorola Edge 50 Neo 5G - 256GB 16GB (8GB RAM+8GB Ram Boost) 50MP Sony Camera Moto AI Ultrarresistencia militar -",
+    "image": "https://m.media-amazon.com/images/I/61gbpgrR5VL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2299,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.2,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Dual SIM</li><li>GPS integrado</li><li>Processador Octa Core</li><li>Tela sensível ao toque</li><li>Resistente à Água</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 14",
+      "Memória RAM instalada": "16 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Grisalle",
+      "Tipo de conector": "USB tipo C",
+      "Características especiais": "Dual SIM, GPS integrado, Processador Octa Core, Resistente à Água, Tela sensível ao toque",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2024",
+      "Componentes incluídos": "Cabo USB, Ejetor da bandeja SIM",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Motorola",
+      "UPC": "728434397311",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 069842400330/ Modelo:XT2409-2",
+      "ASIN": "B0H6NNJL1V",
+      "Tamanho da tela": "6,4 Polegadas",
+      "Resolução": "1200 x 2670",
+      "Tipo de tela": "OLED",
+      "Resolução máxima da tela": "1200 x 2670 Pixels",
+      "Densidade do pixel de exibição": "460 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Potência da bateria": "4300 Milliamp Hours",
+      "Peso do item": "171 Gramas",
+      "Dimensões do artigo": "8 x 71 x 154 milímetros",
+      "Marca": "Motorola",
+      "Sistema Operacional": "Android 14",
+      "Tamanho instalado da memória RAM": "16 GB",
+      "Capacidade de Armazenamento de Memória": "256 GB",
+      "Tamanho da Tela": "6,4 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H6NNJL1V?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1N3GXRX",
+    "title": "Smartphone Motorola Edge 50 5G - 256GB 24GB (12GB RAM+12GB Ram Boost) 50MP Sony Camera Moto AI Ultrarresistencia militar - Gr",
+    "image": "https://m.media-amazon.com/images/I/61S1KH7RaXL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 1307.07,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android",
+      "Memória RAM instalada": "24 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Grey - Vegan Leather",
+      "Tipo de conector": "USB tipo C",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2024",
+      "Componentes incluídos": "01 Telefone",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Motorola",
+      "Usos específicos do produto": "Atividades ao ar livre, esportes radicais, trabalho em construção",
+      "UPC": "728434326533",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 065652400330/ Modelo: XT2407-2",
+      "ASIN": "B0H1N3GXRX",
+      "Resolução": "1220 x 2712",
+      "Tipo de tela": "Super HD (1220x2712) | HDR10+ | pOLED | 120 Hz",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Descrição da bateria": "Íon de lítio",
+      "Potência da bateria": "5000.0",
+      "Peso do item": "170 Gramas",
+      "Dimensões do artigo": "16 x 7,2 x 0,8 centímetros",
+      "Duração da bateria": "15 Minutos",
+      "Marca": "Motorola",
+      "Tamanho instalado da memória RAM": "24 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H1N3GXRX?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GYPY79H9",
+    "title": "Smartphone Motorola Razr 70 5G - 256GB 24GB (8GB RAM+16GB Ram Boost) Tela dobrável 6,9\" Extreme AMOLED 120hz e externa 3,6” G",
+    "image": "https://m.media-amazon.com/images/I/61v9DOMgN5L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 4949.1,
+    "price_original": 5499,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Tela externa inteligente com Corning Gorilla Glass Victus</li><li>Zoom inteligente no modo filmadora</li><li>Resistente por natureza</li><li>Tela interna mais vibrante e imersiva</li><li>A melhor bateria da categoria</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "8 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Verde",
+      "Contagem de slots do cartão SIM": "SIM único",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 CABO USB-A / USB-C, 01 CARREGADOR TURBOPOWER™ 33 W, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 MANUAL, 01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Contagem de unidades": "1 Count de 24GB",
+      "Certificação de teste externa": "ANATEL: 06941-25-00330/ Modelo: XT2657-1",
+      "ASIN": "B0GYPY79H9",
+      "Tamanho da tela": "6,9 Polegadas",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "1080 x 2640",
+      "Densidade do pixel de exibição": "413 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth",
+      "Tecnologia de rede sem fios": "Wi-Fi",
+      "Resolução do sensor fotográfico frontal": "32 MP",
+      "Capacidade da bateria": "4800 Milliamp Hours",
+      "Potência da bateria": "4800",
+      "Marca": "Motorola",
+      "Sistema Operacional": "Android 16",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Capacidade de Armazenamento de Memória": "256 GB",
+      "Tamanho da Tela": "6,9 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GYPY79H9?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GW9FH9B8",
+    "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Prata",
+    "image": "https://m.media-amazon.com/images/I/51VgFRTqJmL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 9199,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.1,
+    "qtd_avaliacoes": 6,
+    "coupon_code": null,
+    "description": "<ul><li>O design elegante e resistente traz uma construção slim e refinada, com toque premium e feita para durar.</li><li>Multitarefa rápida e eficiente com um chipset avançado e desempenho de alto nível.</li><li>O sistema de câmeras com AI aprimora o processamento para detalhes mais nítidos e melhores fotos em baixa luz.</li></ul>",
+    "informacoes_produto": {
+      "Cor": "Prata",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tamanho da tela": "6,3 Polegadas",
+      "Nome da marca": "Samsung",
+      "ASIN": "B0GW9FH9B8",
+      "Marca": "Samsung",
+      "Tamanho da Tela": "6,3 Polegadas",
+      "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GW9FH9B8?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0F4PMQK69",
+    "title": "Smartphone Xiaomi Poco X7 5G NFC Black (Preto) 12GB RAM 512GB ROM",
+    "image": "https://m.media-amazon.com/images/I/514JU22HlZL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2385,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 1.0,
+    "qtd_avaliacoes": 1,
+    "coupon_code": null,
+    "description": "<ul><li>Poco X7 12GB 512GB</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "HyperOS",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "12 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Funcionalidade de segurança biométrica": "Reconhecimento facial e de impressões digitais",
+      "Tamanho máximo suportado pela memória flash": "512 GB",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Número de câmaras traseiras": "3",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5110 Milliamp Hours",
+      "Potência da bateria": "5110",
+      "Tamanho da tela": "6,67 Polegadas",
+      "Resolução": "1220x2712",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G, NFC",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "Fotografia, Entretenimento",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 086532409185/ Modelo:24095PCADG",
+      "ASIN": "B0F4PMQK69",
+      "Marca": "XIAOMI",
+      "Sistema Operacional": "HyperOS",
+      "Tamanho instalado da memória RAM": "12 GB",
+      "Capacidade de Armazenamento de Memória": "12 GB",
+      "Tamanho da Tela": "6,67 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F4PMQK69?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GZQX7CBJ",
+    "title": "Smartphone Motorola Moto G Max 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), câmera 200MP, OIS, Tela 1.5K extreme AMOLED 120hz,",
+    "image": "https://m.media-amazon.com/images/I/61QB3He7d8L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2207,
+    "price_original": 2799,
+    "discount_percentage": 21.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>O máximo em fotografia com 200 MP*</li><li>Máximo impacto. Ultrarresistente com sofisticação.*</li><li>O máximo em entretenimento*</li><li>Bateria com fôlego máximo para o seu dia todo*</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "24 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Grafite",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Desbloqueio Facial, Impressão Digital na tela",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 CABO USB-A / USB-C, 01 CARREGADOR TURBOPOWER™ 33 W, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 MANUAL, 01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Usos específicos do produto": "entretenimento, fotografia",
+      "Contagem de unidades": "1 Count de 24GB RAM",
+      "Certificação de teste externa": "ANATEL: 08809-25-00330 / Modelo: XT2621-5",
+      "ASIN": "B0GZQX7CBJ",
+      "Tamanho da tela": "6,8 Polegadas",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "Extreme AMOLED",
+      "Resolução máxima da tela": "1272 x 2772",
+      "Densidade do pixel de exibição": "450 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "32 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "200 MP",
+      "Capacidade da bateria": "5200 Milliamp Hours",
+      "Potência da bateria": "5200.0",
+      "Marca": "Motorola",
+      "Tamanho instalado da memória RAM": "24 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GZQX7CBJ?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1NSD956",
+    "title": "Smartphone Xiaomi Redmi Note 15 Roxo Purple 8GB RAM 256GB ROM (2510DRA23L)",
+    "image": "https://m.media-amazon.com/images/I/51UjEKPb1uL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 1334.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 2,
+    "coupon_code": null,
+    "description": "<ul><li>Redmi Note 15 4G</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "hyperos",
+      "Memória RAM instalada": "8 GB",
+      "Capacidade de armazenamento da memória": "8 GB",
+      "Cor": "Roxo",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "Uso diário, entretenimento, redes sociais",
+      "Contagem de unidades": "1 Unidade",
+      "Certificação de teste externa": "ANATEL: 075022509185/ Model:2510DRA23L",
+      "ASIN": "B0H1NSD956",
+      "Tamanho da tela": "6,77 Polegadas",
+      "Resolução": "2392x1080",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2392x1080 pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "4G",
+      "Tecnologia de conectividade": "4G",
+      "Tecnologia de rede sem fios": "LTE",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "108 MP",
+      "Número de câmaras traseiras": "2",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "6000 Milliamp Hours",
+      "Potência da bateria": "6000",
+      "Marca": "XIAOMI",
+      "Sistema Operacional": "hyperos",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Capacidade de Armazenamento de Memória": "8 GB",
+      "Tamanho da Tela": "6,77 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H1NSD956?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1YYX6VP",
+    "title": "Samsung Combo Galaxy S26 (256GB) - Preto + Galaxy Buds Core - Preto",
+    "image": "https://m.media-amazon.com/images/I/51cMxfOf8lL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 7549,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>1 Galaxy S26 (256GB) - Preto</li><li>1 Galaxy Buds Core - Preto</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "Galaxy S26 (256GB) - Preto + Galaxy Buds Core - Preto",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Certificação de teste externa": "ANATEL: 074042500953 / MODEL: SM-S942B/DS",
+      "ASIN": "B0H1YYX6VP",
+      "Tamanho da tela": "6,3 Polegadas",
+      "Resolução": "FHD+",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2340x1080 Pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Zoom digital": "30 x",
+      "Capacidade da bateria": "4300 Milliamp Hours",
+      "Potência da bateria": "4300 Milliamp Hours",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 16.0",
+      "Tamanho instalado da memória RAM": "12 GB",
+      "Capacidade de Armazenamento de Memória": "256 GB",
+      "Tamanho da Tela": "6,3 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H1YYX6VP?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H34WKMJJ",
+    "title": "Samsung Combo Galaxy A37 5G (256GB) - Preto + Galaxy Watch8 BT 44mm - Grafite",
+    "image": "https://m.media-amazon.com/images/I/51UcpjjARKL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3398.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>1 Galaxy A37 5G (256GB) - Preto</li><li>1 Galaxy Watch8 BT 44mm - Grafite</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "8 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "Galaxy A37 5G (256GB) - Preto + Galaxy Watch8 BT 44mm - Grafite",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Certificação de teste externa": "ANATEL: 090452500953 / MODEL: SM-A376B/DS",
+      "ASIN": "B0H34WKMJJ",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "1080 x 2340",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Potência da bateria": "5000 Milliamp Hours",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 16.0",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Capacidade de Armazenamento de Memória": "256 GB",
+      "Tamanho da Tela": "6,7 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H34WKMJJ?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1YLBMMC",
+    "title": "Samsung Combo Galaxy S26 (256GB) - Preto + Galaxy Buds3 FE - Preto",
+    "image": "https://m.media-amazon.com/images/I/413mOzp2Z0L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 7549,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 1,
+    "coupon_code": null,
+    "description": "<ul><li>1 Galaxy S26 (256GB) - Preto</li><li>1 Galaxy Buds3 FE - Preto</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "Galaxy S26 (256GB) - Preto + Galaxy Buds3 FE - Preto",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Certificação de teste externa": "ANATEL: 074042500953 / MODEL: SM-S942B/DS",
+      "ASIN": "B0H1YLBMMC",
+      "Tamanho da tela": "6,3 Polegadas",
+      "Resolução": "FHD+",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2340x1080 Pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Zoom digital": "30 x",
+      "Capacidade da bateria": "4300 Milliamp Hours",
+      "Potência da bateria": "4300 Milliamp Hours",
+      "Marca": "Samsung",
+      "Tamanho instalado da memória RAM": "12 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H1YLBMMC?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1YY12R8",
+    "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Bateria Carregador Portátil",
+    "image": "https://m.media-amazon.com/images/I/41jwYJ9GrlL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3059,
+    "price_original": 3599,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>1 Galaxy A57 5G (256GB) - Cinza</li><li>1 Bateria Carregador Portátil Samsung 20000mAh</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "8 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Cinza",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "Galaxy A57 5G (256GB) - Cinza + Bateria Carregador Portátil",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Certificação de teste externa": "ANATEL: 073162500953 / MODEL: SM-A576B/DS",
+      "ASIN": "B0H1YY12R8",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "FHD+",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2340x1080 Pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Zoom digital": "10 x",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Potência da bateria": "5000 Milliamp Hours",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 16.0",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Capacidade de Armazenamento de Memória": "256 GB",
+      "Tamanho da Tela": "6,7 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H1YY12R8?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1SLW7L1",
+    "title": "Smartphone Xiaomi Poco X7 5G NFC Black (Preto) 12GB RAM 512GB ROM",
+    "image": "https://m.media-amazon.com/images/I/51NngRdz8SL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3090,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 2,
+    "coupon_code": null,
+    "description": "<ul><li>Poco X7 12GB 512GB</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "HyperOS",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "12 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Funcionalidade de segurança biométrica": "Reconhecimento facial e de impressões digitais",
+      "Tamanho máximo suportado pela memória flash": "512 GB",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Número de câmaras traseiras": "3",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5110 Milliamp Hours",
+      "Potência da bateria": "5110",
+      "Tamanho da tela": "6,67 Polegadas",
+      "Resolução": "1220x2712",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G, NFC",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "Fotografia, entretenimento, multitarefa",
+      "Certificação de teste externa": "ANATEL: 086532409185/ Modelo:24095PCADG",
+      "ASIN": "B0H1SLW7L1",
+      "Marca": "XIAOMI",
+      "Sistema Operacional": "HyperOS",
+      "Tamanho instalado da memória RAM": "12 GB",
+      "Capacidade de Armazenamento de Memória": "12 GB",
+      "Tamanho da Tela": "6,67 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H1SLW7L1?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H37ZQQFP",
+    "title": "Smartphone Motorola Edge 60 PRO 5G - 512GB 24GB (12GB RAM+12GB Ram Boost) Tela Quad-Curve moto AI 50MP Sony Camera ultrarresi",
+    "image": "https://m.media-amazon.com/images/I/61nJltNUq2L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 3499,
+    "price_original": 4499,
+    "discount_percentage": 22.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 15",
+      "Capacidade de armazenamento da memória": "512 GB",
+      "Cor": "Rosa",
+      "Tipo de conector": "USB tipo C",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "01 Cabo USB-C/ USB-C, 01 Carregador TurboPower™ 90W, 01 Ferramenta de remoção do chip, 01 Manual, 01 Telefone",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Motorola",
+      "UPC": "728434349402",
+      "Certificação de teste externa": "ANATEL: 11108-24-00330 / Modelo: XT2507-1",
+      "ASIN": "B0H37ZQQFP",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "1220 x 2712",
+      "Tipo de tela": "Super HD ( 1220 X 2712), HDR10+ | pOLED | 120 Hz",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de conectividade": "Bluetooth, Wi-fi, GPS, NFC",
+      "Capacidade da bateria": "6000 Milliamp Hours",
+      "Potência da bateria": "6000.0",
+      "Peso do item": "428,7 Gramas",
+      "Dimensões do artigo": "50 x 80 x 170 milímetros",
+      "Marca": "Motorola",
+      "Sistema Operacional": "Android 15",
+      "Capacidade de Armazenamento de Memória": "512 GB",
+      "Tamanho da Tela": "6,7 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H37ZQQFP?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CW9MHHHT",
+    "title": "Motorola G34 5G (azul gelo, 4 GB de RAM, 128 GB de armazenamento) (Seminovo)",
+    "image": "https://m.media-amazon.com/images/I/718zShPNUqL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 761.17,
+    "price_original": 1899,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
+    "informacoes_produto": {
+      "Capacidade de armazenamento da memória": "128 GB",
+      "Entrada de interface humana": "Tela tátil",
+      "Características especiais": "Acelerômetro, Bluetooth, Carregamento rápido, Câmera, Câmera dupla, Câmera frontal, Câmera primária, Desbloqueio facial, GPS, Internet, Scanner de impressões digitais, Sensor de luz, Sensor de proximidade, Tela sensível ao toque, USB, Wifi",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2023",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Motorola",
+      "UPC": "786513717436",
+      "Certificação de teste externa": "203412300330",
+      "ASIN": "B0CW9MHHHT",
+      "Tamanho da tela": "6,34 Polegadas",
+      "Proporção de aspecto": "16:9",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Peso do item": "180 Gramas",
+      "Dimensões do artigo": "16,3 x 7,5 x 0,8 centímetros",
+      "Marca": "Motorola",
+      "Capacidade de Armazenamento de Memória": "128 GB",
+      "Tamanho da Tela": "6,34 Polegadas",
+      "Nome do Modelo": "Motorola moto G34 5G",
+      "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CW9MHHHT?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GZPRQ9JJ",
+    "title": "Smartphone Motorola Razr Fold 5G - FIFA World Cup Collection - 1TB 32GB (16GB RAM+16GB Ram Boost), Tela interna 8.1\" e extern",
+    "image": "https://m.media-amazon.com/images/I/61eVXBhjG7L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 16999,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": null,
+    "coupon_code": "Aplicar Cupom de R$3000",
+    "description": "<ul><li>Detalhes banhados a ouro 24K</li><li>A melhor câmera do mundo em um dobrável</li><li>\"Conteúdos Exclusivos da Copa do Mundo da FIFA 2026 para você. Planos de fundo, ringtones e filtros personalizados\"</li><li>A melhor bateria da categoria*</li><li>Brilho e fluidez de imagem na maior tela Extreme AMOLED da categoria*</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Capacidade de armazenamento da memória": "1024 GB",
+      "Cor": "Preto Fifa",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Tamanho máximo suportado pela memória flash": "1 TB",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 CABO USB-C/ USB-C, 01 CAPA PROTETORA, 01 CARREGADOR TURBOPOWER™ 90 W, 01 ESTOJO DE CARREGAMENTO, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 KIT DE MANUAIS, 01 MOTO PEN ULTRA, 01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Usos específicos do produto": "Esportes e Entretenimento",
+      "Contagem de unidades": "1 Unidade",
+      "Certificação de teste externa": "ANATEL: 08337-25-00330/ Modelo: XT2651-1",
+      "ASIN": "B0GZPRQ9JJ",
+      "Tamanho da tela": "6,6 Polegadas",
+      "Taxa de atualização": "165",
+      "Tipo de tela": "Extreme AMOLED",
+      "Resolução máxima da tela": "1080 x 2520",
+      "Densidade do pixel de exibição": "418 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "32 MP",
+      "Capacidade da bateria": "6000 Milliamp Hours",
+      "Potência da bateria": "6000.0",
+      "Marca": "Motorola",
+      "Sistema Operacional": "Android 16",
+      "Capacidade de Armazenamento de Memória": "1024 GB",
+      "Tamanho da Tela": "6,6 Polegadas",
+      "Taxa de Atualização": "165"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GZPRQ9JJ?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T19:20:23.000Z",
     "spotlight": false
   }
 ];
