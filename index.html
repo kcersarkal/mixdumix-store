@@ -765,7 +765,7 @@ function renderProduct(asin) {
           <span style="font-weight:700;font-size:15px;">${p.avaliacao}</span>
           <span style="color:var(--gray-text-light);font-size:13px;">(${p.qtd_avaliacoes} avaliações)</span>
         </div>
-        <div class="product-summary">${generateSummary(p)}</div>
+            <div class="product-summary">${p.description || "Produto com bom custo-benefício e avaliação positiva na Amazon."}</div>
         <div class="product-actions">
           <a class="btn btn-primary btn-block" href="${p.affiliate_url}" target="_blank" rel="nofollow sponsored noopener">Ver na Amazon</a>
           <div class="product-actions-row">
