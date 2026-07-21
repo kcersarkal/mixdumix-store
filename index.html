@@ -676,7 +676,6 @@ function getTopDiscountProducts(products, qtd) {
 }
   let activeCategory = "Todas";
 let searchQuery = "";
-let currentAsin = null;
 
 function renderHome() {
   const grid = document.getElementById("grid");
@@ -728,7 +727,6 @@ function onSearchInput(value) {
 }
 
 function renderProduct(asin) {
-  currentAsin = asin;
   const container = document.getElementById("product-container");
   const products = getActiveProducts();
   const p = products.find(item => item.asin === asin);
@@ -781,7 +779,7 @@ function renderProduct(asin) {
             </button>
           </div>
         </div>
-        <div class="freshness-note"><span class="dot"></span>Preço confirmado há ${p.last_checked_at ? Math.round(hoursSince(p.last_checked_at)) + 'h' : '—'} &mdash; preço pode sofrer alterações a qualquer momento</div>
+        <div class="freshness-note"><span class="dot"></span>Preços e disponibilidade dos produtos podem sofrer alterações a qualquer momento</div>
       </div>
     </div>`;
 }
@@ -873,16 +871,6 @@ document.addEventListener("DOMContentLoaded", () => {
   renderHome();
   routeFromInitialUrl();
 });
-
-setInterval(() => {
-  if (!currentAsin) return;
-  const el = document.querySelector('.freshness-note');
-  if (!el) return;
-  const p = getActiveProducts().find(item => item.asin === currentAsin);
-  if (!p || !p.last_checked_at) return;
-  const h = Math.round(hoursSince(p.last_checked_at));
-  el.innerHTML = el.innerHTML.replace(/Preço confirmado há [\dh—]+/, 'Preço confirmado há ' + h + 'h');
-}, 30000);
 </script>
 </body>
 </html>
