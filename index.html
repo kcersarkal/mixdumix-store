@@ -85,18 +85,15 @@ a { text-decoration:none; color:inherit; }
 .spotlight-body { padding:40px 44px 40px 24px; display:flex; flex-direction:column; justify-content:center; }
 .spotlight-title { font-size:28px; font-weight:800; line-height:1.2; margin:0 0 12px; }
 .spotlight-desc { color:var(--gray-text); font-size:15px; line-height:1.6; margin-bottom:24px; }
-.progress-bar { display:flex; gap:6px; margin-top:16px; }
-.progress-segment { flex:1; height:4px; background:var(--card-border); border-radius:2px; overflow:hidden; cursor:pointer; }
-.progress-segment .fill { display:block; height:100%; background:var(--orange); width:0%; }
-.progress-segment .fill.static-full { width:100%; }
-.progress-segment .fill.active { animation: fillProgress 4s linear forwards; }
-@keyframes fillProgress { from { width:0%; } to { width:100%; } }
+.dots { display:flex; gap:8px; justify-content:center; margin-top:20px; }
+.dot-indicator { width:10px; height:10px; border-radius:50%; background:var(--card-border); border:none; cursor:pointer; transition:background .2s; padding:0; }
+.dot-indicator.active { background:var(--orange); }
 .spotlight { position:relative; }
-.carousel-arrow { position:absolute; top:50%; transform:translateY(-50%); width:44px; height:44px; border-radius:50%; background:var(--white); border:1px solid var(--card-border); box-shadow:var(--shadow-card); display:flex; align-items:center; justify-content:center; cursor:pointer; z-index:10; opacity:0; transition:opacity 0.2s ease; }
+.carousel-arrow { position:absolute; top:50%; transform:translateY(-50%); width:44px; height:44px; border-radius:50%; background:var(--white); border:1px solid var(--card-border); box-shadow:var(--shadow-card); display:flex; align-items:center; justify-content:center; cursor:pointer; z-index:10; transition:opacity 0.2s ease; }
 @media (hover:hover) { .spotlight:hover .carousel-arrow { opacity:1; } }
 @media (hover:none) { .carousel-arrow { opacity:1; } }
-.carousel-arrow.prev { left:-20px; }
-.carousel-arrow.next { right:-20px; }
+.carousel-arrow.prev { left:12px; }
+.carousel-arrow.next { right:12px; }
 .carousel-arrow svg { width:20px; height:20px; }
 
 .discount-badge { position:relative; width:64px; height:64px; border-radius:50%; background:var(--black); color:var(--white); display:flex; align-items:center; justify-content:center; flex-direction:column; flex-shrink:0; }
@@ -641,8 +638,8 @@ function desenharCarousel() {
   spotlightSlot.innerHTML = spotlightMarkup(p) + `
     <div class="carousel-arrow prev" onclick="prevSlide()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 18l-6-6 6-6"/></svg></div>
     <div class="carousel-arrow next" onclick="nextSlide()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg></div>
-    <div class="progress-bar">
-      ${carouselProducts.map((_, i) => `<div class="progress-segment" onclick="goToSlide(${i})"><span class="fill ${i < carouselIndex ? 'static-full' : ''} ${i === carouselIndex ? 'active' : ''}"></span></div>`).join("")}
+    <div class="dots">
+      ${carouselProducts.map((_, i) => `<button class="dot-indicator ${i === carouselIndex ? 'active' : ''}" onclick="goToSlide(${i})"></button>`).join("")}
     </div>`;
   const newCard = spotlightSlot.querySelector(".spotlight-card");
   newCard.classList.add("slide-in-right");
