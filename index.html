@@ -667,12 +667,13 @@ function goToSlide(i) {
   renderCarousel();
 }
 
-function getTopDiscountProducts(products, qtd) {
-  return [...products]
-    .filter(p => p.price_original && p.price_original > p.price_current)
-    .sort((a, b) => (1 - a.price_current/a.price_original) - (1 - b.price_current/b.price_original))
-    .reverse()
-    .slice(0, qtd);
+function getSpotlightProducts(products) {
+  const cats = [...new Set(products.map(p => p.category).filter(Boolean))];
+  return cats.map(cat => {
+    const daCategoria = products.filter(p => p.category === cat && p.price_current != null);
+    if (!daCategoria.length) return null;
+    return daCategoria.reduce((a, b) => (a.price_current || Infinity) < (b.price_current || Infinity) ? a : b);
+  }).filter(Boolean);
 }
   let activeCategory = "Todas";
 let searchQuery = "";
@@ -695,17 +696,17 @@ function renderHome() {
 
   const rest = products;
 
-  const categories = ["Todas", "Ofertas do dia", ...new Set(products.map(p => p.category).filter(c => c !== "Ofertas do dia"))];
+  const categories = ["Todas", ...new Set(products.map(p => p.category).filter(Boolean))];
 
   filterBar.innerHTML = categories.map(cat => `
     <button class="filter-chip ${cat === activeCategory ? 'active' : ''}" onclick="setCategory('${cat}')">${cat}</button>
   `).join("");
 
-  carouselProducts = getTopDiscountProducts(products, 6);
+  carouselProducts = getSpotlightProducts(products);
 renderCarousel();
 
   let searched = searchQuery ? rest.filter(p => p.title.toLowerCase().includes(searchQuery.toLowerCase())) : rest;
-  let filtered = activeCategory === "Todas" ? searched : activeCategory === "Ofertas do dia" ? getTopDiscountProducts(searched, 12) : searched.filter(p => p.category === activeCategory);
+  let filtered = activeCategory === "Todas" ? searched : searched.filter(p => p.category === activeCategory);
 
   const lastUpdate = products.reduce((latest, p) => new Date(p.last_checked_at) > new Date(latest) ? p.last_checked_at : latest, products[0].last_checked_at);
   document.getElementById("last-update").textContent = new Date(lastUpdate).toLocaleString("pt-BR");
