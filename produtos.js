@@ -1261,49 +1261,6 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
-    "asin": "B07L8SJLXN",
-    "title": "Panificadora Automática Master Bread, Mondial, Preto, 700W, 110V - NPF-53",
-    "image": "https://m.media-amazon.com/images/I/51OmxaZFbNL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 522.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 3523,
-    "coupon_code": null,
-    "description": "Esse produto é uma verdadeira joia para qualquer cozinha! A Panificadora Automática Master Bread, Mondial é uma maravilha para fazer pão em casa com facilidade e praticidade, além de ter um design moderno e elegante em cor preta. Com potência de 700W, você pode ter seu pão fresco e delicioso em minutos, sem precisar de muita esforço ou habilidade!",
-    "informacoes_produto": {
-      "Nome da marca": "MONDIAL",
-      "Número do modelo": "NPF-53",
-      "Ano de fabricação": "1900",
-      "Fabricante": "MK ELETRODOMESTICOS MONDIAL S/A",
-      "Número de identificação de comércio internacional": "07899882306880",
-      "Descrição da garantia": "12 meses",
-      "Número da peça": "NPF-53",
-      "Nome do Tipo de Produto": "Panificadora Automática Master Bread, Mondial, Preto, 700W, 110V - NPF-53",
-      "País de origem": "China",
-      "Componentes incluídos": "01 Panificadora; Manual de Instruções e Manual de Assistência Técnica",
-      "ASIN": "B07L8SJLXN",
-      "Voltagem": "110 Volts",
-      "Capacidade": "1 quilogramas",
-      "Potência": "700 watts",
-      "Número de programas": "19",
-      "Peso do item": "4,41 Gramas",
-      "Dimensões do item P x L x A": "33,5P x 28L x 29,5A centímetros",
-      "Material": "PP e Metal",
-      "Cor": "Preto",
-      "Tensão": "110 Volts",
-      "Peso do produto": "4,41 Gramas",
-      "Dimensões do produto": "33,5P x 28L x 29,5A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07L8SJLXN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T17:10:31.359471+00:00",
-    "spotlight": false
-  },
-  {
     "asin": "B08DFJRCJB",
     "title": "Liquidificador 1400 Full Oster Preto 3,2L - 220V",
     "image": "https://m.media-amazon.com/images/I/51N3Xi4JJML._AC_SL1000_.jpg",
@@ -4172,7 +4129,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41xp0NCaW4L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 99.9,
+    "price_current": 98.78,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -4210,7 +4167,7 @@ const PRODUCTS = [
       "Classe de banda de frequência": "Dual-Band"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00A0VCJPI?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T18:19:24.000Z",
+    "last_checked_at": "2026-07-22T19:12:05.000Z",
     "spotlight": false
   },
   {
@@ -6450,7 +6407,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/514JU22HlZL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 2382,
+    "price_current": 2380,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -6495,7 +6452,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,67 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4PMQK69?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:35:53.000Z",
+    "last_checked_at": "2026-07-22T19:21:27.000Z",
     "spotlight": false
   },
   {
