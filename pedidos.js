@@ -70,5 +70,14 @@ window.PEDIDOS = [
     "preco": 34.99,
     "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Fecho abre e fecha fácil: ajusta quantas vezes precisar. Tecnologia air sec: camada externa respirável, o que proporciona pele sequinha e saudável. Até 12 horas de proteção. Sistema Pró Comfort + Super canais de rápida absorção.. Orelhas Elásticas. Camada Externa Ultrarrespirável"
+  },
+  {
+    "id": "B0GQFR9YWN",
+    "asin": "B0GQFR9YWN",
+    "titulo": "950mL Garrafa Térmica Aço Inoxidável Com Alça Paracord (Verde)",
+    "imagem": "https://m.media-amazon.com/images/I/61DgLmxonuL._AC_SL1200_.jpg",
+    "preco": 65.58,
+    "link": "https://www.amazon.com.br/dp/B0GQFR9YWN?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Material premium em aço inoxidável 18/8: Fabricado em aço inoxidável 18/8 grau alimentício, seguro, não tóxico e livre de BPA (BPA-Free). Design de dupla parede com vácuo para máxima eficiência térmica, mantendo bebidas quentes ou geladas por até 24 horas e evitando condensação externa.. Design à prova de vazamentos: Tampa aprimorada com vedação 360°, garantindo que não vaze mesmo quando virado de qualquer maneira. Perfeito para levar na mochila, viagens, deslocamentos ou atividades ao ar livre sem preocupações.. Uso fácil e limpeza prática: Boca larga para adicionar gelo, preparar bebidas e facilitar a lavagem. Tampa removível com vedação de silicone grau alimentício, evitando acúmulo de resíduos. Inclui alça de mão e corda de pára-quedas resistente para transporte conveniente.. Resistente e antiderrapante: Capacidade de 950ml ideal para o dia a dia. Revestimento resistente a arranhões e textura antiderrapante para melhor aderência, perfeito para trilhas, academia, escritório ou uso diário.. Presente perfeito: Design elegante e embalagem sofisticada, ideal para presentear familiares, amigos ou colegas em aniversários, datas especiais ou como gesto de cuidado, promovendo hábitos de hidratação saudável."
   }
 ];
