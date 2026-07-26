@@ -79,14 +79,5 @@ window.PEDIDOS = [
     "preco": 65.58,
     "link": "https://www.amazon.com.br/dp/B0GQFR9YWN?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Material premium em aço inoxidável 18/8: Fabricado em aço inoxidável 18/8 grau alimentício, seguro, não tóxico e livre de BPA (BPA-Free). Design de dupla parede com vácuo para máxima eficiência térmica, mantendo bebidas quentes ou geladas por até 24 horas e evitando condensação externa.. Design à prova de vazamentos: Tampa aprimorada com vedação 360°, garantindo que não vaze mesmo quando virado de qualquer maneira. Perfeito para levar na mochila, viagens, deslocamentos ou atividades ao ar livre sem preocupações.. Uso fácil e limpeza prática: Boca larga para adicionar gelo, preparar bebidas e facilitar a lavagem. Tampa removível com vedação de silicone grau alimentício, evitando acúmulo de resíduos. Inclui alça de mão e corda de pára-quedas resistente para transporte conveniente.. Resistente e antiderrapante: Capacidade de 950ml ideal para o dia a dia. Revestimento resistente a arranhões e textura antiderrapante para melhor aderência, perfeito para trilhas, academia, escritório ou uso diário.. Presente perfeito: Design elegante e embalagem sofisticada, ideal para presentear familiares, amigos ou colegas em aniversários, datas especiais ou como gesto de cuidado, promovendo hábitos de hidratação saudável."
-  },
-  {
-    "id": "B0DCM31SDG",
-    "asin": "B0DCM31SDG",
-    "titulo": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110V",
-    "imagem": "https://m.media-amazon.com/images/I/41z7d-LlVEL._AC_SL1000_.jpg",
-    "preco": 63.78,
-    "link": "https://www.amazon.com.br/dp/B0DCM31SDG?tag=mixstore04b3-20&ref_=mixdumix_pedido",
-    "descricao": "Compacto e versátil: para usar em qualquer lugar. 2000 Watts de potência no total. 5 ajustes de temperatura. Compatível com todos os tipos de panela. Chapa em ferro fundido: aquece mais rápido e mantém a temperatura"
   }
 ];
