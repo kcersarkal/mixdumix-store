@@ -1352,6 +1352,80 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B0FPYV6K68",
+    "title": "Celular Samsung Galaxy A17, 128GB, 4GB, 50MP Tela 6.7\", IP54 - Preto",
+    "image": "https://m.media-amazon.com/images/I/51kT5SgPhNL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "celulares e smartphones",
+    "price_current": 939.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 910,
+    "coupon_code": null,
+    "description": "O Samsung Galaxy A17 oferece uma combinação de desempenho e armazenamento impressionantes, com 4GB RAM, 4GB RAM Plus e 128GB de armazenamento interno. A câmera tripla de até 50MP com estabilização óptica permite capturar fotos detalhadas e claras. Adicionalmente, o Samsung Wallet oferece segurança e conveniência para pagamentos digitais. Com processador Helio G99 Octa-Core de 6nm, este smartphone é uma opção interessante para quem procura um dispositivo potente e versátil.",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 15.0",
+      "Memória RAM instalada": "4 GB",
+      "Modelo da CPU": "Exynos 1330 S5E8535",
+      "Velocidade da CPU": "2,4 GHz",
+      "Capacidade de armazenamento da memória": "128 GB",
+      "Cor": "Preto",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Entrada de interface humana": "Tela tátil",
+      "Tamanho do cartão SIM": "Nano",
+      "Nível de resistência à água": "Resistente à água",
+      "Dispositivos compatíveis": "Samsung",
+      "Características especiais": "Dual SIM, GPS integrado, NFC, Resistente à Água, Único com até 6 atualizações de Android e até 6 anos de atualizações de segurança",
+      "Tamanho máximo suportado pela memória flash": "128 GB",
+      "Resolução do sensor fotográfico frontal": "13 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "2, 5, 50 MP",
+      "Descrição da câmera": "Frontal, Traseira",
+      "Flash da câmera": "LED",
+      "Número de câmaras traseiras": "3",
+      "Zoom digital": "10 x",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Descrição da bateria": "Íon de lítio",
+      "Potência da bateria": "5000",
+      "GPS": "Verdadeiro",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "1082 x 2340",
+      "Taxa de atualização": "90 Hz",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2340x1080 Pixels",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "4G",
+      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
+      "Tecnologia de rede sem fios": "GSM, LTE",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Cabo USB, Carregador, Ejetor da bandeja SIM, Manual do usuário",
+      "Descrição da garantia": "12 meses com o Fabricante",
+      "Fabricante": "Samsung",
+      "Usos específicos do produto": "Uso diário",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 030872500953 / MODELO: SM-A175F/DS",
+      "ASIN": "B0FPYV6K68",
+      "Peso do item": "190 Gramas",
+      "Dimensões do artigo": "16,4 x 7,8 x 0,7 centímetros",
+      "Resolução efetiva de vídeo": "1080 Pixels",
+      "Resolução de captura de vídeo": "30fps",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 15.0",
+      "Tamanho instalado da memória RAM": "4 GB",
+      "Velocidade do CPU": "2,4 GHz"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T09:56:10.186232+00:00",
+    "spotlight": false
+  },
+  {
     "asin": "B0FPJ52LSR",
     "title": "Celular Samsung Galaxy A07 128GB, 4GB, Câm. 50MP, Tela 6.7\"- Preto",
     "image": "https://m.media-amazon.com/images/I/51Adgl-DQtL._AC_SL1000_.jpg",
@@ -2882,6 +2956,76 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B0DSYJCY45",
+    "title": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
+    "image": "https://m.media-amazon.com/images/I/41uS5ZSX9yL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "celulares e smartphones",
+    "price_current": 7029.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 731,
+    "coupon_code": null,
+    "description": "O Samsung Galaxy S25 Ultra 5G oferece uma experiência inigualável em fotografia e edição, graças à sua câmera quádrupla de alta performance e ao processador poderoso personalizado para o Galaxy. Além disso, com 12GB de RAM e Android 14, este smartphone oferece uma experiência de uso fluida e confortável. Com capacidade de armazenamento de 256GB e conector USB-C, o Galaxy S25 Ultra é um excelente aliado para quem procura uma solução de tecnologia avançada.",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 14",
+      "Memória RAM instalada": "12 GB",
+      "Modelo da CPU": "Snapdragon 8 Elite",
+      "Velocidade da CPU": "3,4 GHz",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Titânio Preto",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Tela Infinita",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Tamanho do cartão SIM": "Nano",
+      "Nível de resistência à água": "Resistente à água",
+      "Entrada de fone de ouvido": "[Unknown]",
+      "Características especiais": "Carregamento sem fio, Dual SIM, GPS integrado, Suporte de carregamento rápido",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "10.0, 200.0, 50.0, 50.0 MP",
+      "Descrição da câmera": "Frontal, Traseira",
+      "Número de câmaras traseiras": "4",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5000",
+      "Potência da bateria": "5000.0",
+      "Resolução efetiva de vídeo": "1440 Pixels",
+      "Resolução de captura de vídeo": "30fps, 60fps",
+      "Tamanho da tela": "6,9 Polegadas",
+      "Resolução": "(3120 x 1440) QHD+",
+      "Taxa de atualização": "1-120Hz Hz",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "3120x1440 Pixels",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
+      "Tecnologia de rede sem fios": "Bluetooth, Wi-Fi",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Adaptador de alimentação, Cabo USB, Ejetor da bandeja SIM",
+      "Descrição da garantia": "12 meses com o Fabricante",
+      "Fabricante": "Samsung",
+      "Usos específicos do produto": "Assistir vídeos, Fotografia, Ligar",
+      "Certificação de teste externa": "ANATEL: 095732400953/ Modelo:SM-S938B/DS",
+      "ASIN": "B0DSYJCY45",
+      "Peso do item": "230 Gramas",
+      "Dimensões do artigo": "16,3 x 7,8 x 0,9 centímetros",
+      "GPS": "Verdadeiro",
+      "Sistema de navegação por satélite suportado": "GPS",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 14",
+      "Tamanho instalado da memória RAM": "12 GB",
+      "Velocidade do CPU": "3,4 GHz"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T09:56:42.262608+00:00",
+    "spotlight": false
+  },
+  {
     "asin": "B0GN1TCVYX",
     "title": "Smartphone Xiaomi Poco X8 Pro 512GB / 8GB Ram (Preto) | Dimensity 8500-Ultra, AMOLED 120Hz e Bateria de 6500mAh",
     "image": "https://m.media-amazon.com/images/I/61k37vEr5aL._AC_SL1200_.jpg",
@@ -4174,6 +4318,51 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B0789M146B",
+    "title": "Faqueiro Tramontina Búzios em Aço Inox com Detalhe 24 Peças",
+    "image": "https://m.media-amazon.com/images/I/61x2HGF7CfL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 61.06,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 16660,
+    "coupon_code": null,
+    "description": "O Faqueiro Tramontina Búzios em Aço Inox oferece uma combinação de resistência, durabilidade e elegância para sua mesa. As 24 peças do jogo, incluindo facas para churrasco, garfos e colheres, são produzidas totalmente em aço inoxidável, tornando-as fáceis de limpar e resistentes ao uso diário. Além disso, o acabamento lindo das peças adiciona um charme especial à sua refeição. Este faqueiro é uma escolha perfeita para saborear as melhores receitas!",
+    "informacoes_produto": {
+      "Nome da marca": "Tramontina",
+      "Número de peças": "24",
+      "Usos recomendados do produto": "Jantar",
+      "Componentes incluídos": "06 Facas para churrasco, 06 Garfos de mesa, 06 Colheres de mesa, 06 Colheres para chá",
+      "Fabricante": "Tramontina",
+      "Nome do Conjunto": "Faqueiro Tramontina Búzios",
+      "Contagem de unidades": "1 Unidade",
+      "Nome do Tipo de Produto": "Faqueiro Tramontina",
+      "Número do modelo": "23799071",
+      "Número da peça": "7891112185944",
+      "Descrição da garantia": "3 meses com o fabricante",
+      "ASIN": "B0789M146B",
+      "Material": "Aço inoxidável",
+      "Instruções de cuidados com o produto": "Pode ser lavado na máquina de lavar louça",
+      "Tipo de acabamento": "Polido",
+      "É resistente a manchas": "Sim",
+      "O item pode ser lavado na máquina de lavar louça?": "Sim",
+      "Cor": "Inox",
+      "Estilo": "Casual",
+      "Características especiais": "Para uso em lava Louças",
+      "Peso do item": "735 Gramas",
+      "Marca": "Tramontina",
+      "Número de Peças": "24",
+      "Instruções de Cuidados do Produto": "Pode ser lavado na máquina de lavar louça"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0789M146B?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T09:57:15.250824+00:00",
+    "spotlight": false
+  },
+  {
     "asin": "B0F256PXM8",
     "title": "Filtro/Refil Original de Água para Purificador Electrolux PE11B/PE11X/PC41B/PC41X/PH41B/PH41X",
     "image": "https://m.media-amazon.com/images/I/51gWihQyb8L._AC_SL1500_.jpg",
@@ -4212,6 +4401,130 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256PXM8?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-26T17:18:24.872850+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B09XFD2YMF",
+    "title": "Tramontina JOGO FACAS INOX 4PC PLENUS PRE, Preto",
+    "image": "https://m.media-amazon.com/images/I/71EvJYnDRYL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 29.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 12923,
+    "coupon_code": null,
+    "description": "O jogo de facas Tramontina Plenus oferece uma solução versátil para sua cozinha, com lâminas em aço inoxidável e cabos de polipropileno preto. Este conjunto inclui três facas diferentes: uma chef, uma para cozinha e outra para legumes e frutas, totalizando quatro peças. A marca Tramontina é fabricante brasileira e oferece garantia de 12 meses com o produto. Com um desempenho confiável e preço acessível, este faqueiro é uma boa escolha para quem busca equipamentos de cozinha de alta qualidade.",
+    "informacoes_produto": {
+      "Nome da marca": "Tramontina",
+      "Fabricante": "Tramontina",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "23426007 - Faca Chef 7\" - 1 peça 23423006 - Faca para Cozinha 6\" - 1 peça 23420003 - Faca para Legumes e Frutas 3\" - 1 peça",
+      "Nome do Tipo de Produto": "Faqueiro",
+      "Número do modelo": "23498051",
+      "Número da peça": "23498/064",
+      "Descrição da garantia": "12 meses com fabricante",
+      "ASIN": "B09XFD2YMF",
+      "Material da Lâmina": "Aço inoxidável",
+      "Material do cabo": "Polipropileno",
+      "O item pode ser lavado na máquina de lavar louça?": "Sim",
+      "Material": "Aço inoxidável",
+      "Comprimento da lâmina": "5 Centímetros",
+      "Peso do item": "210 Gramas",
+      "Comprimento do artigo": "2 Centímetros",
+      "Cor": "Preto",
+      "Cor da lâmina": "Inox",
+      "Lâmina afiada": "Plana",
+      "Tipo de construção": "Estampado",
+      "Material da lâmina": "Aço inoxidável",
+      "Marca": "Tramontina",
+      "Material da Alça": "Polipropileno",
+      "Borda da lâmina": "Plana"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T09:57:49.008887+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B076X79L8P",
+    "title": "Mor - Afiador de Facas",
+    "image": "https://m.media-amazon.com/images/I/51j5Fv1nG2L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 15.38,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 21353,
+    "coupon_code": null,
+    "description": "Este afiador de facas da marca MOR, disponível por R$ 15,38, recebeu uma nota de 4,5/5 em 21353 avaliações. Destaca-se pelo seu design abs e preto, além de possuir garantia de 90 dias. Ao adquirir este produto, você se beneficia de uma ferramenta de cozinha de qualidade, com um bom custo-benefício.",
+    "informacoes_produto": {
+      "Nome da marca": "MOR",
+      "Quantidade de itens": "1",
+      "Fabricante": "Mor BR",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "Não possui",
+      "Nome do Tipo de Produto": "Afiador de Faca 9,5cm x 5cm Linha do Assador",
+      "Número do modelo": "3901",
+      "Número da peça": "3901",
+      "Descrição da garantia": "1 Ano",
+      "ASIN": "B076X79L8P",
+      "Material": "Plástico",
+      "Cor": "Preto",
+      "Tipo de grão": "Fino",
+      "Dimensões do item C x L x A": "9,5C x 5L x 4A centímetros",
+      "Peso do item": "66 Gramas",
+      "Marca": "MOR",
+      "Dimensões do produto": "9,5C x 5L x 4A centímetros",
+      "Peso do produto": "66 Gramas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B076X79L8P?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T09:58:16.346328+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BLP86QT3",
+    "title": "Farinha de Trigo de 1 Kg, Tipo 1, Globo Superiore W300.",
+    "image": "https://m.media-amazon.com/images/I/61oZUBexZ7L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 5.49,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 838,
+    "coupon_code": null,
+    "description": "Este produto de Farinha de Trigo Tipo 1, marca Globo Superiore W300, é notável por sua qualidade constante e padrão tipificado, ideal para receitas de maior desempenho. Rica em proteínas do glúten, oferece massas mais resistentes com melhor absorção de água e crescimento uniforme. Além disso, a farinha é mais extensível, permitindo uma textura leve sem necessidade de cilindrar. O produto final apresenta um acabamento diferenciado, mais claro e atrativo em comparação à farinha tradicional. Indicada para pães especiais, massas doces, tortas, esfirras, salgados assados, panquecas e muito mais.",
+    "informacoes_produto": {
+      "Nome da marca": "Globo",
+      "Informações sobre alérgenos": "Contém: Aveia, Cereais contendo glúten, Cevada, Soja, Trigo",
+      "Fabricante": "Moinho Globo Alimentos S. A.",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Farinha de Trigo",
+      "Número do modelo": "A012",
+      "Número da peça": "A012",
+      "ASIN": "B0BLP86QT3",
+      "Peso do item": "1 Quilogramas",
+      "Peso do pacote": "1 Quilogramas",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "1000 grama",
+      "Tamanho": "Pequeno",
+      "Cor": "Branca",
+      "Marca": "Globo",
+      "Peso do produto": "1 Quilogramas",
+      "Informações sobre Alérgenos": "Contém: Aveia, Cereais contendo glúten, Cevada, Soja, Trigo",
+      "Peso da embalagem": "1 Quilogramas",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BLP86QT3?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T09:58:52.555981+00:00",
     "spotlight": false
   },
   {
@@ -5370,6 +5683,48 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DTW3GDS4?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-27T17:26:44.276855+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B076FDKSV6",
+    "title": "MONDIAL Sanduicheira Fast Grill & Sandwich, Preto, 750W, 110V - S-12",
+    "image": "https://m.media-amazon.com/images/I/716iLMhJVuL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 74.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 7959,
+    "coupon_code": null,
+    "description": "O produto MONDIAL Sanduicheira Fast Grill & Sandwich é uma solução versátil e eficiente para a cozinha, oferecendo duas funções em um único dispositivo: grill e sanduicheira. A grelha dupla permite aquecimento igualado dos dois lados dos alimentos sem adição de óleo ou manteiga, enquanto o revestimento antiadherente facilita a limpeza e acelera o aquecimento. Adicionalmente, a alça isotérmica permite um manuseio mais seguro e a lâmpada piloto indica o funcionamento do produto com precisão. Com uma garantia de 1 ano, este equipamento é uma boa opção para aqueles que procuram praticidade e facilidade na cozinha.",
+    "informacoes_produto": {
+      "Nome da marca": "MONDIAL",
+      "Componentes incluídos": "01 Sanduicheira; Manual de Instruções e Manual de Assistência Técnica",
+      "Descrição da garantia": "1 ano",
+      "Quantidade de Unidades": "1.00 count",
+      "Número de identificação de comércio internacional": "07898490163489, 07898952188340",
+      "Ano de fabricação": "1900",
+      "Fabricante": "Mondial",
+      "Nome do Tipo de Produto": "Sanduicheira Fast Grill e Sandwich",
+      "Número da peça": "S-12",
+      "ASIN": "B076FDKSV6",
+      "Características especiais": "Revestimento antiaderente",
+      "Potência": "750.0",
+      "Voltagem": "110 Volts",
+      "Dimensões do item P x L x A": "23,5P x 23,5L x 8,5A centímetros",
+      "Peso do item": "1,1 Quilogramas",
+      "Cor": "Preto",
+      "Tipo de garantia": "Limitada",
+      "Material": "PP",
+      "Característica Especial": "Revestimento antiaderente",
+      "Marca": "MONDIAL",
+      "Dimensões do produto": "23,5P x 23,5L x 8,5A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B076FDKSV6?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T09:59:30.706425+00:00",
     "spotlight": false
   },
   {
@@ -6728,6 +7083,93 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B092SPZFYT?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-26T17:27:50.387872+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B089KV37SZ",
+    "title": "Tuut Ralo de Pia para Cozinha em Aço Inox Reforçado 11,5cm – Antientupimento e Fácil Limpeza",
+    "image": "https://m.media-amazon.com/images/I/51LsBFCIqjL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 7.5,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2081,
+    "coupon_code": null,
+    "description": "Este ralo de pia em aço inoxidável reforçado da marca Tuut é uma excelente escolha para manter sua cozinha limpa e higiênica. Com um diâmetro compatível de 11,5cm, ele oferece filtro eficiente para resíduos, protegendo o encanamento. Além disso, seu design prático e funcional facilita a limpeza, permitindo que você remova e lave rapidamente com água corrente. Com uma avaliação de 4,7/5 (2081 avaliações), é claro que este produto oferece um bom custo-benefício para quem procura manter sua pia sempre limpa e sem entupimentos.",
+    "informacoes_produto": {
+      "Nome da marca": "Tuut",
+      "Diâmetro de ranhura compatível": "11,5 Centímetros",
+      "Quantidade de itens": "1",
+      "Fabricante": "Yangzi",
+      "Contagem de unidades": "1 unidade",
+      "País de origem": "China",
+      "Componentes incluídos": "Não aplicável",
+      "Nome do Tipo de Produto": "Ralo de Pia",
+      "Número do modelo": "YA73",
+      "Número da peça": "18331",
+      "ASIN": "B089KV37SZ",
+      "Cor": "Cinza",
+      "Estilo": "Clássico",
+      "Material": "Aço inoxidável",
+      "Tipo de acabamento": "Aço inoxidável",
+      "Dimensões do item L x A": "11L x 11A centímetros",
+      "Características especiais": "Anti-Entupimento",
+      "Marca": "Tuut",
+      "Tipo de Acabamento": "Aço inoxidável",
+      "Dimensões do produto": "11L x 11A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B089KV37SZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T10:00:09.734340+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DY3214JL",
+    "title": "Câmera Segurança IP Lâmpada WiFi Full HD 1080p com Visão Noturna Infravermelho 1080P, Yoosee, Bivolt, Detecção de Movimento,",
+    "image": "https://m.media-amazon.com/images/I/610WqgEMyuL._AC_SL1024_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 59.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 2233,
+    "coupon_code": null,
+    "description": "Este dispositivo de segurança IP, lâmpada WiFi Full HD 1080p da Yoosee oferece uma visão noturna colorida e imagens nítidas, além de detecção inteligente de movimento com alertas em tempo real. A instalação rápida no soquete de lâmpada (E27) torna-o fácil de configurar, sem necessidade de fios ou complicações adicionais. Com acesso remoto e compatibilidade com Android/iOS, você pode monitorar ambientes inteiros em tempo real, por qualquer lugar do mundo, usando o app Yoosee. A resolução HD e a cobertura completa com visão 360° garantem uma experiência de segurança confiável e prática. O custo",
+    "informacoes_produto": {
+      "Características especiais": "Resolução HD",
+      "Utilização interior, exterior": "Área externa, Área interna",
+      "Tipo de montagem": "Montagem no teto",
+      "Tecnologia de conectividade": "Sem fio",
+      "Tipo de conectividade": "Wi-Fi",
+      "Fonte de energia": "Elétrico com fio",
+      "Voltagem": "220",
+      "Baterias são necessárias?": "Não",
+      "Resolução de captura de vídeo": "1080p",
+      "Dimensões do artigo": "15 x 4 x 10 centímetros",
+      "Contagem de unidades": "1 unidade",
+      "Usos recomendados do produto": "Segurança interna",
+      "Nome da marca": "Genérico",
+      "Quantidade de itens": "1",
+      "Componentes incluídos": "Manual de instruções",
+      "Número do modelo": "01",
+      "País de origem": "Brasil",
+      "Fabricante": "Importado",
+      "ASIN": "B0DY3214JL",
+      "Formato de captura de vídeo": "MOV",
+      "Adequação do controle por rádio": "Segurança interna",
+      "Marca": "Genérico",
+      "Tecnologia de Conectividade": "Sem fio",
+      "Característica Especial": "Resolução HD",
+      "Ambiente interno/externo": "Área externa, Área interna"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DY3214JL?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T10:00:51.592005+00:00",
     "spotlight": false
   },
   {
@@ -8284,6 +8726,47 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B0BPTK4P38",
+    "title": "Combo Teclado e Mouse Dell KM3322W Sem Fio, Layout ABNT2 Português (Brasil), Receptor USB 2,4 GHz, Mouse Óptico 1.000 DPI com",
+    "image": "https://m.media-amazon.com/images/I/51IPtedWrsL._AC_SL1280_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 150.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 11084,
+    "coupon_code": null,
+    "description": "Este Combo Teclado e Mouse Dell KM3322W Sem Fio oferece uma experiência de digitação confortável e precisa, graças ao sensor óptico de 1.000 DPI do mouse e ao teclado completo com numérico e roda de rolagem. A liberdade sem fio, oferecida por um receptor USB de 2.4 GHz, garante uma conexão estável e sem atrasos, enquanto a energia de longa duração permite operação confiável sem recarga frequente. Adicionalmente, o teclado é resistente a derramamentos e possui pés de inclinação ajustáveis para ergonomia. Por fim, este produto vem com 3 anos de garantia e suporte por",
+    "informacoes_produto": {
+      "Tecnologia de conectividade": "Sem fio",
+      "Dispositivos compatíveis": "Computador pessoal, Notebook, Tablet",
+      "Baterias são necessárias?": "Não",
+      "Fonte de energia": "Não aplicável",
+      "Disposição do teclado": "QWERTY",
+      "Sistema operacional": "Apple MacOS, FreeDOS, Android, Google Chrome OS, Linux 6.x, Microsoft Windows 7/8.1/10, Windows 11",
+      "Quantidade de teclas": "104",
+      "Cor": "Preto",
+      "Nome da marca": "Dell",
+      "Descrição do teclado": "Multimídia",
+      "Fabricante": "Dell",
+      "País de origem": "USA",
+      "Número do modelo": "KM3322W",
+      "Número da peça": "KM3322W",
+      "Descrição da garantia": "3 anos",
+      "ASIN": "B0BPTK4P38",
+      "Marca": "Dell",
+      "Tecnologia de Conectividade": "Sem fio",
+      "Dispositivos Compatíveis": "Computador pessoal, Notebook, Tablet",
+      "Descrição do Teclado": "Multimídia"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BPTK4P38?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T10:01:33.725643+00:00",
+    "spotlight": false
+  },
+  {
     "asin": "B0DF8VTNHM",
     "title": "Garrafa De Tinta Original Epson Ecotank T544 Preto - T544122",
     "image": "https://m.media-amazon.com/images/I/618fghm1r2L._AC_SL1500_.jpg",
@@ -8597,6 +9080,64 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09729YMPT?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-27T17:38:37.387023+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B07V5MKXJ1",
+    "title": "UGREEN Cabo USB C 100W 1M Nylon Trançado Carregamento Rápido | PD3.0 e QC3.0 Compatível com iPhone 16(Plus/Pro/Pro Max)/15, M",
+    "image": "https://m.media-amazon.com/images/I/61M5mkvTeTL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 37.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 14314,
+    "coupon_code": null,
+    "description": "O cabo USB-C UGREEN de 100W oferece uma experiência de carregamento rápido, alcançando até 60% de carga em 30 minutos para dispositivos compatíveis como iPhone e Samsung Galaxy. A ampla compatibilidade com vários dispositivos USB-C, juntamente com a eficiência aumentada por um chip E-marker inteligente, tornam este cabo uma excelente escolha para usuários de computadores e smartphones. Adicionalmente, o design durável garante suporte a mais de 10.000 dobras e rotações sem desfiar ou quebrar, oferecendo um bom custo-benefício.",
+    "informacoes_produto": {
+      "Tipo de conector": "USB tipo C",
+      "Tipo de cabo": "USB",
+      "Dispositivos compatíveis": "Smartphone, Tablet",
+      "Características especiais": "Carregamento rápido de 100 W, capa de alumínio, trança de nylon",
+      "Modelos de telefone compatíveis": "Laptop (Macbook Air/Pro 2020), Para todos os dispositivos alimentados por USB C como smartphone (iPhone 17/17 Air/17 Pro/17 Pro Max/16/15/15 Plus/15 Pro/15 Pro Max, Samsung Galaxy S25/S24/23, Motorola Moto Z Force), Tablet (iPad Air 4/mini 6/Pro 2021)",
+      "Categoria de Cabo de Ethernet": "Categoria 5",
+      "Adaptador do conector": "Macho-macho",
+      "Taxa de transferência de dados": "480 Megabits Per Second",
+      "Corrente máxima": "5 Amperes",
+      "Potência": "100 watts",
+      "Tensão máxima": "20 Volts",
+      "Tecnologia de conectividade": "USB",
+      "Usos recomendados do produto": "Interno/Externo",
+      "Especificação atendida": "Pd3.0, Qc3.0",
+      "Utilização interior, exterior": "Área externa",
+      "Cor": "Preto",
+      "Formato do item": "Redondo",
+      "Brand Name": "UGREEN",
+      "País de origem": "China",
+      "Tipo de embalagem": "caixa rígida ou bolsa antiestática selada",
+      "Model Number": "70427",
+      "Fabricante": "Ugreen Group Limited",
+      "UPC": "253026378817",
+      "Número de identificação de comércio internacional": "00253026378817",
+      "Certificação de teste externa": "Não aplicável",
+      "Componentes Incluídos": "UGREEN Cabo USB-C para USB-C (100W, Cinza, 1M), instruções do usuário",
+      "Part Number": "70427",
+      "ASIN": "B07V5MKXJ1",
+      "Contagem de unidades": "1.0 unidade",
+      "Item Weight": "40 Gramas",
+      "Quantidade de itens": "1",
+      "Material externo": "Náilon, alumínio",
+      "Marca": "UGREEN",
+      "Tipo de Conector": "USB tipo C",
+      "Tipo de Cabo": "USB",
+      "Dispositivos Compatíveis": "Smartphone, Tablet",
+      "Característica Especial": "Carregamento rápido de 100 W, capa de alumínio, trança de nylon"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07V5MKXJ1?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T10:02:13.642790+00:00",
     "spotlight": false
   },
   {
@@ -9680,6 +10221,77 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR2SWFVN?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-24T22:15:14.626288+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DTTM47F9",
+    "title": "Impressora Epson EcoTank L1250 - Tanque de Tinta Colorida, Wi-Fi Direct, Comando de voz, Bivolt, Cor: Preto",
+    "image": "https://m.media-amazon.com/images/I/51BeI0fbpzL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 943.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1683,
+    "coupon_code": null,
+    "description": "A Impressora Epson EcoTank L1250 oferece uma impressão colorida rápida, com 15 páginas por minuto, e preto-branco, com 33 páginas por minuto. Além disso, possui tanques de tinta recarregáveis, o que significa menores custos de manutenção ao longo do tempo. Com suporte a Wi-Fi Direct e comando de voz, essa impressora é uma ótima escolha para aqueles em busca de um produto confiável e eficiente na categoria Computadores e Informática.",
+    "informacoes_produto": {
+      "Tecnologia da impressora": "Jato de tinta",
+      "Características especiais": "Depósito de tinta recarregável",
+      "Saída da impressora": "Colorido",
+      "Peso do item": "3,9 Quilogramas",
+      "Dimensões do item P x L x A": "34,7P x 37,5L x 16,9A centímetros",
+      "Mídia impressa": "Envelopes, Etiquetas, Papel, Papel Fotográfico",
+      "Velocidade máxima de cópia a preto e branco": "33 Páginas por minuto",
+      "Dispositivos compatíveis": "Laptops, PC, Smartphones, Tablets",
+      "Tipo de garantia": "Limitada",
+      "Cor da tinta": "Preta, Ciano, Magenta, Amarela",
+      "Funções adicionais da impressora": "Apenas impressão",
+      "Método de controle": "Voz",
+      "Cartucho compatível": "Família de Garrafas T544",
+      "Número de controladores": "2",
+      "Resolução": "5760 x 1440",
+      "Velocidade máxima de impressão (colorida)": "15 ppm",
+      "Velocidade máxima de impressão (preto e branco)": "33 ppm",
+      "Cor": "Preto",
+      "Resolução máxima de impressão a cores": "5760 x 1440 dpi",
+      "Resolução máxima de impressão em preto e branco": "5.760 dpi",
+      "Impressão frente e verso": "Não",
+      "Duplex": "Manual",
+      "Nome da marca": "EPSON",
+      "Nome do modelo": "L1250",
+      "Número do modelo": "C11CJ71302BR",
+      "Componentes incluídos": "Garrafas de tinta",
+      "Série do Modelo": "EcoTank",
+      "Usos específicos do produto": "Casa/Oficina",
+      "UPC": "198390000073",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Impressora de jato de tinta",
+      "Fabricante": "Epson",
+      "Descrição da garantia": "12 MESES",
+      "ASIN": "B0DTTM47F9",
+      "Tamanho máximo da mídia": "8,5 x 11 pol.",
+      "Capacidade máxima de folhas": "100",
+      "Tamanho do papel": "Até A4",
+      "Capacidade de emissão de folhas": "100",
+      "Tecnologia de conectividade": "Wi-Fi",
+      "Interface de hardware": "USB",
+      "Cor da resolução máxima de cópia": "5760 x 1440 dpi",
+      "Marca": "EPSON",
+      "Tecnologia de Conectividade": "Wi-Fi",
+      "Tecnologia de impressão": "Jato de tinta",
+      "Característica Especial": "Depósito de tinta recarregável",
+      "Nome do Modelo": "L1250",
+      "Saída da Impressora": "Colorido",
+      "Velocidade máxima de impressão (cor)": "15 ppm",
+      "Velocidade máxima de impressão monocromática": "33 ppm",
+      "Peso do produto": "3,9 Quilogramas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DTTM47F9?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-28T10:02:49.200810+00:00",
     "spotlight": false
   },
   {
@@ -12874,618 +13486,6 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
-    "asin": "B0FPYV6K68",
-    "title": "Celular Samsung Galaxy A17, 128GB, 4GB, 50MP Tela 6.7\", IP54 - Preto",
-    "image": "https://m.media-amazon.com/images/I/51kT5SgPhNL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "celulares e smartphones",
-    "price_current": 939.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 910,
-    "coupon_code": null,
-    "description": "O Samsung Galaxy A17 oferece uma combinação de desempenho e armazenamento impressionantes, com 4GB RAM, 4GB RAM Plus e 128GB de armazenamento interno. A câmera tripla de até 50MP com estabilização óptica permite capturar fotos detalhadas e claras. Adicionalmente, o Samsung Wallet oferece segurança e conveniência para pagamentos digitais. Com processador Helio G99 Octa-Core de 6nm, este smartphone é uma opção interessante para quem procura um dispositivo potente e versátil.",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 15.0",
-      "Memória RAM instalada": "4 GB",
-      "Modelo da CPU": "Exynos 1330 S5E8535",
-      "Velocidade da CPU": "2,4 GHz",
-      "Capacidade de armazenamento da memória": "128 GB",
-      "Cor": "Preto",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Entrada de interface humana": "Tela tátil",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "Resistente à água",
-      "Dispositivos compatíveis": "Samsung",
-      "Características especiais": "Dual SIM, GPS integrado, NFC, Resistente à Água, Único com até 6 atualizações de Android e até 6 anos de atualizações de segurança",
-      "Tamanho máximo suportado pela memória flash": "128 GB",
-      "Resolução do sensor fotográfico frontal": "13 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "2, 5, 50 MP",
-      "Descrição da câmera": "Frontal, Traseira",
-      "Flash da câmera": "LED",
-      "Número de câmaras traseiras": "3",
-      "Zoom digital": "10 x",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Descrição da bateria": "Íon de lítio",
-      "Potência da bateria": "5000",
-      "GPS": "Verdadeiro",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1082 x 2340",
-      "Taxa de atualização": "90 Hz",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2340x1080 Pixels",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "4G",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
-      "Tecnologia de rede sem fios": "GSM, LTE",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "Cabo USB, Carregador, Ejetor da bandeja SIM, Manual do usuário",
-      "Descrição da garantia": "12 meses com o Fabricante",
-      "Fabricante": "Samsung",
-      "Usos específicos do produto": "Uso diário",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 030872500953 / MODELO: SM-A175F/DS",
-      "ASIN": "B0FPYV6K68",
-      "Peso do item": "190 Gramas",
-      "Dimensões do artigo": "16,4 x 7,8 x 0,7 centímetros",
-      "Resolução efetiva de vídeo": "1080 Pixels",
-      "Resolução de captura de vídeo": "30fps",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 15.0",
-      "Tamanho instalado da memória RAM": "4 GB",
-      "Velocidade do CPU": "2,4 GHz"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T09:56:10.186232+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DSYJCY45",
-    "title": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
-    "image": "https://m.media-amazon.com/images/I/41uS5ZSX9yL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "celulares e smartphones",
-    "price_current": 7029.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 731,
-    "coupon_code": null,
-    "description": "O Samsung Galaxy S25 Ultra 5G oferece uma experiência inigualável em fotografia e edição, graças à sua câmera quádrupla de alta performance e ao processador poderoso personalizado para o Galaxy. Além disso, com 12GB de RAM e Android 14, este smartphone oferece uma experiência de uso fluida e confortável. Com capacidade de armazenamento de 256GB e conector USB-C, o Galaxy S25 Ultra é um excelente aliado para quem procura uma solução de tecnologia avançada.",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 14",
-      "Memória RAM instalada": "12 GB",
-      "Modelo da CPU": "Snapdragon 8 Elite",
-      "Velocidade da CPU": "3,4 GHz",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Titânio Preto",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Tela Infinita",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "Resistente à água",
-      "Entrada de fone de ouvido": "[Unknown]",
-      "Características especiais": "Carregamento sem fio, Dual SIM, GPS integrado, Suporte de carregamento rápido",
-      "Tamanho máximo suportado pela memória flash": "256 GB",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "10.0, 200.0, 50.0, 50.0 MP",
-      "Descrição da câmera": "Frontal, Traseira",
-      "Número de câmaras traseiras": "4",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "5000",
-      "Potência da bateria": "5000.0",
-      "Resolução efetiva de vídeo": "1440 Pixels",
-      "Resolução de captura de vídeo": "30fps, 60fps",
-      "Tamanho da tela": "6,9 Polegadas",
-      "Resolução": "(3120 x 1440) QHD+",
-      "Taxa de atualização": "1-120Hz Hz",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "3120x1440 Pixels",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
-      "Tecnologia de rede sem fios": "Bluetooth, Wi-Fi",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "Adaptador de alimentação, Cabo USB, Ejetor da bandeja SIM",
-      "Descrição da garantia": "12 meses com o Fabricante",
-      "Fabricante": "Samsung",
-      "Usos específicos do produto": "Assistir vídeos, Fotografia, Ligar",
-      "Certificação de teste externa": "ANATEL: 095732400953/ Modelo:SM-S938B/DS",
-      "ASIN": "B0DSYJCY45",
-      "Peso do item": "230 Gramas",
-      "Dimensões do artigo": "16,3 x 7,8 x 0,9 centímetros",
-      "GPS": "Verdadeiro",
-      "Sistema de navegação por satélite suportado": "GPS",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 14",
-      "Tamanho instalado da memória RAM": "12 GB",
-      "Velocidade do CPU": "3,4 GHz"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T09:56:42.262608+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0789M146B",
-    "title": "Faqueiro Tramontina Búzios em Aço Inox com Detalhe 24 Peças",
-    "image": "https://m.media-amazon.com/images/I/61x2HGF7CfL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 61.06,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 16660,
-    "coupon_code": null,
-    "description": "O Faqueiro Tramontina Búzios em Aço Inox oferece uma combinação de resistência, durabilidade e elegância para sua mesa. As 24 peças do jogo, incluindo facas para churrasco, garfos e colheres, são produzidas totalmente em aço inoxidável, tornando-as fáceis de limpar e resistentes ao uso diário. Além disso, o acabamento lindo das peças adiciona um charme especial à sua refeição. Este faqueiro é uma escolha perfeita para saborear as melhores receitas!",
-    "informacoes_produto": {
-      "Nome da marca": "Tramontina",
-      "Número de peças": "24",
-      "Usos recomendados do produto": "Jantar",
-      "Componentes incluídos": "06 Facas para churrasco, 06 Garfos de mesa, 06 Colheres de mesa, 06 Colheres para chá",
-      "Fabricante": "Tramontina",
-      "Nome do Conjunto": "Faqueiro Tramontina Búzios",
-      "Contagem de unidades": "1 Unidade",
-      "Nome do Tipo de Produto": "Faqueiro Tramontina",
-      "Número do modelo": "23799071",
-      "Número da peça": "7891112185944",
-      "Descrição da garantia": "3 meses com o fabricante",
-      "ASIN": "B0789M146B",
-      "Material": "Aço inoxidável",
-      "Instruções de cuidados com o produto": "Pode ser lavado na máquina de lavar louça",
-      "Tipo de acabamento": "Polido",
-      "É resistente a manchas": "Sim",
-      "O item pode ser lavado na máquina de lavar louça?": "Sim",
-      "Cor": "Inox",
-      "Estilo": "Casual",
-      "Características especiais": "Para uso em lava Louças",
-      "Peso do item": "735 Gramas",
-      "Marca": "Tramontina",
-      "Número de Peças": "24",
-      "Instruções de Cuidados do Produto": "Pode ser lavado na máquina de lavar louça"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0789M146B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T09:57:15.250824+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B09XFD2YMF",
-    "title": "Tramontina JOGO FACAS INOX 4PC PLENUS PRE, Preto",
-    "image": "https://m.media-amazon.com/images/I/71EvJYnDRYL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 29.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 12923,
-    "coupon_code": null,
-    "description": "O jogo de facas Tramontina Plenus oferece uma solução versátil para sua cozinha, com lâminas em aço inoxidável e cabos de polipropileno preto. Este conjunto inclui três facas diferentes: uma chef, uma para cozinha e outra para legumes e frutas, totalizando quatro peças. A marca Tramontina é fabricante brasileira e oferece garantia de 12 meses com o produto. Com um desempenho confiável e preço acessível, este faqueiro é uma boa escolha para quem busca equipamentos de cozinha de alta qualidade.",
-    "informacoes_produto": {
-      "Nome da marca": "Tramontina",
-      "Fabricante": "Tramontina",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "23426007 - Faca Chef 7\" - 1 peça 23423006 - Faca para Cozinha 6\" - 1 peça 23420003 - Faca para Legumes e Frutas 3\" - 1 peça",
-      "Nome do Tipo de Produto": "Faqueiro",
-      "Número do modelo": "23498051",
-      "Número da peça": "23498/064",
-      "Descrição da garantia": "12 meses com fabricante",
-      "ASIN": "B09XFD2YMF",
-      "Material da Lâmina": "Aço inoxidável",
-      "Material do cabo": "Polipropileno",
-      "O item pode ser lavado na máquina de lavar louça?": "Sim",
-      "Material": "Aço inoxidável",
-      "Comprimento da lâmina": "5 Centímetros",
-      "Peso do item": "210 Gramas",
-      "Comprimento do artigo": "2 Centímetros",
-      "Cor": "Preto",
-      "Cor da lâmina": "Inox",
-      "Lâmina afiada": "Plana",
-      "Tipo de construção": "Estampado",
-      "Material da lâmina": "Aço inoxidável",
-      "Marca": "Tramontina",
-      "Material da Alça": "Polipropileno",
-      "Borda da lâmina": "Plana"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T09:57:49.008887+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B076X79L8P",
-    "title": "Mor - Afiador de Facas",
-    "image": "https://m.media-amazon.com/images/I/51j5Fv1nG2L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 15.38,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 21353,
-    "coupon_code": null,
-    "description": "Este afiador de facas da marca MOR, disponível por R$ 15,38, recebeu uma nota de 4,5/5 em 21353 avaliações. Destaca-se pelo seu design abs e preto, além de possuir garantia de 90 dias. Ao adquirir este produto, você se beneficia de uma ferramenta de cozinha de qualidade, com um bom custo-benefício.",
-    "informacoes_produto": {
-      "Nome da marca": "MOR",
-      "Quantidade de itens": "1",
-      "Fabricante": "Mor BR",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "Não possui",
-      "Nome do Tipo de Produto": "Afiador de Faca 9,5cm x 5cm Linha do Assador",
-      "Número do modelo": "3901",
-      "Número da peça": "3901",
-      "Descrição da garantia": "1 Ano",
-      "ASIN": "B076X79L8P",
-      "Material": "Plástico",
-      "Cor": "Preto",
-      "Tipo de grão": "Fino",
-      "Dimensões do item C x L x A": "9,5C x 5L x 4A centímetros",
-      "Peso do item": "66 Gramas",
-      "Marca": "MOR",
-      "Dimensões do produto": "9,5C x 5L x 4A centímetros",
-      "Peso do produto": "66 Gramas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B076X79L8P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T09:58:16.346328+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BLP86QT3",
-    "title": "Farinha de Trigo de 1 Kg, Tipo 1, Globo Superiore W300.",
-    "image": "https://m.media-amazon.com/images/I/61oZUBexZ7L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 5.49,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 838,
-    "coupon_code": null,
-    "description": "Este produto de Farinha de Trigo Tipo 1, marca Globo Superiore W300, é notável por sua qualidade constante e padrão tipificado, ideal para receitas de maior desempenho. Rica em proteínas do glúten, oferece massas mais resistentes com melhor absorção de água e crescimento uniforme. Além disso, a farinha é mais extensível, permitindo uma textura leve sem necessidade de cilindrar. O produto final apresenta um acabamento diferenciado, mais claro e atrativo em comparação à farinha tradicional. Indicada para pães especiais, massas doces, tortas, esfirras, salgados assados, panquecas e muito mais.",
-    "informacoes_produto": {
-      "Nome da marca": "Globo",
-      "Informações sobre alérgenos": "Contém: Aveia, Cereais contendo glúten, Cevada, Soja, Trigo",
-      "Fabricante": "Moinho Globo Alimentos S. A.",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Farinha de Trigo",
-      "Número do modelo": "A012",
-      "Número da peça": "A012",
-      "ASIN": "B0BLP86QT3",
-      "Peso do item": "1 Quilogramas",
-      "Peso do pacote": "1 Quilogramas",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "1000 grama",
-      "Tamanho": "Pequeno",
-      "Cor": "Branca",
-      "Marca": "Globo",
-      "Peso do produto": "1 Quilogramas",
-      "Informações sobre Alérgenos": "Contém: Aveia, Cereais contendo glúten, Cevada, Soja, Trigo",
-      "Peso da embalagem": "1 Quilogramas",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BLP86QT3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T09:58:52.555981+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B076FDKSV6",
-    "title": "MONDIAL Sanduicheira Fast Grill & Sandwich, Preto, 750W, 110V - S-12",
-    "image": "https://m.media-amazon.com/images/I/716iLMhJVuL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 74.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 7959,
-    "coupon_code": null,
-    "description": "O produto MONDIAL Sanduicheira Fast Grill & Sandwich é uma solução versátil e eficiente para a cozinha, oferecendo duas funções em um único dispositivo: grill e sanduicheira. A grelha dupla permite aquecimento igualado dos dois lados dos alimentos sem adição de óleo ou manteiga, enquanto o revestimento antiadherente facilita a limpeza e acelera o aquecimento. Adicionalmente, a alça isotérmica permite um manuseio mais seguro e a lâmpada piloto indica o funcionamento do produto com precisão. Com uma garantia de 1 ano, este equipamento é uma boa opção para aqueles que procuram praticidade e facilidade na cozinha.",
-    "informacoes_produto": {
-      "Nome da marca": "MONDIAL",
-      "Componentes incluídos": "01 Sanduicheira; Manual de Instruções e Manual de Assistência Técnica",
-      "Descrição da garantia": "1 ano",
-      "Quantidade de Unidades": "1.00 count",
-      "Número de identificação de comércio internacional": "07898490163489, 07898952188340",
-      "Ano de fabricação": "1900",
-      "Fabricante": "Mondial",
-      "Nome do Tipo de Produto": "Sanduicheira Fast Grill e Sandwich",
-      "Número da peça": "S-12",
-      "ASIN": "B076FDKSV6",
-      "Características especiais": "Revestimento antiaderente",
-      "Potência": "750.0",
-      "Voltagem": "110 Volts",
-      "Dimensões do item P x L x A": "23,5P x 23,5L x 8,5A centímetros",
-      "Peso do item": "1,1 Quilogramas",
-      "Cor": "Preto",
-      "Tipo de garantia": "Limitada",
-      "Material": "PP",
-      "Característica Especial": "Revestimento antiaderente",
-      "Marca": "MONDIAL",
-      "Dimensões do produto": "23,5P x 23,5L x 8,5A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B076FDKSV6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T09:59:30.706425+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B089KV37SZ",
-    "title": "Tuut Ralo de Pia para Cozinha em Aço Inox Reforçado 11,5cm – Antientupimento e Fácil Limpeza",
-    "image": "https://m.media-amazon.com/images/I/51LsBFCIqjL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 7.5,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 2081,
-    "coupon_code": null,
-    "description": "Este ralo de pia em aço inoxidável reforçado da marca Tuut é uma excelente escolha para manter sua cozinha limpa e higiênica. Com um diâmetro compatível de 11,5cm, ele oferece filtro eficiente para resíduos, protegendo o encanamento. Além disso, seu design prático e funcional facilita a limpeza, permitindo que você remova e lave rapidamente com água corrente. Com uma avaliação de 4,7/5 (2081 avaliações), é claro que este produto oferece um bom custo-benefício para quem procura manter sua pia sempre limpa e sem entupimentos.",
-    "informacoes_produto": {
-      "Nome da marca": "Tuut",
-      "Diâmetro de ranhura compatível": "11,5 Centímetros",
-      "Quantidade de itens": "1",
-      "Fabricante": "Yangzi",
-      "Contagem de unidades": "1 unidade",
-      "País de origem": "China",
-      "Componentes incluídos": "Não aplicável",
-      "Nome do Tipo de Produto": "Ralo de Pia",
-      "Número do modelo": "YA73",
-      "Número da peça": "18331",
-      "ASIN": "B089KV37SZ",
-      "Cor": "Cinza",
-      "Estilo": "Clássico",
-      "Material": "Aço inoxidável",
-      "Tipo de acabamento": "Aço inoxidável",
-      "Dimensões do item L x A": "11L x 11A centímetros",
-      "Características especiais": "Anti-Entupimento",
-      "Marca": "Tuut",
-      "Tipo de Acabamento": "Aço inoxidável",
-      "Dimensões do produto": "11L x 11A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B089KV37SZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:00:09.734340+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DY3214JL",
-    "title": "Câmera Segurança IP Lâmpada WiFi Full HD 1080p com Visão Noturna Infravermelho 1080P, Yoosee, Bivolt, Detecção de Movimento,",
-    "image": "https://m.media-amazon.com/images/I/610WqgEMyuL._AC_SL1024_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 59.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 2233,
-    "coupon_code": null,
-    "description": "Este dispositivo de segurança IP, lâmpada WiFi Full HD 1080p da Yoosee oferece uma visão noturna colorida e imagens nítidas, além de detecção inteligente de movimento com alertas em tempo real. A instalação rápida no soquete de lâmpada (E27) torna-o fácil de configurar, sem necessidade de fios ou complicações adicionais. Com acesso remoto e compatibilidade com Android/iOS, você pode monitorar ambientes inteiros em tempo real, por qualquer lugar do mundo, usando o app Yoosee. A resolução HD e a cobertura completa com visão 360° garantem uma experiência de segurança confiável e prática. O custo",
-    "informacoes_produto": {
-      "Características especiais": "Resolução HD",
-      "Utilização interior, exterior": "Área externa, Área interna",
-      "Tipo de montagem": "Montagem no teto",
-      "Tecnologia de conectividade": "Sem fio",
-      "Tipo de conectividade": "Wi-Fi",
-      "Fonte de energia": "Elétrico com fio",
-      "Voltagem": "220",
-      "Baterias são necessárias?": "Não",
-      "Resolução de captura de vídeo": "1080p",
-      "Dimensões do artigo": "15 x 4 x 10 centímetros",
-      "Contagem de unidades": "1 unidade",
-      "Usos recomendados do produto": "Segurança interna",
-      "Nome da marca": "Genérico",
-      "Quantidade de itens": "1",
-      "Componentes incluídos": "Manual de instruções",
-      "Número do modelo": "01",
-      "País de origem": "Brasil",
-      "Fabricante": "Importado",
-      "ASIN": "B0DY3214JL",
-      "Formato de captura de vídeo": "MOV",
-      "Adequação do controle por rádio": "Segurança interna",
-      "Marca": "Genérico",
-      "Tecnologia de Conectividade": "Sem fio",
-      "Característica Especial": "Resolução HD",
-      "Ambiente interno/externo": "Área externa, Área interna"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DY3214JL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:00:51.592005+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BPTK4P38",
-    "title": "Combo Teclado e Mouse Dell KM3322W Sem Fio, Layout ABNT2 Português (Brasil), Receptor USB 2,4 GHz, Mouse Óptico 1.000 DPI com",
-    "image": "https://m.media-amazon.com/images/I/51IPtedWrsL._AC_SL1280_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 150.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 11084,
-    "coupon_code": null,
-    "description": "Este Combo Teclado e Mouse Dell KM3322W Sem Fio oferece uma experiência de digitação confortável e precisa, graças ao sensor óptico de 1.000 DPI do mouse e ao teclado completo com numérico e roda de rolagem. A liberdade sem fio, oferecida por um receptor USB de 2.4 GHz, garante uma conexão estável e sem atrasos, enquanto a energia de longa duração permite operação confiável sem recarga frequente. Adicionalmente, o teclado é resistente a derramamentos e possui pés de inclinação ajustáveis para ergonomia. Por fim, este produto vem com 3 anos de garantia e suporte por",
-    "informacoes_produto": {
-      "Tecnologia de conectividade": "Sem fio",
-      "Dispositivos compatíveis": "Computador pessoal, Notebook, Tablet",
-      "Baterias são necessárias?": "Não",
-      "Fonte de energia": "Não aplicável",
-      "Disposição do teclado": "QWERTY",
-      "Sistema operacional": "Apple MacOS, FreeDOS, Android, Google Chrome OS, Linux 6.x, Microsoft Windows 7/8.1/10, Windows 11",
-      "Quantidade de teclas": "104",
-      "Cor": "Preto",
-      "Nome da marca": "Dell",
-      "Descrição do teclado": "Multimídia",
-      "Fabricante": "Dell",
-      "País de origem": "USA",
-      "Número do modelo": "KM3322W",
-      "Número da peça": "KM3322W",
-      "Descrição da garantia": "3 anos",
-      "ASIN": "B0BPTK4P38",
-      "Marca": "Dell",
-      "Tecnologia de Conectividade": "Sem fio",
-      "Dispositivos Compatíveis": "Computador pessoal, Notebook, Tablet",
-      "Descrição do Teclado": "Multimídia"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BPTK4P38?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:01:33.725643+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B07V5MKXJ1",
-    "title": "UGREEN Cabo USB C 100W 1M Nylon Trançado Carregamento Rápido | PD3.0 e QC3.0 Compatível com iPhone 16(Plus/Pro/Pro Max)/15, M",
-    "image": "https://m.media-amazon.com/images/I/61M5mkvTeTL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 37.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 14314,
-    "coupon_code": null,
-    "description": "O cabo USB-C UGREEN de 100W oferece uma experiência de carregamento rápido, alcançando até 60% de carga em 30 minutos para dispositivos compatíveis como iPhone e Samsung Galaxy. A ampla compatibilidade com vários dispositivos USB-C, juntamente com a eficiência aumentada por um chip E-marker inteligente, tornam este cabo uma excelente escolha para usuários de computadores e smartphones. Adicionalmente, o design durável garante suporte a mais de 10.000 dobras e rotações sem desfiar ou quebrar, oferecendo um bom custo-benefício.",
-    "informacoes_produto": {
-      "Tipo de conector": "USB tipo C",
-      "Tipo de cabo": "USB",
-      "Dispositivos compatíveis": "Smartphone, Tablet",
-      "Características especiais": "Carregamento rápido de 100 W, capa de alumínio, trança de nylon",
-      "Modelos de telefone compatíveis": "Laptop (Macbook Air/Pro 2020), Para todos os dispositivos alimentados por USB C como smartphone (iPhone 17/17 Air/17 Pro/17 Pro Max/16/15/15 Plus/15 Pro/15 Pro Max, Samsung Galaxy S25/S24/23, Motorola Moto Z Force), Tablet (iPad Air 4/mini 6/Pro 2021)",
-      "Categoria de Cabo de Ethernet": "Categoria 5",
-      "Adaptador do conector": "Macho-macho",
-      "Taxa de transferência de dados": "480 Megabits Per Second",
-      "Corrente máxima": "5 Amperes",
-      "Potência": "100 watts",
-      "Tensão máxima": "20 Volts",
-      "Tecnologia de conectividade": "USB",
-      "Usos recomendados do produto": "Interno/Externo",
-      "Especificação atendida": "Pd3.0, Qc3.0",
-      "Utilização interior, exterior": "Área externa",
-      "Cor": "Preto",
-      "Formato do item": "Redondo",
-      "Brand Name": "UGREEN",
-      "País de origem": "China",
-      "Tipo de embalagem": "caixa rígida ou bolsa antiestática selada",
-      "Model Number": "70427",
-      "Fabricante": "Ugreen Group Limited",
-      "UPC": "253026378817",
-      "Número de identificação de comércio internacional": "00253026378817",
-      "Certificação de teste externa": "Não aplicável",
-      "Componentes Incluídos": "UGREEN Cabo USB-C para USB-C (100W, Cinza, 1M), instruções do usuário",
-      "Part Number": "70427",
-      "ASIN": "B07V5MKXJ1",
-      "Contagem de unidades": "1.0 unidade",
-      "Item Weight": "40 Gramas",
-      "Quantidade de itens": "1",
-      "Material externo": "Náilon, alumínio",
-      "Marca": "UGREEN",
-      "Tipo de Conector": "USB tipo C",
-      "Tipo de Cabo": "USB",
-      "Dispositivos Compatíveis": "Smartphone, Tablet",
-      "Característica Especial": "Carregamento rápido de 100 W, capa de alumínio, trança de nylon"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07V5MKXJ1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:02:13.642790+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DTTM47F9",
-    "title": "Impressora Epson EcoTank L1250 - Tanque de Tinta Colorida, Wi-Fi Direct, Comando de voz, Bivolt, Cor: Preto",
-    "image": "https://m.media-amazon.com/images/I/51BeI0fbpzL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 943.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 1683,
-    "coupon_code": null,
-    "description": "A Impressora Epson EcoTank L1250 oferece uma impressão colorida rápida, com 15 páginas por minuto, e preto-branco, com 33 páginas por minuto. Além disso, possui tanques de tinta recarregáveis, o que significa menores custos de manutenção ao longo do tempo. Com suporte a Wi-Fi Direct e comando de voz, essa impressora é uma ótima escolha para aqueles em busca de um produto confiável e eficiente na categoria Computadores e Informática.",
-    "informacoes_produto": {
-      "Tecnologia da impressora": "Jato de tinta",
-      "Características especiais": "Depósito de tinta recarregável",
-      "Saída da impressora": "Colorido",
-      "Peso do item": "3,9 Quilogramas",
-      "Dimensões do item P x L x A": "34,7P x 37,5L x 16,9A centímetros",
-      "Mídia impressa": "Envelopes, Etiquetas, Papel, Papel Fotográfico",
-      "Velocidade máxima de cópia a preto e branco": "33 Páginas por minuto",
-      "Dispositivos compatíveis": "Laptops, PC, Smartphones, Tablets",
-      "Tipo de garantia": "Limitada",
-      "Cor da tinta": "Preta, Ciano, Magenta, Amarela",
-      "Funções adicionais da impressora": "Apenas impressão",
-      "Método de controle": "Voz",
-      "Cartucho compatível": "Família de Garrafas T544",
-      "Número de controladores": "2",
-      "Resolução": "5760 x 1440",
-      "Velocidade máxima de impressão (colorida)": "15 ppm",
-      "Velocidade máxima de impressão (preto e branco)": "33 ppm",
-      "Cor": "Preto",
-      "Resolução máxima de impressão a cores": "5760 x 1440 dpi",
-      "Resolução máxima de impressão em preto e branco": "5.760 dpi",
-      "Impressão frente e verso": "Não",
-      "Duplex": "Manual",
-      "Nome da marca": "EPSON",
-      "Nome do modelo": "L1250",
-      "Número do modelo": "C11CJ71302BR",
-      "Componentes incluídos": "Garrafas de tinta",
-      "Série do Modelo": "EcoTank",
-      "Usos específicos do produto": "Casa/Oficina",
-      "UPC": "198390000073",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Impressora de jato de tinta",
-      "Fabricante": "Epson",
-      "Descrição da garantia": "12 MESES",
-      "ASIN": "B0DTTM47F9",
-      "Tamanho máximo da mídia": "8,5 x 11 pol.",
-      "Capacidade máxima de folhas": "100",
-      "Tamanho do papel": "Até A4",
-      "Capacidade de emissão de folhas": "100",
-      "Tecnologia de conectividade": "Wi-Fi",
-      "Interface de hardware": "USB",
-      "Cor da resolução máxima de cópia": "5760 x 1440 dpi",
-      "Marca": "EPSON",
-      "Tecnologia de Conectividade": "Wi-Fi",
-      "Tecnologia de impressão": "Jato de tinta",
-      "Característica Especial": "Depósito de tinta recarregável",
-      "Nome do Modelo": "L1250",
-      "Saída da Impressora": "Colorido",
-      "Velocidade máxima de impressão (cor)": "15 ppm",
-      "Velocidade máxima de impressão monocromática": "33 ppm",
-      "Peso do produto": "3,9 Quilogramas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DTTM47F9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:02:49.200810+00:00",
-    "spotlight": false
-  },
-  {
     "asin": "B0FNXZZTDW",
     "title": "Hisense Smart TV 4K 55\" Polegadas 55A6NV com Dolby Vision, HDR10, HLG, Dolby Gaming, Film Maker, DTS Virtual X, Compatibilidade Alexa e Google Home",
     "image": "https://m.media-amazon.com/images/I/81bpAJQ1ROL._AC_SL1500_.jpg",
@@ -13569,7 +13569,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7,3P x 123,4L x 71,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FNXZZTDW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:03:23.811975+00:00",
+    "last_checked_at": "2026-07-28T10:15:23.763732+00:00",
     "spotlight": false
   },
   {
@@ -13621,7 +13621,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DJSZL4V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:03:32.517503+00:00",
+    "last_checked_at": "2026-07-28T10:15:33.158998+00:00",
     "spotlight": false
   },
   {
@@ -13662,7 +13662,7 @@ const PRODUCTS = [
       "Comprimento da mangueira": "3 Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYQ7GZBC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:03:41.696763+00:00",
+    "last_checked_at": "2026-07-28T10:15:41.864064+00:00",
     "spotlight": false
   },
   {
@@ -13730,7 +13730,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Montagem no chão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07BSYWZ6K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:03:51.553182+00:00",
+    "last_checked_at": "2026-07-28T10:15:49.712344+00:00",
     "spotlight": false
   },
   {
@@ -13783,7 +13783,7 @@ const PRODUCTS = [
       "Forma do produto": "Rolo com folhas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07D5LZZCC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:04:00.756071+00:00",
+    "last_checked_at": "2026-07-28T10:15:59.009521+00:00",
     "spotlight": false
   },
   {
@@ -13830,7 +13830,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09JZP3NJ2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:04:11.558010+00:00",
+    "last_checked_at": "2026-07-28T10:16:06.920969+00:00",
     "spotlight": false
   },
   {
@@ -13873,7 +13873,7 @@ const PRODUCTS = [
       "Nível de torragem": "Torra média"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C6L6YVB4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:04:20.193045+00:00",
+    "last_checked_at": "2026-07-28T10:16:15.792659+00:00",
     "spotlight": false
   },
   {
@@ -13927,7 +13927,7 @@ const PRODUCTS = [
       "Descrição do comprimento do item": "Comprimento padrão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08G8TGLV2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:04:36.191813+00:00",
+    "last_checked_at": "2026-07-28T10:16:24.135577+00:00",
     "spotlight": false
   },
   {
@@ -13959,7 +13959,7 @@ const PRODUCTS = [
       "Peso do produto": "21 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2CK3KNQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:04:44.667755+00:00",
+    "last_checked_at": "2026-07-28T10:16:32.770088+00:00",
     "spotlight": false
   },
   {
@@ -14006,7 +14006,7 @@ const PRODUCTS = [
       "Dimensões do produto": "6,5P x 6,5L x 39,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCPWN2FG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:04:53.031564+00:00",
+    "last_checked_at": "2026-07-28T10:16:41.008559+00:00",
     "spotlight": false
   },
   {
@@ -14048,7 +14048,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Cabo giratório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F63L9DLK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:05:02.303858+00:00",
+    "last_checked_at": "2026-07-28T10:16:49.568324+00:00",
     "spotlight": false
   },
   {
@@ -14099,7 +14099,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086BWYJD3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:05:12.079132+00:00",
+    "last_checked_at": "2026-07-28T10:16:59.000096+00:00",
     "spotlight": false
   },
   {
@@ -14144,7 +14144,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:05:23.335636+00:00",
+    "last_checked_at": "2026-07-28T10:17:07.924253+00:00",
     "spotlight": false
   },
   {
@@ -14192,7 +14192,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:05:33.942889+00:00",
+    "last_checked_at": "2026-07-28T10:17:16.885186+00:00",
     "spotlight": false
   },
   {
@@ -14244,7 +14244,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVP6KRP4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:05:42.727843+00:00",
+    "last_checked_at": "2026-07-28T10:17:26.010416+00:00",
     "spotlight": false
   },
   {
@@ -14278,7 +14278,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "3 fevereiro 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTTLGRFH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:05:53.840028+00:00",
+    "last_checked_at": "2026-07-28T10:17:35.740724+00:00",
     "spotlight": false
   },
   {
@@ -14321,7 +14321,7 @@ const PRODUCTS = [
       "Material do cabeçote": "plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0783QWRD1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:06:02.400743+00:00",
+    "last_checked_at": "2026-07-28T10:17:44.546833+00:00",
     "spotlight": false
   },
   {
@@ -14384,7 +14384,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Uso diário"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJ3WFW9H?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:06:12.705312+00:00",
+    "last_checked_at": "2026-07-28T10:17:53.115034+00:00",
     "spotlight": false
   },
   {
@@ -14430,7 +14430,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Sem flúor, Sem parabenos, Sem triclosan"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCJ1JZWG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:06:21.027740+00:00",
+    "last_checked_at": "2026-07-28T10:18:02.287767+00:00",
     "spotlight": false
   },
   {
@@ -14450,7 +14450,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BM4Q7F13?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:06:30.156303+00:00",
+    "last_checked_at": "2026-07-28T10:18:10.738010+00:00",
     "spotlight": false
   },
   {
@@ -14490,7 +14490,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:06:38.703823+00:00",
+    "last_checked_at": "2026-07-28T10:18:18.831621+00:00",
     "spotlight": false
   },
   {
@@ -14540,7 +14540,7 @@ const PRODUCTS = [
       "Tamanho": "54"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07RHFXSN2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:06:48.661731+00:00",
+    "last_checked_at": "2026-07-28T10:18:27.225201+00:00",
     "spotlight": false
   },
   {
@@ -14571,7 +14571,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "22 junho 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4T5245K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:06:57.265881+00:00",
+    "last_checked_at": "2026-07-28T10:18:36.802339+00:00",
     "spotlight": false
   },
   {
@@ -14616,7 +14616,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Sem cloro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07PNK7JSN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:07:06.614225+00:00",
+    "last_checked_at": "2026-07-28T10:18:45.293101+00:00",
     "spotlight": false
   },
   {
@@ -14675,7 +14675,7 @@ const PRODUCTS = [
       "Número de faixas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07G2G7CYW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:07:15.308325+00:00",
+    "last_checked_at": "2026-07-28T10:18:53.310129+00:00",
     "spotlight": false
   },
   {
@@ -14739,7 +14739,7 @@ const PRODUCTS = [
       "Dimensões do produto": "77P x 25L x 59A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:07:24.018567+00:00",
+    "last_checked_at": "2026-07-28T10:19:02.469306+00:00",
     "spotlight": false
   },
   {
@@ -14791,7 +14791,7 @@ const PRODUCTS = [
       "ASIN": "B0DH2B5RD9"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DH2B5RD9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:07:33.704314+00:00",
+    "last_checked_at": "2026-07-28T10:19:10.702847+00:00",
     "spotlight": false
   },
   {
@@ -14854,7 +14854,7 @@ const PRODUCTS = [
       "Instruções de cuidados com o produto": "Apenas lavagem à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0842XB4BN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:07:42.302861+00:00",
+    "last_checked_at": "2026-07-28T10:19:19.509820+00:00",
     "spotlight": false
   },
   {
@@ -14887,7 +14887,7 @@ const PRODUCTS = [
       "Peso do produto": "3980 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076M6GT59?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:07:51.866021+00:00",
+    "last_checked_at": "2026-07-28T10:19:27.074420+00:00",
     "spotlight": false
   },
   {
@@ -14929,7 +14929,7 @@ const PRODUCTS = [
       "Volume do produto": "230 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SVS5VWZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:07:59.853361+00:00",
+    "last_checked_at": "2026-07-28T10:19:35.022772+00:00",
     "spotlight": false
   },
   {
@@ -14975,7 +14975,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CHZJPGZB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:08:09.077122+00:00",
+    "last_checked_at": "2026-07-28T10:19:44.314693+00:00",
     "spotlight": false
   },
   {
@@ -15022,7 +15022,7 @@ const PRODUCTS = [
       "Marca": "L'Oreal Paris"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B46TH84S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:08:18.115191+00:00",
+    "last_checked_at": "2026-07-28T10:19:53.690515+00:00",
     "spotlight": false
   },
   {
@@ -15053,7 +15053,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "7 janeiro 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GFF3XG2K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:08:26.128916+00:00",
+    "last_checked_at": "2026-07-28T10:20:02.060461+00:00",
     "spotlight": false
   },
   {
@@ -15100,7 +15100,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33C x 20L x 39,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G6Z6PTJG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:08:35.343163+00:00",
+    "last_checked_at": "2026-07-28T10:20:10.164018+00:00",
     "spotlight": false
   },
   {
@@ -15151,7 +15151,7 @@ const PRODUCTS = [
       "Mapa de altura": "Cano baixo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G7LHRWPL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:08:43.717485+00:00",
+    "last_checked_at": "2026-07-28T10:20:19.456589+00:00",
     "spotlight": false
   },
   {
@@ -15198,7 +15198,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZK5LMWW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:08:52.112114+00:00",
+    "last_checked_at": "2026-07-28T10:20:27.332071+00:00",
     "spotlight": false
   },
   {
@@ -15235,7 +15235,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22,5C x 10,5L x 8,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGTKZ2S1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:09:00.580636+00:00",
+    "last_checked_at": "2026-07-28T10:20:35.799793+00:00",
     "spotlight": false
   },
   {
@@ -15277,7 +15277,7 @@ const PRODUCTS = [
       "Concentração da Fragrância": "Eau de Toilette"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07GJ67M26?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:09:10.561292+00:00",
+    "last_checked_at": "2026-07-28T10:20:44.356544+00:00",
     "spotlight": false
   },
   {
@@ -15317,7 +15317,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:09:19.156885+00:00",
+    "last_checked_at": "2026-07-28T10:20:53.433711+00:00",
     "spotlight": false
   },
   {
@@ -15360,7 +15360,7 @@ const PRODUCTS = [
       "Característica Especial": "Parede dupla, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07K8XJF9D?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:09:28.693163+00:00",
+    "last_checked_at": "2026-07-28T10:21:01.585985+00:00",
     "spotlight": false
   },
   {
@@ -15401,7 +15401,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B000CNKITS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:09:37.226389+00:00",
+    "last_checked_at": "2026-07-28T10:21:09.200685+00:00",
     "spotlight": false
   },
   {
@@ -15483,7 +15483,7 @@ const PRODUCTS = [
       "Serviços de Internet compatíveis": "Disney Plus, Navegador, Netflix, Prime Video, YouTube"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVP5N2JX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:09:46.990508+00:00",
+    "last_checked_at": "2026-07-28T10:21:18.172750+00:00",
     "spotlight": false
   },
   {
@@ -15519,7 +15519,7 @@ const PRODUCTS = [
       "Tensão": "110.0"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVL75QTS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:09:55.589933+00:00",
+    "last_checked_at": "2026-07-28T10:21:26.306610+00:00",
     "spotlight": false
   },
   {
@@ -15594,7 +15594,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQXG17RL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:10:05.823165+00:00",
+    "last_checked_at": "2026-07-28T10:21:35.070397+00:00",
     "spotlight": false
   },
   {
@@ -15632,7 +15632,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPYR83CF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:10:15.492516+00:00",
+    "last_checked_at": "2026-07-28T10:21:43.004409+00:00",
     "spotlight": false
   },
   {
@@ -15697,7 +15697,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Montagem de mesa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CHBR96GK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:10:24.302277+00:00",
+    "last_checked_at": "2026-07-28T10:21:51.965944+00:00",
     "spotlight": false
   },
   {
@@ -15742,7 +15742,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Não Aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B1VXW16F?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:10:33.150888+00:00",
+    "last_checked_at": "2026-07-28T10:22:01.606140+00:00",
     "spotlight": false
   },
   {
@@ -15790,7 +15790,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7P x 7L x 37A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BT56FZRL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:10:41.149314+00:00",
+    "last_checked_at": "2026-07-28T10:22:10.409281+00:00",
     "spotlight": false
   },
   {
@@ -15846,7 +15846,7 @@ const PRODUCTS = [
       "Peso do produto": "30 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DB6K4JR7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:10:49.310139+00:00",
+    "last_checked_at": "2026-07-28T10:22:18.823133+00:00",
     "spotlight": false
   },
   {
@@ -15905,7 +15905,7 @@ const PRODUCTS = [
       "País do Tamanho da Roupa": "Brasil"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07S97H13X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:10:57.706931+00:00",
+    "last_checked_at": "2026-07-28T10:22:27.912404+00:00",
     "spotlight": false
   },
   {
@@ -15956,7 +15956,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Extra macia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:11:06.508613+00:00",
+    "last_checked_at": "2026-07-28T10:22:36.236377+00:00",
     "spotlight": false
   },
   {
@@ -16003,7 +16003,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086BVJ1CT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:11:16.090518+00:00",
+    "last_checked_at": "2026-07-28T10:22:44.994702+00:00",
     "spotlight": false
   },
   {
@@ -16046,7 +16046,7 @@ const PRODUCTS = [
       "Peso do produto": "410 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKSFZLLM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:11:24.593350+00:00",
+    "last_checked_at": "2026-07-28T10:22:54.328128+00:00",
     "spotlight": false
   },
   {
@@ -16094,7 +16094,7 @@ const PRODUCTS = [
       "Característica do material": "Seguro para forno, Seguro para micro-ondas, Sem BPA"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08CPW5BR2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:11:33.369056+00:00",
+    "last_checked_at": "2026-07-28T10:23:03.336607+00:00",
     "spotlight": false
   },
   {
@@ -16160,7 +16160,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076YFR31L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:11:42.380297+00:00",
+    "last_checked_at": "2026-07-28T10:23:12.311697+00:00",
     "spotlight": false
   },
   {
@@ -16201,7 +16201,7 @@ const PRODUCTS = [
       "Volume líquido": "200 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08PPKQTFB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:11:51.174110+00:00",
+    "last_checked_at": "2026-07-28T10:23:21.369538+00:00",
     "spotlight": false
   },
   {
@@ -16237,7 +16237,7 @@ const PRODUCTS = [
       "Característica Especial": "Proteção durante todo o dia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B092SS3J2V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:11:59.990853+00:00",
+    "last_checked_at": "2026-07-28T10:23:30.699391+00:00",
     "spotlight": false
   },
   {
@@ -16311,7 +16311,7 @@ const PRODUCTS = [
       "Nome do Modelo": "55U6QV"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQW3Z6LZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:12:08.144551+00:00",
+    "last_checked_at": "2026-07-28T10:23:39.564016+00:00",
     "spotlight": false
   },
   {
@@ -16355,7 +16355,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controlador de jogos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B2YJK7KF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:12:16.769044+00:00",
+    "last_checked_at": "2026-07-28T10:23:48.058095+00:00",
     "spotlight": false
   },
   {
@@ -16392,7 +16392,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "3 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:12:25.326775+00:00",
+    "last_checked_at": "2026-07-28T10:23:57.061782+00:00",
     "spotlight": false
   },
   {
@@ -16438,7 +16438,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Indicada para demarcar e sinalizar superfícies/áreas de risc"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076XC1XRZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:12:33.718980+00:00",
+    "last_checked_at": "2026-07-28T10:24:05.242197+00:00",
     "spotlight": false
   },
   {
@@ -16497,7 +16497,7 @@ const PRODUCTS = [
       "Dimensões do produto": "58,5P x 60L x 86A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B099S9XJR1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:12:41.948601+00:00",
+    "last_checked_at": "2026-07-28T10:24:12.896456+00:00",
     "spotlight": false
   },
   {
@@ -16543,7 +16543,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "1.0 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B695DMC2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:12:50.581433+00:00",
+    "last_checked_at": "2026-07-28T10:24:22.654815+00:00",
     "spotlight": false
   },
   {
@@ -16590,7 +16590,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controle remoto da TV"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSVN58JW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:12:59.348925+00:00",
+    "last_checked_at": "2026-07-28T10:24:32.318469+00:00",
     "spotlight": false
   },
   {
@@ -16627,7 +16627,7 @@ const PRODUCTS = [
       "Quantidade de embalagens do produto": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D2LQRW2N?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:13:08.816850+00:00",
+    "last_checked_at": "2026-07-28T10:24:40.238531+00:00",
     "spotlight": false
   },
   {
@@ -16674,7 +16674,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754KMGFN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:13:17.558909+00:00",
+    "last_checked_at": "2026-07-28T10:24:48.165426+00:00",
     "spotlight": false
   },
   {
@@ -16725,7 +16725,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L4MDP5Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:13:26.778186+00:00",
+    "last_checked_at": "2026-07-28T10:24:56.968975+00:00",
     "spotlight": false
   },
   {
@@ -16786,7 +16786,7 @@ const PRODUCTS = [
       "Formato da Luminária": "Parede"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D3WR4PY9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:13:35.493420+00:00",
+    "last_checked_at": "2026-07-28T10:25:06.104967+00:00",
     "spotlight": false
   },
   {
@@ -16831,7 +16831,7 @@ const PRODUCTS = [
       "Temperatura da cor": "3900 Kelvin"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07FXKF1NT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:13:44.246029+00:00",
+    "last_checked_at": "2026-07-28T10:25:15.539315+00:00",
     "spotlight": false
   },
   {
@@ -16873,7 +16873,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXWRD4PP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:13:52.393002+00:00",
+    "last_checked_at": "2026-07-28T10:25:25.318281+00:00",
     "spotlight": false
   },
   {
@@ -16914,7 +16914,7 @@ const PRODUCTS = [
       "Duração da Bateria": "2190 Meses"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07MRZ2R3V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:14:02.219452+00:00",
+    "last_checked_at": "2026-07-28T10:25:33.886301+00:00",
     "spotlight": false
   },
   {
@@ -16956,7 +16956,7 @@ const PRODUCTS = [
       "Forma do produto": "Creme"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074LSL2VG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:14:11.820165+00:00",
+    "last_checked_at": "2026-07-28T10:25:43.602346+00:00",
     "spotlight": false
   },
   {
@@ -17019,7 +17019,7 @@ const PRODUCTS = [
       "Tamanho da Forma da Lâmpada": "A15"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BDZXLS77?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:14:20.254487+00:00",
+    "last_checked_at": "2026-07-28T10:25:51.205399+00:00",
     "spotlight": false
   },
   {
@@ -17060,7 +17060,7 @@ const PRODUCTS = [
       "Usos Específicos do Produto": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D4TGV8X3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:14:29.532576+00:00",
+    "last_checked_at": "2026-07-28T10:25:59.734083+00:00",
     "spotlight": false
   },
   {
@@ -17100,7 +17100,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B005ELO402?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:14:38.692167+00:00",
+    "last_checked_at": "2026-07-28T10:26:07.390516+00:00",
     "spotlight": false
   },
   {
@@ -17120,7 +17120,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B00IAXYE10?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:14:47.119006+00:00",
+    "last_checked_at": "2026-07-28T10:26:16.040755+00:00",
     "spotlight": false
   },
   {
@@ -17160,7 +17160,7 @@ const PRODUCTS = [
       "Tamanho": "P"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CW22K43F?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T10:15:05.717733+00:00",
+    "last_checked_at": "2026-07-28T10:26:32.620446+00:00",
     "spotlight": false
   }
 ];
