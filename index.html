@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mix Du Mix Store | As melhores ofertas todos os dias</title>
+<title>Ofertas Amazon, Eletrônicos, Casa e Fitness | Mix Du Mix Store</title>
 <meta name="description" content="Ofertas selecionadas da Amazon, atualizadas o dia todo. Preços verificados, cupons e descontos reais.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://kcersarkal.github.io/mixdumix-store/">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Mix Du Mix Store">
-<meta property="og:title" content="Mix Du Mix Store | As melhores ofertas todos os dias">
+<meta property="og:title" content="Ofertas Amazon, Eletrônicos, Casa e Fitness | Mix Du Mix Store">
 <meta property="og:description" content="Ofertas selecionadas da Amazon, atualizadas o dia todo. Preços verificados, cupons e descontos reais.">
 <meta property="og:url" content="https://kcersarkal.github.io/mixdumix-store/">
 <meta property="og:image" content="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
@@ -23,6 +23,39 @@
 
 <meta name="theme-color" content="#111111">
 <link rel="icon" href="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebSite",
+  "name":"Mix Du Mix Store",
+  "url":"https://kcersarkal.github.io/mixdumix-store/",
+  "description":"Ofertas selecionadas da Amazon, atualizadas o dia todo. Preços verificados, cupons e descontos reais.",
+  "inLanguage":"pt-BR",
+  "potentialAction":{
+    "@type":"SearchAction",
+    "target":"https://kcersarkal.github.io/mixdumix-store/?q={search_term_string}",
+    "query-input":"required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "name":"Mix Du Mix Store",
+  "url":"https://kcersarkal.github.io/mixdumix-store/",
+  "logo":"https://kcersarkal.github.io/mixdumix-store/assets/logo.png",
+  "contactPoint":{
+    "@type":"ContactPoint",
+    "email":"mix.dumixof@gmail.com",
+    "contactType":"customer service",
+    "availableLanguage":["Portuguese"]
+  },
+  "sameAs":[]
+}
+</script>
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&display=swap');
 
@@ -751,6 +784,57 @@ function onSearchInput(value) {
   }
 }
 
+function injectProductLD(p) {
+  const existing = document.getElementById("product-ld");
+  if (existing) existing.remove();
+  const original = priceNumber(p.price_original);
+  const current = priceNumber(p.price_current);
+  const brand = p.informacoes_produto?.Marca || p.informacoes_produto?.["Nome da marca"] || p.title.split(" ")[0];
+  const offerPrice = original && original > current ? current : current;
+  const ld = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": p.title,
+    "image": p.image,
+    "description": p.description || p.title,
+    "sku": p.asin,
+    "mpn": p.asin,
+    "brand": { "@type": "Brand", "name": brand },
+    "offers": {
+      "@type": "Offer",
+      "url": p.affiliate_url,
+      "priceCurrency": "BRL",
+      "price": offerPrice,
+      "priceValidUntil": new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toISOString().split("T")[0],
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock"
+    }
+  };
+  if (original && original > current) {
+    ld.offers.hasMerchantReturnPolicy = {
+      "@type": "MerchantReturnPolicy",
+      "applicableCountry": "BR"
+    };
+  }
+  if (p.avaliacao && p.qtd_avaliacoes) {
+    ld.aggregateRating = {
+      "@type": "AggregateRating",
+      "ratingValue": p.avaliacao,
+      "reviewCount": p.qtd_avaliacoes,
+      "bestRating": 5,
+      "worstRating": 1
+    };
+  }
+  if (p.category) {
+    ld.category = p.category;
+  }
+  const script = document.createElement("script");
+  script.id = "product-ld";
+  script.type = "application/ld+json";
+  script.textContent = JSON.stringify(ld, null, 2);
+  document.head.appendChild(script);
+}
+
 function renderProduct(asin) {
   const container = document.getElementById("product-container");
   const products = getActiveProducts();
@@ -759,12 +843,17 @@ function renderProduct(asin) {
   if (!p) {
     container.innerHTML = `
       <div class="empty-state">
-        <h2>Essa oferta não estí mais disponível</h2>
+        <h2>Essa oferta n\u00e3o est\u00e1 mais dispon\u00edvel</h2>
         <p>Ela pode ter expirado ou o estoque acabou. Volte para a home e confira outras ofertas ativas.</p>
         <button class="btn btn-primary" style="margin-top:16px;" onclick="navigate('home')">Ver todas as ofertas</button>
       </div>`;
+    document.getElementById("product-ld")?.remove();
     return;
   }
+
+  document.title = p.title + " - Mix Du Mix Store";
+
+  injectProductLD(p);
 
   container.innerHTML = `
     <button class="back-button" onclick="goBack()" aria-label="Voltar">
