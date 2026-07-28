@@ -9098,7 +9098,7 @@ const PRODUCTS = [
       "Característica Especial": "Acabamento no zíper, Fácil de limpar"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086WWQX1S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:03:35.456126+00:00",
+    "last_checked_at": "2026-07-28T17:27:41.112276+00:00",
     "spotlight": false
   },
   {
@@ -9132,7 +9132,7 @@ const PRODUCTS = [
       "Marca": "SOFT"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CZ3R2P8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:03:43.301577+00:00",
+    "last_checked_at": "2026-07-28T17:27:50.512244+00:00",
     "spotlight": false
   },
   {
@@ -9185,7 +9185,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D152HV7Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:03:51.597376+00:00",
+    "last_checked_at": "2026-07-28T17:27:58.609645+00:00",
     "spotlight": false
   },
   {
@@ -9233,7 +9233,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3CLH7M?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:04:00.244563+00:00",
+    "last_checked_at": "2026-07-28T17:28:07.228876+00:00",
     "spotlight": false
   },
   {
@@ -9275,7 +9275,7 @@ const PRODUCTS = [
       "Peso do produto": "19,5 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FK163DY6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:04:08.301278+00:00",
+    "last_checked_at": "2026-07-28T17:28:15.548772+00:00",
     "spotlight": false
   },
   {
@@ -9316,7 +9316,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08L9RHPCF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:04:16.368082+00:00",
+    "last_checked_at": "2026-07-28T17:28:23.329870+00:00",
     "spotlight": false
   },
   {
@@ -9377,7 +9377,7 @@ const PRODUCTS = [
       "Marca": "HQ Screen"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DPGQ6V13?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:04:24.867061+00:00",
+    "last_checked_at": "2026-07-28T17:28:32.062284+00:00",
     "spotlight": false
   },
   {
@@ -9428,7 +9428,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás natural"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFZHJ6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:04:34.190076+00:00",
+    "last_checked_at": "2026-07-28T17:28:39.875798+00:00",
     "spotlight": false
   },
   {
@@ -9463,7 +9463,7 @@ const PRODUCTS = [
       "Esporte": "Tiro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0899MPT63?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:04:43.679473+00:00",
+    "last_checked_at": "2026-07-28T17:28:48.095431+00:00",
     "spotlight": false
   },
   {
@@ -9533,7 +9533,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPYLPCLK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:04:52.396258+00:00",
+    "last_checked_at": "2026-07-28T17:28:56.908432+00:00",
     "spotlight": false
   },
   {
@@ -9605,7 +9605,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPHYS2WF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:05:00.769386+00:00",
+    "last_checked_at": "2026-07-28T17:29:04.644232+00:00",
     "spotlight": false
   },
   {
@@ -9668,7 +9668,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN2L3DZZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:05:10.760615+00:00",
+    "last_checked_at": "2026-07-28T17:29:14.593915+00:00",
     "spotlight": false
   },
   {
@@ -9749,7 +9749,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR5NSCF7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:05:19.302411+00:00",
+    "last_checked_at": "2026-07-28T17:29:23.493218+00:00",
     "spotlight": false
   },
   {
@@ -9811,7 +9811,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN1N5C7M?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:05:28.237911+00:00",
+    "last_checked_at": "2026-07-28T17:29:32.821468+00:00",
     "spotlight": false
   },
   {
@@ -9871,7 +9871,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "4,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTC96JJ5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:05:37.808395+00:00",
+    "last_checked_at": "2026-07-28T17:29:41.625656+00:00",
     "spotlight": false
   },
   {
@@ -9935,7 +9935,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9QPQYL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:05:47.515404+00:00",
+    "last_checked_at": "2026-07-28T17:29:51.532955+00:00",
     "spotlight": false
   },
   {
@@ -9994,7 +9994,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPHYC9FQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:05:55.405754+00:00",
+    "last_checked_at": "2026-07-28T17:29:59.625781+00:00",
     "spotlight": false
   },
   {
@@ -10063,7 +10063,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYVMS335?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:06:04.261675+00:00",
+    "last_checked_at": "2026-07-28T17:30:08.989373+00:00",
     "spotlight": false
   },
   {
@@ -10128,7 +10128,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "5,3 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GKQTCXL8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:06:12.549231+00:00",
+    "last_checked_at": "2026-07-28T17:30:17.576504+00:00",
     "spotlight": false
   },
   {
@@ -10154,7 +10154,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,1 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GTRWMZWZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:06:21.027052+00:00",
+    "last_checked_at": "2026-07-28T17:30:26.222596+00:00",
     "spotlight": false
   },
   {
@@ -10212,7 +10212,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN3WDS7B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:06:31.195621+00:00",
+    "last_checked_at": "2026-07-28T17:30:35.781283+00:00",
     "spotlight": false
   },
   {
@@ -10263,7 +10263,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZDVS62S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:06:40.774770+00:00",
+    "last_checked_at": "2026-07-28T17:30:44.685456+00:00",
     "spotlight": false
   },
   {
@@ -10302,7 +10302,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22,3P x 21,5L x 7,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CDJ4L7CZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:06:57.967034+00:00",
+    "last_checked_at": "2026-07-28T17:31:02.594907+00:00",
     "spotlight": false
   },
   {
@@ -10342,7 +10342,7 @@ const PRODUCTS = [
       "Dimensões do produto": "6P x 22L x 20A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCCGJQZS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:07:06.674079+00:00",
+    "last_checked_at": "2026-07-28T17:31:11.700723+00:00",
     "spotlight": false
   },
   {
@@ -10393,7 +10393,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22P x 21L x 42A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DFCF9HW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:07:16.840753+00:00",
+    "last_checked_at": "2026-07-28T17:31:20.855599+00:00",
     "spotlight": false
   },
   {
@@ -10438,7 +10438,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Purificador de água e bandeja para copo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08X66RQ48?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:07:24.717168+00:00",
+    "last_checked_at": "2026-07-28T17:31:29.582817+00:00",
     "spotlight": false
   },
   {
@@ -10478,7 +10478,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "29 julho 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:07:34.672600+00:00",
+    "last_checked_at": "2026-07-28T17:31:37.856641+00:00",
     "spotlight": false
   },
   {
@@ -10526,7 +10526,7 @@ const PRODUCTS = [
       "Característica Especial": "À prova de derramamento"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9GDGHJY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:07:43.757758+00:00",
+    "last_checked_at": "2026-07-28T17:31:46.799561+00:00",
     "spotlight": false
   },
   {
@@ -10568,7 +10568,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33,5P x 28L x 29,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L8SJLXN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:07:51.896438+00:00",
+    "last_checked_at": "2026-07-28T17:31:54.728826+00:00",
     "spotlight": false
   },
   {
@@ -10608,7 +10608,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Cafeteira"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B001U7EOYA?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:08:01.266429+00:00",
+    "last_checked_at": "2026-07-28T17:32:02.931015+00:00",
     "spotlight": false
   },
   {
@@ -10647,7 +10647,7 @@ const PRODUCTS = [
       "Característica Especial": "Alça de transporte, Boca larga, Parede dupla, À prova de derramamento, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQF6CYMW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:08:10.396237+00:00",
+    "last_checked_at": "2026-07-28T17:32:10.818589+00:00",
     "spotlight": false
   },
   {
@@ -10686,7 +10686,7 @@ const PRODUCTS = [
       "Característica Especial": "Bocal direcionador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07G1FHPDR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:08:26.236119+00:00",
+    "last_checked_at": "2026-07-28T17:32:27.414787+00:00",
     "spotlight": false
   },
   {
@@ -10740,7 +10740,7 @@ const PRODUCTS = [
       "Característica Especial": "Canudo removível, Resistente a quebras, Tampa em 3 posições para evitar o respingo de água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTHPZ9J4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:08:34.178212+00:00",
+    "last_checked_at": "2026-07-28T17:32:36.494934+00:00",
     "spotlight": false
   },
   {
@@ -10795,7 +10795,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,3P x 45L x 26,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08JD66K5C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:08:43.097635+00:00",
+    "last_checked_at": "2026-07-28T17:32:45.926018+00:00",
     "spotlight": false
   },
   {
@@ -10835,7 +10835,7 @@ const PRODUCTS = [
       "Informações de embalagem": "RM"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075TGQVHT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:08:51.408876+00:00",
+    "last_checked_at": "2026-07-28T17:32:55.964834+00:00",
     "spotlight": false
   },
   {
@@ -10884,7 +10884,7 @@ const PRODUCTS = [
       "Característica Especial": "Filtro permanente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09N5G6DGX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:08:59.488899+00:00",
+    "last_checked_at": "2026-07-28T17:33:05.338419+00:00",
     "spotlight": false
   },
   {
@@ -10931,7 +10931,7 @@ const PRODUCTS = [
       "Característica Especial": "Tigela removível"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C4CFLZPB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:09:08.855692+00:00",
+    "last_checked_at": "2026-07-28T17:33:13.181556+00:00",
     "spotlight": false
   },
   {
@@ -10981,7 +10981,7 @@ const PRODUCTS = [
       "Dimensões do produto": "18P x 20L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08J8GKC5R?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:09:18.459893+00:00",
+    "last_checked_at": "2026-07-28T17:33:22.080364+00:00",
     "spotlight": false
   },
   {
@@ -11022,7 +11022,7 @@ const PRODUCTS = [
       "Dimensões do produto": "26,5C x 7,3L x 11,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F79VGM25?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:09:26.504256+00:00",
+    "last_checked_at": "2026-07-28T17:33:31.665423+00:00",
     "spotlight": false
   },
   {
@@ -11065,7 +11065,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QCVJHN5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:09:35.825337+00:00",
+    "last_checked_at": "2026-07-28T17:33:40.065023+00:00",
     "spotlight": false
   },
   {
@@ -11104,7 +11104,7 @@ const PRODUCTS = [
       "Característica Especial": "Parede dupla com isolamento a vácuo, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFTSW63?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:09:44.120710+00:00",
+    "last_checked_at": "2026-07-28T17:33:49.483686+00:00",
     "spotlight": false
   },
   {
@@ -11119,7 +11119,7 @@ const PRODUCTS = [
     "tem_selo_prime": false,
     "tem_oferta": true,
     "avaliacao": 4.5,
-    "qtd_avaliacoes": 7344,
+    "qtd_avaliacoes": 7345,
     "coupon_code": null,
     "description": "",
     "informacoes_produto": {
@@ -11144,7 +11144,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "8 novembro 2017"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07793T84W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:09:53.246493+00:00",
+    "last_checked_at": "2026-07-28T17:33:59.056824+00:00",
     "spotlight": false
   },
   {
@@ -11187,7 +11187,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "POLIDO"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BJH4JH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:10:03.249757+00:00",
+    "last_checked_at": "2026-07-28T17:34:07.271544+00:00",
     "spotlight": false
   },
   {
@@ -11227,7 +11227,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Todos os dispositivos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075X3NYJK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:10:11.432118+00:00",
+    "last_checked_at": "2026-07-28T17:34:16.080379+00:00",
     "spotlight": false
   },
   {
@@ -11272,7 +11272,7 @@ const PRODUCTS = [
       "Peso do produto": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CV2JXNH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:10:19.456417+00:00",
+    "last_checked_at": "2026-07-28T17:34:24.327479+00:00",
     "spotlight": false
   },
   {
@@ -11326,7 +11326,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:10:29.239715+00:00",
+    "last_checked_at": "2026-07-28T17:34:33.664948+00:00",
     "spotlight": false
   },
   {
@@ -11368,7 +11368,7 @@ const PRODUCTS = [
       "Tensão": "250 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078FGJ8XN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:10:37.291997+00:00",
+    "last_checked_at": "2026-07-28T17:34:41.436328+00:00",
     "spotlight": false
   },
   {
@@ -11413,7 +11413,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "6 maio 2019"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07RDL1QHC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:10:46.848816+00:00",
+    "last_checked_at": "2026-07-28T17:34:50.064136+00:00",
     "spotlight": false
   },
   {
@@ -11457,7 +11457,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07GH8YBGB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:10:55.805204+00:00",
+    "last_checked_at": "2026-07-28T17:34:59.578383+00:00",
     "spotlight": false
   },
   {
@@ -11495,7 +11495,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09QRCRYJF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:11:04.893951+00:00",
+    "last_checked_at": "2026-07-28T17:35:07.407443+00:00",
     "spotlight": false
   },
   {
@@ -11549,7 +11549,7 @@ const PRODUCTS = [
       "Tensão": "12 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DB61V6L6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:11:14.097385+00:00",
+    "last_checked_at": "2026-07-28T17:35:16.210806+00:00",
     "spotlight": false
   },
   {
@@ -11602,7 +11602,7 @@ const PRODUCTS = [
       "Tipo de Conector": "Parafuso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07RKX7MTJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:11:22.934587+00:00",
+    "last_checked_at": "2026-07-28T17:35:25.129485+00:00",
     "spotlight": false
   },
   {
@@ -11685,7 +11685,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B098YHFT9S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:11:32.714855+00:00",
+    "last_checked_at": "2026-07-28T17:35:34.120474+00:00",
     "spotlight": false
   },
   {
@@ -11729,7 +11729,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0765KZ264?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:11:42.059176+00:00",
+    "last_checked_at": "2026-07-28T17:35:42.237519+00:00",
     "spotlight": false
   },
   {
@@ -11777,7 +11777,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DT5383HM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:11:51.185835+00:00",
+    "last_checked_at": "2026-07-28T17:35:51.989553+00:00",
     "spotlight": false
   },
   {
@@ -11831,7 +11831,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DN4RM6X7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:11:59.600678+00:00",
+    "last_checked_at": "2026-07-28T17:36:00.999941+00:00",
     "spotlight": false
   },
   {
@@ -11873,7 +11873,6 @@ const PRODUCTS = [
       "Descrição do disco rígido": "Disco rígido mecânico",
       "Componentes incluídos": "Cabo USB",
       "Nome do modelo": "Canvio Basics",
-      "País de origem": "China",
       "Fabricante": "Toshiba",
       "UPC": "723844001339",
       "Número da peça": "HDTB510XK3AA",
@@ -11894,7 +11893,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido externo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQX6DVWY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:12:08.641598+00:00",
+    "last_checked_at": "2026-07-28T17:36:09.471121+00:00",
     "spotlight": false
   },
   {
@@ -11975,7 +11974,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2560 x 1600 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9B9QDNK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:12:17.924141+00:00",
+    "last_checked_at": "2026-07-28T17:36:18.245375+00:00",
     "spotlight": false
   },
   {
@@ -12019,7 +12018,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "10 x 5 x 0,1 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX4CYHVV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:12:26.157329+00:00",
+    "last_checked_at": "2026-07-28T17:36:27.559969+00:00",
     "spotlight": false
   },
   {
@@ -12070,7 +12069,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF8VTNHM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:12:35.569013+00:00",
+    "last_checked_at": "2026-07-28T17:36:36.154537+00:00",
     "spotlight": false
   },
   {
@@ -12116,7 +12115,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BGJR1R3B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:12:45.114256+00:00",
+    "last_checked_at": "2026-07-28T17:36:44.123718+00:00",
     "spotlight": false
   },
   {
@@ -12158,7 +12157,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B01N35N6ZC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:12:53.816115+00:00",
+    "last_checked_at": "2026-07-28T17:36:53.381852+00:00",
     "spotlight": false
   },
   {
@@ -12218,7 +12217,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CNKVYLF5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:13:02.423162+00:00",
+    "last_checked_at": "2026-07-28T17:37:02.101733+00:00",
     "spotlight": false
   },
   {
@@ -12261,7 +12260,7 @@ const PRODUCTS = [
       "Nome do Modelo": "910-007597"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4NLKLJX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:13:11.782826+00:00",
+    "last_checked_at": "2026-07-28T17:37:09.903545+00:00",
     "spotlight": false
   },
   {
@@ -12315,7 +12314,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Flexível, Resistente a riscos e corrosão, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CLTBPP4X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:13:21.405928+00:00",
+    "last_checked_at": "2026-07-28T17:37:18.201896+00:00",
     "spotlight": false
   },
   {
@@ -12373,7 +12372,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido interno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DBR3DZWG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:13:31.484577+00:00",
+    "last_checked_at": "2026-07-28T17:37:26.281837+00:00",
     "spotlight": false
   },
   {
@@ -12422,7 +12421,7 @@ const PRODUCTS = [
       "Velocidade de Gravação": "3.0"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754JVBGJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:13:39.961589+00:00",
+    "last_checked_at": "2026-07-28T17:37:35.758063+00:00",
     "spotlight": false
   },
   {
@@ -12485,7 +12484,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido externo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C5JQ68FY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:13:49.447451+00:00",
+    "last_checked_at": "2026-07-28T17:37:44.260110+00:00",
     "spotlight": false
   },
   {
@@ -12549,7 +12548,7 @@ const PRODUCTS = [
       "Peso do produto": "4,94 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00DZIOMJ4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:13:58.429995+00:00",
+    "last_checked_at": "2026-07-28T17:37:52.956751+00:00",
     "spotlight": false
   },
   {
@@ -12604,7 +12603,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086J78G67?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:14:08.430356+00:00",
+    "last_checked_at": "2026-07-28T17:38:02.093511+00:00",
     "spotlight": false
   },
   {
@@ -12667,7 +12666,7 @@ const PRODUCTS = [
       "Instruções de cuidados com o produto": "Apenas lavagem à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0842XB4BN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:14:17.358820+00:00",
+    "last_checked_at": "2026-07-28T17:38:10.696254+00:00",
     "spotlight": false
   },
   {
@@ -12726,7 +12725,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09NQNWT76?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:14:25.742665+00:00",
+    "last_checked_at": "2026-07-28T17:38:20.350472+00:00",
     "spotlight": false
   },
   {
@@ -12772,7 +12771,7 @@ const PRODUCTS = [
       "Potência de Saída (em Watts)": "850"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FS3R44RT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:14:34.958221+00:00",
+    "last_checked_at": "2026-07-28T17:38:28.441901+00:00",
     "spotlight": false
   },
   {
@@ -12798,7 +12797,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,3 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:14:43.045092+00:00",
+    "last_checked_at": "2026-07-28T17:38:36.621524+00:00",
     "spotlight": false
   },
   {
@@ -12880,7 +12879,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "23,8 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FHJC6XD4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:15:00.404595+00:00",
+    "last_checked_at": "2026-07-28T17:38:53.576180+00:00",
     "spotlight": false
   },
   {
@@ -12906,7 +12905,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQHXYK1Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:15:09.406733+00:00",
+    "last_checked_at": "2026-07-28T17:39:01.799690+00:00",
     "spotlight": false
   },
   {
@@ -12958,7 +12957,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B929QDL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:15:18.161280+00:00",
+    "last_checked_at": "2026-07-28T17:39:11.250662+00:00",
     "spotlight": false
   },
   {
@@ -13045,7 +13044,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7,3P x 123,4L x 71,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FNXZZTDW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:15:27.944402+00:00",
+    "last_checked_at": "2026-07-28T17:39:19.503566+00:00",
     "spotlight": false
   },
   {
@@ -13137,7 +13136,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D4NRBBMR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:15:36.717482+00:00",
+    "last_checked_at": "2026-07-28T17:39:27.509897+00:00",
     "spotlight": false
   },
   {
@@ -13224,7 +13223,7 @@ const PRODUCTS = [
       "Coprocessador Gráfico": "Intel Iris Xe Graphics"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D4NR66ZL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:15:45.594381+00:00",
+    "last_checked_at": "2026-07-28T17:39:37.014800+00:00",
     "spotlight": false
   },
   {
@@ -13272,7 +13271,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7P x 7L x 37A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BVSDXMQJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:15:54.458447+00:00",
+    "last_checked_at": "2026-07-28T17:39:46.311783+00:00",
     "spotlight": false
   },
   {
@@ -13329,7 +13328,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B088MV7YB5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:16:02.805795+00:00",
+    "last_checked_at": "2026-07-28T17:39:56.031163+00:00",
     "spotlight": false
   },
   {
@@ -13355,7 +13354,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,1 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CP6CJ8JG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:16:12.215161+00:00",
+    "last_checked_at": "2026-07-28T17:40:03.970366+00:00",
     "spotlight": false
   },
   {
@@ -13435,7 +13434,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Dedicada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FWGK6ZXF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:16:21.232895+00:00",
+    "last_checked_at": "2026-07-28T17:40:11.482448+00:00",
     "spotlight": false
   },
   {
@@ -13501,7 +13500,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076YFR31L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:16:30.479379+00:00",
+    "last_checked_at": "2026-07-28T17:40:20.382459+00:00",
     "spotlight": false
   },
   {
@@ -13536,7 +13535,6 @@ const PRODUCTS = [
       "Nome da marca": "Britânia",
       "Número do modelo": "BFR46PI",
       "Fabricante": "BRITÂNIA",
-      "País de origem": "China",
       "Componentes incluídos": "Cesto removível com revestimento antiaderente",
       "Nome do Tipo de Produto": "Air Fryer",
       "Número da peça": "BFR46PI",
@@ -13546,7 +13544,7 @@ const PRODUCTS = [
       "Dimensões do produto": "37,5P x 32L x 37A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C2WSK5B7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:16:39.233345+00:00",
+    "last_checked_at": "2026-07-28T17:40:29.003278+00:00",
     "spotlight": false
   },
   {
@@ -13592,7 +13590,7 @@ const PRODUCTS = [
       "Recomendação de superfície": "Azulejo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GXFFSVYM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:16:48.975693+00:00",
+    "last_checked_at": "2026-07-28T17:40:37.820109+00:00",
     "spotlight": false
   },
   {
@@ -13660,7 +13658,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,7P x 112L x 69,4A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F5X4LL89?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:16:57.884148+00:00",
+    "last_checked_at": "2026-07-28T17:40:47.010385+00:00",
     "spotlight": false
   },
   {
@@ -13722,7 +13720,7 @@ const PRODUCTS = [
       "Dimensões do produto": "49P x 48L x 101A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCJWNKWW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:17:07.471722+00:00",
+    "last_checked_at": "2026-07-28T17:40:55.030036+00:00",
     "spotlight": false
   },
   {
@@ -13775,7 +13773,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4RVF119?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:17:15.437432+00:00",
+    "last_checked_at": "2026-07-28T17:41:04.513237+00:00",
     "spotlight": false
   },
   {
@@ -13826,7 +13824,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:17:24.153898+00:00",
+    "last_checked_at": "2026-07-28T17:41:13.202404+00:00",
     "spotlight": false
   },
   {
@@ -13907,7 +13905,7 @@ const PRODUCTS = [
       "Serviços de Internet compatíveis": "Disney Plus, Navegador, Netflix, Prime Video, YouTube"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVP5N2JX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:17:33.070360+00:00",
+    "last_checked_at": "2026-07-28T17:41:22.706780+00:00",
     "spotlight": false
   },
   {
@@ -13984,7 +13982,7 @@ const PRODUCTS = [
       "Coprocessador Gráfico": "Intel UHD Graphics"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D4NSS9XV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:17:50.714727+00:00",
+    "last_checked_at": "2026-07-28T17:41:39.079709+00:00",
     "spotlight": false
   },
   {
@@ -14030,7 +14028,7 @@ const PRODUCTS = [
       "Característica do material": "Seguro para forno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GXTBVNW5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:18:00.504309+00:00",
+    "last_checked_at": "2026-07-28T17:41:48.783978+00:00",
     "spotlight": false
   },
   {
@@ -14064,7 +14062,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "3 fevereiro 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTTMTDBK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:18:08.472873+00:00",
+    "last_checked_at": "2026-07-28T17:41:56.740790+00:00",
     "spotlight": false
   },
   {
@@ -14079,7 +14077,7 @@ const PRODUCTS = [
     "tem_selo_prime": false,
     "tem_oferta": true,
     "avaliacao": 4.8,
-    "qtd_avaliacoes": 1997,
+    "qtd_avaliacoes": 1998,
     "coupon_code": null,
     "description": "",
     "informacoes_produto": {
@@ -14122,7 +14120,7 @@ const PRODUCTS = [
       "Tamanho": "Grande"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F2N7L7HQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:18:17.295355+00:00",
+    "last_checked_at": "2026-07-28T17:42:05.700332+00:00",
     "spotlight": false
   },
   {
@@ -14157,7 +14155,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "180.0 gram(s)"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPN7WWF8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:18:25.254552+00:00",
+    "last_checked_at": "2026-07-28T17:42:14.937758+00:00",
     "spotlight": false
   },
   {
@@ -14198,7 +14196,7 @@ const PRODUCTS = [
       "Comprimento da mangueira": "6 Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DKZVSVN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:18:34.937021+00:00",
+    "last_checked_at": "2026-07-28T17:42:23.842405+00:00",
     "spotlight": false
   },
   {
@@ -14252,7 +14250,7 @@ const PRODUCTS = [
       "Descrição do comprimento do item": "Comprimento padrão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08G8TGLV2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:18:43.357449+00:00",
+    "last_checked_at": "2026-07-28T17:42:33.013052+00:00",
     "spotlight": false
   },
   {
@@ -14283,7 +14281,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "22 junho 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4T5245K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:18:52.363674+00:00",
+    "last_checked_at": "2026-07-28T17:42:41.393097+00:00",
     "spotlight": false
   },
   {
@@ -14323,7 +14321,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CZBM7728?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:19:01.923278+00:00",
+    "last_checked_at": "2026-07-28T17:42:49.780002+00:00",
     "spotlight": false
   },
   {
@@ -14398,7 +14396,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "USB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DW6X9K7P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:19:10.323445+00:00",
+    "last_checked_at": "2026-07-28T17:42:57.556285+00:00",
     "spotlight": false
   },
   {
@@ -14440,7 +14438,7 @@ const PRODUCTS = [
       "Teor alcoólico": "40 %"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00861CC7Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:19:19.215517+00:00",
+    "last_checked_at": "2026-07-28T17:43:06.711842+00:00",
     "spotlight": false
   },
   {
@@ -14482,7 +14480,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Cabo giratório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F63L9DLK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:19:29.087919+00:00",
+    "last_checked_at": "2026-07-28T17:43:14.872505+00:00",
     "spotlight": false
   },
   {
@@ -14526,7 +14524,7 @@ const PRODUCTS = [
       "Nome do Modelo": "MG3941/15"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FG9GWZJS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:19:38.189317+00:00",
+    "last_checked_at": "2026-07-28T17:43:22.840200+00:00",
     "spotlight": false
   },
   {
@@ -14567,7 +14565,7 @@ const PRODUCTS = [
       "Peso do produto": "15 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G16PK5MT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:19:46.798030+00:00",
+    "last_checked_at": "2026-07-28T17:43:32.077356+00:00",
     "spotlight": false
   },
   {
@@ -14620,7 +14618,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084RCXNJX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:19:55.997852+00:00",
+    "last_checked_at": "2026-07-28T17:43:40.875339+00:00",
     "spotlight": false
   },
   {
@@ -14656,7 +14654,7 @@ const PRODUCTS = [
       "Tensão": "110.0"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVL75QTS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:20:05.242375+00:00",
+    "last_checked_at": "2026-07-28T17:43:49.635394+00:00",
     "spotlight": false
   },
   {
@@ -14749,7 +14747,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8,8P x 122,6L x 71,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPBQQ4TN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:20:13.893369+00:00",
+    "last_checked_at": "2026-07-28T17:43:58.823299+00:00",
     "spotlight": false
   },
   {
@@ -14800,7 +14798,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086BWYJD3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:20:23.165307+00:00",
+    "last_checked_at": "2026-07-28T17:44:06.656808+00:00",
     "spotlight": false
   },
   {
@@ -14825,7 +14823,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "802.11n, Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQG219NC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:20:31.384341+00:00",
+    "last_checked_at": "2026-07-28T17:44:15.538910+00:00",
     "spotlight": false
   },
   {
@@ -14868,7 +14866,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Computador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CKS3V5VC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:20:39.674237+00:00",
+    "last_checked_at": "2026-07-28T17:44:23.588745+00:00",
     "spotlight": false
   },
   {
@@ -14888,7 +14886,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BM4Q7F13?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:20:49.377982+00:00",
+    "last_checked_at": "2026-07-28T17:44:32.872505+00:00",
     "spotlight": false
   },
   {
@@ -14940,7 +14938,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Macia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCXLPKPJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:20:57.807950+00:00",
+    "last_checked_at": "2026-07-28T17:44:40.928350+00:00",
     "spotlight": false
   },
   {
@@ -14986,7 +14984,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "1.0 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B695DMC2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:21:07.400660+00:00",
+    "last_checked_at": "2026-07-28T17:44:48.687624+00:00",
     "spotlight": false
   },
   {
@@ -15049,7 +15047,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Brilhante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXRRJ3GH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:21:16.585018+00:00",
+    "last_checked_at": "2026-07-28T17:44:57.321393+00:00",
     "spotlight": false
   },
   {
@@ -15092,7 +15090,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Interior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDS8R6DW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:21:26.147062+00:00",
+    "last_checked_at": "2026-07-28T17:45:06.817067+00:00",
     "spotlight": false
   },
   {
@@ -15139,7 +15137,7 @@ const PRODUCTS = [
       "Dimensões do produto": "6,5P x 6,5L x 39,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCPWN2FG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:21:34.845971+00:00",
+    "last_checked_at": "2026-07-28T17:45:15.468475+00:00",
     "spotlight": false
   },
   {
@@ -15186,7 +15184,7 @@ const PRODUCTS = [
       "Material da Alça": "Baquelite"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DLY6SLL2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:21:43.634653+00:00",
+    "last_checked_at": "2026-07-28T17:45:23.191542+00:00",
     "spotlight": false
   },
   {
@@ -15232,7 +15230,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Sem flúor, Sem parabenos, Sem triclosan"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCJ1JZWG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:21:51.971604+00:00",
+    "last_checked_at": "2026-07-28T17:45:32.114245+00:00",
     "spotlight": false
   },
   {
@@ -15277,7 +15275,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9RVFRZD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:22:01.884387+00:00",
+    "last_checked_at": "2026-07-28T17:45:40.704459+00:00",
     "spotlight": false
   },
   {
@@ -15297,7 +15295,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXMX7SGL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:22:09.853811+00:00",
+    "last_checked_at": "2026-07-28T17:45:48.730346+00:00",
     "spotlight": false
   },
   {
@@ -15368,7 +15366,7 @@ const PRODUCTS = [
       "Serviços de Internet compatíveis": "Netflix, Prime Video, Apple TV, Disney+, YouTube"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL3G4MGN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:22:18.890433+00:00",
+    "last_checked_at": "2026-07-28T17:45:56.415204+00:00",
     "spotlight": false
   },
   {
@@ -15416,7 +15414,7 @@ const PRODUCTS = [
       "Característica do material": "Biodegradável, Sem fragrância"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07FN9FV99?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:22:28.702485+00:00",
+    "last_checked_at": "2026-07-28T17:46:05.986159+00:00",
     "spotlight": false
   },
   {
@@ -15463,7 +15461,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09JZP3NJ2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:22:38.432872+00:00",
+    "last_checked_at": "2026-07-28T17:46:15.286246+00:00",
     "spotlight": false
   },
   {
@@ -15503,7 +15501,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:22:47.413154+00:00",
+    "last_checked_at": "2026-07-28T17:46:24.783305+00:00",
     "spotlight": false
   },
   {
@@ -15544,7 +15542,7 @@ const PRODUCTS = [
       "Volume líquido": "200 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08PPKQTFB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:22:56.738385+00:00",
+    "last_checked_at": "2026-07-28T17:46:33.750556+00:00",
     "spotlight": false
   },
   {
@@ -15607,7 +15605,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CG792C4C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:23:05.644483+00:00",
+    "last_checked_at": "2026-07-28T17:46:41.853335+00:00",
     "spotlight": false
   },
   {
@@ -15647,7 +15645,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:23:15.205827+00:00",
+    "last_checked_at": "2026-07-28T17:46:50.071882+00:00",
     "spotlight": false
   },
   {
@@ -15683,7 +15681,7 @@ const PRODUCTS = [
       "Característica Especial": "Proteção durante todo o dia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B092SS3J2V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:23:23.332966+00:00",
+    "last_checked_at": "2026-07-28T17:46:59.323298+00:00",
     "spotlight": false
   },
   {
@@ -15724,7 +15722,7 @@ const PRODUCTS = [
       "Recomendação de superfície": "Azulejo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYZ4NHB3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:23:32.436867+00:00",
+    "last_checked_at": "2026-07-28T17:47:07.940697+00:00",
     "spotlight": false
   },
   {
@@ -15761,7 +15759,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22,5C x 10,5L x 8,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGTKZ2S1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:23:41.819803+00:00",
+    "last_checked_at": "2026-07-28T17:47:15.916630+00:00",
     "spotlight": false
   },
   {
@@ -15776,7 +15774,7 @@ const PRODUCTS = [
     "tem_selo_prime": false,
     "tem_oferta": true,
     "avaliacao": 4.7,
-    "qtd_avaliacoes": 11275,
+    "qtd_avaliacoes": 11276,
     "coupon_code": null,
     "description": "",
     "informacoes_produto": {
@@ -15807,7 +15805,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controlador de jogos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754J31B7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:23:51.232898+00:00",
+    "last_checked_at": "2026-07-28T17:47:24.269855+00:00",
     "spotlight": false
   },
   {
@@ -15852,7 +15850,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:23:59.087364+00:00",
+    "last_checked_at": "2026-07-28T17:47:32.450294+00:00",
     "spotlight": false
   },
   {
@@ -15894,7 +15892,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F63SK1LJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:24:08.302710+00:00",
+    "last_checked_at": "2026-07-28T17:47:41.295951+00:00",
     "spotlight": false
   },
   {
@@ -15937,7 +15935,7 @@ const PRODUCTS = [
       "Característica Especial": "Tamanho de bolso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09532P5P4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:24:16.211154+00:00",
+    "last_checked_at": "2026-07-28T17:47:49.259176+00:00",
     "spotlight": false
   },
   {
@@ -15984,7 +15982,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33C x 20L x 39,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G6Z6PTJG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:24:25.341291+00:00",
+    "last_checked_at": "2026-07-28T17:47:57.855345+00:00",
     "spotlight": false
   },
   {
@@ -16028,7 +16026,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZLJLQ58?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:24:34.962313+00:00",
+    "last_checked_at": "2026-07-28T17:48:05.951162+00:00",
     "spotlight": false
   },
   {
@@ -16054,7 +16052,7 @@ const PRODUCTS = [
       "Nome do Modelo": "iPhone 16"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFSKVZ5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:24:44.381142+00:00",
+    "last_checked_at": "2026-07-28T17:48:13.775106+00:00",
     "spotlight": false
   },
   {
@@ -16097,7 +16095,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "MacBook Neo, Macbook M5/M4/M3/M2/M1, Notebooks, Smartphones, Tablets"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BW2TLQ8S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:24:53.118838+00:00",
+    "last_checked_at": "2026-07-28T17:48:22.992747+00:00",
     "spotlight": false
   },
   {
@@ -16145,7 +16143,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:25:02.126547+00:00",
+    "last_checked_at": "2026-07-28T17:48:31.587638+00:00",
     "spotlight": false
   },
   {
@@ -16180,7 +16178,7 @@ const PRODUCTS = [
       "Tipo de Controles": "Toque"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTR3FVYV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:25:10.411024+00:00",
+    "last_checked_at": "2026-07-28T17:48:39.209426+00:00",
     "spotlight": false
   },
   {
@@ -16220,7 +16218,7 @@ const PRODUCTS = [
       "Volume líquido": "500 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07NZ1BZX2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:25:19.691962+00:00",
+    "last_checked_at": "2026-07-28T17:48:48.671764+00:00",
     "spotlight": false
   },
   {
@@ -16272,7 +16270,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:25:28.327648+00:00",
+    "last_checked_at": "2026-07-28T17:48:56.644777+00:00",
     "spotlight": false
   },
   {
@@ -16313,7 +16311,7 @@ const PRODUCTS = [
       "Duração da Bateria": "2190 Meses"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07MRZ2R3V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:25:37.582391+00:00",
+    "last_checked_at": "2026-07-28T17:49:05.647209+00:00",
     "spotlight": false
   },
   {
@@ -16352,7 +16350,7 @@ const PRODUCTS = [
       "Número de Velocidades": "3"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C7N2B3PP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:25:47.511770+00:00",
+    "last_checked_at": "2026-07-28T17:49:14.262627+00:00",
     "spotlight": false
   },
   {
@@ -16404,7 +16402,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Matte"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJ58HLPQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:25:57.126618+00:00",
+    "last_checked_at": "2026-07-28T17:49:23.086757+00:00",
     "spotlight": false
   },
   {
@@ -16430,7 +16428,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGMBY82G?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:26:06.009936+00:00",
+    "last_checked_at": "2026-07-28T17:49:30.910427+00:00",
     "spotlight": false
   },
   {
@@ -16474,7 +16472,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:26:15.020554+00:00",
+    "last_checked_at": "2026-07-28T17:49:38.827607+00:00",
     "spotlight": false
   },
   {
@@ -16538,7 +16536,7 @@ const PRODUCTS = [
       "Dimensões do produto": "77P x 25L x 59A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:26:24.782745+00:00",
+    "last_checked_at": "2026-07-28T17:49:47.898281+00:00",
     "spotlight": false
   },
   {
@@ -16584,7 +16582,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08QDX99RL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:26:34.563629+00:00",
+    "last_checked_at": "2026-07-28T17:49:55.671561+00:00",
     "spotlight": false
   },
   {
@@ -16653,7 +16651,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYVMS335?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:26:43.019181+00:00",
+    "last_checked_at": "2026-07-28T17:50:05.169089+00:00",
     "spotlight": false
   },
   {
@@ -16662,7 +16660,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61U2cKwv20L._AC_SL1200_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 2649,
+    "price_current": 2659.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -16716,7 +16714,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN2L3DZZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:26:52.708956+00:00",
+    "last_checked_at": "2026-07-28T17:50:13.804065+00:00",
     "spotlight": false
   },
   {
@@ -16786,7 +16784,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:27:00.877504+00:00",
+    "last_checked_at": "2026-07-28T17:50:21.783575+00:00",
     "spotlight": false
   },
   {
@@ -16850,7 +16848,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9QPQYL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:27:09.141303+00:00",
+    "last_checked_at": "2026-07-28T17:50:31.602068+00:00",
     "spotlight": false
   },
   {
@@ -16865,7 +16863,7 @@ const PRODUCTS = [
     "tem_selo_prime": false,
     "tem_oferta": true,
     "avaliacao": 4.7,
-    "qtd_avaliacoes": 68,
+    "qtd_avaliacoes": 65,
     "coupon_code": null,
     "description": "",
     "informacoes_produto": {
@@ -16876,7 +16874,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,1 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GTRWMZWZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:27:17.294018+00:00",
+    "last_checked_at": "2026-07-28T17:50:39.209525+00:00",
     "spotlight": false
   },
   {
@@ -16935,7 +16933,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "512 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMY41LM8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T17:27:25.568676+00:00",
+    "last_checked_at": "2026-07-28T17:50:47.864688+00:00",
     "spotlight": false
   }
 ];
