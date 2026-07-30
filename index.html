@@ -725,9 +725,16 @@ function goToSlide(i) {
 }
 
 function getSpotlightProducts(products) {
-  const ofertas = products.filter(p => p.category === "Ofertas do dia" && p.price_current != null && p.price_current >= 100);
-  const sorted = ofertas.sort((a, b) => (a.price_current || Infinity) - (b.price_current || Infinity));
-  return sorted.slice(0, 6);
+  const valiosos = products.filter(p => p.price_current != null && p.price_current >= 150);
+  const cats = [...new Set(valiosos.map(p => p.category).filter(Boolean))];
+  const resultados = [];
+  for (const cat of cats) {
+    const daCat = valiosos.filter(p => p.category === cat);
+    const menorPreco = daCat.reduce((a, b) => (a.price_current || Infinity) < (b.price_current || Infinity) ? a : b);
+    resultados.push(menorPreco);
+  }
+  resultados.sort((a, b) => (a.price_current || Infinity) - (b.price_current || Infinity));
+  return resultados.slice(0, 6);
 }
   let activeCategory = "Todas";
 let searchQuery = "";
