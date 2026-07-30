@@ -4,7 +4,7 @@ window.PEDIDOS = [
     "asin": "B0FLGD78Z4",
     "titulo": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
     "imagem": "https://m.media-amazon.com/images/I/51MIeqZCK8L._AC_SX679_.jpg",
-    "preco": 3409.47,
+    "preco": 2584.0,
     "link": "https://www.amazon.com.br/dp/B0FLGD78Z4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD"
   },
@@ -22,7 +22,7 @@ window.PEDIDOS = [
     "asin": "B0GSW85QGL",
     "titulo": "ABC Design Carrinho de Bebê Ping 3 Trekking Carrinho de Bebê Camel Alumínio Arnês de 5 Pontos Capota UV 50+ Dobrável",
     "imagem": "https://m.media-amazon.com/images/I/41gOGOS+I9L._AC_SX679_.jpg",
-    "preco": 2564.05,
+    "preco": 2699.89,
     "link": "https://www.amazon.com.br/dp/B0GSW85QGL?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "CONFORTO AJUSTÁVEL: Encosto super acolchoado com múltiplas posições de reclinação, incluindo modo totalmente plano, ideal para sonecas e passeios.. DOBRÁVEL E COMPACTO: Dimensões dobrado de 56,0 x 51,0 x 31,5 cm e peso de apenas 7,3 kg, facilitando o transporte e armazenamento.. SEGURANÇA COMPLETA: Arnês de 5 pontos ajustável com fivelas magnéticas e barra de proteção removível e articulada para maior segurança do bebê.. CAPOTA COM PROTEÇÃO UV 50+: Capota dobrável com proteção solar UV 50+ protege o bebê dos raios solares durante os passeios ao ar livre.. ESTRUTURA EM ALUMÍNIO: Estrutura leve em alumínio com cobertura têxtil removível em 100% poliéster, de fácil limpeza e manutenção."
   },
