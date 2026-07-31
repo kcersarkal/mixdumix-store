@@ -361,6 +361,40 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B07CZ3R2P8",
+    "title": "Refil Filtro Vela Purificador Soft Everest Original",
+    "image": "https://m.media-amazon.com/images/I/41XhFbEHcKL._AC_SL1080_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 48.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 1095,
+    "coupon_code": null,
+    "description": "Este Refil Filtro Vela Purificador Soft Everest Original oferece uma excelente remoção de impurezas e contaminantes, sendo um produto de qualidade reconhecida. Com desconto limitado disponível, é uma oportunidade interessante para adquirir este item de eletrodomésticos, que vem com a garantia da Amazon. A marca SOFT oferece confiabilidade e benefícios significativos, tornando este produto um investimento vantajoso.",
+    "informacoes_produto": {
+      "Benefícios do produto": "Remove impurezas e contaminantes",
+      "Nome da marca": "SOFT",
+      "Quantidade de itens": "1",
+      "Fabricante": "Everest",
+      "Número da peça": "111",
+      "ASIN": "B07CZ3R2P8",
+      "Material": "Carvão",
+      "Dimensões do item P x L x A": "12P x 30L x 8A centímetros",
+      "Peso do item": "600 Gramas",
+      "Dimensões do produto": "12P x 30L x 8A centímetros",
+      "Peso do produto": "600 Gramas",
+      "Vantagens do produto": "Remove impurezas e contaminantes",
+      "Marca": "SOFT"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07CZ3R2P8?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-31T15:01:42.000Z",
+    "spotlight": false
+  },
+  {
     "asin": "B0D7NPF9Z2",
     "title": "\"Capa Para Maquina De Lavar Brastemp Eletrolux Consul 07Kg 08Kg 09Kg 10Kg 11Kg12Kg 13Kg 14Kg 15Kg 16Kg 17Kg Impermeável Forra",
     "image": "https://m.media-amazon.com/images/I/61e0+ijy0pL._AC_SL1200_.jpg",
@@ -743,7 +777,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41TIShkiLzL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 643.66,
+    "price_current": 399,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -785,7 +819,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L4MDP5Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T19:03:25.000Z",
+    "last_checked_at": "2026-07-31T15:03:26.000Z",
     "spotlight": false
   },
   {
@@ -1464,7 +1498,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51QcVeIu4pL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 747.99,
+    "price_current": 747,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -1536,7 +1570,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR5NSCF7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T15:06:00.000Z",
+    "last_checked_at": "2026-07-31T15:06:01.000Z",
     "spotlight": false
   },
   {
@@ -1608,7 +1642,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51AqAm0zZ2L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 1434.4,
+    "price_current": 1424.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -1653,7 +1687,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9MSZ87B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-26T19:06:58.000Z",
+    "last_checked_at": "2026-07-31T15:06:25.000Z",
     "spotlight": false
   },
   {
@@ -2275,7 +2309,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61AYtRHD0SL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 808.9,
+    "price_current": 808.78,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -2325,7 +2359,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPHYC9FQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T15:09:24.000Z",
+    "last_checked_at": "2026-07-31T15:08:40.000Z",
     "spotlight": false
   },
   {
@@ -2562,7 +2596,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61HiBnVR42L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 1310,
+    "price_current": 1300,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -2614,7 +2648,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9DBZ5T?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T15:09:40.000Z",
+    "last_checked_at": "2026-07-31T15:09:40.000Z",
     "spotlight": false
   },
   {
@@ -2671,6 +2705,72 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN3WDS7B?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-30T10:02:24.804413+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DZPGRMKM",
+    "title": "Celular Samsung Galaxy A06 5G 128GB, 4GB, IP54, Tela 6.7\" - Preto",
+    "image": "https://m.media-amazon.com/images/I/51Pco9WFJcL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "celulares e smartphones",
+    "price_current": 24.89,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 215,
+    "coupon_code": null,
+    "description": "O Samsung Galaxy A06 5G oferece uma combinação de desempenho e armazenamento impressionantes, graças à sua RAM de 4GB, RAM Plus e 128GB de armazenamento interno. Além disso, o dispositivo é equipado com um processador MediaTek Dimensity 6300 (6nm) e uma câmera traseira dupla de até 50MP. Ademais, a bateria de longa duração de 5.000 mAh e o carregamento rápido de 25W garantem um uso contínuo sem preocupação. Por fim, o dispositivo é projetado para durar com atualizações de segurança até 4 anos e até 4 versões do sistema operacional.",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 15.0",
+      "Memória RAM instalada": "4 GB",
+      "Capacidade de armazenamento da memória": "128 GB",
+      "Cor": "Preto",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nível de resistência à água": "Resistente à água",
+      "Características especiais": "Dual SIM, GPS integrado, Resistente à Água, até 4 anos de atualizações de segurança e até 4 versões de sistema operacional;",
+      "Tamanho máximo suportado pela memória flash": "128 GB",
+      "Resolução do sensor fotográfico frontal": "8 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "2.0, 50.0 MP",
+      "Descrição da câmera": "Frontal, Traseira",
+      "Flash da câmera": "LED",
+      "Número de câmaras traseiras": "3",
+      "Zoom digital": "10 x",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Potência da bateria": "5000.0",
+      "Peso do item": "191 Gramas",
+      "Dimensões do artigo": "16,7 x 7,7 x 0,8 centímetros",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "720 x 1600",
+      "Taxa de atualização": "90 Hz",
+      "Tipo de tela": "LCD",
+      "Resolução máxima da tela": "720 x 1600 (HD+) Pixels",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Cabo USB, Carregador, Ejetor da bandeja SIM, Manual do usuário",
+      "Descrição da garantia": "12 meses com o Fabricante",
+      "Fabricante": "Samsung",
+      "Usos específicos do produto": "Atividades ao Ar Livre, Fotografia, Viagens",
+      "Número de identificação de comércio internacional": "07892509143073",
+      "Certificação de teste externa": "ANATEL: 111372400953 / MODELO: SM-A066M/DS",
+      "ASIN": "B0DZPGRMKM",
+      "Resolução de captura de vídeo": "30fps",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 15.0",
+      "Tamanho instalado da memória RAM": "4 GB",
+      "Capacidade de Armazenamento de Memória": "128 GB",
+      "Tamanho da Tela": "6,7 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DZPGRMKM?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-31T15:10:03.000Z",
     "spotlight": false
   },
   {
@@ -2821,7 +2921,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51uccv-jBiL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 99.9,
+    "price_current": 92.91,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -2861,7 +2961,7 @@ const PRODUCTS = [
       "Dimensões do produto": "27,1C x 18,8L x 20,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T17:13:12.119313+00:00",
+    "last_checked_at": "2026-07-31T15:10:59.000Z",
     "spotlight": false
   },
   {
@@ -3418,7 +3518,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51NFGyGQN8L._SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 620,
+    "price_current": 599,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -3454,7 +3554,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Purificador de água e bandeja para copo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08X66RQ48?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T15:13:30.000Z",
+    "last_checked_at": "2026-07-31T15:13:26.000Z",
     "spotlight": false
   },
   {
@@ -3559,7 +3659,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81ubjq2DfxL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 171.41,
+    "price_current": 171.4,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -3590,7 +3690,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "29 julho 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T15:14:50.000Z",
+    "last_checked_at": "2026-07-31T15:14:02.000Z",
     "spotlight": false
   },
   {
@@ -3784,7 +3884,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51pDaHGEVGL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 294.31,
+    "price_current": 272.71,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -3822,7 +3922,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,3P x 45L x 36,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QN1RW8K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T15:16:48.000Z",
+    "last_checked_at": "2026-07-31T15:15:04.000Z",
     "spotlight": false
   },
   {
@@ -4145,6 +4245,48 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B07L8SJLXN",
+    "title": "Panificadora Automática Master Bread, Mondial, Preto, 700W, 110V - NPF-53",
+    "image": "https://m.media-amazon.com/images/I/51OmxaZFbNL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 789.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 3545,
+    "coupon_code": null,
+    "description": "Este produto é uma panificadora automática de marca Mondial, oferecendo facilidade e praticidade para fazer pão em casa. Com um design moderno preto e potência de 700W, garante desempenho eficiente. Acompanhado de manual de instruções e assistência técnica, é uma adição prática à sua cozinha.",
+    "informacoes_produto": {
+      "Nome da marca": "MONDIAL",
+      "Número do modelo": "NPF-53",
+      "Ano de fabricação": "1900",
+      "Fabricante": "MK ELETRODOMESTICOS MONDIAL S/A",
+      "Número de identificação de comércio internacional": "07899882306880",
+      "Descrição da garantia": "12 meses",
+      "Componentes incluídos": "01 Panificadora; Manual de Instruções e Manual de Assistência Técnica",
+      "Nome do Tipo de Produto": "Panificadora Automática Master Bread, Mondial, Preto, 700W, 110V - NPF-53",
+      "Número da peça": "NPF-53",
+      "ASIN": "B07L8SJLXN",
+      "Voltagem": "110 Volts",
+      "Capacidade": "1 quilogramas",
+      "Potência": "700 watts",
+      "Número de programas": "19",
+      "Peso do item": "4,41 Gramas",
+      "Dimensões do item P x L x A": "33,5P x 28L x 29,5A centímetros",
+      "Material": "PP e Metal",
+      "Cor": "Preto",
+      "Tensão": "110 Volts",
+      "Peso do produto": "4,41 Gramas",
+      "Dimensões do produto": "33,5P x 28L x 29,5A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07L8SJLXN?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-31T15:16:39.000Z",
+    "spotlight": false
+  },
+  {
     "asin": "B0FGZHG928",
     "title": "Micro-ondas 20L Prata Porta Espelhada MasterCook Midea 110V",
     "image": "https://m.media-amazon.com/images/I/61WqzwY7Z6L._AC_SL1500_.jpg",
@@ -4240,7 +4382,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81Thu-al8UL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 135.35,
+    "price_current": 70.57,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -4273,7 +4415,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32C x 53L x 64A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G5YRSFP1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T19:17:56.000Z",
+    "last_checked_at": "2026-07-31T15:17:13.000Z",
     "spotlight": false
   },
   {
@@ -4498,7 +4640,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/5157j9NnlaL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 144.0,
+    "price_current": 135.37,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -4531,7 +4673,7 @@ const PRODUCTS = [
       "Característica Especial": "Desligamento automático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09CBXQFYY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-23T15:16:23.094126+00:00",
+    "last_checked_at": "2026-07-31T15:18:26.000Z",
     "spotlight": false
   },
   {
@@ -5427,7 +5569,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/31pcsXPSyQL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 278.49,
+    "price_current": 269,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -5463,7 +5605,7 @@ const PRODUCTS = [
       "Característica Especial": "Isolante Térmico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CT5XNB5S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T10:07:27.723619+00:00",
+    "last_checked_at": "2026-07-31T15:22:27.000Z",
     "spotlight": false
   },
   {
@@ -5560,7 +5702,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71YOp9GJX2L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 489.99,
+    "price_current": 424.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -5593,7 +5735,7 @@ const PRODUCTS = [
       "Dimensões do produto": "37P x 26,5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T19:23:54.000Z",
+    "last_checked_at": "2026-07-31T15:23:04.000Z",
     "spotlight": false
   },
   {
@@ -5602,7 +5744,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61CvoedtOSL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 12.17,
+    "price_current": 12.16,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -5633,7 +5775,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Todos os dispositivos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075X3NYJK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T19:22:51.000Z",
+    "last_checked_at": "2026-07-31T15:23:17.000Z",
     "spotlight": false
   },
   {
@@ -5954,7 +6096,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61iWrdvAXNL._AC_SL1024_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 37.88,
+    "price_current": 35.06,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -5992,7 +6134,7 @@ const PRODUCTS = [
       "Tipo de material": "borracha nitrílica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F61QC5SR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T19:25:35.000Z",
+    "last_checked_at": "2026-07-31T15:24:48.000Z",
     "spotlight": false
   },
   {
@@ -6062,6 +6204,85 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B0H3QJ9PX1",
+    "title": "Câmera de Segurança IP WiFi Full HD 1080p, Visão Noturna Infravermelho, Detecção de Movimento, Áudio Bidirecional, Giratória,",
+    "image": "https://m.media-amazon.com/images/I/61lLosviujL._AC_SL1269_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 49.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 23,
+    "coupon_code": null,
+    "description": "Este dispositivo de segurança IP WiFi oferece uma resolução Full HD 1080p, visão noturna infravermelha e detecção de movimento, proporcionando monitoramento preciso em ambientes escuros. Além disso, a comunicação bidirecional por meio do microfone e alto-falante integrados permite interação em tempo real através do aplicativo. Ademais, a câmera giratória e prova d'água garantem ampla cobertura, tornando o dispositivo ideal para uso interno e externo. Avaliação: 4.6/5.",
+    "informacoes_produto": {
+      "Características especiais": "Detecção De Movimento, Giratória, Prova D'água, Visão Noturna Infravermelho, Áudio Bidirecional",
+      "Utilização interior, exterior": "Área externa",
+      "Dispositivos compatíveis": "Android, Computador, Iphone, Smartphone, Tablet",
+      "Tipo de controle": "Aplicativo Yoosee",
+      "Tipo de montagem": "Teto E Parede",
+      "Cor": "Branco",
+      "Fator de forma": "Câmera Giratória Tipo Lâmpada",
+      "Tipo de instalação": "Montagem Em Teto Ou Parede",
+      "Material": "Metal, Plástico Abs",
+      "Nível de resistência à água": "À prova d'água",
+      "Formato do item": "Lâmpada",
+      "Tipo de alerta": "Detecção De Movimento",
+      "Tipo de sala": "Escritório, Garagem, Quarto, Sala de estar, Área Externa",
+      "Fonte de luz": "Infravermelho",
+      "Resolução final": "2 MP",
+      "Classificação de proteção internacional": "Ip66",
+      "Resolução do sensor fotográfico": "2 MP",
+      "Método de controle": "Aplicação, Remoto",
+      "Resolução de captura de vídeo": "1080p, 1920x1080",
+      "Resolução efetiva de vídeo": "1080",
+      "Taxa de quadros": "30 Fps",
+      "Ângulo de visão": "355 Graus",
+      "Zoom óptico": "1 x",
+      "Tipo de foco": "Foco fixo",
+      "Campo de visão": "355",
+      "Tipo de zoom": "Digital",
+      "Taxa de zoom": "Digital",
+      "Tecnologia do sensor fotográfico": "CMOS",
+      "Tipo de memória flash": "Cartão Microsd (não Incluído)",
+      "Usos recomendados do produto": "Monitoramento De Escritório, Monitoramento Externo, Segurança Comercial, Segurança Residencial, Vigilância Interna",
+      "Nome da marca": "Pazie",
+      "Nome do modelo": "Full Hd 1080p Wifi",
+      "Quantidade de itens": "1",
+      "Componentes incluídos": "Cabo De Alimentação, Câmera Ip Wifi, Manual de instruções, Parafusos De Fixação, Suporte De Montagem",
+      "Número do modelo": "Camera 1080p",
+      "País de origem": "China",
+      "Usos específicos do produto": "Detecção De Movimento, Monitoramento Externo, Monitoramento Remoto, Segurança Residencial, Vigilância Interna",
+      "Fabricante": "Importado",
+      "ASIN": "B0H3QJ9PX1",
+      "Tecnologia de conectividade": "Sem fio",
+      "Tipo de conectividade": "ONVIF, Tcp/Ip, Wifi 802.11b/G/N",
+      "Tecnologia de comunicação sem fio": "Ieee 802.11b/G/N, Wi-fi",
+      "Fonte de energia": "Bivolt (110v/220v)",
+      "Potência": "5 watts",
+      "Baterias são necessárias?": "Não",
+      "Número de canais": "1",
+      "Codificação de vídeo": "H.264",
+      "Formato de captura de vídeo": "MP4",
+      "Faixa de visão noturna": "10 Metros",
+      "Visão noturna": "Infravermelho",
+      "Número de LEDs IR": "4",
+      "Dimensões do artigo": "12 x 8,5 x 10 centímetros",
+      "Peso do item": "250 Gramas",
+      "Contagem de unidades": "1 Unidade",
+      "Marca": "Pazie",
+      "Nome do Modelo": "Full Hd 1080p Wifi",
+      "Tecnologia de Conectividade": "Sem fio",
+      "Característica Especial": "Detecção De Movimento, Giratória, Prova D'água, Visão Noturna Infravermelho, Áudio Bidirecional"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H3QJ9PX1?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-31T15:25:09.000Z",
+    "spotlight": false
+  },
+  {
     "asin": "B0776VVM73",
     "title": "Mor - Escada Banqueta Alumínio",
     "image": "https://m.media-amazon.com/images/I/51pzkr0y+XL._AC_SL1000_.jpg",
@@ -6102,12 +6323,56 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B07GH8YBGB",
+    "title": "Vonder, Fita Crepe 24 Mm X 50 M.",
+    "image": "https://m.media-amazon.com/images/I/51AMR+GJ5uL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 9.64,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 472,
+    "coupon_code": null,
+    "description": "O produto Vonder, Fita Crepe 24 Mm X 50 M, é uma opção versátil para diversos usos em construção e artesanato, graças à sua largura adequada e ao excelente alongamento do papel crepado. Além disso, a fita apresenta boa performance em curvas e contornos, tornando-se uma opção ideal para mascaramento de pinturas imobiliárias, trabalhos escolares, fixações, proteção, enfaixamentos e decoração. Com preço acessível, o produto Vonder oferece um bom custo-benefício para quem busca uma fita crepe de qualidade.",
+    "informacoes_produto": {
+      "Brand Name": "VONDER",
+      "Quantidade de itens": "1",
+      "Usos recomendados do produto": "Industrial, Mascaramento de pinturas imobiliárias, Trabalhos escolares, Fixações, Proteção, Enfaixamentos, Artesanato, Decoração, Bricolagem, Quadro",
+      "Included Components": "1 Fita crepe.",
+      "Fabricante": "VONDER",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Fita Crepe",
+      "Model Number": "1027245000",
+      "Part Number": "1027245000",
+      "ASIN": "B07GH8YBGB",
+      "Características especiais": "Resistente ao calor",
+      "Nível de resistência à água": "Não resistente à água",
+      "Upper Temperature Range": "100 Graus Celsius",
+      "Compatible Material": "Papel",
+      "Formato do Adesivo": "ROLO",
+      "Contagem de Lados Adesivos": "1",
+      "Local do Adesivo": "laterais",
+      "Tamanho": "24 mm x 50 m",
+      "Cor": "Branca",
+      "Material Type": "Papel crepom",
+      "Marca": "VONDER",
+      "Material": "Papel crepom",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07GH8YBGB?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-31T15:25:34.000Z",
+    "spotlight": false
+  },
+  {
     "asin": "B076CF5DFL",
     "title": "Aquecedor A Ar, Mondial, Cinza/Branco, 2000W, 220V - A-08",
     "image": "https://m.media-amazon.com/images/I/61Af2D6mMzL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 106.2,
+    "price_current": 99,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -6151,7 +6416,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076CF5DFL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T15:25:20.000Z",
+    "last_checked_at": "2026-07-31T15:25:45.000Z",
     "spotlight": false
   },
   {
@@ -6632,42 +6897,57 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
-    "asin": "B08BJDK91Y",
-    "title": "Tramontina Conjunto 1 Tomada 2P+T Aria 4x2 20A 250 V Branco",
-    "image": "https://m.media-amazon.com/images/I/51KcVdbpaIL._AC_SL1500_.jpg",
+    "asin": "B0DB61V6L6",
+    "title": "WAP Parafusadeira e Furadeira a Bateria Li-Ion 12V BPF 12K3 BLACK Carregador Bivolt com Maleta e Kit de 13 Acessórios",
+    "image": "https://m.media-amazon.com/images/I/71xBTN94fpL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 7.79,
+    "price_current": 143,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
     "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 154,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 67,
     "coupon_code": null,
-    "description": "Este conjunto de tomada Tramontina Aria oferece quatro entradas 2P+T em 20 Amperes, ideal para diversos dispositivos. Sua estética branca agrega elegância à sua função prática. Com uma avaliação de 4,8/5 baseada em 154 avaliações, é um produto de qualidade que pode trazer conforto e conveniência para seu ambiente.",
+    "description": "O WAP Parafusadeira e Furadeira a Bateria Li-Ion 12V BPF 12K3 BLACK é uma ferramenta de construção compacta, prática e potente. Características especiais como o LED embutido, controle de intensidade por pressão no gatilho e velocidade variável oferecem mais precisão nos trabalhos de furar e parafusar. A bateria recarregável de lítio-íon com capacidade de 1500 mAh fornece mais autonomia, aumentando o tempo de vida útil da ferramenta. Com 18 níveis de torque e uma maleta completa de 13 acessórios, esse kit é ideal para profissionais ou entusiastas em busca de uma sol",
     "informacoes_produto": {
-      "Dispositivos compatíveis": "Todos os dispositivos",
-      "Conector": "Type C",
-      "Amperagem": "20 Amperes",
-      "Tipo de conector": "Tomada 2P+T",
-      "Número total de tomadas": "4",
-      "Cor": "Branco",
-      "Material": "plastico",
-      "Brand Name": "Tramontina",
-      "Model Number": "57241013",
-      "Fabricante": "Tramontina",
-      "Certificação de teste externa": "Não aplicável",
-      "Componentes incluídos": "Não aplicável",
-      "Nome do Tipo de Produto": "Tomada",
-      "Part Number": "57241013",
-      "ASIN": "B08BJDK91Y",
-      "Marca": "Tramontina",
-      "Dispositivos Compatíveis": "Todos os dispositivos",
-      "Tipo de tomada": "Type C"
+      "Fonte de energia": "à Bateria",
+      "Velocidade máxima de rotação": "740 RPM",
+      "Voltagem": "12 Volts",
+      "Amperagem": "1,5 Amperes",
+      "Tamanho máximo do mandril": "10 Milímetros",
+      "Características especiais": "Luz de trabalho LED embutida, Portátil, Recarregável, Velocidade Variável",
+      "Torque máximo": "17 Newton Metros",
+      "Número de velocidades": "1",
+      "Velocidade": "740 RPM",
+      "Potência máxima": "18 Watt",
+      "Torque do item": "18 Newton Metros",
+      "Tipo de broca": "Broca básica",
+      "Capacidade da bateria": "1500 Milliamp Hours",
+      "É alimentado por energia elétrica?": "Não",
+      "Tipo de bateria": "Íon de litio",
+      "Dimensões do item C x L x A": "21,5C x 6,9L x 19A centímetros",
+      "Peso do item": "1,6 Quilogramas",
+      "Nome da marca": "WAP",
+      "Componentes incluídos": "Maleta Mandril 3/8\" (10 mm) LED de Iluminação Indicador de Carga de Bateria (30%, 70%, 100%) Seletor de Torque com 18 níveis de aperto e 1 função de furação Seletor reverso",
+      "Número do modelo": "FW009424",
+      "Quantidade de Unidades": "1.0 unidade",
+      "Fabricante": "WAP",
+      "Descrição da garantia": "01 ANO (3 meses de garantia legal e mais 9 meses de garantia especial concedida pelo fabricante). BATERIA: 6 MESES",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "PARAFUSADEIRA E FURADEIRA 12V WAP BPF 12K3 BLACK",
+      "Número da peça": "FW009424",
+      "ASIN": "B0DB61V6L6",
+      "Cor": "Preto com Amarelo",
+      "Material": "Polimeros e Metais",
+      "Marca": "WAP",
+      "Fonte de alimentação": "à Bateria",
+      "Velocidade Rotacional Máxima": "740 RPM",
+      "Tensão": "12 Volts"
     },
-    "affiliate_url": "https://www.amazon.com.br/dp/B08BJDK91Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T19:28:08.000Z",
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DB61V6L6?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-31T15:28:11.000Z",
     "spotlight": false
   },
   {
@@ -6896,7 +7176,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81rYpjuTwdL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 78.98,
+    "price_current": 77,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -6939,7 +7219,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WKPK952?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T23:32:09.708805+00:00",
+    "last_checked_at": "2026-07-31T15:29:11.000Z",
     "spotlight": false
   },
   {
@@ -7490,7 +7770,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/91e-WNUpH0L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 551.7,
+    "price_current": 471.54,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -7544,7 +7824,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido externo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQX6DVWY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T10:49:29.188391+00:00",
+    "last_checked_at": "2026-07-31T15:31:18.000Z",
     "spotlight": false
   },
   {
@@ -8332,7 +8612,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51IPtedWrsL._AC_SL1280_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 145.98,
+    "price_current": 134.1,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -8364,7 +8644,7 @@ const PRODUCTS = [
       "Descrição do Teclado": "Multimídia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPTK4P38?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T15:33:43.000Z",
+    "last_checked_at": "2026-07-31T15:34:13.000Z",
     "spotlight": false
   },
   {
@@ -8545,7 +8825,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71c5uuoM1bL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 999,
+    "price_current": 929.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -8594,7 +8874,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido interno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DBR3DZWG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T15:34:29.000Z",
+    "last_checked_at": "2026-07-31T15:35:01.000Z",
     "spotlight": false
   },
   {
@@ -8867,7 +9147,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/6157zAcYYVL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 85.14,
+    "price_current": 85,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -8924,7 +9204,7 @@ const PRODUCTS = [
       "ASIN": "B075Y72PHZ"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075Y72PHZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T15:35:39.000Z",
+    "last_checked_at": "2026-07-31T15:36:09.000Z",
     "spotlight": false
   },
   {
@@ -9029,7 +9309,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/512RvK5DHHL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 799.99,
+    "price_current": 799,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -9080,7 +9360,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "802.11ac"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DH3PLZ6N?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T15:38:31.000Z",
+    "last_checked_at": "2026-07-31T15:36:45.000Z",
     "spotlight": false
   },
   {
@@ -9845,7 +10125,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51BeI0fbpzL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 849.01,
+    "price_current": 849,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -9907,7 +10187,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DTTM47F9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T15:39:21.000Z",
+    "last_checked_at": "2026-07-31T15:39:50.000Z",
     "spotlight": false
   },
   {
@@ -10888,56 +11168,6 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
-    "asin": "B0BGMD5LGF",
-    "title": "Personal Fralda Baby Premium Pants G, 62 Unidades",
-    "image": "https://m.media-amazon.com/images/I/51YPzh4uhaL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 40.63,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 5109,
-    "coupon_code": null,
-    "description": "O Personal Fralda Baby Premium Pants G oferece conforto e proteção em um único pacote. A absorção 3D ultrarrespirável, rápida e eficiente, garante até 12 horas de proteção contra incontinência infantil. O ajuste perfeito não pressiona barriguinha ou perninhas, enquanto o material macio como algodão torna o produto fácil de vestir e tirar. Essas características, juntamente com a tecnologia japonesa utilizada, fazem do Personal Fralda Baby Premium Pants G uma opção confiável para bebês em diferentes etapas da infância.",
-    "informacoes_produto": {
-      "Nome da marca": "Personal",
-      "Tipo de protetor para incontinência": "Fralda infantil",
-      "Descrição da faixa etária": "Bebê",
-      "Público-alvo": "Unissex-bebês",
-      "Tipo de pacote": "Bolsa",
-      "Fabricante": "Santher",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "FRALDA PERSONAL BABY PREMIUM PANTS",
-      "Número do modelo": "CBGH02062",
-      "ASIN": "B0BGMD5LGF",
-      "Cor": "Branco",
-      "Estampa": "Estampa de animal",
-      "Quantidade de itens": "62",
-      "Tamanho": "G - 62 Unidades",
-      "Contagem de unidades": "62 unidade",
-      "Dimensões do artigo": "22 x 30 x 32,3 centímetros",
-      "Peso do item": "2003,1 Gramas",
-      "Tamanho do protetor de incontinência": "G",
-      "Weight Range": "10 a 15 kg",
-      "Material": "Algodão",
-      "Livre de tipo de material": "Sem cloro",
-      "Descrição do forro": "Algodão",
-      "Reutilização": "Descartável",
-      "Nível de resistência à água": "À prova d'água",
-      "Usos recomendados do produto": "Proteção de urina, Proteção fecal",
-      "Marca": "Personal",
-      "Número de itens": "62",
-      "Tipo de protetor de incontinência": "Fralda infantil",
-      "Faixa etária (descrição)": "Bebê"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T19:43:31.000Z",
-    "spotlight": false
-  },
-  {
     "asin": "B01I54ITP0",
     "title": "Nautica Perfume Voyage Eau de Toilette Masculino 100ml",
     "image": "https://m.media-amazon.com/images/I/41bYQcKYVzL._AC_SL1000_.jpg",
@@ -11036,7 +11266,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61GxRFu4OhL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 59.31,
+    "price_current": 59.3,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -11074,7 +11304,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T15:43:56.000Z",
+    "last_checked_at": "2026-07-31T15:44:41.000Z",
     "spotlight": false
   },
   {
@@ -11106,46 +11336,6 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4T5245K?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-29T15:50:12.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08VBXJY7P",
-    "title": "Whisky Johnnie Walker Blonde 750ml",
-    "image": "https://m.media-amazon.com/images/I/51JsUkgA+KL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 44.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 1158,
-    "coupon_code": null,
-    "description": "O Whisky Johnnie Walker Blonde é uma oferta inesquecível, com 4.6 de estrelas em 1158 avaliações. Este whisky escocês leve e adocicado, com notas deliciosas de baunilha, oferece um aroma suave e frutado que agradará tanto os fãs tradicionais quanto os iniciantes. Com 40% de conteúdo alcoólico, este whisky especialmente selecionado pelo Johnnie Walker surpreenderá até mesmo os mais exigentes paladares.",
-    "informacoes_produto": {
-      "Nome da marca": "JOHNNIE WALKER",
-      "Tipo alcoólico": "Blended scotch",
-      "Sabor": "Baunilha",
-      "Quantidade de itens": "1",
-      "Conteúdo alcoólico": "40 %",
-      "Descrição do conteúdo líquido": "Bebidas e destilados",
-      "Número de identificação de comércio internacional": "05000267183565, 05000267190556",
-      "Tipo de dieta": "Vegetariano",
-      "Fabricante": "Diageo BR",
-      "ASIN": "B08VBXJY7P",
-      "Peso do item": "1,11 Quilogramas",
-      "Peso do pacote": "1,06 Quilogramas",
-      "Total de pacotes": "1",
-      "Volume do item": "750 Mililitros",
-      "Informações sobre alérgenos": "Contém: Não contém glúten",
-      "Marca": "JOHNNIE WALKER",
-      "Tipo de álcool": "Blended scotch",
-      "Número de itens": "1",
-      "Teor alcoólico": "40 %"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T10:21:49.785655+00:00",
     "spotlight": false
   },
   {
@@ -11242,7 +11432,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/814Cj02tRCL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 142.9,
+    "price_current": 135.75,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -11279,7 +11469,7 @@ const PRODUCTS = [
       "Usos Específicos do Produto": "Alimentação diária"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B788FPCD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T10:22:47.439144+00:00",
+    "last_checked_at": "2026-07-31T15:45:36.000Z",
     "spotlight": false
   },
   {
@@ -15033,51 +15223,6 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
-    "asin": "B07YVPKNZY",
-    "title": "América Café Torrado E Moído Vácuo Gourmet 500 G",
-    "image": "https://m.media-amazon.com/images/I/61NsCrwziVS._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 42.88,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 1322,
-    "coupon_code": null,
-    "description": "O produto América Café Torrado E Moído Vácuo Gourmet oferece uma experiência de café saborosa e premium, com grãos 100% Arabica e classificação ABIC de café gourmet. Sua intensidade de 7 e notas achocolatadas marcantes o tornam um excelente escolha para aficionados ao café. Além disso, este produto é adequado para preparo com cafeteira italiana, prensa francesa ou coado manualmente, além de ser sem glúten. Avaliado em 4,5/5 por 1322 avaliações, o custo-benefício deste produto é uma boa opção para aqueles que procuram um café gourmet de qualidade.",
-    "informacoes_produto": {
-      "Nome da marca": "América",
-      "Formato do item": "Moído",
-      "Sabor": "Marcante com notas achocolatadas",
-      "Descrição do teor de cafeína": "Com cafeína",
-      "Níveis de torra do café": "Torra escura",
-      "Tipo de recipiente": "Sacola",
-      "Tipo de dieta": "Sem glúten",
-      "Contagem de unidades": "1",
-      "Quantidade de itens": "1",
-      "País de origem": "Brasil",
-      "Ingredientes especiais": "O produto não contem látex natural",
-      "Especialidade": "Sem ingredientes artificiais",
-      "Informações sobre alérgenos": "Contém: Não contém glúten",
-      "Tipo de Café": "Grão de Café",
-      "Variedade": "Arábica",
-      "Fabricante": "Intercoffee",
-      "Nome do Tipo de Produto": "Café America Pó Alto Vacuo Gourmet",
-      "ASIN": "B07YVPKNZY",
-      "Peso do item": "500 Gramas",
-      "Dimensões do artigo": "11 x 6 x 17 centímetros",
-      "Tamanho": "500 g (Pacote de 1)",
-      "Marca": "América",
-      "Forma do produto": "Moído",
-      "Nível de torragem": "Torra escura"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07YVPKNZY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T11:03:40.158539+00:00",
-    "spotlight": false
-  },
-  {
     "asin": "B09VW57PZV",
     "title": "MAM Baby Kit 2 Mamadeiras Easy Active Set, 270ml e 330ml Com Formato Ergonômico e Fácil de Segurar para Crianças 2+ Meses com Bico de Silicone Skinsoft, Azul",
     "image": "https://m.media-amazon.com/images/I/51gHgvzEmHL._AC_SL1000_.jpg",
@@ -15614,7 +15759,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51kT5SgPhNL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 902.4,
+    "price_current": 901.55,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -15679,7 +15824,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-29T16:02:45.000Z",
+    "last_checked_at": "2026-07-31T16:04:21.000Z",
     "spotlight": false
   },
   {
@@ -16141,7 +16286,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51Adgl-DQtL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 808.9,
+    "price_current": 808,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -16201,7 +16346,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPJ52LSR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-28T19:32:57.000Z",
+    "last_checked_at": "2026-07-31T16:06:12.000Z",
     "spotlight": false
   },
   {
@@ -16493,82 +16638,6 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
-    "asin": "B0FPPQ5T37",
-    "title": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Preto",
-    "image": "https://m.media-amazon.com/images/I/519DMgnt2XL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "celulares e smartphones",
-    "price_current": 1016.99,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 463,
-    "coupon_code": null,
-    "description": "O Samsung Galaxy A17 5G oferece uma combinação de desempenho e qualidade, destacando-se por sua tripla câmera de até 50MP com estabilização óptica, processador Exynos 1330 Octa-Core, o melhor da categoria, e 4GB RAM, 4GB RAM Plus e 128GB de armazenamento interno. Ademais, a Galaxy AI- Gemini Live & Circule facilita a pesquisa e o Samsung Wallet oferece segurança e conveniência para pagamentos.",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 15.0",
-      "Memória RAM instalada": "4 GB",
-      "Modelo da CPU": "Exynos 1330 S5E8535",
-      "Velocidade da CPU": "2,4 GHz",
-      "Capacidade de armazenamento da memória": "128 GB",
-      "Cor": "Preto",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Entrada de interface humana": "Tela tátil",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "Resistente à água",
-      "Entrada de fone de ouvido": "Usb-c",
-      "Dispositivos compatíveis": "Samsung",
-      "Características especiais": "Dual SIM, GPS integrado, NFC, Resistente à Água, Único com até 6 atualizações de Android e até 6 anos de atualizações de segurança",
-      "Resolução do sensor fotográfico frontal": "13 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "2.0, 5.0, 50.0 MP",
-      "Descrição da câmera": "Frontal, Traseira",
-      "Flash da câmera": "LED",
-      "Modos de disparo": "Modo Noturno, Modo Retrato, Modo Profissional, Panorama, Modo Macro, Vídeo Em Câmera Lenta, Hyperlapse, Modo Alimentação, Modo Único",
-      "Resolução do sensor óptico": "50 MP",
-      "Número de câmaras traseiras": "3",
-      "Zoom digital": "10 x",
-      "Número de Câmeras Frontais": "1",
-      "Peso do item": "192 Gramas",
-      "Dimensões do artigo": "16,4 x 7,8 x 0,7 centímetros",
-      "GPS": "Verdadeiro",
-      "Sistema de navegação por satélite suportado": "GPS",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1080 x 2340",
-      "Taxa de atualização": "90 Hz",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2340x1080 Pixels",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "Cabo USB, Carregador, Ejetor da bandeja SIM, Manual do usuário",
-      "Descrição da garantia": "12 meses com o Fabricante",
-      "Fabricante": "Samsung",
-      "Série do Modelo": "samsung_galaxy_a_series",
-      "Usos específicos do produto": "Fotografia, Navegação Na Internet, Videografia",
-      "Certificação de teste externa": "ANATEL: 030822500953 / MODELO: SM-A176B/DS",
-      "ASIN": "B0FPPQ5T37",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Descrição da bateria": "Íon de lítio",
-      "Potência da bateria": "5000.0",
-      "Resolução efetiva de vídeo": "50 MP",
-      "Resolução de captura de vídeo": "30fps",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 15.0",
-      "Tamanho instalado da memória RAM": "4 GB",
-      "Velocidade do CPU": "2,4 GHz"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FPPQ5T37?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T16:06:10.000Z",
-    "spotlight": false
-  },
-  {
     "asin": "B0F51KRTX1",
     "title": "Smartphone Motorola Edge 60 5G - 512GB 24GB (12GB RAM+12GB Ram Boost) Tela Quad-Curve moto AI 50MP Sony Camera ultrarresistencia militar IP68 + IP69 - Azul Marinho",
     "image": "https://m.media-amazon.com/images/I/61fCuWd+6fL._AC_SL1000_.jpg",
@@ -16689,7 +16758,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51AqAm0zZ2L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 1434.4,
+    "price_current": 1396.4,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -16734,7 +16803,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9MSZ87B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-23T20:40:49.800862+00:00",
+    "last_checked_at": "2026-07-31T16:08:00.000Z",
     "spotlight": false
   },
   {
@@ -16802,7 +16871,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41+50Z4TgEL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 1875.67,
+    "price_current": 1629,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -16844,7 +16913,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084R94R4S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T11:08:46.938557+00:00",
+    "last_checked_at": "2026-07-31T16:08:21.000Z",
     "spotlight": false
   },
   {
@@ -16853,7 +16922,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61nbiJ9iyTL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 13.85,
+    "price_current": 13.84,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -16884,7 +16953,7 @@ const PRODUCTS = [
       "Forma": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08NWQHGR4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T11:09:20.100514+00:00",
+    "last_checked_at": "2026-07-31T16:08:33.000Z",
     "spotlight": false
   },
   {
@@ -16893,7 +16962,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51Xzw3t1fvL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 429.71,
+    "price_current": 399.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -16937,7 +17006,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D152HV7Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-30T16:07:32.000Z",
+    "last_checked_at": "2026-07-31T16:08:45.000Z",
     "spotlight": false
   },
   {
@@ -17190,6 +17259,65 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D4NR66ZL?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-30T14:46:14.502411+00:00",
+    "spotlight": false
+  },
+  {
+    "asin": "B07G2G7CYW",
+    "title": "Citizen Relógio masculino Eco-Drive Promaster Air Skyhawk Atomic Time Keeping Pilot em aço inoxidável com pulseira de couro azul, mostrador azul (modelo: JY8078-01L), Dois tons, Cronógrafo, digital",
+    "image": "https://m.media-amazon.com/images/I/8133MHGXsML._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 5335.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 408,
+    "coupon_code": null,
+    "description": "Este relógio masculino Citizen Promaster Air Skyhawk é um excelente investimento para quem busca uma combinação de tecnologia avançada e estilo durável. Com características especiais como cronógrafo, cronômetro, alarmes e calendário perpétuo, além de tempo duplo e retroiluminação digital, o relógio oferece uma variedade de funcionalidades úteis. Alimentado por energia solar, não há necessidade de trocar baterias. Ademais, a resistência à água de 200 metros e a alça de duas peças garantem confiabilidade em condições duras. Com uma nota de 4.6/5 baseada em 408 avaliações, é claro que este relógio ofere",
+    "informacoes_produto": {
+      "Tipo de tela": "Análogico - Digital",
+      "Assistir Movimento": "Eco-Drive",
+      "Características especiais": "Alarmes, Calendário perpétuo, Cronometragem atômica, Cronógrafo, Cronômetro, Indicador de reserva de energia, Retroiluminação digital, Tempo duplo",
+      "Fonte de energia": "Alimentado por energia solar",
+      "Tipo de alça": "Alça de duas peças",
+      "Profundidade de resistência à água": "200 Metros",
+      "Tipo de esporte": "Caminhada",
+      "Tipo de fecho": "Fivela",
+      "Nível de resistência à água": "Resistente à água",
+      "Recurso de enfeite": "Cristal",
+      "Tipo de fechamento": "Fivela",
+      "Estilo": "Cronógrafo, digital",
+      "Formato do item": "Redondo",
+      "Cor da pulseira": "Azul",
+      "Cor do mostrador": "Azul",
+      "Tema": "Esportes",
+      "Estilo da face": "Crosshair",
+      "Nome da marca": "Citizen",
+      "Nome do modelo": "Eco-Drive Promaster Air Skyhawk Atomic Time Keeping Pilot Watch",
+      "País de origem": "Japão",
+      "Componentes Incluídos": "Relógio",
+      "Número do modelo": "JY8078-01L",
+      "Peso do item": "315 Gramas",
+      "Contagem de unidades": "1 Unidade",
+      "Fabricante": "Citizen Watches",
+      "UPC": "013205132582",
+      "Descrição da faixa etária": "Adulto",
+      "Nome do Tipo de Produto": "Relógio esportivo",
+      "Número da peça": "JY8078-01L",
+      "ASIN": "B07G2G7CYW",
+      "Tipo de material da pulseira": "Couro",
+      "Tipo de material da caixa": "Aço inoxidável",
+      "Tipo de material do mostrador": "Cristal de safira",
+      "Diâmetro da caixa": "45 Milímetros",
+      "Largura da Pulseira": "22,6 Milímetros",
+      "Espessura da caixa": "14,5 Milímetros",
+      "Comprimento da banda": "22 Centímetros",
+      "Número de faixas": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07G2G7CYW?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-31T16:09:34.000Z",
     "spotlight": false
   },
   {
@@ -18527,7 +18655,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51OmHUb71RL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 1699.0,
+    "price_current": 1617.35,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -18569,7 +18697,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7,9P x 7,9L x 7,9A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F3QCWL1Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:47:21.178362+00:00",
+    "last_checked_at": "2026-07-31T16:15:18.000Z",
     "spotlight": false
   },
   {
@@ -18629,7 +18757,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/6196rZ67rvL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 298.0,
+    "price_current": 283.1,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -18684,7 +18812,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C3HCD34R?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:48:30.474820+00:00",
+    "last_checked_at": "2026-07-31T16:15:43.000Z",
     "spotlight": false
   },
   {
@@ -18791,7 +18919,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51kid9ffrFL._AC_SL1024_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 17.97,
+    "price_current": 17.07,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -18811,7 +18939,7 @@ const PRODUCTS = [
       "Peso do produto": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GKD64FST?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:49:57.069690+00:00",
+    "last_checked_at": "2026-07-31T16:16:16.000Z",
     "spotlight": false
   },
   {
@@ -18820,7 +18948,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71GIYmjfiyL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 113.9,
+    "price_current": 109.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -18847,7 +18975,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Manual de instruções"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHZHB64V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:50:21.636934+00:00",
+    "last_checked_at": "2026-07-31T16:16:28.000Z",
     "spotlight": false
   },
   {
@@ -18856,7 +18984,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51fX00xNtpL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 98.9,
+    "price_current": 89.01,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -18906,7 +19034,7 @@ const PRODUCTS = [
       "Dimensões do produto": "68P x 53,5L x 87A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076WXPCYM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:50:49.723082+00:00",
+    "last_checked_at": "2026-07-31T16:16:38.000Z",
     "spotlight": false
   },
   {
@@ -18915,7 +19043,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71PtJPMgx4L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 778.0,
+    "price_current": 739.1,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -19014,7 +19142,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7,5P x 73,5L x 47A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1R6FM9L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:51:24.989203+00:00",
+    "last_checked_at": "2026-07-31T16:16:49.000Z",
     "spotlight": false
   },
   {
@@ -19023,7 +19151,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61fcf0RVp9L._AC_SL1072_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 416.99,
+    "price_current": 396.14,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -19057,7 +19185,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Microsoft 365 Family, McAfee Premium Family"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4X5C76L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:51:55.792057+00:00",
+    "last_checked_at": "2026-07-31T16:17:01.000Z",
     "spotlight": false
   },
   {
@@ -19251,7 +19379,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ZSBXxJNYL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 399.0,
+    "price_current": 379.05,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -19315,7 +19443,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZV4QFP8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:54:22.523287+00:00",
+    "last_checked_at": "2026-07-31T16:18:03.000Z",
     "spotlight": false
   },
   {
@@ -19582,7 +19710,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61GXBxEuqnL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 598.48,
+    "price_current": 568.55,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -19639,7 +19767,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "Cabo USB 2.0 C-C de 1,5 m e adaptador tipo C para A"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4MDV9WH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:57:35.605822+00:00",
+    "last_checked_at": "2026-07-31T16:19:13.000Z",
     "spotlight": false
   },
   {
@@ -19737,7 +19865,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61cf+-dS-kL._AC_SL1254_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 615.0,
+    "price_current": 584.25,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -19772,7 +19900,7 @@ const PRODUCTS = [
       "Peso máximo recomendado": "20 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPQWDJCW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T11:59:00.882234+00:00",
+    "last_checked_at": "2026-07-31T16:19:47.000Z",
     "spotlight": false
   },
   {
@@ -20224,7 +20352,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61CldfoU16L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 129.47,
+    "price_current": 122.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -20268,7 +20396,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CM6FSPY3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T12:05:38.444100+00:00",
+    "last_checked_at": "2026-07-31T16:22:22.000Z",
     "spotlight": false
   },
   {
@@ -20318,7 +20446,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61e3-n3lLcL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 134.98,
+    "price_current": 128.23,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -20371,7 +20499,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGPVPW72?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T12:06:39.930864+00:00",
+    "last_checked_at": "2026-07-31T16:22:46.000Z",
     "spotlight": false
   },
   {
@@ -20475,7 +20603,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41pQnMqiqqL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 799.0,
+    "price_current": 719.1,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -20506,7 +20634,7 @@ const PRODUCTS = [
       "Fator de Forma": "Piso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXC5326F?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T12:08:12.243442+00:00",
+    "last_checked_at": "2026-07-31T16:23:20.000Z",
     "spotlight": false
   },
   {
@@ -20515,7 +20643,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61nm12ytu0L._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 414.82,
+    "price_current": 394.07,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -20560,7 +20688,7 @@ const PRODUCTS = [
       "Peso do produto": "15 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CSD68PQ3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T12:08:39.055798+00:00",
+    "last_checked_at": "2026-07-31T16:23:31.000Z",
     "spotlight": false
   },
   {
@@ -20708,7 +20836,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61H3dhK2+BL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 323.99,
+    "price_current": 307.79,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -20761,7 +20889,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 49L x 120A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CG8J3N2H?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T12:10:39.332733+00:00",
+    "last_checked_at": "2026-07-31T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21099,7 +21227,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71Pjf8mNLoL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 447.63,
+    "price_current": 425.24,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -21136,51 +21264,7 @@ const PRODUCTS = [
       "Peso do produto": "15 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F13FK329?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T12:14:48.046588+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FG9GWZJS",
-    "title": "Aparador de Pelos Philips All-in-One 10 em 1 Série 3000 | Máquina para Rosto, Cabelo e Corpo | Barbeador Elétrico Multigroom | MG3941/15",
-    "image": "https://m.media-amazon.com/images/I/71ilMif2TEL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 217.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 1302,
-    "coupon_code": null,
-    "description": "Este Aparador de Pelos Philips All-in-One 10 em 1 Série 3000 é uma solução versátil e prática para todos os seus cuidados pessoais, oferecendo uma variedade de acessórios para barba, cabelo, orelhas, nariz e corpo. Com bateria de Li-ion que proporciona até 70 minutos de uso sem fio após 8 horas de carregamento, garante liberdade de movimento durante o uso. Além disso, o sistema de lâminas auto-afiáveis não necessitam de lubrificação ou manutenção, mantendo o desempenho de corte consistente ao longo do tempo. Adicionalmente, este produto vem com garantia estendida de 5 anos e é equipado com",
-    "informacoes_produto": {
-      "Nome da marca": "PHILIPS",
-      "Usos recomendados do produto": "Barba, Couro cabeludo, Orelha, Peito, Pelos do nariz",
-      "Nome do modelo": "MG3941/15",
-      "Número do modelo": "MG3941/15",
-      "Componentes incluídos": "aparelho eletrico, fio carregador, pentes para corte de cabelo, pelos do corpo, detalhes, nariz e orelha",
-      "Contagem de unidades": "1.0 unidade",
-      "Fabricante": "Philips",
-      "País de origem": "Indonésia",
-      "Número da peça": "MG3941/15",
-      "ASIN": "B0FG9GWZJS",
-      "Características especiais": "Auto-afiação, Carregamento rápido, Design ergonômico, Recarregável, Sem fio",
-      "Fonte de energia": "Energia elétrica",
-      "Duração da bateria": "90 Minutos",
-      "Descrição da bateria": "Íon de lítio",
-      "Número de lâminas": "1",
-      "Peso do item": "199 Gramas",
-      "Cor": "Preto",
-      "Material da Lâmina": "Aço inoxidável",
-      "Marca": "PHILIPS",
-      "Adequação do controle por rádio": "Barba, Couro cabeludo, Orelha, Peito, Pelos do nariz",
-      "Característica Especial": "Auto-afiação, Carregamento rápido, Design ergonômico, Recarregável, Sem fio",
-      "Fonte de alimentação": "Energia elétrica",
-      "Nome do Modelo": "MG3941/15"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FG9GWZJS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-31T12:15:24.793979+00:00",
+    "last_checked_at": "2026-07-31T16:25:54.000Z",
     "spotlight": false
   },
   {
