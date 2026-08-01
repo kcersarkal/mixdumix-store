@@ -22,7 +22,7 @@ window.PEDIDOS = [
     "asin": "B0GSW85QGL",
     "titulo": "ABC Design Carrinho de Bebê Ping 3 Trekking Carrinho de Bebê Camel Alumínio Arnês de 5 Pontos Capota UV 50+ Dobrável",
     "imagem": "https://m.media-amazon.com/images/I/41gOGOS+I9L._AC_SX679_.jpg",
-    "preco": 2699.89,
+    "preco": 2564.05,
     "link": "https://www.amazon.com.br/dp/B0GSW85QGL?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "CONFORTO AJUSTÁVEL: Encosto super acolchoado com múltiplas posições de reclinação, incluindo modo totalmente plano, ideal para sonecas e passeios.. DOBRÁVEL E COMPACTO: Dimensões dobrado de 56,0 x 51,0 x 31,5 cm e peso de apenas 7,3 kg, facilitando o transporte e armazenamento.. SEGURANÇA COMPLETA: Arnês de 5 pontos ajustável com fivelas magnéticas e barra de proteção removível e articulada para maior segurança do bebê.. CAPOTA COM PROTEÇÃO UV 50+: Capota dobrável com proteção solar UV 50+ protege o bebê dos raios solares durante os passeios ao ar livre.. ESTRUTURA EM ALUMÍNIO: Estrutura leve em alumínio com cobertura têxtil removível em 100% poliéster, de fácil limpeza e manutenção."
   },
@@ -58,7 +58,7 @@ window.PEDIDOS = [
     "asin": "B093G99QBH",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61LQF0MSw3L._AC_SL1500_.jpg",
-    "preco": 20.09,
+    "preco": 20.78,
     "link": "https://www.amazon.com.br/dp/B093G99QBH?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Orelhas elásticas, garantindo mais conforto e um ajuste perfeito na cinturinha do bebê. Até 12 horas de absorção, garantindo dias e noites tranquilas. Não pesa, não cai - Canal superabsorvente, que distribui o xixi mais rápido, evitando que a fralda pese e caia entre as perninhas do bebê. Loção hidratante com extratos naturais que auxiliam na prevenção da irritação da pele. Cada tamanho tem um bichinho exclusivo da Fauna Brasileira. A embalagem pode variar."
   },
