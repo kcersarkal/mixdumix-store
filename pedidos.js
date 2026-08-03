@@ -58,7 +58,7 @@ window.PEDIDOS = [
     "asin": "B093G99QBH",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61LQF0MSw3L._AC_SL1500_.jpg",
-    "preco": 20.78,
+    "preco": 20.77,
     "link": "https://www.amazon.com.br/dp/B093G99QBH?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Orelhas elásticas, garantindo mais conforto e um ajuste perfeito na cinturinha do bebê. Até 12 horas de absorção, garantindo dias e noites tranquilas. Não pesa, não cai - Canal superabsorvente, que distribui o xixi mais rápido, evitando que a fralda pese e caia entre as perninhas do bebê. Loção hidratante com extratos naturais que auxiliam na prevenção da irritação da pele. Cada tamanho tem um bichinho exclusivo da Fauna Brasileira. A embalagem pode variar."
   },
