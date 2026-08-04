@@ -67,7 +67,7 @@ window.PEDIDOS = [
     "asin": "B09MZXLW51",
     "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
     "imagem": "https://m.media-amazon.com/images/I/61dN-GFMm8L._AC_SL1000_.jpg",
-    "preco": 34.99,
+    "preco": 33.23,
     "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Fecho abre e fecha fácil: ajusta quantas vezes precisar. Tecnologia air sec: camada externa respirável, o que proporciona pele sequinha e saudável. Até 12 horas de proteção. Sistema Pró Comfort + Super canais de rápida absorção.. Orelhas Elásticas. Camada Externa Ultrarrespirável"
   },
