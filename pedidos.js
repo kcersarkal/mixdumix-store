@@ -13,7 +13,7 @@ window.PEDIDOS = [
     "asin": "B0F5X5CP4G",
     "titulo": "Samsung Vision AI TV 50&#34; QLED 4K Q7F 4K 2025",
     "imagem": "https://m.media-amazon.com/images/I/81JGZqS1yKL._AC_SL1500_.jpg",
-    "preco": 2528.67,
+    "preco": 2324.07,
     "link": "https://www.amazon.com.br/dp/B0F5X5CP4G?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Vision AI: QLED de Verdade: Mais de 1 bilhão de cores verdadeiras na sua tela. A Tecnologia de Pontos Quânticos garante que seus conteúdos tenham 100% do volume de cor, ressaltados com naturalidade através de uma camada de cristais associada ao Color Booster com AI. Tudo isso na primeira TV certificada pela PANTONE, referência mundial em especificação de cores. Além disso, é um produto sem cádmio em sua composição, um metal pesado danoso à saúde e ao meio ambiente.. Vision AI: Controle por Gestos: Comande a sua TV através de movimentos. Controle sua TV por meio de gestos usando um relógio Galaxy Watch. Mova o cursor, selecione aplicativos e realize outras ações ou também dê comandos pelo celular, por meio do aplicativo SmartThings.. Vision AI: Função Karaokê: Transforme a sua casa em uma festa. Tenha acesso a mais de cem mil músicas, desde clássicos até lançamentos, para transformar a sua casa em um karaokê, utilizando o celular como microfone, por meio do aplicativo Stingray Music.. Vision AI: Papel de parede gerado por AI: A Inteligência Artificial cria um papel de parede personalizado para a TV. Aproveite a AI para gerar imagens estáticas baseadas em seu humor e interesses, para deixar a sua TV integrada ao seu ambiente.. Vision AI: Processador Q4 AI: A Inteligência Artificial transforma seu conteúdo em até 4K. Otimização de seu conteúdo em qualquer qualidade para uma resolução de até 4K com o processador AI exclusivo da Samsung.. Sua TV atualizada por 7 anos com o Sistema Operacional One UI Tizen: A sua AI TV sempre atualizada. Acesse seus conteúdos e apps de streaming, sugeridos conforme você usa sua TV, e, melhor ainda, com a certeza de que você terá uma TV com sistema operacional atualizado.. Samsung TV Plus e Gaming Hub: Sua TV com Xbox Cloud Gaming e centenas de canais gratuitos. Acesse milhares de jogos nas plataformas Xbox Cloud Gaming e Nvidia GeForce Now, sem necessidade de downloads ou de consoles. E, com o Samsung TV Plus e apps parceiros*, desfrute de canais de filmes, notícias, infantil, esportes, novelas e músicas, tudo grátis e sem assinatura."
   },
@@ -40,7 +40,7 @@ window.PEDIDOS = [
     "asin": "B083LGFDGJ",
     "titulo": "Notebook Acer Aspire 5 A515-45-R043 AMD Ryzen 5 Tela 15.6” 16 GB RAM 512 GB SSD Full HD LED IPS Windows 11 Home",
     "imagem": "https://m.media-amazon.com/images/I/61lLvuwZaKL._AC_SL1000_.jpg",
-    "preco": 4199,
+    "preco": 3979.89,
     "link": "https://www.amazon.com.br/dp/B083LGFDGJ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Processador AMD Ryzen 5 5500U com 6 núcleos. Tela 15.6”com resolução Full HD. Memória RAM DDR4. 512 GB de armazenamento em SSD NVMe. Top cover em alumínio"
   },
