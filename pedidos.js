@@ -4,7 +4,7 @@ window.PEDIDOS = [
     "asin": "B0FLGD78Z4",
     "titulo": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
     "imagem": "https://m.media-amazon.com/images/I/51MIeqZCK8L._AC_SX679_.jpg",
-    "preco": 2474.76,
+    "preco": 2340.0,
     "link": "https://www.amazon.com.br/dp/B0FLGD78Z4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD"
   },
@@ -49,7 +49,7 @@ window.PEDIDOS = [
     "asin": "B0BTTLYZN9",
     "titulo": "Personal Fralda Baby Total Protect Pants Grande, 44 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51zr7O3WDxL._AC_SL1000_.jpg",
-    "preco": 48.5,
+    "preco": 55.52,
     "link": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Fácil de vestir e fácil de tirar. Cintura com ajuste perfeito que não aperta a barriguinha. Rápida Absorção 3D Ultrarrespirável - Até 12hrs de Proteção. Ajuste Perfeito Não Aperta Barriguinha e Perninhas. Tecnologia Japonesa"
   },
