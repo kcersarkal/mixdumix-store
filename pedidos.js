@@ -4,7 +4,7 @@ window.PEDIDOS = [
     "asin": "B0FLGD78Z4",
     "titulo": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
     "imagem": "https://m.media-amazon.com/images/I/51MIeqZCK8L._AC_SX679_.jpg",
-    "preco": 2340.0,
+    "preco": 2340,
     "link": "https://www.amazon.com.br/dp/B0FLGD78Z4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD"
   },
@@ -79,5 +79,14 @@ window.PEDIDOS = [
     "preco": 65.58,
     "link": "https://www.amazon.com.br/dp/B0GQFR9YWN?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Material premium em aço inoxidável 18/8: Fabricado em aço inoxidável 18/8 grau alimentício, seguro, não tóxico e livre de BPA (BPA-Free). Design de dupla parede com vácuo para máxima eficiência térmica, mantendo bebidas quentes ou geladas por até 24 horas e evitando condensação externa.. Design à prova de vazamentos: Tampa aprimorada com vedação 360°, garantindo que não vaze mesmo quando virado de qualquer maneira. Perfeito para levar na mochila, viagens, deslocamentos ou atividades ao ar livre sem preocupações.. Uso fácil e limpeza prática: Boca larga para adicionar gelo, preparar bebidas e facilitar a lavagem. Tampa removível com vedação de silicone grau alimentício, evitando acúmulo de resíduos. Inclui alça de mão e corda de pára-quedas resistente para transporte conveniente.. Resistente e antiderrapante: Capacidade de 950ml ideal para o dia a dia. Revestimento resistente a arranhões e textura antiderrapante para melhor aderência, perfeito para trilhas, academia, escritório ou uso diário.. Presente perfeito: Design elegante e embalagem sofisticada, ideal para presentear familiares, amigos ou colegas em aniversários, datas especiais ou como gesto de cuidado, promovendo hábitos de hidratação saudável."
+  },
+  {
+    "id": "B07DYHDXX8",
+    "asin": "B07DYHDXX8",
+    "titulo": "OMO Lavagem Perfeita - Sabão Líquido 5L",
+    "imagem": "https://m.media-amazon.com/images/I/71bXBFl912L._AC_SL1500_.jpg",
+    "preco": 49.99,
+    "link": "https://www.amazon.com.br/dp/B07DYHDXX8?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "OMO Lavagem Perfeita deixa as suas roupas impecáveis, já que remove as manchas de primeira*. A fórmula do sabão líquido OMO possui perfume exclusivo que dura muito mais, isso tudo cuidando das cores e dos tecidos das suas roupas. O detergente OMO é imbatível na limpeza* e cuida do meio ambiente, pois sua fórmula contém ativos biodegradáveis. Este lava roupas cuida das cores e não deixa resíduos que danificam os tecidos, deixando suas roupas com cheirinho de limpeza. OMO Lavagem Perfeita cuida das cores sem danificar os tecidos e deixa suas roupas com cheirinho de limpeza"
   }
 ];
