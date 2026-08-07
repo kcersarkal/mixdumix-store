@@ -104,5 +104,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "",
     "descricao": ""
+  },
+  {
+    "id": "B0FMRDTBWQ",
+    "asin": "B0FMRDTBWQ",
+    "titulo": "MODUS Garrafa Térmica 1700ml - Duplamente Isolada a Vácuo, Canudo | Base Emborrachada Anti Derrapante, Mantém Bebidas Quentes por 12 Horas e Geladas por 24 Horas",
+    "imagem": "https://m.media-amazon.com/images/I/61wMGt22m8L._AC_SL1200_.jpg",
+    "preco": 86.33,
+    "link": "https://www.amazon.com.br/dp/B0FMRDTBWQ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "TAMPA COM CANUDO AUTOMÁTICO, ACIONAMENTO COM UM TOQUE: Basta pressionar o botão para o canudo surgir automaticamente, facilitando a hidratação com apenas uma mão. Trava de segurança e tampa anti-pó garantem vedação 100% à prova de vazamentos, perfeito para levar na bolsa ou mochila sem preocupações.. AÇO INOXIDÁVEL 18/8 PREMIUM, MATERIAL SAUDÁVEL E SEGURO: Feito com aço inoxidável 18/8 grau alimentício, livre de BPA, resistente à corrosão e sem retenção de odores. Mantém a água pura e fresca para um consumo diário mais saudável.. ISOTÉRMICO EFICIENTE, MANTÉM TEMPERATURAS POR HORAS: Excelente retenção de temperatura: bebidas geladas ficam frescas por 12–24 horas e bebidas quentes por 6–12 horas. Com capacidade generosa de 1700 ml, é ideal para viagens, escritório ou atividades ao ar livre.. BOCA LARGA PARA ENCHER E LIMPAR COM FACILIDADE: Abertura ampla permite adicionar gelo, encher rapidamente e lavar sem esforço. O canudo removível facilita a limpeza profunda, evitando acúmulo de resíduos.. ALÇA ERGONÔMICA, PORTÁTIL E FIRME: Alça grande e resistente proporciona conforto no transporte, seja no dia a dia, academia ou aventuras. Praticalidade para se hidratar a qualquer momento!"
   }
 ];
