@@ -4,7 +4,7 @@ window.PEDIDOS = [
     "asin": "B0FLGD78Z4",
     "titulo": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
     "imagem": "https://m.media-amazon.com/images/I/51MIeqZCK8L._AC_SX679_.jpg",
-    "preco": 2349.0,
+    "preco": 2349,
     "link": "https://www.amazon.com.br/dp/B0FLGD78Z4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD"
   },
@@ -88,5 +88,14 @@ window.PEDIDOS = [
     "preco": 49.99,
     "link": "https://www.amazon.com.br/dp/B07DYHDXX8?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "OMO Lavagem Perfeita deixa as suas roupas impecáveis, já que remove as manchas de primeira*. A fórmula do sabão líquido OMO possui perfume exclusivo que dura muito mais, isso tudo cuidando das cores e dos tecidos das suas roupas. O detergente OMO é imbatível na limpeza* e cuida do meio ambiente, pois sua fórmula contém ativos biodegradáveis. Este lava roupas cuida das cores e não deixa resíduos que danificam os tecidos, deixando suas roupas com cheirinho de limpeza. OMO Lavagem Perfeita cuida das cores sem danificar os tecidos e deixa suas roupas com cheirinho de limpeza"
+  },
+  {
+    "id": "B0F89VV1YS",
+    "asin": "B0F89VV1YS",
+    "titulo": "MODUS Garrafa Térmica Esportiva De Inox Com Isolamento A Vácuo 950ML | Verde",
+    "imagem": "https://m.media-amazon.com/images/I/61XlEtHpMzL._AC_SL1200_.jpg",
+    "preco": 63.78,
+    "link": "https://www.amazon.com.br/dp/B0F89VV1YS?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "MATERIAIS DE QUALIDADE: Essa chaleira de metal é feita de aço inoxidável 304 de alta qualidade, durável, atóxico, sem BPA e inodoro, garantindo que suas bebidas sejam seguras e saudáveis.. ISOLAMENTO A VÁCUO: A Thermo Kettle apresenta isolamento de aço inoxidável de camada dupla que mantém as bebidas frias por até 24 horas e quentes por até 12 horas, garantindo que você possa desfrutar de suas bebidas favoritas na temperatura perfeita durante todo o dia.. CINTA DE LONA: Essa garrafa de água de aço inoxidável vem com um cordão para que você possa carregá-la com conforto e estilo. Perfeita para acampamentos, caminhadas, ciclismo e montanhismo.. FÁCIL DE USAR: Garrafa de água grande com boca larga, você pode adicionar facilmente cubos de gelo e chá de frutas na garrafa, além de ser fácil de limpar.. O PRESENTE DE ESTILO DE VIDA PERFEITO: esta chaleira de qualidade superior é o presente perfeito para sua família, mãe, pai, marido, esposa, amante, vizinho, amigo ou colega."
   }
 ];
