@@ -81,15 +81,6 @@ window.PEDIDOS = [
     "descricao": "OMO Lavagem Perfeita deixa as suas roupas impecáveis, já que remove as manchas de primeira*. A fórmula do sabão líquido OMO possui perfume exclusivo que dura muito mais, isso tudo cuidando das cores e dos tecidos das suas roupas. O detergente OMO é imbatível na limpeza* e cuida do meio ambiente, pois sua fórmula contém ativos biodegradáveis. Este lava roupas cuida das cores e não deixa resíduos que danificam os tecidos, deixando suas roupas com cheirinho de limpeza. OMO Lavagem Perfeita cuida das cores sem danificar os tecidos e deixa suas roupas com cheirinho de limpeza"
   },
   {
-    "id": "B0F89VV1YS",
-    "asin": "B0F89VV1YS",
-    "titulo": "MODUS Garrafa Térmica Esportiva De Inox Com Isolamento A Vácuo 950ML | Verde",
-    "imagem": "https://m.media-amazon.com/images/I/61XlEtHpMzL._AC_SL1200_.jpg",
-    "preco": 63.78,
-    "link": "https://www.amazon.com.br/dp/B0F89VV1YS?tag=mixstore04b3-20&ref_=mixdumix_pedido",
-    "descricao": "MATERIAIS DE QUALIDADE: Essa chaleira de metal é feita de aço inoxidável 304 de alta qualidade, durável, atóxico, sem BPA e inodoro, garantindo que suas bebidas sejam seguras e saudáveis.. ISOLAMENTO A VÁCUO: A Thermo Kettle apresenta isolamento de aço inoxidável de camada dupla que mantém as bebidas frias por até 24 horas e quentes por até 12 horas, garantindo que você possa desfrutar de suas bebidas favoritas na temperatura perfeita durante todo o dia.. CINTA DE LONA: Essa garrafa de água de aço inoxidável vem com um cordão para que você possa carregá-la com conforto e estilo. Perfeita para acampamentos, caminhadas, ciclismo e montanhismo.. FÁCIL DE USAR: Garrafa de água grande com boca larga, você pode adicionar facilmente cubos de gelo e chá de frutas na garrafa, além de ser fácil de limpar.. O PRESENTE DE ESTILO DE VIDA PERFEITO: esta chaleira de qualidade superior é o presente perfeito para sua família, mãe, pai, marido, esposa, amante, vizinho, amigo ou colega."
-  },
-  {
     "id": "B0FMRDTBWQ",
     "asin": "B0FMRDTBWQ",
     "titulo": "MODUS Garrafa Térmica 1700ml - Duplamente Isolada a Vácuo, Canudo | Base Emborrachada Anti Derrapante, Mantém Bebidas Quentes por 12 Horas e Geladas por 24 Horas",
@@ -97,5 +88,14 @@ window.PEDIDOS = [
     "preco": 86.33,
     "link": "https://www.amazon.com.br/dp/B0FMRDTBWQ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "TAMPA COM CANUDO AUTOMÁTICO, ACIONAMENTO COM UM TOQUE: Basta pressionar o botão para o canudo surgir automaticamente, facilitando a hidratação com apenas uma mão. Trava de segurança e tampa anti-pó garantem vedação 100% à prova de vazamentos, perfeito para levar na bolsa ou mochila sem preocupações.. AÇO INOXIDÁVEL 18/8 PREMIUM, MATERIAL SAUDÁVEL E SEGURO: Feito com aço inoxidável 18/8 grau alimentício, livre de BPA, resistente à corrosão e sem retenção de odores. Mantém a água pura e fresca para um consumo diário mais saudável.. ISOTÉRMICO EFICIENTE, MANTÉM TEMPERATURAS POR HORAS: Excelente retenção de temperatura: bebidas geladas ficam frescas por 12–24 horas e bebidas quentes por 6–12 horas. Com capacidade generosa de 1700 ml, é ideal para viagens, escritório ou atividades ao ar livre.. BOCA LARGA PARA ENCHER E LIMPAR COM FACILIDADE: Abertura ampla permite adicionar gelo, encher rapidamente e lavar sem esforço. O canudo removível facilita a limpeza profunda, evitando acúmulo de resíduos.. ALÇA ERGONÔMICA, PORTÁTIL E FIRME: Alça grande e resistente proporciona conforto no transporte, seja no dia a dia, academia ou aventuras. Praticalidade para se hidratar a qualquer momento!"
+  },
+  {
+    "id": "B0F89VV1YS",
+    "asin": "B0F89VV1YS",
+    "titulo": "MODUS Garrafa Térmica Esportiva De Inox Com Isolamento A Vácuo 950ML | Verde",
+    "imagem": "https://m.media-amazon.com/images/I/61XlEtHpMzL._AC_SL1200_.jpg",
+    "preco": 63.78,
+    "link": "https://www.amazon.com.br/dp/B0F89VV1YS?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "MATERIAIS DE QUALIDADE: Essa chaleira de metal é feita de aço inoxidável 304 de alta qualidade, durável, atóxico, sem BPA e inodoro, garantindo que suas bebidas sejam seguras e saudáveis.. ISOLAMENTO A VÁCUO: A Thermo Kettle apresenta isolamento de aço inoxidável de camada dupla que mantém as bebidas frias por até 24 horas e quentes por até 12 horas, garantindo que você possa desfrutar de suas bebidas favoritas na temperatura perfeita durante todo o dia.. CINTA DE LONA: Essa garrafa de água de aço inoxidável vem com um cordão para que você possa carregá-la com conforto e estilo. Perfeita para acampamentos, caminhadas, ciclismo e montanhismo.. FÁCIL DE USAR: Garrafa de água grande com boca larga, você pode adicionar facilmente cubos de gelo e chá de frutas na garrafa, além de ser fácil de limpar.. O PRESENTE DE ESTILO DE VIDA PERFEITO: esta chaleira de qualidade superior é o presente perfeito para sua família, mãe, pai, marido, esposa, amante, vizinho, amigo ou colega."
   }
 ];
