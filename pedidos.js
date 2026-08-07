@@ -40,7 +40,7 @@ window.PEDIDOS = [
     "asin": "B083LGFDGJ",
     "titulo": "Notebook Acer Aspire 5 A515-45-R043 AMD Ryzen 5 Tela 15.6” 16 GB RAM 512 GB SSD Full HD LED IPS Windows 11 Home",
     "imagem": "https://m.media-amazon.com/images/I/61lLvuwZaKL._AC_SL1000_.jpg",
-    "preco": 3979.89,
+    "preco": 4199.0,
     "link": "https://www.amazon.com.br/dp/B083LGFDGJ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Processador AMD Ryzen 5 5500U com 6 núcleos. Tela 15.6”com resolução Full HD. Memória RAM DDR4. 512 GB de armazenamento em SSD NVMe. Top cover em alumínio"
   },
@@ -58,7 +58,7 @@ window.PEDIDOS = [
     "asin": "B093G99QBH",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61LQF0MSw3L._AC_SL1500_.jpg",
-    "preco": 20.77,
+    "preco": 28.41,
     "link": "https://www.amazon.com.br/dp/B093G99QBH?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Orelhas elásticas, garantindo mais conforto e um ajuste perfeito na cinturinha do bebê. Até 12 horas de absorção, garantindo dias e noites tranquilas. Não pesa, não cai - Canal superabsorvente, que distribui o xixi mais rápido, evitando que a fralda pese e caia entre as perninhas do bebê. Loção hidratante com extratos naturais que auxiliam na prevenção da irritação da pele. Cada tamanho tem um bichinho exclusivo da Fauna Brasileira. A embalagem pode variar."
   },
