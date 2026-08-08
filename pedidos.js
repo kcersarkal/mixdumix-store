@@ -115,5 +115,14 @@ window.PEDIDOS = [
     "preco": 44,
     "link": "https://www.amazon.com.br/dp/B07MC6RLN4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "5 Níveis de Velocidade DPI: 1200-2400-3500-5500-6000-7200. Design Ergonômico com Base Antiderrapante. Encaixa perfeitamente na mão, evitando fadiga por longo tempo de uso. Software dedicado para configurações de teclas e macros"
+  },
+  {
+    "id": "B0BY6Y8ZCP",
+    "asin": "B0BY6Y8ZCP",
+    "titulo": "Havit Mouse Gamer MS1038 RGB Programável, 7 Botões, 1200-2400-3200-4800-6400-8000 DPI, USB, Design Ergonômico",
+    "imagem": "https://m.media-amazon.com/images/I/6159Q7n0PFL._AC_SL1500_.jpg",
+    "preco": 49.82,
+    "link": "https://www.amazon.com.br/dp/B0BY6Y8ZCP?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Mouse gamer com iluminação RGB, 7 botões programáveis e 6 níveis de DPI ajustável: 1200, 2400, 3200, 4800, 6400 e 8000 DPI. Design ergonômico moderno na cor preta e tamanho médio, proporcionando conforto e controle durante longas sessões de uso. Conexão via USB plug-and-play, compatível com computador pessoal, sem necessidade de baterias para funcionamento"
   }
 ];
