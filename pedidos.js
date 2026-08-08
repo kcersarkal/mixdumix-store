@@ -40,7 +40,7 @@ window.PEDIDOS = [
     "asin": "B083LGFDGJ",
     "titulo": "Notebook Acer Aspire 5 A515-45-R043 AMD Ryzen 5 Tela 15.6” 16 GB RAM 512 GB SSD Full HD LED IPS Windows 11 Home",
     "imagem": "https://m.media-amazon.com/images/I/61lLvuwZaKL._AC_SL1000_.jpg",
-    "preco": 4199.0,
+    "preco": 4199,
     "link": "https://www.amazon.com.br/dp/B083LGFDGJ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Processador AMD Ryzen 5 5500U com 6 núcleos. Tela 15.6”com resolução Full HD. Memória RAM DDR4. 512 GB de armazenamento em SSD NVMe. Top cover em alumínio"
   },
@@ -97,5 +97,14 @@ window.PEDIDOS = [
     "preco": 63.78,
     "link": "https://www.amazon.com.br/dp/B0F89VV1YS?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "MATERIAIS DE QUALIDADE: Essa chaleira de metal é feita de aço inoxidável 304 de alta qualidade, durável, atóxico, sem BPA e inodoro, garantindo que suas bebidas sejam seguras e saudáveis.. ISOLAMENTO A VÁCUO: A Thermo Kettle apresenta isolamento de aço inoxidável de camada dupla que mantém as bebidas frias por até 24 horas e quentes por até 12 horas, garantindo que você possa desfrutar de suas bebidas favoritas na temperatura perfeita durante todo o dia.. CINTA DE LONA: Essa garrafa de água de aço inoxidável vem com um cordão para que você possa carregá-la com conforto e estilo. Perfeita para acampamentos, caminhadas, ciclismo e montanhismo.. FÁCIL DE USAR: Garrafa de água grande com boca larga, você pode adicionar facilmente cubos de gelo e chá de frutas na garrafa, além de ser fácil de limpar.. O PRESENTE DE ESTILO DE VIDA PERFEITO: esta chaleira de qualidade superior é o presente perfeito para sua família, mãe, pai, marido, esposa, amante, vizinho, amigo ou colega."
+  },
+  {
+    "id": "B087CT8PWY",
+    "asin": "B087CT8PWY",
+    "titulo": "Mouse Gamer Logitech G203 LIGHTSYNC RGB, Efeito de Ondas de Cores, 6 Botões Programáveis e Até 8.000 DPI - Preto",
+    "imagem": "https://m.media-amazon.com/images/I/61oE1NouXuL._AC_SL1500_.jpg",
+    "preco": 96.9,
+    "link": "https://www.amazon.com.br/dp/B087CT8PWY?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Sensor de 8.000 DPI - O sensor de nível avançado para jogos responde com precisão aos seus movimentos. Personalize as configurações para se adequar à sensibilidade que você gosta com o software de jogos Logitech G HUB e alterne facilmente até 5 configurações de DPI.. LIGHTSYNC RGB - Jogue em cores com nosso mais vibrante LIGHTSYNC RGB, com efeitos de ondas de cores personalizáveis em aproximadamente 16,8 milhões de cores. Instale o software Logitech G HUB para escolher cores e animações predefinidas ou criar suas próprias.. Design clássico, testado por jogadores - Jogue confortavelmente e com controle total. O layout simples de 6 botões e o formato clássico para jogos formam um design confortável, testado e amado. Cada botão pode ser personalizado usando o software Logitech G HUB para simplificar as tarefas.. Tensionamento de botões por mola de metal - Fornece acionamento preciso dos botões e experiência consistente - clique após clique.. Disponível em 4 cores: Estilo no jogo importa, escolha a sua cor e prepare-se para jogar."
   }
 ];
