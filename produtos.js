@@ -27980,7 +27980,7 @@ const PRODUCTS = [
       "Número de elementos de aquecimento": "4",
       "Cor do Acabamento": "Inox",
       "Número de grelhas": "2",
-      "Tipo de combustível": "G�s",
+      "Tipo de combustível": "Gás",
       "Tipo de montagem": "pontapé",
       "Material": "Aço inoxidável",
       "Tipo de acabamento": "Acabamento em aço inoxidável",

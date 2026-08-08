@@ -4,7 +4,11 @@ import google.generativeai as genai
 import time
 
 # --- CONFIGURACAO ---
-API_KEY = "SAIzaSyA-FE8rLTRzFtNOOhGvCs6n9PnZTG4FAkk" # Substitua pela sua chave do Google AI Studio
+# A chave da API deve ser fornecida pela variavel de ambiente (nunca deve ficar no codigo).
+API_KEY = os.getenv("GEMINI_API_KEY")
+if not API_KEY:
+    raise SystemExit("GEMINI_API_KEY nao configurada. Defina a variavel de ambiente GEMINI_API_KEY e execute novamente.")
+
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 

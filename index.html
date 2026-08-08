@@ -3,22 +3,22 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ofertas Amazon, Eletrônicos, Casa e Fitness | Mix Du Mix Store</title>
-<meta name="description" content="Ofertas selecionadas da Amazon, atualizadas o dia todo. Preços verificados, cupons e descontos reais.">
+<title>Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store</title>
+<meta name="description" content="Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://kcersarkal.github.io/mixdumix-store/">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Mix Du Mix Store">
-<meta property="og:title" content="Ofertas Amazon, Eletrônicos, Casa e Fitness | Mix Du Mix Store">
-<meta property="og:description" content="Ofertas selecionadas da Amazon, atualizadas o dia todo. Preços verificados, cupons e descontos reais.">
+<meta property="og:title" content="Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store">
+<meta property="og:description" content="Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.">
 <meta property="og:url" content="https://kcersarkal.github.io/mixdumix-store/">
 <meta property="og:image" content="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
 <meta property="og:locale" content="pt_BR">
 
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Mix Du Mix Store">
-<meta name="twitter:description" content="Ofertas selecionadas atualizadas to do dia.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store">
+<meta name="twitter:description" content="Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.">
 <meta name="twitter:image" content="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
 
 <meta name="theme-color" content="#111111">
@@ -30,7 +30,7 @@
   "@type":"WebSite",
   "name":"Mix Du Mix Store",
   "url":"https://kcersarkal.github.io/mixdumix-store/",
-  "description":"Ofertas selecionadas da Amazon, atualizadas o dia todo. Preços verificados, cupons e descontos reais.",
+  "description":"Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.",
   "inLanguage":"pt-BR",
   "potentialAction":{
     "@type":"SearchAction",
@@ -111,12 +111,15 @@ a { text-decoration:none; color:inherit; }
 .spotlight { margin:40px 0 48px; }
 .spotlight-label { font-family:var(--font-display); font-size:20px; color:var(--orange-dark); letter-spacing:1px; margin-bottom:16px; }
 .spotlight { overflow:hidden; }
-.spotlight-card { background:var(--white); border-radius:24px; border:1px solid var(--card-border); box-shadow:var(--shadow-spotlight); display:grid; grid-template-columns:1fr 1.1fr; height:440px; transition: transform 0.45s ease, opacity 0.45s ease; }
+.spotlight-card { background:var(--white); border-radius:24px; border:1px solid var(--card-border); box-shadow:var(--shadow-spotlight); display:grid; grid-template-columns:45fr 55fr; height:380px; transition: transform 0.45s ease, opacity 0.45s ease; }
 .spotlight-card.slide-in-right { transform: scale(0.88); opacity: 0; }
-.spotlight-img { background:radial-gradient(circle, #FFFFFF 0%, #F3F1EC 100%); display:flex; align-items:center; justify-content:center; padding:32px; position:relative; height:100%; overflow:hidden; border-radius:24px 0 0 24px; }
+.spotlight-img { background:radial-gradient(circle, #FFFFFF 0%, #F3F1EC 100%); display:flex; align-items:center; justify-content:center; padding:24px; position:relative; height:100%; min-width:0; overflow:hidden; border-radius:24px 0 0 24px; }
 .spotlight-img img { max-width:100%; max-height:100%; width:auto; height:auto; object-fit:contain; }
-.spotlight-body { padding:40px 44px 40px 24px; display:flex; flex-direction:column; justify-content:center; }
-.spotlight-title { font-size:28px; font-weight:800; line-height:1.2; margin:0 0 12px; }
+.spotlight-body { padding:36px 36px 36px 20px; display:flex; flex-direction:column; justify-content:flex-start; min-width:0; }
+.spotlight-title { font-size:22px; font-weight:800; line-height:1.25; margin:0 0 10px; min-height:3.75em; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+.spotlight-body > .price-row { margin-top:24px; }
+.spotlight-body .discount-badge, .spotlight-body .price-original { display:none; }
+.spotlight-card .price-current { font-size:34px !important; }
 .spotlight-desc { color:var(--gray-text); font-size:15px; line-height:1.6; margin-bottom:24px; }
 .dots { display:flex; gap:8px; justify-content:center; margin-top:20px; }
 .dot-indicator { width:10px; height:10px; border-radius:50%; background:var(--card-border); border:none; cursor:pointer; transition:background .2s; padding:0; }
@@ -128,6 +131,44 @@ a { text-decoration:none; color:inherit; }
 .carousel-arrow.prev { left:12px; }
 .carousel-arrow.next { right:12px; }
 .carousel-arrow svg { width:20px; height:20px; }
+
+/* ===== Hero: texto institucional + carrossel ===== */
+.hero { display:grid; grid-template-columns:0.85fr 1.35fr; gap:32px; align-items:center; margin:44px 0 56px; }
+.hero > * { min-width:0; }
+.hero-text { max-width:460px; }
+.hero-title { font-family:var(--font-display); font-size:clamp(30px, 3.6vw, 46px); line-height:1.12; margin:0 0 14px; color:var(--black); letter-spacing:0.2px; }
+.hero-subtitle { font-size:clamp(17px, 1.7vw, 21px); font-weight:700; color:var(--black); margin:0 0 12px; }
+.hero-tagline { font-size:15px; font-weight:600; color:var(--orange-dark); margin:0; }
+.hero .spotlight { margin:0; width:100%; }
+
+/* Hero: notebooks e telas intermediárias (redução proporcional) */
+@media (max-width:1200px) {
+  .hero { gap:40px; margin:36px 0 48px; }
+  .hero-title { font-size:34px; }
+  .hero-subtitle { font-size:18px; }
+  .spotlight-card { height:360px; }
+  .spotlight-title { font-size:20px; }
+  .spotlight-body { padding:28px 32px 28px 20px; }
+}
+
+/* Hero: tablet e celular (empilha: texto acima, carrossel abaixo) */
+@media (max-width:980px) {
+  .hero { grid-template-columns:1fr; gap:24px; margin:28px 0 44px; }
+  .hero-text { max-width:none; }
+  .hero-title { font-size:30px; }
+  .hero-subtitle { font-size:18px; }
+  .hero-tagline { font-size:14.5px; }
+  .spotlight-card { height:auto; }
+}
+
+/* Hero: celular */
+@media (max-width:640px) {
+  .hero { gap:18px; margin:20px 0 36px; }
+  .hero-title { font-size:25px; }
+  .hero-subtitle { font-size:16px; }
+  .hero-tagline { font-size:13.5px; }
+  .spotlight-card .price-current { font-size:28px !important; }
+}
 
 .discount-badge { position:relative; width:64px; height:64px; border-radius:50%; background:var(--black); color:var(--white); display:flex; align-items:center; justify-content:center; flex-direction:column; flex-shrink:0; }
 .discount-badge::before { content:''; position:absolute; inset:-5px; border-radius:50%; border:2px solid var(--orange); }
@@ -255,7 +296,7 @@ a { text-decoration:none; color:inherit; }
   .grid { grid-template-columns:repeat(3,1fr); }
   .spotlight-card { grid-template-columns:1fr; min-height:380px; }
   .spotlight-img { padding:24px; min-height:220px; }
-  .spotlight-title { display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+  .spotlight-title { display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
   .product-detail { grid-template-columns:1fr; padding:28px; }
   .footer-grid { grid-template-columns:1fr; }
 }
@@ -276,7 +317,7 @@ a { text-decoration:none; color:inherit; }
 
 <header class="site-header">
   <div class="container">
-    <a class="brand" onclick="navigate('home')">
+    <a class="brand" href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">
       <img class="logo-mark" src="https://kcersarkal.github.io/mixdumix-store/assets/logo.png" alt="Mix Du Mix Store" style="border-radius:50%;">
       <div class="brand-text">
         <span class="name">MIX DU MIX</span>
@@ -289,10 +330,10 @@ a { text-decoration:none; color:inherit; }
       <span></span>
     </button>
     <nav class="header-nav">
-      <a data-nav-view="home" onclick="navigate('home')" tabindex="0" role="link" onkeydown="if(event.key==='Enter'){navigate('home')}">Ofertas</a>
-      <a data-nav-view="pedidos" onclick="navigate('pedidos')" tabindex="0" role="link" onkeydown="if(event.key==='Enter'){navigate('pedidos')}">Pedidos</a>
-      <a data-nav-view="sobre" onclick="navigate('sobre')" tabindex="0" role="link" onkeydown="if(event.key==='Enter'){navigate('sobre')}">Sobre</a>
-      <a data-nav-view="contato" onclick="navigate('contato')" tabindex="0" role="link" onkeydown="if(event.key==='Enter'){navigate('contato')}">Contato</a>
+      <a data-nav-view="home" href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">Ofertas</a>
+      <a data-nav-view="pedidos" href="?view=pedidos" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('pedidos');return false;}">Pedidos</a>
+      <a data-nav-view="sobre" href="?view=sobre" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('sobre');return false;}">Sobre</a>
+      <a data-nav-view="contato" href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');return false;}">Contato</a>
     </nav>
   </div>
   <div class="search-wrap">
@@ -300,10 +341,10 @@ a { text-decoration:none; color:inherit; }
     <button class="search-btn" onclick="onSearchInput(document.getElementById('search-input').value)">Buscar</button>
   </div>
   <div class="mobile-menu" id="mobile-menu">
-    <a data-nav-view="home" onclick="navigate('home');toggleMenu()">Ofertas</a>
-    <a data-nav-view="pedidos" onclick="navigate('pedidos');toggleMenu()">Pedidos</a>
-    <a data-nav-view="sobre" onclick="navigate('sobre');toggleMenu()">Sobre</a>
-    <a data-nav-view="contato" onclick="navigate('contato');toggleMenu()">Contato</a>
+    <a data-nav-view="home" href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');toggleMenu();return false;}">Ofertas</a>
+    <a data-nav-view="pedidos" href="?view=pedidos" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('pedidos');toggleMenu();return false;}">Pedidos</a>
+    <a data-nav-view="sobre" href="?view=sobre" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('sobre');toggleMenu();return false;}">Sobre</a>
+    <a data-nav-view="contato" href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');toggleMenu();return false;}">Contato</a>
   </div>
 </header>
 
@@ -311,10 +352,17 @@ a { text-decoration:none; color:inherit; }
 
   <!-- HOME -->
   <section data-view="home" class="active">
-    <div class="spotlight" id="spotlight-slot"></div>
+    <div class="hero">
+      <div class="hero-text">
+        <h1 class="hero-title">Seu próximo desconto está aqui.</h1>
+        <p class="hero-subtitle">As ofertas que você procurava.</p>
+        <p class="hero-tagline">Economia com qualidade e confiança.</p>
+      </div>
+      <div class="spotlight" id="spotlight-slot"></div>
+    </div>
 
     <div class="section-heading" style="margin-bottom:8px;">
-      <h2 style="font-size:14px;color:var(--gray-text-light);font-weight:500;font-family:var(--font-body);">Ofertas Amazon Atualizadas Diariamente</h2>
+      <h2 style="font-size:14px;color:var(--gray-text-light);font-weight:500;font-family:var(--font-body);">Ofertas Atualizadas Diariamente</h2>
     </div>
     <div class="section-heading">
       <h2>Todas as ofertas</h2>
@@ -385,7 +433,7 @@ a { text-decoration:none; color:inherit; }
       <p>Não coletamos nome, e-mail, IP ou qualquer informação pessoal através do site. Os únicos dados processados são aqueles gerenciados diretamente pela Amazon quando você clica em um link de afiliado.</p>
 
       <h2>Direitos LGPD</h2>
-      <p>Você tem o direito de solicitar a qualquer momento a exclusão de quaisquer dados que possam estar associados a você. Para isso, utilize nossa <span class="link" role="link" tabindex="0" onclick="navigate('contato')" style="color:var(--orange-dark);font-weight:600;cursor:pointer;">página de contato</span>.</p>
+      <p>Você tem o direito de solicitar a qualquer momento a exclusão de quaisquer dados que possam estar associados a você. Para isso, utilize nossa <a href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');return false;}" style="color:var(--orange-dark);font-weight:600;cursor:pointer;">página de contato</a>.</p>
 
       <h2>Alterações</h2>
       <p>Esta política pode ser atualizada periodicamente. Recomendamos revisá-la sempre que visitar o site.</p>
@@ -418,10 +466,10 @@ a { text-decoration:none; color:inherit; }
       </div>
       <div class="footer-col">
         <h4>Site</h4>
-        <a onclick="navigate('home')">Ofertas</a>
-        <a onclick="navigate('sobre')">Sobre</a>
-        <a onclick="navigate('contato')">Contato</a>
-        <a onclick="navigate('privacidade')">Privacidade</a>
+        <a href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">Ofertas</a>
+        <a href="?view=sobre" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('sobre');return false;}">Sobre</a>
+        <a href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');return false;}">Contato</a>
+        <a href="?view=privacidade" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('privacidade');return false;}">Privacidade</a>
       </div>
     </div>
     <div class="footer-disclosure">
@@ -435,7 +483,7 @@ a { text-decoration:none; color:inherit; }
 <script src="pedidos.js"></script>
 <script>
 /* ===========================================================
-   LÃ“GICA DO SITE
+   LÓGICA DO SITE
    =========================================================== */
 const AFFILIATE_TAG = "mixstore04b3-20";
 const MAX_HOURS_STALE = 24;
@@ -465,6 +513,7 @@ function starRow(r) { const f = Math.round(r); return "★".repeat(f) + "★".re
 function ensureAffiliateTag(url) {
   try {
     const u = new URL(url);
+    if (u.protocol !== "https:" && u.protocol !== "http:") return null;
     if (u.searchParams.get("tag") !== AFFILIATE_TAG) u.searchParams.set("tag", AFFILIATE_TAG);
     return u.toString();
   } catch (e) {
@@ -625,27 +674,29 @@ function generateSummary(p) {
 
 function couponMarkup(code) {
   if (!code) return `<span class="sem-cupom"></span>`;
-  return `<button class="coupon-pill" onclick="copyCoupon(event,'${code}')">ðŸŽŸï¸ ${code}</button>`;
+  return `<button class="coupon-pill" onclick="copyCoupon(event,'${escapeHtml(code)}')">🎟️ ${escapeHtml(code)}</button>`;
 }
 
 function productCard(p) {
-  const hasDiscount = p.price_original && p.price_original !== p.price_current;
+  const original = priceNumber(p.price_original);
+  const current = priceNumber(p.price_current);
+  const showOriginal = original !== null && current !== null && original > current;
   return `
-    <article class="card" onclick="navigate('produto','${p.asin}')" role="link" tabindex="0" aria-label="Ver oferta: ${p.title}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();navigate('produto','${p.asin}');}">
+    <article class="card" onclick="navigate('produto','${escapeHtml(p.asin)}')" role="link" tabindex="0" aria-label="Ver oferta: ${escapeHtml(p.title)}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();navigate('produto','${escapeHtml(p.asin)}');}">
       <div class="card-link">
         <div class="card-img">
-          <img src="${p.image}" alt="${p.title}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'">
+          <img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'">
         </div>
         <div class="card-body">
-          <h3 class="card-title">${p.title}</h3>
-          <div class="price-row" style="flex-direction:column; align-items:flex-start; gap:2px;">
-            ${hasDiscount ? `<span class="price-original">R$ ${fmtPrice(p.price_original)}</span>` : ''}
-            <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
-          </div>
+          <h3 class="card-title">${escapeHtml(p.title)}</h3>
           <div class="card-rating">
             <span class="stars-wrap">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%">★★★★★</span></span>
-            <span class="rating-num">${p.avaliacao}</span>
-            <span class="reviews-count">(${p.qtd_avaliacoes})</span>
+            <span class="rating-num">${escapeHtml(p.avaliacao)}</span>
+            <span class="reviews-count">(${escapeHtml(p.qtd_avaliacoes)})</span>
+          </div>
+          <div class="price-row" style="flex-direction:column; align-items:flex-start; gap:2px;">
+            ${showOriginal ? `<span class="price-original">R$ ${fmtPrice(p.price_original)}</span>` : ''}
+            <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
           </div>
           <div class="card-footer">
             <div class="card-cta">Ver produto
@@ -660,10 +711,10 @@ function productCard(p) {
 function spotlightMarkup(p) {
   return `
     <div class="spotlight-label">Produtos em destaque</div>
-    <div class="spotlight-card" onclick="navigate('produto','${p.asin}')" style="cursor:pointer;">
-      <div class="spotlight-img"><img src="${p.image}" alt="${p.title}" loading="lazy" onerror="this.parentElement.innerHTML='<div style=\'padding:40px;text-align:center;color:var(--gray-text-light)\'>Imagem indispon\u00edvel</div>'"></div>
+    <div class="spotlight-card" onclick="navigate('produto','${escapeHtml(p.asin)}')" style="cursor:pointer;">
+      <div class="spotlight-img"><img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.parentElement.innerHTML='<div style=\'padding:40px;text-align:center;color:var(--gray-text-light)\'>Imagem indispon\u00edvel</div>'"></div>
       <div class="spotlight-body">
-        <h2 class="spotlight-title">${p.title}</h2>
+        <h2 class="spotlight-title">${escapeHtml(p.title)}</h2>
         <div class="price-row">
           ${p.price_original && p.price_original > p.price_current ? discountBadge(Math.round((1 - p.price_current/p.price_original) * 100), 'lg') : ''}
           <div>
@@ -760,7 +811,7 @@ function renderHome() {
   const categories = ["Todas", ...new Set(products.map(p => p.category).filter(Boolean))];
 
   filterBar.innerHTML = categories.map(cat => `
-    <button class="filter-chip ${cat === activeCategory ? 'active' : ''}" onclick="setCategory('${cat}')">${cat}</button>
+    <button class="filter-chip ${cat === activeCategory ? 'active' : ''}" onclick="setCategory(this.dataset.cat)" data-cat="${escapeHtml(cat)}">${escapeHtml(cat)}</button>
   `).join("");
 
   carouselProducts = getSpotlightProducts(products);
@@ -791,40 +842,37 @@ function onSearchInput(value) {
 function injectProductLD(p) {
   const existing = document.getElementById("product-ld");
   if (existing) existing.remove();
-  const original = priceNumber(p.price_original);
   const current = priceNumber(p.price_current);
-  const brand = p.informacoes_produto?.Marca || p.informacoes_produto?.["Nome da marca"] || p.title.split(" ")[0];
-  const offerPrice = original && original > current ? current : current;
+  const marca = p.informacoes_produto?.Marca || p.informacoes_produto?.["Nome da marca"];
   const ld = {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": p.title,
-    "image": p.image,
     "description": p.description || p.title,
     "sku": p.asin,
-    "mpn": p.asin,
-    "brand": { "@type": "Brand", "name": brand },
-    "offers": {
+    "mpn": p.asin
+  };
+  if (validImageUrl(p.image)) {
+    ld.image = p.image;
+  }
+  if (marca) {
+    ld.brand = { "@type": "Brand", "name": marca };
+  }
+  if (current !== null) {
+    ld.offers = {
       "@type": "Offer",
       "url": p.affiliate_url,
       "priceCurrency": "BRL",
-      "price": offerPrice,
-      "priceValidUntil": new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toISOString().split("T")[0],
-      "itemCondition": "https://schema.org/NewCondition",
-      "availability": "https://schema.org/InStock"
-    }
-  };
-  if (original && original > current) {
-    ld.offers.hasMerchantReturnPolicy = {
-      "@type": "MerchantReturnPolicy",
-      "applicableCountry": "BR"
+      "price": current
     };
   }
-  if (p.avaliacao && p.qtd_avaliacoes) {
+  const rating = priceNumber(p.avaliacao);
+  const reviews = priceNumber(p.qtd_avaliacoes);
+  if (rating !== null && reviews !== null && rating > 0 && rating <= 5 && reviews > 0) {
     ld.aggregateRating = {
       "@type": "AggregateRating",
-      "ratingValue": p.avaliacao,
-      "reviewCount": p.qtd_avaliacoes,
+      "ratingValue": rating,
+      "reviewCount": reviews,
       "bestRating": 5,
       "worstRating": 1
     };
@@ -839,6 +887,127 @@ function injectProductLD(p) {
   document.head.appendChild(script);
 }
 
+/* ===========================================================
+   SEO DINÂMICO (PASSO 3.2) — title, meta description, canonical,
+   Open Graph e Twitter Card específicos por página
+   =========================================================== */
+const HOME_SEO = {
+  title: "Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store",
+  description: "Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.",
+  canonical: "https://kcersarkal.github.io/mixdumix-store/",
+  ogType: "website",
+  ogTitle: "Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store",
+  ogDescription: "Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.",
+  ogUrl: "https://kcersarkal.github.io/mixdumix-store/",
+  ogImage: "https://kcersarkal.github.io/mixdumix-store/assets/logo.png",
+  ogSiteName: "Mix Du Mix Store",
+  twitterCard: "summary_large_image",
+  twitterTitle: "Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store",
+  twitterDescription: "Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.",
+  twitterImage: "https://kcersarkal.github.io/mixdumix-store/assets/logo.png"
+};
+
+function setMetaContent(attrName, attrValue, content) {
+  const el = document.querySelector(`meta[${attrName}="${attrValue}"]`);
+  if (el) el.setAttribute("content", content);
+}
+function setCanonical(href) {
+  const link = document.querySelector('link[rel="canonical"]');
+  if (link) link.setAttribute("href", href);
+}
+function removeProductLd() {
+  const el = document.getElementById("product-ld");
+  if (el) el.remove();
+}
+
+// Restaura todas as meta tags da Home (sem tocar no document.title).
+function applyHomeMetas() {
+  const desc = document.querySelector('meta[name="description"]');
+  if (desc) desc.setAttribute("content", HOME_SEO.description);
+  setCanonical(HOME_SEO.canonical);
+  setMetaContent("property", "og:type", HOME_SEO.ogType);
+  setMetaContent("property", "og:title", HOME_SEO.ogTitle);
+  setMetaContent("property", "og:description", HOME_SEO.ogDescription);
+  setMetaContent("property", "og:url", HOME_SEO.ogUrl);
+  setMetaContent("property", "og:image", HOME_SEO.ogImage);
+  setMetaContent("property", "og:site_name", HOME_SEO.ogSiteName);
+  setMetaContent("name", "twitter:card", HOME_SEO.twitterCard);
+  setMetaContent("name", "twitter:title", HOME_SEO.twitterTitle);
+  setMetaContent("name", "twitter:description", HOME_SEO.twitterDescription);
+  setMetaContent("name", "twitter:image", HOME_SEO.twitterImage);
+  removeProductLd();
+}
+
+// Restaura a Home completa (metas + document.title).
+function applyHomeSeo() {
+  document.title = HOME_SEO.title;
+  applyHomeMetas();
+}
+
+// Truncamento seguro, sem cortar palavra ao meio quando possível.
+function truncateAt(text, max) {
+  const t = String(text).trim().replace(/\s+/g, " ");
+  if (t.length <= max) return t;
+  let cut = t.slice(0, max);
+  const lastSpace = cut.lastIndexOf(" ");
+  if (lastSpace > max * 0.6) cut = cut.slice(0, lastSpace);
+  return cut.replace(/[\s,.;:!?–—-]+$/, "") + "…";
+}
+
+function productSeoTitle(p) {
+  return truncateAt(p.title + " | Mix Du Mix Store", 65);
+}
+function productSeoDescription(p) {
+  if (p.description && String(p.description).trim()) {
+    return truncateAt(String(p.description), 160);
+  }
+  return truncateAt("Confira " + p.title + " na Mix Du Mix Store e acesse a oferta disponível na Amazon.", 160);
+}
+function productCanonicalUrl(asin) {
+  return window.location.origin + window.location.pathname + "?produto=" + encodeURIComponent(asin);
+}
+function validImageUrl(url) {
+  return typeof url === "string" && /^https?:\/\//i.test(url);
+}
+
+// Escapa texto externo antes de inserir em HTML (anti-XSS).
+// Decodifica entidades numericas (ex.: &#34;) preservando o texto visivel atual
+// e depois escapa & < > " ' para impedir execucao de HTML/atributos.
+function escapeHtml(value) {
+  const raw = String(value == null ? "" : value)
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'");
+  return raw.replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[ch]);
+}
+
+// Aceita apenas URLs http(s) em atributos (impede javascript:/data: perigosos).
+function safeHttpUrl(url, fallback) {
+  return validImageUrl(url) ? url : (fallback || "");
+}
+
+// Aplica o SEO próprio do produto (title, description, canonical, OG, Twitter).
+function applyProductSeo(p) {
+  const title = productSeoTitle(p);
+  const description = productSeoDescription(p);
+  const canonicalUrl = productCanonicalUrl(p.asin);
+  const image = validImageUrl(p.image) ? p.image : HOME_SEO.ogImage;
+  document.title = title;
+  const desc = document.querySelector('meta[name="description"]');
+  if (desc) desc.setAttribute("content", description);
+  setCanonical(canonicalUrl);
+  setMetaContent("property", "og:type", "product");
+  setMetaContent("property", "og:title", title);
+  setMetaContent("property", "og:description", description);
+  setMetaContent("property", "og:url", canonicalUrl);
+  setMetaContent("property", "og:image", image);
+  setMetaContent("name", "twitter:card", "summary_large_image");
+  setMetaContent("name", "twitter:title", title);
+  setMetaContent("name", "twitter:description", description);
+  setMetaContent("name", "twitter:image", image);
+}
+
 function renderProduct(asin) {
   const container = document.getElementById("product-container");
   const products = getActiveProducts();
@@ -851,11 +1020,11 @@ function renderProduct(asin) {
         <p>Ela pode ter expirado ou o estoque acabou. Volte para a home e confira outras ofertas ativas.</p>
         <button class="btn btn-primary" style="margin-top:16px;" onclick="navigate('home')">Ver todas as ofertas</button>
       </div>`;
-    document.getElementById("product-ld")?.remove();
+    applyHomeSeo();
     return;
   }
 
-  document.title = p.title + " - Mix Du Mix Store";
+  applyProductSeo(p);
 
   injectProductLD(p);
 
@@ -864,12 +1033,12 @@ function renderProduct(asin) {
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>
       Voltar
     </button>
-      <div class="breadcrumb"><span class="link" role="link" tabindex="0" onclick="navigate('home')" onkeydown="if(event.key==='Enter'){navigate('home')}">Início</span> / ${p.category} / ${p.title}</div>
+      <div class="breadcrumb"><a href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">Início</a> / ${escapeHtml(p.category)} / ${escapeHtml(p.title)}</div>
     <div class="product-detail">
-      <div class="product-img"><img src="${p.image}" alt="${p.title}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'"></div>
+      <div class="product-img"><img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'"></div>
       <div class="product-info">
-        <span class="product-category">${p.category}</span>
-        <h1 class="product-title">${p.title}</h1>
+        <span class="product-category">${escapeHtml(p.category)}</span>
+        <h1 class="product-title">${escapeHtml(p.title)}</h1>
         <div class="product-price-block">
           <div class="price-row">
             <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
@@ -880,18 +1049,18 @@ function renderProduct(asin) {
         </div>
         <div class="product-rating-block">
           <span class="stars-wrap" style="font-size:16px;">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%;font-size:16px;">★★★★★</span></span>
-          <span style="font-weight:700;font-size:15px;">${p.avaliacao}</span>
-          <span style="color:var(--gray-text-light);font-size:13px;">(${p.qtd_avaliacoes} avaliações)</span>
+          <span style="font-weight:700;font-size:15px;">${escapeHtml(p.avaliacao)}</span>
+          <span style="color:var(--gray-text-light);font-size:13px;">(${escapeHtml(p.qtd_avaliacoes)} avaliações)</span>
         </div>
-            <div class="product-summary">${p.description || "Produto com bom custo-benefício e avaliação positiva na Amazon."}</div>
+            <div class="product-summary">${escapeHtml(p.description || "Produto com bom custo-benefício e avaliação positiva na Amazon.")}</div>
         <div class="product-actions">
-          <a class="btn btn-primary btn-block" href="${p.affiliate_url}" target="_blank" rel="nofollow sponsored noopener">Ver na Amazon</a>
+          <a class="btn btn-primary btn-block" href="${escapeHtml(p.affiliate_url)}" target="_blank" rel="nofollow sponsored noopener">Ver na Amazon</a>
           <div class="product-actions-row">
-            <button class="btn btn-whatsapp" onclick="shareWhatsApp('${p.asin}')">
+            <button class="btn btn-whatsapp" onclick="shareWhatsApp('${escapeHtml(p.asin)}')">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.44 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
               WhatsApp
             </button>
-            <button class="btn btn-copy" onclick="copyProductLink('${p.asin}')">
+            <button class="btn btn-copy" onclick="copyProductLink('${escapeHtml(p.asin)}')">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
               Copiar link
             </button>
@@ -909,7 +1078,7 @@ function shareWhatsApp(asin) {
   const productUrl = `${window.location.origin}${window.location.pathname}?produto=${p.asin}`;
   const pct = discountPercent(p);
   const discountTxt = pct ? ` (-${pct}%)` : "";
-  const text = `ðŸ”¥ *${p.title}*\n\nDe R$ ${fmtPrice(p.price_original)} por *R$ ${fmtPrice(p.price_current)}*${discountTxt}${p.coupon_code ? `\nðŸŽŸï¸ Cupom: ${p.coupon_code}` : ""}\n\n${productUrl}`;
+  const text = `🔥 *${p.title}*\n\nDe R$ ${fmtPrice(p.price_original)} por *R$ ${fmtPrice(p.price_current)}*${discountTxt}${p.coupon_code ? `\n🎟️ Cupom: ${p.coupon_code}` : ""}\n\n${productUrl}`;
   window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank");
 }
 
@@ -921,7 +1090,7 @@ function copyProductLink(asin) {
   const original = btn.innerHTML;
   if (navigator.clipboard && navigator.clipboard.writeText) {
     navigator.clipboard.writeText(productUrl).then(() => {
-      btn.innerHTML = "âœ“ Link copiado!";
+      btn.innerHTML = "✓ Link copiado!";
       setTimeout(() => { btn.innerHTML = original; }, 1800);
     }).catch(() => {
       window.prompt("Copie o link:", productUrl);
@@ -960,13 +1129,13 @@ function copyPedidoLink(id) {
 }
 
 function pedidoCard(p) {
-  return `<article class="card" onclick="navigate('pedido','${p.id||p.asin}')" role="link" tabindex="0" aria-label="${p.titulo}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();navigate('pedido','${p.id||p.asin}');}">
+  return `<article class="card" onclick="navigate('pedido', this.dataset.pid)" role="link" tabindex="0" aria-label="${escapeHtml(p.titulo)}" data-pid="${escapeHtml(p.id||p.asin)}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();navigate('pedido', this.dataset.pid);}">
     <div class="card-link">
       <div class="card-img">
-        <img src="${p.imagem||'https://via.placeholder.com/200'}" alt="${p.titulo}" loading="lazy" onerror="this.src='https://via.placeholder.com/200'">
+        <img src="${escapeHtml(validImageUrl(p.imagem) ? p.imagem : 'https://via.placeholder.com/200')}" alt="${escapeHtml(p.titulo)}" loading="lazy" onerror="this.src='https://via.placeholder.com/200'">
       </div>
       <div class="card-body">
-        <h3 class="card-title">${p.titulo}</h3>
+        <h3 class="card-title">${escapeHtml(p.titulo)}</h3>
         <div class="card-footer">
           ${p.preco ? `<div class="price-row"><span class="price-current">R$ ${fmtPrice(p.preco)}</span></div>` : ""}
           <div class="card-cta">Ver pedido <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
@@ -1008,20 +1177,20 @@ function renderPedido(id) {
       </button>
       <div class="product-detail">
         <div class="product-img">
-          <img src="${p.imagem||'https://via.placeholder.com/400'}" alt="${p.titulo}" loading="lazy" onerror="this.src='https://via.placeholder.com/400'">
+          <img src="${escapeHtml(validImageUrl(p.imagem) ? p.imagem : 'https://via.placeholder.com/400')}" alt="${escapeHtml(p.titulo)}" loading="lazy" onerror="this.src='https://via.placeholder.com/400'">
         </div>
         <div class="product-info">
-          <h1 class="product-title">${p.titulo}</h1>
+          <h1 class="product-title">${escapeHtml(p.titulo)}</h1>
           ${p.preco ? `<div class="product-price-block"><div class="price-row"><span class="price-current">R$ ${fmtPrice(p.preco)}</span></div></div>` : ""}
-          ${p.descricao ? `<p class="product-desc" style="font-size:14px;line-height:1.6;color:var(--gray-text);margin-bottom:20px;">${p.descricao}</p>` : ""}
+          ${p.descricao ? `<p class="product-desc" style="font-size:14px;line-height:1.6;color:var(--gray-text);margin-bottom:20px;">${escapeHtml(p.descricao)}</p>` : ""}
           <div class="product-actions">
-            <a class="btn btn-primary btn-block" href="${p.link}" target="_blank" rel="nofollow sponsored noopener">Ver na loja</a>
+            <a class="btn btn-primary btn-block" href="${escapeHtml(safeHttpUrl(p.link, "#"))}" target="_blank" rel="nofollow sponsored noopener">Ver na loja</a>
             <div class="product-actions-row">
-              <button class="btn btn-whatsapp" onclick="sharePedidoWhatsApp('${p.id||p.asin}')">
+              <button class="btn btn-whatsapp" onclick="sharePedidoWhatsApp(this.dataset.pid)" data-pid="${escapeHtml(p.id||p.asin)}">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.44 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 WhatsApp
               </button>
-              <button class="btn btn-copy" onclick="copyPedidoLink('${p.id||p.asin}')">
+              <button class="btn btn-copy" onclick="copyPedidoLink(this.dataset.pid)" data-pid="${escapeHtml(p.id||p.asin)}">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
                 Copiar link
               </button>
@@ -1042,7 +1211,7 @@ function copyCoupon(event, code) {
   navigator.clipboard.writeText(code).then(() => {
     const btn = event.currentTarget;
     const original = btn.innerHTML;
-    btn.innerHTML = "âœ“ Copiado!";
+    btn.innerHTML = "✓ Copiado!";
     setTimeout(() => { btn.innerHTML = original; }, 1800);
   });
 }
@@ -1054,16 +1223,42 @@ function goBack() {
   navigate(previousMainView);
 }
       
-      function navigate(view, id) {
+// Destino normalizado da URL atual (mesma lógica do roteador: produto > pedido > view > home).
+function currentRoute() {
+  const params = new URLSearchParams(window.location.search);
+  const produtoAsin = params.get("produto");
+  if (produtoAsin) return { view: "produto", id: produtoAsin };
+  const pedidoId = params.get("pedido");
+  if (pedidoId) return { view: "pedido", id: pedidoId };
+  const view = params.get("view");
+  if (view && STATIC_VIEWS.includes(view)) return { view: view };
+  return { view: "home" };
+}
+      function navigate(view, id, replace) {
   if (view !== "produto" && view !== "pedido") {
     previousMainView = view;
   }
+  let url;
+  let state = { view: view };
   if (view === "produto" && id) {
-    history.pushState({ view: "produto", asin: id }, "", "?produto=" + id);
+    url = "?produto=" + id;
+    state = { view: "produto", asin: id };
   } else if (view === "pedido" && id) {
-    history.pushState({ view: "pedido", id: id }, "", "?pedido=" + id);
+    url = "?pedido=" + id;
+    state = { view: "pedido", id: id };
+  } else if (view === "home" || view === "produto" || view === "pedido") {
+    url = window.location.pathname;
   } else {
-    history.pushState({ view: view }, "", window.location.pathname);
+    url = "?view=" + view;
+  }
+  if (replace) {
+    history.replaceState(state, "", url);
+  } else {
+    const current = currentRoute();
+    const sameDestination = current.view === view && String(current.id || "") === String(id || "");
+    if (!sameDestination) {
+      history.pushState(state, "", url);
+    }
   }
   showView(view, id);
 }
@@ -1079,31 +1274,41 @@ function showView(view, id) {
   if (navEl) navEl.classList.add("current");
   if (view === "produto") {
     renderProduct(id);
-    document.title = "Oferta - Mix Du Mix Store";
-  } else if (view === "pedido") {
-    renderPedido(id);
-    document.title = "Pedido - Mix Du Mix Store";
-  } else if (view === "pedidos") {
-    renderPedidos();
-    document.title = "Pedidos - Mix Du Mix Store";
   } else {
-    document.title = view === "home" ? "Mix Du Mix Store | As melhores ofertas todos os dias" : `${view[0].toUpperCase()+view.slice(1)} - Mix Du Mix Store`;
+    if (view === "pedido") {
+      renderPedido(id);
+      document.title = "Pedido - Mix Du Mix Store";
+    } else if (view === "pedidos") {
+      renderPedidos();
+      document.title = "Pedidos - Mix Du Mix Store";
+    } else {
+      document.title = view === "home" ? HOME_SEO.title : `${view[0].toUpperCase()+view.slice(1)} - Mix Du Mix Store`;
+    }
+    applyHomeMetas();
+    // Views institucionais indexaveis (presentes no sitemap): canonical proprio.
+    if (view === "sobre" || view === "contato" || view === "privacidade") {
+      setCanonical(window.location.origin + window.location.pathname + "?view=" + view);
+    }
   }
   window.scrollTo({ top: 0, behavior: "instant" });
 }
 
-window.addEventListener("popstate", function() { routeFromInitialUrl(); });
-function routeFromInitialUrl() {
+window.addEventListener("popstate", function() { routeFromInitialUrl(true); });
+const STATIC_VIEWS = ["home", "sobre", "contato", "privacidade", "pedidos"];
+
+function routeFromInitialUrl(replace) {
   const params = new URLSearchParams(window.location.search);
   const produtoAsin = params.get("produto");
-  if (produtoAsin) { navigate("produto", produtoAsin); return; }
+  if (produtoAsin) { navigate("produto", produtoAsin, replace); return; }
   const pedidoId = params.get("pedido");
-  if (pedidoId) { navigate("pedido", pedidoId); return; }
-  navigate("home");
+  if (pedidoId) { navigate("pedido", pedidoId, replace); return; }
+  const view = params.get("view");
+  if (view && STATIC_VIEWS.includes(view)) { navigate(view, undefined, replace); return; }
+  navigate("home", undefined, replace);
 }
 document.addEventListener("DOMContentLoaded", () => {
   renderHome();
-  routeFromInitialUrl();
+  routeFromInitialUrl(true);
 });
 </script>
 </body>
