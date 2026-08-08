@@ -108,15 +108,6 @@ window.PEDIDOS = [
     "descricao": "Sensor de 8.000 DPI - O sensor de nível avançado para jogos responde com precisão aos seus movimentos. Personalize as configurações para se adequar à sensibilidade que você gosta com o software de jogos Logitech G HUB e alterne facilmente até 5 configurações de DPI.. LIGHTSYNC RGB - Jogue em cores com nosso mais vibrante LIGHTSYNC RGB, com efeitos de ondas de cores personalizáveis em aproximadamente 16,8 milhões de cores. Instale o software Logitech G HUB para escolher cores e animações predefinidas ou criar suas próprias.. Design clássico, testado por jogadores - Jogue confortavelmente e com controle total. O layout simples de 6 botões e o formato clássico para jogos formam um design confortável, testado e amado. Cada botão pode ser personalizado usando o software Logitech G HUB para simplificar as tarefas.. Tensionamento de botões por mola de metal - Fornece acionamento preciso dos botões e experiência consistente - clique após clique.. Disponível em 4 cores: Estilo no jogo importa, escolha a sua cor e prepare-se para jogar."
   },
   {
-    "id": "B07MC6RLN4",
-    "asin": "B07MC6RLN4",
-    "titulo": "Havit Mouse Gamer MS1001S RGB Programável Macro, 7 Botões, 800-1600-2400-3200-4800-8000 DPI, USB, Design Ergonômico, Antiderrapante",
-    "imagem": "https://m.media-amazon.com/images/I/41rHZ1VskiL._AC_SL1118_.jpg",
-    "preco": 44,
-    "link": "https://www.amazon.com.br/dp/B07MC6RLN4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
-    "descricao": "5 Níveis de Velocidade DPI: 1200-2400-3500-5500-6000-7200. Design Ergonômico com Base Antiderrapante. Encaixa perfeitamente na mão, evitando fadiga por longo tempo de uso. Software dedicado para configurações de teclas e macros"
-  },
-  {
     "id": "B0BY6Y8ZCP",
     "asin": "B0BY6Y8ZCP",
     "titulo": "Havit Mouse Gamer MS1038 RGB Programável, 7 Botões, 1200-2400-3200-4800-6400-8000 DPI, USB, Design Ergonômico",
@@ -124,5 +115,14 @@ window.PEDIDOS = [
     "preco": 49.82,
     "link": "https://www.amazon.com.br/dp/B0BY6Y8ZCP?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Mouse gamer com iluminação RGB, 7 botões programáveis e 6 níveis de DPI ajustável: 1200, 2400, 3200, 4800, 6400 e 8000 DPI. Design ergonômico moderno na cor preta e tamanho médio, proporcionando conforto e controle durante longas sessões de uso. Conexão via USB plug-and-play, compatível com computador pessoal, sem necessidade de baterias para funcionamento"
+  },
+  {
+    "id": "B07MC6RLN4",
+    "asin": "B07MC6RLN4",
+    "titulo": "Havit Mouse Gamer MS1001S RGB Programável Macro, 7 Botões, 800-1600-2400-3200-4800-8000 DPI, USB, Design Ergonômico, Antiderrapante",
+    "imagem": "https://m.media-amazon.com/images/I/41rHZ1VskiL._AC_SL1118_.jpg",
+    "preco": 44,
+    "link": "https://www.amazon.com.br/dp/B07MC6RLN4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "5 Níveis de Velocidade DPI: 1200-2400-3500-5500-6000-7200. Design Ergonômico com Base Antiderrapante. Encaixa perfeitamente na mão, evitando fadiga por longo tempo de uso. Software dedicado para configurações de teclas e macros"
   }
 ];
