@@ -90,15 +90,6 @@ window.PEDIDOS = [
     "descricao": "TAMPA COM CANUDO AUTOMÁTICO, ACIONAMENTO COM UM TOQUE: Basta pressionar o botão para o canudo surgir automaticamente, facilitando a hidratação com apenas uma mão. Trava de segurança e tampa anti-pó garantem vedação 100% à prova de vazamentos, perfeito para levar na bolsa ou mochila sem preocupações.. AÇO INOXIDÁVEL 18/8 PREMIUM, MATERIAL SAUDÁVEL E SEGURO: Feito com aço inoxidável 18/8 grau alimentício, livre de BPA, resistente à corrosão e sem retenção de odores. Mantém a água pura e fresca para um consumo diário mais saudável.. ISOTÉRMICO EFICIENTE, MANTÉM TEMPERATURAS POR HORAS: Excelente retenção de temperatura: bebidas geladas ficam frescas por 12–24 horas e bebidas quentes por 6–12 horas. Com capacidade generosa de 1700 ml, é ideal para viagens, escritório ou atividades ao ar livre.. BOCA LARGA PARA ENCHER E LIMPAR COM FACILIDADE: Abertura ampla permite adicionar gelo, encher rapidamente e lavar sem esforço. O canudo removível facilita a limpeza profunda, evitando acúmulo de resíduos.. ALÇA ERGONÔMICA, PORTÁTIL E FIRME: Alça grande e resistente proporciona conforto no transporte, seja no dia a dia, academia ou aventuras. Praticalidade para se hidratar a qualquer momento!"
   },
   {
-    "id": "B0F89VV1YS",
-    "asin": "B0F89VV1YS",
-    "titulo": "MODUS Garrafa Térmica Esportiva De Inox Com Isolamento A Vácuo 950ML | Verde",
-    "imagem": "https://m.media-amazon.com/images/I/61XlEtHpMzL._AC_SL1200_.jpg",
-    "preco": 63.78,
-    "link": "https://www.amazon.com.br/dp/B0F89VV1YS?tag=mixstore04b3-20&ref_=mixdumix_pedido",
-    "descricao": "MATERIAIS DE QUALIDADE: Essa chaleira de metal é feita de aço inoxidável 304 de alta qualidade, durável, atóxico, sem BPA e inodoro, garantindo que suas bebidas sejam seguras e saudáveis.. ISOLAMENTO A VÁCUO: A Thermo Kettle apresenta isolamento de aço inoxidável de camada dupla que mantém as bebidas frias por até 24 horas e quentes por até 12 horas, garantindo que você possa desfrutar de suas bebidas favoritas na temperatura perfeita durante todo o dia.. CINTA DE LONA: Essa garrafa de água de aço inoxidável vem com um cordão para que você possa carregá-la com conforto e estilo. Perfeita para acampamentos, caminhadas, ciclismo e montanhismo.. FÁCIL DE USAR: Garrafa de água grande com boca larga, você pode adicionar facilmente cubos de gelo e chá de frutas na garrafa, além de ser fácil de limpar.. O PRESENTE DE ESTILO DE VIDA PERFEITO: esta chaleira de qualidade superior é o presente perfeito para sua família, mãe, pai, marido, esposa, amante, vizinho, amigo ou colega."
-  },
-  {
     "id": "B0BY6Y8ZCP",
     "asin": "B0BY6Y8ZCP",
     "titulo": "Havit Mouse Gamer MS1038 RGB Programável, 7 Botões, 1200-2400-3200-4800-6400-8000 DPI, USB, Design Ergonômico",
@@ -124,5 +115,14 @@ window.PEDIDOS = [
     "preco": 96.9,
     "link": "https://www.amazon.com.br/dp/B087CT8PWY?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Sensor de 8.000 DPI - O sensor de nível avançado para jogos responde com precisão aos seus movimentos. Personalize as configurações para se adequar à sensibilidade que você gosta com o software de jogos Logitech G HUB e alterne facilmente até 5 configurações de DPI.. LIGHTSYNC RGB - Jogue em cores com nosso mais vibrante LIGHTSYNC RGB, com efeitos de ondas de cores personalizáveis em aproximadamente 16,8 milhões de cores. Instale o software Logitech G HUB para escolher cores e animações predefinidas ou criar suas próprias.. Design clássico, testado por jogadores - Jogue confortavelmente e com controle total. O layout simples de 6 botões e o formato clássico para jogos formam um design confortável, testado e amado. Cada botão pode ser personalizado usando o software Logitech G HUB para simplificar as tarefas.. Tensionamento de botões por mola de metal - Fornece acionamento preciso dos botões e experiência consistente - clique após clique.. Disponível em 4 cores: Estilo no jogo importa, escolha a sua cor e prepare-se para jogar."
+  },
+  {
+    "id": "B0F89VV1YS",
+    "asin": "B0F89VV1YS",
+    "titulo": "MODUS Garrafa Térmica Esportiva De Inox Com Isolamento A Vácuo 950ML | Verde",
+    "imagem": "https://m.media-amazon.com/images/I/61XlEtHpMzL._AC_SL1200_.jpg",
+    "preco": 63.78,
+    "link": "https://www.amazon.com.br/dp/B0F89VV1YS?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "MATERIAIS DE QUALIDADE: Essa chaleira de metal é feita de aço inoxidável 304 de alta qualidade, durável, atóxico, sem BPA e inodoro, garantindo que suas bebidas sejam seguras e saudáveis.. ISOLAMENTO A VÁCUO: A Thermo Kettle apresenta isolamento de aço inoxidável de camada dupla que mantém as bebidas frias por até 24 horas e quentes por até 12 horas, garantindo que você possa desfrutar de suas bebidas favoritas na temperatura perfeita durante todo o dia.. CINTA DE LONA: Essa garrafa de água de aço inoxidável vem com um cordão para que você possa carregá-la com conforto e estilo. Perfeita para acampamentos, caminhadas, ciclismo e montanhismo.. FÁCIL DE USAR: Garrafa de água grande com boca larga, você pode adicionar facilmente cubos de gelo e chá de frutas na garrafa, além de ser fácil de limpar.. O PRESENTE DE ESTILO DE VIDA PERFEITO: esta chaleira de qualidade superior é o presente perfeito para sua família, mãe, pai, marido, esposa, amante, vizinho, amigo ou colega."
   }
 ];
