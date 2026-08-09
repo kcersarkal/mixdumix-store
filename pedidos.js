@@ -133,5 +133,14 @@ window.PEDIDOS = [
     "preco": 26.46,
     "link": "https://www.amazon.com.br/dp/B0152HPXXE?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Tecido de malha fina de alta qualidade. Base antiderrapante de borracha. Revestimento à prova d’água. Tamanho grande: 900 x 300 x 3 mm"
+  },
+  {
+    "id": "B0GZL69P5V",
+    "asin": "B0GZL69P5V",
+    "titulo": "Bicicleta De Equilíbrio Infantil 4 Rodas Sem Pedal Balance Bike Para Crianças",
+    "imagem": "https://m.media-amazon.com/images/I/61HZSC0pUiL._AC_SL1500_.jpg",
+    "preco": 69.9,
+    "link": "https://www.amazon.com.br/dp/B0GZL69P5V?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "ESTABILIDADE COM 4 RODAS – A base com 4 rodas oferece apoio mais equilibrado para crianças em fase inicial de uso, ajudando na adaptação aos primeiros movimentos com mais controle.. SEM PEDAL – O sistema sem pedal permite que a criança se impulsione com os próprios pés, favorecendo a percepção corporal, a coordenação motora e o aprendizado progressivo do equilíbrio.. FORMATO INFANTIL – Desenvolvida para o público infantil, a bicicleta de equilíbrio conta com estrutura compacta, assento e guidão com manoplas, criando uma experiência mais adequada para a rotina de brincadeiras.. ESTÍMULO AO DESENVOLVIMENTO MOTOR – Indicada para atividades que incentivam direção, mobilidade e noção de espaço, sendo uma opção prática para o dia a dia de crianças em fase de descoberta do movimento."
   }
 ];
