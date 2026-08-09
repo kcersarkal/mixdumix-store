@@ -1045,7 +1045,6 @@ function renderProduct(asin) {
             ${priceNumber(p.price_original) !== null ? `<span class="price-original">De R$ ${fmtPrice(p.price_original)}</span>` : ""}
           </div>
           ${p.coupon_code ? `<div style="margin-top:10px;">${couponMarkup(p.coupon_code)}</div>` : ""}
-          ${p.tem_selo_prime ? `<p style="font-size:13px;color:var(--green);font-weight:700;margin:8px 0 0;">Amazon Prime</p>` : ""}
         </div>
         <div class="product-rating-block">
           <span class="stars-wrap" style="font-size:16px;">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%;font-size:16px;">★★★★★</span></span>
