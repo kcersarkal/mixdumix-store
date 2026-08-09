@@ -112,7 +112,7 @@ window.PEDIDOS = [
     "asin": "B087CT8PWY",
     "titulo": "Mouse Gamer Logitech G203 LIGHTSYNC RGB, Efeito de Ondas de Cores, 6 Botões Programáveis e Até 8.000 DPI - Preto",
     "imagem": "https://m.media-amazon.com/images/I/61oE1NouXuL._AC_SL1500_.jpg",
-    "preco": 96.9,
+    "preco": 99.9,
     "link": "https://www.amazon.com.br/dp/B087CT8PWY?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Sensor de 8.000 DPI - O sensor de nível avançado para jogos responde com precisão aos seus movimentos. Personalize as configurações para se adequar à sensibilidade que você gosta com o software de jogos Logitech G HUB e alterne facilmente até 5 configurações de DPI.. LIGHTSYNC RGB - Jogue em cores com nosso mais vibrante LIGHTSYNC RGB, com efeitos de ondas de cores personalizáveis em aproximadamente 16,8 milhões de cores. Instale o software Logitech G HUB para escolher cores e animações predefinidas ou criar suas próprias.. Design clássico, testado por jogadores - Jogue confortavelmente e com controle total. O layout simples de 6 botões e o formato clássico para jogos formam um design confortável, testado e amado. Cada botão pode ser personalizado usando o software Logitech G HUB para simplificar as tarefas.. Tensionamento de botões por mola de metal - Fornece acionamento preciso dos botões e experiência consistente - clique após clique.. Disponível em 4 cores: Estilo no jogo importa, escolha a sua cor e prepare-se para jogar."
   },
