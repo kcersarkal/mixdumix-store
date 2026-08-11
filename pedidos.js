@@ -4,7 +4,7 @@ window.PEDIDOS = [
     "asin": "B0FLGD78Z4",
     "titulo": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
     "imagem": "https://m.media-amazon.com/images/I/51MIeqZCK8L._AC_SX679_.jpg",
-    "preco": 2349,
+    "preco": 2348.97,
     "link": "https://www.amazon.com.br/dp/B0FLGD78Z4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Samsung Smart TV 50&#34; Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD"
   },
@@ -58,7 +58,7 @@ window.PEDIDOS = [
     "asin": "B093G99QBH",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo XG 20 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61LQF0MSw3L._AC_SL1500_.jpg",
-    "preco": 28.43,
+    "preco": 28.42,
     "link": "https://www.amazon.com.br/dp/B093G99QBH?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Orelhas elásticas, garantindo mais conforto e um ajuste perfeito na cinturinha do bebê. Até 12 horas de absorção, garantindo dias e noites tranquilas. Não pesa, não cai - Canal superabsorvente, que distribui o xixi mais rápido, evitando que a fralda pese e caia entre as perninhas do bebê. Loção hidratante com extratos naturais que auxiliam na prevenção da irritação da pele. Cada tamanho tem um bichinho exclusivo da Fauna Brasileira. A embalagem pode variar."
   },
@@ -103,7 +103,7 @@ window.PEDIDOS = [
     "asin": "B07MC6RLN4",
     "titulo": "Havit Mouse Gamer MS1001S RGB Programável Macro, 7 Botões, 800-1600-2400-3200-4800-8000 DPI, USB, Design Ergonômico, Antiderrapante",
     "imagem": "https://m.media-amazon.com/images/I/41rHZ1VskiL._AC_SL1118_.jpg",
-    "preco": 44,
+    "preco": 60.0,
     "link": "https://www.amazon.com.br/dp/B07MC6RLN4?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "5 Níveis de Velocidade DPI: 1200-2400-3500-5500-6000-7200. Design Ergonômico com Base Antiderrapante. Encaixa perfeitamente na mão, evitando fadiga por longo tempo de uso. Software dedicado para configurações de teclas e macros"
   },
@@ -130,7 +130,7 @@ window.PEDIDOS = [
     "asin": "B0152HPXXE",
     "titulo": "Mouse Pad Professional Gaming, Havit, Hv-MP830, 30 X 90 cm",
     "imagem": "https://m.media-amazon.com/images/I/31VsRBgen0L._AC_SL1200_.jpg",
-    "preco": 26.46,
+    "preco": 27.99,
     "link": "https://www.amazon.com.br/dp/B0152HPXXE?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Tecido de malha fina de alta qualidade. Base antiderrapante de borracha. Revestimento à prova d’água. Tamanho grande: 900 x 300 x 3 mm"
   },
