@@ -49,7 +49,7 @@ window.PEDIDOS = [
     "asin": "B0BTTLYZN9",
     "titulo": "Personal Fralda Baby Total Protect Pants Grande, 44 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51zr7O3WDxL._AC_SL1000_.jpg",
-    "preco": 55.52,
+    "preco": 63.89,
     "link": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Fácil de vestir e fácil de tirar. Cintura com ajuste perfeito que não aperta a barriguinha. Rápida Absorção 3D Ultrarrespirável - Até 12hrs de Proteção. Ajuste Perfeito Não Aperta Barriguinha e Perninhas. Tecnologia Japonesa"
   },
@@ -94,7 +94,7 @@ window.PEDIDOS = [
     "asin": "B0BY6Y8ZCP",
     "titulo": "Havit Mouse Gamer MS1038 RGB Programável, 7 Botões, 1200-2400-3200-4800-6400-8000 DPI, USB, Design Ergonômico",
     "imagem": "https://m.media-amazon.com/images/I/6159Q7n0PFL._AC_SL1500_.jpg",
-    "preco": 49.82,
+    "preco": 48.51,
     "link": "https://www.amazon.com.br/dp/B0BY6Y8ZCP?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Mouse gamer com iluminação RGB, 7 botões programáveis e 6 níveis de DPI ajustável: 1200, 2400, 3200, 4800, 6400 e 8000 DPI. Design ergonômico moderno na cor preta e tamanho médio, proporcionando conforto e controle durante longas sessões de uso. Conexão via USB plug-and-play, compatível com computador pessoal, sem necessidade de baterias para funcionamento"
   },
