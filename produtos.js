@@ -1,95 +1,5 @@
 const PRODUCTS = [
   {
-    "asin": "B0DJFS7GXV",
-    "title": "Apple iPhone 16 (512 GB) – Preto",
-    "image": "https://m.media-amazon.com/images/I/41uUYcqfLxL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "celulares e smartphones",
-    "price_current": 5399.1,
-    "price_original": 10099,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 330,
-    "coupon_code": null,
-    "description": "O Apple iPhone 16 (512 GB) - Preto oferece uma experiência inigualável em fotos e vídeos, graças à sua câmera avançada e chip A18 superinteligente. Com acesso rápido a ferramentas de edição e um novo sistema de estilos fotográficos, cada captura se tornará mais autoral. Além disso, o aumento na duração da bateria, com até 22 horas de reprodução de vídeo, garante uma utilização prolongada sem a necessidade de recargas frequentes.",
-    "informacoes_produto": {
-      "Sistema operacional": "iOS",
-      "Capacidade de armazenamento da memória": "512 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Com tela de toque",
-      "Nível de resistência à água": "Resistente à água",
-      "Potência da bateria": "13.83900",
-      "Tamanho da tela": "6,1 Polegadas",
-      "Tipo de tela": "OLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Nome da marca": "Apple",
-      "Ano do modelo": "2024",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "iPhone 16, Cabo carregador USB-C",
-      "Descrição da garantia": "Garantia Limitada de um (1) ano",
-      "Fabricante": "Apple",
-      "UPC": "195949825057",
-      "Certificação de teste externa": "ANATEL: 068402401993/ Modelo:A3287",
-      "ASIN": "B0DJFS7GXV",
-      "Marca": "Apple",
-      "Sistema Operacional": "iOS",
-      "Capacidade de Armazenamento de Memória": "512 GB",
-      "Tamanho da Tela": "6,1 Polegadas",
-      "Nome do Modelo": "iPhone 16"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:09:22.000Z",
-    "spotlight": true
-  },
-  {
-    "asin": "B0DJFS7GXV",
-    "title": "Apple iPhone 16 (512 GB) – Preto",
-    "image": "https://m.media-amazon.com/images/I/41uUYcqfLxL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "celulares e smartphones",
-    "price_current": 5399.1,
-    "price_original": 10099,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 331,
-    "coupon_code": null,
-    "description": "O Apple iPhone 16 (512 GB) oferece uma experiência inigualável em fotografia, graças à sua câmera aprimorada e ao chip A18 superinteligente. Além disso, a nova geração de estilos fotográficos permite criar e personalizar suas imagens com mais flexibilidade do que nunca. Ademais, o iPhone 16 oferece maior duração da bateria, com até 22 horas de reprodução de vídeo.",
-    "informacoes_produto": {
-      "Sistema operacional": "iOS",
-      "Capacidade de armazenamento da memória": "512 GB",
-      "Cor": "Preto",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Com tela de toque",
-      "Nível de resistência à água": "Resistente à água",
-      "Potência da bateria": "13.83900",
-      "Tamanho da tela": "6,1 Polegadas",
-      "Tipo de tela": "OLED",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Nome da marca": "Apple",
-      "Ano do modelo": "2024",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "iPhone 16, Cabo carregador USB-C",
-      "Descrição da garantia": "Garantia Limitada de um (1) ano",
-      "Fabricante": "Apple",
-      "UPC": "195949825057",
-      "Certificação de teste externa": "ANATEL: 068402401993/ Modelo:A3287",
-      "ASIN": "B0DJFS7GXV",
-      "Marca": "Apple",
-      "Sistema Operacional": "iOS",
-      "Capacidade de Armazenamento de Memória": "512 GB",
-      "Tamanho da Tela": "6,1 Polegadas",
-      "Nome do Modelo": "iPhone 16"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:58:57.000Z",
-    "spotlight": true
-  },
-  {
     "asin": "B0F8LJSC9B",
     "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
     "image": "https://m.media-amazon.com/images/I/61G1x4+IXTL._AC_SL1000_.jpg",
@@ -137,7 +47,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F8LJSC9B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:00:33.000Z",
+    "last_checked_at": "2026-08-12T16:59:31.000Z",
     "spotlight": true
   },
   {
@@ -162,7 +72,7 @@ const PRODUCTS = [
       "Resolução": "2160 x 1080"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:06:55.000Z",
+    "last_checked_at": "2026-08-12T15:06:41.000Z",
     "spotlight": true
   },
   {
@@ -187,7 +97,7 @@ const PRODUCTS = [
       "Resolução": "2160 x 1080"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:00:37.000Z",
+    "last_checked_at": "2026-08-12T15:59:52.000Z",
     "spotlight": true
   },
   {
@@ -249,7 +159,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVT7XMDC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:08:39.000Z",
+    "last_checked_at": "2026-08-12T17:07:23.000Z",
     "spotlight": true
   },
   {
@@ -321,77 +231,8 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,3 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQD9VK7X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:02:11.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GVSY9479",
-    "title": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", Até 6 Atualizações de Android e Segurança (Azul Escuro) | 8GB RAM, Câmera Tripla até 50MP OIS, Selfie 12MP Video HDR, IP68, Tela Super AMOLED 6.7\"",
-    "image": "https://m.media-amazon.com/images/I/51G6kqI5BQL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 2554.0,
-    "price_original": 3999,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 285,
-    "coupon_code": null,
-    "description": "O Samsung Galaxy A57 5G oferece uma experiência de uso agradável, graças à sua tela Super AMOLED de 6,7 polegadas e processador Exynos 1680. Além disso, a câmera tripla de até 50MP OIS e selfie de 12MP com HDR adicionam qualidade às suas fotografias. Ainda, o Galaxy AI- Gemini Live & Circule facilita as pesquisas e o Samsung Wallet permite pagamentos seguros e confortáveis. Com uma capacidade de armazenamento de 256GB e duplo slot para cartão SIM, o custo-benefício é evidente neste modelo.",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16.0",
-      "Memória RAM instalada": "8 GB",
-      "Modelo da CPU": "Snapdragon",
-      "Velocidade da CPU": "2,4 GHz",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Azul Escuro",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "Resistente à água",
-      "Características especiais": "Até 6 atualizações de Android e até 6 anos de atualizações de segurança., Dual SIM, GPS integrado, NFC, Resistente à água e poeira (IP68).",
-      "Tamanho máximo suportado pela memória flash": "256 GB",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "12.0, 5.0, 50.0 MP",
-      "Descrição da câmera": "Frontal, Traseira",
-      "Flash da câmera": "LED",
-      "Número de câmaras traseiras": "3",
-      "Zoom digital": "10 x",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Potência da bateria": "5000.0",
-      "Resolução de captura de vídeo": "30fps",
-      "Taxa de quadros": "30fps",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1080 x 2340",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2340x1080 Pixels",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2026",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "Cabo USB, Carregador, Ejetor da bandeja SIM, Manual do usuário",
-      "Descrição da garantia": "12 meses com o Fabricante",
-      "Fabricante": "Samsung",
-      "Usos específicos do produto": "Fotografia, Transações diárias",
-      "Contagem de unidades": "1 Count",
-      "Certificação de teste externa": "ANATEL: 073162500953 / Modelo: SM-A576B/DS",
-      "ASIN": "B0GVSY9479",
-      "Peso do item": "179 Gramas",
-      "Dimensões do artigo": "16,1 x 7,7 x 0,7 centímetros",
-      "GPS": "GPS integrado",
-      "Marca": "Samsung",
-      "Sistema Operacional": "Android 16.0",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Velocidade do CPU": "2,4 GHz"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GVSY9479?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:44:05.503190+00:00",
-    "spotlight": false
+    "last_checked_at": "2026-08-12T16:01:23.000Z",
+    "spotlight": true
   },
   {
     "asin": "B0B8MCB6KK",
@@ -477,8 +318,8 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B8MCB6KK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:46:29.041820+00:00",
-    "spotlight": false
+    "last_checked_at": "2026-08-12T17:45:29.000Z",
+    "spotlight": true
   },
   {
     "asin": "B0D4NSS9XV",
@@ -553,90 +394,7 @@ const PRODUCTS = [
       "Coprocessador Gráfico": "Intel UHD Graphics"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D4NSS9XV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:05:02.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FMFTWHJJ",
-    "title": "Galaxy Tab S10 Lite, 128GB, Tela 10.9\", WIFI, Vermelho",
-    "image": "https://m.media-amazon.com/images/I/51OCtiSoKWL._AC_SL1080_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 2199.0,
-    "price_original": 3149,
-    "discount_percentage": 30,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 2471,
-    "coupon_code": null,
-    "description": "O Galaxy Tab S10 Lite de 128GB oferece uma tela vasta de 10,9 polegadas e 6GB de RAM, garantindo uma experiência visual e de desempenho superior. Adicionalmente, vem equipado com uma câmera traseira de 8MP e inclui um carregador de parede de 15W, capa Smartbook Cover e pino ejetor para bandeja de cartão MicroSD. Com uma avaliação de 4,8/5, este dispositivo oferece um excelente custo-benefício.",
-    "informacoes_produto": {
-      "Nome da marca": "Samsung",
-      "Nome do modelo": "Galaxy Tab S10 Lite",
-      "Geração": "10ª geração",
-      "Ano do modelo": "2025",
-      "Componentes Incluídos": "Capa Smartbook Cover, Carregador de parede (15W), Pino ejetor para bandeja de cartão MicroSD, S Pen",
-      "País de origem": "Brasil",
-      "Descrição da garantia": "12 MESES",
-      "Número do modelo": "BSM-X400/1R6",
-      "Usos específicos do produto": "Cabo USB-C, Guia Rápido",
-      "Quantidade de itens": "1",
-      "Estilo": "Moderno e Clean",
-      "Fabricante": "Samsung",
-      "Contagem de unidades": "1 Count",
-      "Tamanho": "128GB",
-      "Certificação de teste externa": "ANATEL",
-      "Número da peça": "BSM-X400/1R6",
-      "ASIN": "B0FMFTWHJJ",
-      "Capacidade da bateria": "8000 Milliamp Hours",
-      "Composição da célula da pilha": "Íon-lítio",
-      "Conteúdo de energia da bateria de lítio": "2,6 Watt-hora",
-      "Descrição do processador": "Exynos1380",
-      "Fabricante do modelo da CPU": "Samsung",
-      "Número do modelo da CPU": "SM-X400NZRDZTO",
-      "Resolução de captura de vídeo": "FHD 1080p",
-      "Descrição da câmera": "Câmara traseira de 8 megapixels",
-      "Resolução do sensor fotográfico traseiro da câmara": "8 MP",
-      "Número de câmaras traseiras": "1",
-      "Flash da câmera": "Não",
-      "Sistema operacional": "Android | 15",
-      "Cor": "vermelho",
-      "Fabricante da placa de vídeo": "Samsung",
-      "Peso do item": "524 Gramas",
-      "Dimensões do item C x L x Espessura": "25,4C x 16,6L x 0,6Espessura centímetros",
-      "Entrada de interface humana": "Tela sensível ao toque com suporte para caneta Stylus",
-      "Descrição da placa de vídeo": "Integrada",
-      "Dispositivos compatíveis": "S Pen",
-      "Tipo de garantia": "Limitada",
-      "Família do Sistema Operacional": "Android",
-      "Tamanho da tela": "10,9 Polegadas",
-      "Resolução máxima da tela": "2112 x 1320 (WUXGA+) Pixels",
-      "Tipo de tela": "TFT",
-      "Resolução nativa": "2112 x 1320 (WUXGA+) pixels",
-      "Proporção de aspecto": "16:10",
-      "Capacidade de armazenamento da memória": "128 GB",
-      "Memória RAM instalada": "6 GB",
-      "Tipo de Memória Flash Compatível": "microSD",
-      "Tamanho da memória do computador": "6 GB",
-      "Tamanho do disco rígido": "128 GB",
-      "Interface de hardware": "USB 2.0",
-      "Tecnologia de comunicação sem fio": "Bluetooth, Wi-fi",
-      "Tecnologia de celular": "Wifi",
-      "Total de portas USB": "1",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
-      "Norma de comunicação sem fio": "802.11g",
-      "Características especiais": "Suporte S pen",
-      "Tipo de sensor": "Acelerômetro, Giroscópio, Sensor Geomagnético, Sensor de Efeito Hall, Sensor de Luz",
-      "GPS": "GPS,Glonass,Beidou,Galileo,QZSS",
-      "Formato de áudio compatível": "MP3,M4A,3GA,AAC,OGG,OGA,WAV,AMR,AWB,FLAC,MID,MIDI,XMF,MXMF,IMY,RTTTL,RTX,OTA",
-      "Marca": "Samsung",
-      "Nome do Modelo": "Galaxy Tab S10 Lite",
-      "Capacidade de Armazenamento de Memória": "128 GB",
-      "Tamanho da Tela": "10,9 Polegadas",
-      "Resolução máxima do visor": "2112 x 1320 (WUXGA+) Pixels"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FMFTWHJJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:45:06.658411+00:00",
+    "last_checked_at": "2026-08-12T16:04:30.000Z",
     "spotlight": false
   },
   {
@@ -689,7 +447,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9MSZ87B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:06:45.000Z",
+    "last_checked_at": "2026-08-12T15:06:30.000Z",
     "spotlight": false
   },
   {
@@ -742,7 +500,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9MSZ87B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:03:14.000Z",
+    "last_checked_at": "2026-08-12T16:02:22.000Z",
     "spotlight": false
   },
   {
@@ -814,7 +572,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHWFBYVC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:07:16.000Z",
+    "last_checked_at": "2026-08-12T15:06:59.000Z",
     "spotlight": false
   },
   {
@@ -886,7 +644,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHWFBYVC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:01:30.000Z",
+    "last_checked_at": "2026-08-12T16:00:42.000Z",
     "spotlight": false
   },
   {
@@ -958,7 +716,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHWFBYVC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:22:28.000Z",
+    "last_checked_at": "2026-08-12T17:21:45.000Z",
     "spotlight": false
   },
   {
@@ -995,7 +753,7 @@ const PRODUCTS = [
       "Peso do produto": "23,46 Onças"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BC41ZTK2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:07:25.000Z",
+    "last_checked_at": "2026-08-12T16:07:02.000Z",
     "spotlight": false
   },
   {
@@ -1114,7 +872,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FHCHBRGF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:23:42.000Z",
+    "last_checked_at": "2026-08-12T17:22:58.000Z",
     "spotlight": false
   },
   {
@@ -1207,7 +965,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FY3TV864?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:04:52.000Z",
+    "last_checked_at": "2026-08-12T16:04:18.000Z",
     "spotlight": false
   },
   {
@@ -1293,135 +1051,7 @@ const PRODUCTS = [
       "Coprocessador Gráfico": "Intel Iris Xe Graphics"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D4NR66ZL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:04:24.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B00DCTI47M",
-    "title": "Máquina de Lavar Panasonic 15kg Titânio 127v NA-F150B1T",
-    "image": "https://m.media-amazon.com/images/I/61aihS5uIXL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 2054.44,
-    "price_original": 2599,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 285,
-    "coupon_code": null,
-    "description": "Este Panasonic 15kg Titânio Lavador de R$ 2054,44 oferece uma lavagem eficiente com o menor consumo de água na categoria, conforme certificado pelo Inmetro. Ademais, seu design moderno em titânio se adapta a diversos ambientes. O custo-benefício é evidente neste produto, oferecendo alta eficiência e opções de ciclo especiais.",
-    "informacoes_produto": {
-      "Capacidade": "15 quilogramas",
-      "Características especiais": "Alta eficiência",
-      "Local do acesso": "Carga frontal",
-      "Tipo de acabamento": "Titânio",
-      "Opções de ciclo": "Vanish, Vanish Branco mais Branco",
-      "Modo de operação": "Totalmente automático",
-      "Voltagem": "127 Volts",
-      "Tipo de instalação": "Independente",
-      "Dimensões do item P x L x A": "69P x 60L x 105A centímetros",
-      "Material do tambor do aparelho de lavagem de roupa": "Titanio",
-      "Cor": "Titânio",
-      "Nome da marca": "Panasonic",
-      "Componentes incluídos": "Mangueira de drenagem",
-      "Fabricante": "PANASONIC",
-      "Nome do Tipo de Produto": "MAQUINA DE LAVAR",
-      "Número do modelo": "NA-F150B1TA",
-      "Número da peça": "1",
-      "Descrição da garantia": "12 meses",
-      "ASIN": "B00DCTI47M",
-      "Dimensões do produto": "69P x 60L x 105A centímetros",
-      "Marca": "Panasonic",
-      "Característica Especial": "Alta eficiência",
-      "Local de acesso": "Carga frontal"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B00DCTI47M?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:47:18.713322+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0C51C4ZTZ",
-    "title": "Bosch Furadeira de Impacto GSB 13 RE-M - 750W 127V, em maleta",
-    "image": "https://m.media-amazon.com/images/I/61zfwVifj8L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 349.96,
-    "price_original": 882,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 1214,
-    "coupon_code": null,
-    "description": "Este Furadeira de Impacto Bosch GSB 13 RE-M oferece um desempenho robusto com seu motor potente de 750 W, atendendo às necessidades dos usuários. A variável velocidade e o botão-trava permitem trabalhos contínuos, enquanto a emborrachada empunhadura garante um agarre seguro e confortável. Utilizando os acessórios profissionais Bosch, você pode melhorar ainda mais o desempenho de sua ferramenta.",
-    "informacoes_produto": {
-      "Fonte de energia": "Energia elétrica",
-      "Voltagem": "110 Volts",
-      "Tamanho máximo do mandril": "10 Milímetros",
-      "Características especiais": "Velocidade Variável",
-      "Potência máxima": "750 Watt",
-      "Tipo de broca": "Broca de combinação",
-      "É alimentado por energia elétrica?": "Sim",
-      "Capacidade de Perfuração em Madeira": "10 Milímetros",
-      "Capacidade de Perfuração em Metal": "10 Milímetros",
-      "Cor": "Azul",
-      "Material": "Metal",
-      "Nome da marca": "Bosch",
-      "Componentes incluídos": "1 Furadeira de Impacto GSB 13 RE, 1 manual de instruções, 1 Chave de mandril, 1 Empunhadeira auxiliar, 1 limitador de profundidade, maleta",
-      "Fabricante": "Robert Bosch Ltda",
-      "Descrição da garantia": "2 anos com o fabricante",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Furadeira de Impacto",
-      "ASIN": "B0C51C4ZTZ",
-      "Dimensões do item C x L x A": "27,2C x 7L x 19,2A centímetros",
-      "Marca": "Bosch",
-      "Fonte de alimentação": "Energia elétrica",
-      "Tensão": "110 Volts",
-      "Tamanho Máximo do Mandril": "10 Milímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0C51C4ZTZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:30:53.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BFG1DGDR",
-    "title": "Lava & Seca 11 Kg Samsung SmartThings Inox Look com 12 Programas de Lavagem - 110V",
-    "image": "https://m.media-amazon.com/images/I/41YbN-X683L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 4199.0,
-    "price_original": 4699,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 112,
-    "coupon_code": null,
-    "description": "Este lavador de roupas Samsung SmartThings Inox Look oferece 12 programas de lavagem e tecnologia Inverter, garantindo maior eficiência energética e versatilidade nas lavagens. O design moderno combina sofisticação e durabilidade, enquanto a compatibilidade com o aplicativo Samsung SmartThings permite monitorar e controlar a lavagem remotamente pelo smartphone. Com capacidade de 11 kg, ele economiza tempo e energia nas tarefas domésticas, além de ser projetado para funcionar em 110V, adequado para instalações residenciais com essa especificação elétrica.",
-    "informacoes_produto": {
-      "Capacidade": "11 quilogramas",
-      "Características especiais": "Inverter",
-      "Opções de ciclo": "Algodão, Eco, Lã",
-      "Voltagem": "110 Volts",
-      "Tipo de controles": "Toque",
-      "Velocidade máxima de rotação": "1400 RPM",
-      "Local do acesso": "front_load",
-      "Número de Ciclos de Secagem": "3",
-      "Número de ciclos de lavagem": "12",
-      "Tipo de acabamento": "acabamento em aço inoxidável",
-      "Opções de dosador da máquina de lavar": "dual-compartment, auto-dosing",
-      "Modo de operação": "automático",
-      "Nome da marca": "Samsung",
-      "Quantidade de itens": "1",
-      "Quantidade de Unidades": "1 Unidade",
-      "ASIN": "B0BFG1DGDR",
-      "Dimensões do item P x L x A": "60P x 60L x 85A centímetros",
-      "Cor": "inox",
-      "Material do tambor do aparelho de lavagem de roupa": "Aço Inox",
-      "Marca": "Samsung",
-      "Dimensões do produto": "60P x 60L x 85A centímetros",
-      "Característica Especial": "Inverter"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BFG1DGDR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:06:29.659390+00:00",
+    "last_checked_at": "2026-08-12T16:03:46.000Z",
     "spotlight": false
   },
   {
@@ -1492,196 +1122,7 @@ const PRODUCTS = [
       "Peso do produto": "5,2 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJ7H8WLW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:28:07.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FTGK5XK2",
-    "title": "Smart TV TCL 43 Polegadas Full HD QLED S5K WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 43S5K",
-    "image": "https://m.media-amazon.com/images/I/81yyXps2lKL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 1563.08,
-    "price_original": 2049,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.2,
-    "qtd_avaliacoes": 123,
-    "coupon_code": null,
-    "description": "Este Smart TV TCL de 43 polegadas oferece uma experiência completa de entretenimento, integrando Google TV, Wi-Fi Dual Band, Bluetooth, HDR10 e Dolby Audio, além do Google Cast. A tela QLED apresenta alto contraste e baixo reflexo, com tecnologia HVA. Duas entradas HDMI garantem conectividade versátil, enquanto a energia é consumida responsavelmente, com classificação A energética. Com resolução Full HD e suporte ao formato HDR10, este Smart TV oferece um custo-benefício excelente para quem busca uma experiência de visualização de alta qualidade.",
-    "informacoes_produto": {
-      "Tecnologia da tela": "Qled",
-      "Resolução": "FHD",
-      "Taxa de atualização": "60 Hz",
-      "Proporção de aspecto": "16:9",
-      "Índice de contraste da imagem": "Alto",
-      "Formato HDR suportado": "HDR10",
-      "Tecnologia de aprimoramento de movimento": "Sim (Possui tecnologia de melhoria de movimento)",
-      "Tecnologia de Aprimoramento da Qualidade da Imagem": "QLED",
-      "Exibir opções de idioma": "Português, Inglês, Espanhol",
-      "Configuração da Luz de Fundo da Tela": "Dimerização",
-      "Tecnologia da Luz de Fundo da Tela": "LED",
-      "Taxa de Atualização da Tela em Hertz": "60",
-      "Tamanho da tela": "43 Polegadas",
-      "Dimensões do item P x L x A": "1,85P x 9,55L x 6,07A Metros",
-      "Peso do item": "5,2 Quilogramas",
-      "Tamanho do Visor": "43 Polegadas",
-      "Descrição do alto-falante": "Dolby Audio",
-      "Configuração do canal som surround": "2.1",
-      "Formato Integrado de Som Surround": "Dolby Audio",
-      "Voltagem": "110,22 Volts",
-      "Eficiência": "A",
-      "Padrão de montagem VESA": "200 x 200 mm",
-      "Nome da marca": "TCL",
-      "Componentes incluídos": "Controle remoto",
-      "Nome do modelo": "TCL QLED SMART TV 43” 43S5K FHD GOOGLE TV",
-      "Ano do modelo": "2025",
-      "Número do modelo": "43S5K",
-      "Descrição da garantia": "1 Ano",
-      "Série do Modelo": "QLED",
-      "Fabricante": "TCL SEMP",
-      "Certificação de teste externa": "ANATEL:011042510435",
-      "Número da peça": "43S5K",
-      "ASIN": "B0FTGK5XK2",
-      "Tecnologia de conectividade": "Bluetooth",
-      "Serviços da Internet suportados": "Google Cast, Google TV",
-      "Formato do sinal": "Digital",
-      "Total de portas HDMI": "2",
-      "Interface de hardware": "Bluetooth",
-      "Tecnologia de comunicação sem fio": "Bluetooth, Wi-fi",
-      "Total de portas USB 3.0": "1",
-      "Características especiais": "Dolby Audio, HDR, QLED, Tela HVA - Alto contraste e baixo reflexo, Wi-Fi Dual Band",
-      "Cor": "Preta",
-      "Tipo de garantia": "Limitado",
-      "Tamanho da Tela": "43 Polegadas",
-      "Marca": "TCL",
-      "Tecnologia do visor": "Qled",
-      "Taxa de Atualização": "60 Hz",
-      "Característica Especial": "Dolby Audio, HDR, QLED, Tela HVA - Alto contraste e baixo reflexo, Wi-Fi Dual Band",
-      "Componentes Incluídos": "Controle remoto",
-      "Tecnologia de Conectividade": "Bluetooth",
-      "Proporção de tela": "16:9",
-      "Dimensões do produto": "1,85P x 9,55L x 6,07A Metros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FTGK5XK2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:12:58.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BQ3L6WZD",
-    "title": "Cadeira de Escritório Ergonômica Preto Elements Vertta Special",
-    "image": "https://m.media-amazon.com/images/I/51TIMSrgbSL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 1599,
-    "price_original": 2049.99,
-    "discount_percentage": 21,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 57,
-    "coupon_code": null,
-    "description": "O Elements Vertta Special oferece uma combinação de estilo e conforto, com seu design ergonômico e base em retas que adiciona sofisticação ao ambiente do escritório. A cadeira possui um encosto e assento 100% mesh premium, além de ser extremamente respirável graças à sua trama mais aberta. Ademais, a base em nylon é resistente e facilmente transportável, tornando-a uma opção prática para mudanças de local. Com garantia padrão de 12 meses e possibilidade de estender até um ano após registro, este produto oferece um bom custo-benefício.",
-    "informacoes_produto": {
-      "Nome da marca": "ELEMENTS",
-      "Características especiais": "Altura ajustável, Apoio de braço, Ergonômico, Lombar Ajustável, Suporte de cabeça",
-      "Contagem de unidades": "1 unidade",
-      "Usos recomendados do produto": "Escritório",
-      "País de origem": "China",
-      "Tipo de sala": "Escritório",
-      "Descrição da faixa etária": "Adulto",
-      "Componentes Incluídos": "Rodízios",
-      "Nome do modelo": "VERTTA",
-      "Utilização interior, exterior": "Área interna",
-      "Número do modelo": "70047",
-      "Fabricante": "ELEMENTS",
-      "Descrição da garantia": "2 anos de garantia com fabricante",
-      "Nome do Tipo de Produto": "Cadeira de Escritório",
-      "Número da peça": "70047",
-      "ASIN": "B0BQ3L6WZD",
-      "Movimento da base do móvel": "Giratória",
-      "Total de Posições Reclináveis": "1",
-      "Inclinada": "Não",
-      "É personalizável?": "Não",
-      "É dobrável": "Não",
-      "Cor": "Preto",
-      "Estilo de fundo": "curvo",
-      "Estilo": "Urbano",
-      "Estampa": "Liso",
-      "Formato do item": "curvo",
-      "Estilo de braço": "Sem braços",
-      "Estilo do pé": "Perna reta",
-      "Fator de forma": "Cadeira de Escritório",
-      "Dimensões do item P x L x A": "51P x 68L x 137A centímetros",
-      "Tamanho": "68 cm x 51 cm x 137 cm",
-      "Peso do item": "17 Quilogramas",
-      "Profundidade do item": "51 centímetros",
-      "Dimensões do artigo": "51 x 68 x 137 centímetros",
-      "Material": "Poliuretano",
-      "Frame Material Type": "Nylon",
-      "Instruções de cuidados com o produto": "Limpo",
-      "Material do assento": "Mesh",
-      "Material de preenchimento": "Mesh",
-      "Descrição das Instruções de Montagem": "Faça você mesmo",
-      "Exige montagem": "Sim",
-      "Marca": "ELEMENTS",
-      "Dimensões do produto": "51P x 68L x 137A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BQ3L6WZD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:32:09.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DX2M1RCD",
-    "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (127V)",
-    "image": "https://m.media-amazon.com/images/I/41-eSvkKV3L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 3176.66,
-    "price_original": 3623.75,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 60,
-    "coupon_code": null,
-    "description": "Este refrigerador HQ Frost Free Side By Side de 460 litros em cinza oferece um design premium, com acabamento em aço inoxidável e tratamento antimarcas que combina sofisticação e praticidade. A tecnologia Frost Free dispensa descongelamentos manuais, trazendo mais praticidade para o dia-a-day. Além disso, o painel digital avançado oferece controle intuitivo com funções rápidas de resfriamento e congelamento, enquanto a eficiência energética A+++ garante economia no consumo de energia. Com um custo-benefício superior, este refrigerador entrega funcionalidades premium com valor acessível dentro da categoria.",
-    "informacoes_produto": {
-      "Número de portas": "2",
-      "Tipo de sistema de degelo": "Sem gelo",
-      "Voltagem": "127 Volts",
-      "Fator de forma": "Lado a lado",
-      "Método de resfriamento": "Compressor",
-      "Número de prateleiras": "8",
-      "Controle de temperatura ajustável": "Sim",
-      "Orientação de abertura da porta": "Central",
-      "Tem Congelador Conversível": "Sim",
-      "É alimentado por energia elétrica?": "Sim",
-      "Total de Prateleiras de Porta": "3",
-      "Fonte de energia": "Elétrico com fio",
-      "Cor": "Cinza",
-      "Dimensões do item P x L x A": "68P x 70L x 178,5A centímetros",
-      "Capacidade": "460 litros",
-      "Capacidade do freezer": "180 Litros",
-      "Peso do item": "78 Quilogramas",
-      "Consumo de energia anual": "420 Kilowatt Hours Per Year",
-      "Capacidade Líquida do Refrigerador": "460 Litros",
-      "Capacidade de comida fresca": "460 Litros",
-      "Tipo de instalação": "Independente",
-      "Avaliação por estrelas do BEE": "4 Estrelas",
-      "Nome da marca": "HQ Screen",
-      "Nome do modelo": "HQ-460SBSFF",
-      "Número do modelo": "HQ-460SBSFF",
-      "Componentes incluídos": "1 Geladeira",
-      "Nome do Tipo de Produto": "Geladeira",
-      "Fabricante": "HQ Screen",
-      "Número da peça": "CC-525WE",
-      "Descrição da garantia": "01 Ano (Sendo 3 meses de garantia legal e mais 9 meses de garantia para defeito de fabricação).",
-      "ASIN": "B0DX2M1RCD",
-      "Dimensões do produto": "68P x 70L x 178,5A centímetros",
-      "Marca": "HQ Screen",
-      "Tipo de Instalação": "Independente"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DX2M1RCD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:11:10.101376+00:00",
+    "last_checked_at": "2026-08-12T15:27:37.000Z",
     "spotlight": false
   },
   {
@@ -1722,7 +1163,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Cabo giratório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F63L9DLK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:32:58.000Z",
+    "last_checked_at": "2026-08-12T16:32:06.000Z",
     "spotlight": false
   },
   {
@@ -1741,7 +1182,7 @@ const PRODUCTS = [
     "description": "Este Bundle Nintendo Switch 2 oferece uma evolução do console popular, trazendo um jogo digital de escolha entre Mario Kart World, Donkey Kong Bananza ou Pokémon Pokopia. Além disso, o console é versátil, disponibilizando três modos de jogo: TV, semiportátil e portátil. A tela tátil LCD maior e mais vívida, com 7,9 polegadas e suporte HDR de até 120 qps, melhora a experiência de jogo. Além disso, o console é compatível com uma resolução de até 4K ao usar um jogo e uma TV compatíveis com a base incluída do Nintendo Switch 2. Este bundle oferece um bom custo-benefício para quem procura uma experiência de",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2MZ1YK1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:31:47.000Z",
+    "last_checked_at": "2026-08-12T17:30:57.000Z",
     "spotlight": false
   },
   {
@@ -1790,26 +1231,7 @@ const PRODUCTS = [
       "Material da Alça": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07BMZS1BN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:35:50.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FR6N4WWH",
-    "title": "Bundle Nintendo Switch + Super Mario Bros. Wonder + 3 Meses de Assinatura Nintendo Switch Online",
-    "image": "https://m.media-amazon.com/images/I/61zaf8R7S7L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 1999.0,
-    "price_original": 2299,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 349,
-    "coupon_code": null,
-    "description": "Este Bundle Nintendo Switch + Super Mario Bros. Wonder oferece uma experiência de jogo revolucionária, permitindo que você jogue em casa ou em qualquer lugar com um único console. A diversão com o clássico Mario agora é fenomenal, com itens como canos ganhando vida e a possibilidade de se transformar em uma gigante bola de pedra com espinhos. Adicionalmente, com a assinatura do Nintendo Switch Online incluída, você pode compartilhar esta experiência online com jogadores ao redor do mundo, explorando mundos fantásticos e jogando multijogador em títulos como Splatoon 3. Além disso, o console é a casa de jogos clássicos como Mario Kart 8 Deluxe, Luigi’s Mansion 2 HD, Super",
-    "informacoes_produto": {},
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FR6N4WWH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:48:39.943718+00:00",
+    "last_checked_at": "2026-08-12T17:35:13.000Z",
     "spotlight": false
   },
   {
@@ -1818,7 +1240,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/5152rTpvy5L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 4999.0,
+    "price_current": 4999,
     "price_original": 5299,
     "discount_percentage": 5,
     "tem_oferta": true,
@@ -1896,7 +1318,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWW2J4F3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:05:24.661815+00:00",
+    "last_checked_at": "2026-08-12T17:47:55.000Z",
     "spotlight": false
   },
   {
@@ -1947,7 +1369,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07GWXBGYS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:03:02.000Z",
+    "last_checked_at": "2026-08-12T15:03:00.000Z",
     "spotlight": false
   },
   {
@@ -2018,7 +1440,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPHYS2WF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:06:07.000Z",
+    "last_checked_at": "2026-08-12T15:05:50.000Z",
     "spotlight": false
   },
   {
@@ -2037,7 +1459,7 @@ const PRODUCTS = [
     "description": "Este Acqua di Giò Homem Eau de Toilette de Giorgio Armani é uma oferta inesquecível para quem busca uma fragrância aquática e fresca, marcante para o dia a dia. A composição vibrante captura a essência do homem livre e em harmonia com a natureza, abrindo com notas de bergamota da Calábria e tangerina verde, revelando uma essência pura e luminosa que evoca a brisa do mar. A fragrância evolui na pele com um coração de notas aquáticas e jasmim, finalizando com a profundidade do patchouli, que garante uma fixação equilibrada e revela uma personalidade sensual e confiante. Com 50ml de volume, este produto versátil e at",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0D5BXPL4P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:36:09.000Z",
+    "last_checked_at": "2026-08-12T16:35:16.000Z",
     "spotlight": false
   },
   {
@@ -2090,7 +1512,7 @@ const PRODUCTS = [
       "Dimensões do produto": "42P x 52L x 34,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B8P4QTSD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:53:37.000Z",
+    "last_checked_at": "2026-08-12T16:52:41.000Z",
     "spotlight": false
   },
   {
@@ -2140,7 +1562,7 @@ const PRODUCTS = [
       "Dimensões do produto": "43,2P x 50L x 32,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0921RTR6Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:16:49.000Z",
+    "last_checked_at": "2026-08-12T15:16:30.000Z",
     "spotlight": false
   },
   {
@@ -2185,7 +1607,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0765KZDWP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:43:08.000Z",
+    "last_checked_at": "2026-08-12T17:42:50.000Z",
     "spotlight": false
   },
   {
@@ -2258,7 +1680,7 @@ const PRODUCTS = [
       "Característica Especial": "Resolução HD"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C2Z63CMP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:09:38.000Z",
+    "last_checked_at": "2026-08-12T17:08:25.000Z",
     "spotlight": false
   },
   {
@@ -2301,7 +1723,7 @@ const PRODUCTS = [
       "Peso máximo recomendado": "20 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPQWDJCW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:13:57.000Z",
+    "last_checked_at": "2026-08-12T16:13:20.000Z",
     "spotlight": false
   },
   {
@@ -2340,7 +1762,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CZBM7728?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:25:22.000Z",
+    "last_checked_at": "2026-08-12T15:24:55.000Z",
     "spotlight": false
   },
   {
@@ -2379,45 +1801,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CZBM7728?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:53:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0F4SRV3MY",
-    "title": "Lixeira com Pedal Tramontina Loop em Aço Inox com Acabamento Polido e Balde Interno 30 L",
-    "image": "https://m.media-amazon.com/images/I/51nUjpnPucL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 229.99,
-    "price_original": 427.19,
-    "discount_percentage": 46,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 337,
-    "coupon_code": null,
-    "description": "Este Lixeira Tramontina Loop em Aço Inoxidável oferece durabilidade, higiene e praticidade no uso diário, além de uma elegância cilíndrica que proporciona sofisticação ao ambiente. O balde interno removível facilita a higienização da lixeira e o descarte correto dos resíduos, oferecendo um bom custo-benefício para quem busca uma solução prática e estética em sua casa.",
-    "informacoes_produto": {
-      "Brand Name": "Tramontina",
-      "Fabricante": "Tramontina Teec",
-      "País de origem": "Brasil",
-      "Included Components": "Balde plástico removível",
-      "ASIN": "B0F4SRV3MY",
-      "Material Type": "Aço inoxidável",
-      "Tipo de acabamento": "Polido",
-      "Cor": "Inox",
-      "Shape": "Cilíndrico",
-      "Mecanismo de abertura": "Com pedal",
-      "Capacity": "30 litros",
-      "Item Weight": "4,59 Quilogramas",
-      "Dimensões do item C x L x A": "29C x 29L x 64A centímetros",
-      "Usos recomendados do produto": "Interior",
-      "Marca": "Tramontina",
-      "Capacidade": "30 litros",
-      "Mecanismo de Abertura": "Com pedal",
-      "Material": "Aço inoxidável"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0F4SRV3MY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:08:12.000Z",
+    "last_checked_at": "2026-08-12T15:52:28.000Z",
     "spotlight": false
   },
   {
@@ -2458,121 +1842,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33,5P x 28L x 29,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L8SJLXN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:15:54.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0CRTYZG5C",
-    "title": "soundcore P30i da Anker, Fone de Ouvido Bluetooth 5.4 com Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto | Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 Suporte para Celular, IP54, Fone sem fio",
-    "image": "https://m.media-amazon.com/images/I/51o-AcAQWgL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 187.05,
-    "price_original": 369,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 38523,
-    "coupon_code": null,
-    "description": "O Soundcore P30i da Anker é um fone de ouvido Bluetooth 5.4 de alta qualidade, oferecendo uma experiência inigualável em termos de cancelamento de ruído adaptativo, graves poderosos e longa duração da bateria. Com estojo de carregamento 2-em-1 com suporte para celular, você pode assistir às séries favoritas durante viagens sem complicações. Além disso, a tecnologia exclusiva BassUp da soundcore amplifica os graves profundos e impactantes, enquanto o cancelamento de ruído ativo inteligente reduz ruídos em até 42dB. Com 4 microfones + IA, garantem clareza absoluta nas ligações e videochamadas. A longa dura",
-    "informacoes_produto": {
-      "Nome da marca": "Soundcore",
-      "Número do modelo": "A3959",
-      "Nome do modelo": "P30i",
-      "Componentes incluídos": "Blu-ray",
-      "Descrição da faixa etária": "All",
-      "País de origem": "China",
-      "Descrição da garantia": "18.00",
-      "Tipo de embalagem": "Embalagem padrão",
-      "Quantidade de itens": "1",
-      "Número de série": "3956",
-      "UPC": "194644186333",
-      "Fabricante": "Anker",
-      "Certificação de teste externa": "/",
-      "É autografado": "Não",
-      "ASIN": "B0CRTYZG5C",
-      "Colocação de auscultadores na orelha": "Intra-auriculares",
-      "Formato dos fones de ouvido": "Intra-auricular",
-      "Forma do auricular": "Vara",
-      "Cor": "Preto",
-      "Estilo": "Clássico",
-      "Comprimento do estojo de transporte": "4,25 Polegadas",
-      "Largura do estojo de transporte": "4,25 Polegadas",
-      "Altura do estojo de transporte": "1,42 Polegadas",
-      "Peso do estojo de transporte": "1,76 Onças",
-      "Contagem de unidades": "1 par",
-      "Impedância": "16 Ohms",
-      "Controle de ruído": "Cancelamento de ruído adaptativo",
-      "Resposta de frequência": "20 KHz",
-      "Sensibilidade": "113 dB",
-      "Tipo de controlador de áudio": "Controlador dinâmico",
-      "Tamanho do controlador de áudio": "10 Milímetros",
-      "Material": "Policarbonato (PC)",
-      "Usos específicos do produto": "Entretenimento",
-      "Usos recomendados do produto": "Chamada",
-      "Dispositivos compatíveis": "Celulares",
-      "Característica do cabo": "Destacável",
-      "Nível de resistência à água": "À prova d'água",
-      "Material do estojo de transporte": "Plástico",
-      "Características especiais": "Cancelamento de ruído",
-      "É alimentado por energia elétrica?": "Não",
-      "Total de portas USB 2.0": "1",
-      "Entrada de fone de ouvido": "Nenhum",
-      "Tecnologia de conectividade": "Sem fio",
-      "Tecnologia de comunicação sem fio": "Bluetooth",
-      "Alcance do Bluetooth": "15 Metros",
-      "Versão do Bluetooth": "5.4",
-      "Tipo de controle": "Toque",
-      "Método de controle": "Toque",
-      "Charging Time": "10 Minutos",
-      "Duração da bateria": "45 Horas",
-      "Duração média da bateria do estojo de transporte": "35 Horas",
-      "Tempo de carregamento da bateria no estojo de transporte": "2,5 Horas",
-      "Capacidade da bateria do estojo de transporte": "700 Milliamp Hours",
-      "Marca": "Soundcore",
-      "Colocação na orelha": "Intra-auriculares",
-      "Fator de forma dos fones de ouvido": "Intra-auricular"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:39:49.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FD496MRL",
-    "title": "Pista de Carrinhos Dinossauro com 2 Carrinhos com Luz 277 Peças Brinquedo Infantil",
-    "image": "https://m.media-amazon.com/images/I/81D+moxA2TL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 110.2,
-    "price_original": 289.9,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 179,
-    "coupon_code": null,
-    "description": "Este brinquedo de pista de carrinhos dinossauro oferece diversão variada para crianças, com 277 peças que permitem montagens diferentes e inesquecíveis. A segurança é priorizada, sendo indicado para crianças a partir dos 36 meses. Com uma avaliação de 4,7/5, este brinquedo oferece um bom custo-benefício.",
-    "informacoes_produto": {
-      "Nome da marca": "ATENTU",
-      "Descrição da faixa etária": "Criança",
-      "Contagem de unidades": "277 Contagem",
-      "Idade mínima segundo o fabricante (MESES)": "36",
-      "País de origem": "China",
-      "Componentes incluídos": "277 peças",
-      "Fabricante": "Na Web Group",
-      "Número da peça": "PISTDINO-277",
-      "Nome do Conjunto": "Pista de Carrinhos Dinossauro",
-      "ASIN": "B0FD496MRL",
-      "Dimensões do artigo": "29 x 19 x 16 centímetros",
-      "Escala": "G",
-      "Exige montagem": "Sim",
-      "Descrição da bateria": "2 pilhas AA",
-      "Objetivo educacional": "Estimular a criatividade e o desenvolvimento das habilidades motoras",
-      "Modo de operação": "automático",
-      "Fonte de energia": "Pilhas AA",
-      "Material": "Plástico"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FD496MRL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:27:11.000Z",
+    "last_checked_at": "2026-08-12T15:15:34.000Z",
     "spotlight": false
   },
   {
@@ -2626,7 +1896,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,3P x 45L x 26,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08JD66K5C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:18:58.000Z",
+    "last_checked_at": "2026-08-12T15:18:41.000Z",
     "spotlight": false
   },
   {
@@ -2680,7 +1950,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,3P x 45L x 26,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08JD66K5C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:05:27.000Z",
+    "last_checked_at": "2026-08-12T17:04:16.000Z",
     "spotlight": false
   },
   {
@@ -2729,7 +1999,7 @@ const PRODUCTS = [
       "Tamanho Máximo do Mandril": "6 Milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08XQWLDKP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:55:01.000Z",
+    "last_checked_at": "2026-08-12T16:54:02.000Z",
     "spotlight": false
   },
   {
@@ -2768,48 +2038,7 @@ const PRODUCTS = [
       "Peso do produto": "8000 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B079NCC2LQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:07:55.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B076C6B4J7",
-    "title": "Bebedouro Gelágua Esmaltec EGC35B Coluna Natural e Gelada Branco 220V",
-    "image": "https://m.media-amazon.com/images/I/41+A0RZbZ7L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 712.66,
-    "price_original": 879,
-    "discount_percentage": 18,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 226,
-    "coupon_code": null,
-    "description": "O bebedouro Gelágua Esmaltec EGC35B é um produto de destaque, oferecendo uma coluna natural e gelada branca moderna com estilo elegante. Com capacidade de 1,1 litros, a potência de 97 watts e classificação de temperatura máxima de 82 graus Celsius, é ideal para aquecer águas quentes rapidamente. A marca Esmaltec é reconhecida por sua qualidade e confiabilidade, garantindo um bebedouro independente de instalação com fio elétrico. Com uma avaliação média de 4,6/5 em 226 avaliações, é claro que o custo-benefício deste produto é excelente.",
-    "informacoes_produto": {
-      "Potência": "97 watts",
-      "Tipo de instalação": "Independente",
-      "Classificação de temperatura máxima": "82 Graus Celsius",
-      "Fonte de energia": "Elétrico com fio",
-      "Capacidade": "1,1 litros",
-      "Dimensões do item P x L x A": "32P x 32L x 100A centímetros",
-      "Cor": "Branco",
-      "Estilo": "Moderno Branco com Aço Inoxidável",
-      "Material": "Aço inoxidável, Plástico",
-      "Nome da marca": "Esmaltec",
-      "Número do modelo": "12643-1-2",
-      "Contagem de unidades": "1 Unidade",
-      "Quantidade de itens": "1",
-      "Fabricante": "12643-1-2",
-      "País de origem": "Brasil",
-      "Peso do item": "11,58 Quilogramas",
-      "Nome do Tipo de Produto": "Bebedouro Coluna Garrafão",
-      "Número da peça": "12643-1-2",
-      "ASIN": "B076C6B4J7",
-      "Marca": "Esmaltec",
-      "Dimensões do produto": "32P x 32L x 100A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B076C6B4J7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:35:01.000Z",
+    "last_checked_at": "2026-08-12T16:07:33.000Z",
     "spotlight": false
   },
   {
@@ -2886,7 +2115,7 @@ const PRODUCTS = [
       "Característica Especial": "MDP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089Y4SNJZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:32:20.000Z",
+    "last_checked_at": "2026-08-12T16:31:24.000Z",
     "spotlight": false
   },
   {
@@ -2944,7 +2173,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BB1XPG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:24:24.000Z",
+    "last_checked_at": "2026-08-12T15:23:57.000Z",
     "spotlight": false
   },
   {
@@ -2998,7 +2227,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,3P x 45L x 26,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B097CJVNWS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:15:14.000Z",
+    "last_checked_at": "2026-08-12T15:14:56.000Z",
     "spotlight": false
   },
   {
@@ -3049,7 +2278,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás natural"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFRRSW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:03:48.000Z",
+    "last_checked_at": "2026-08-12T15:03:51.000Z",
     "spotlight": false
   },
   {
@@ -3119,7 +2348,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2560x1600"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FN4BK3V7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:33:51.000Z",
+    "last_checked_at": "2026-08-12T16:32:58.000Z",
     "spotlight": false
   },
   {
@@ -3138,7 +2367,7 @@ const PRODUCTS = [
     "description": "O Vade Mecum Saraiva Tradicional, na sua 41ª edição de 2026, oferece uma experiência incomparável em termos de conteúdo e qualidade. Com uma avaliação de 4,8/5 (baseada em 644 avaliações), este guia é considerado um dos melhores na categoria Ofertas do Dia. Ao investir em R$ 179,00, você obtém uma ferramenta versátil e detalhada que pode ser de grande ajuda para quem busca informações precisas sobre descontos e promoções.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/6584004406?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:14:45.000Z",
+    "last_checked_at": "2026-08-12T16:14:11.000Z",
     "spotlight": false
   },
   {
@@ -3183,7 +2412,7 @@ const PRODUCTS = [
       "Tensão": "220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076KRB8LP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:05:43.000Z",
+    "last_checked_at": "2026-08-12T16:05:13.000Z",
     "spotlight": false
   },
   {
@@ -3232,7 +2461,7 @@ const PRODUCTS = [
       "Tensão": "127 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076KPXF6P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:20:13.000Z",
+    "last_checked_at": "2026-08-12T16:19:16.000Z",
     "spotlight": false
   },
   {
@@ -3304,7 +2533,7 @@ const PRODUCTS = [
       "Tipo de quarto": "6 meses contra defeitos de fabricação"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQ3R8YST?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:42:45.000Z",
+    "last_checked_at": "2026-08-12T16:41:48.000Z",
     "spotlight": false
   },
   {
@@ -3346,54 +2575,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09WJD17ZS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:35:40.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B076BB8J7Z",
-    "title": "Liquidificador, Ph900, 3L, Preto, 220V, Philco",
-    "image": "https://m.media-amazon.com/images/I/51UcFkAcKDL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 99,
-    "price_original": 229,
-    "discount_percentage": 56,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 4401,
-    "coupon_code": null,
-    "description": "Este liquidificador Philco PH900 de 3 litros oferece diversas vantagens, como uma chave eletrônica com 12 velocidades e pulsar/autolimpeza, copo integrado com seis lâminas faca, alça do copo anatômica, tampa que permite servir sem retirá-la e tampinha dosadora graduada. Com uma avaliação de 4.6/5 (baseada em 4401 avaliações), este liquidificador oferece um excelente custo-benefício com seu preço de R$ 99,89.",
-    "informacoes_produto": {
-      "Nome da marca": "PHILCO",
-      "Componentes Incluídos": "Copo dosador, manual de instruções e mini folder.",
-      "Usos recomendados do produto": "Pulso, Triturar",
-      "Contagem de unidades": "1 Count",
-      "Fabricante": "PHILCO",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Liquidificador",
-      "Número do modelo": "103102017",
-      "Número da peça": "103102017",
-      "ASIN": "B076BB8J7Z",
-      "Cor": "Preto",
-      "Estilo": "Liquidificadores de bancada",
-      "Características especiais": "12 velocidades + pulsar, Acompanha Filtro, Potência de 1200W",
-      "Fonte de energia": "A",
-      "Potência": "1200",
-      "Número de velocidades": "12",
-      "Voltagem": "220 Volts",
-      "Tipo de controles": "Botão de pressão",
-      "Capacidade": "3 litros",
-      "Dimensões do item P x L x A": "17,5P x 20L x 42,5A centímetros",
-      "Peso do item": "1887 Gramas",
-      "Material": "Plástico e Metal",
-      "O item pode ser lavado na máquina de lavar louça?": "Sim",
-      "Material da Lâmina": "Metal",
-      "Marca": "PHILCO",
-      "Característica Especial": "12 velocidades + pulsar, Acompanha Filtro, Potência de 1200W",
-      "Dimensões do produto": "17,5P x 20L x 42,5A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B076BB8J7Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:01:05.000Z",
+    "last_checked_at": "2026-08-12T17:35:04.000Z",
     "spotlight": false
   },
   {
@@ -3459,7 +2641,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Resolução HD, Sensor de imagem, Sensor de movimento"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09Q3JVDYS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:16:28.000Z",
+    "last_checked_at": "2026-08-12T17:15:45.000Z",
     "spotlight": false
   },
   {
@@ -3499,7 +2681,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1Z3K835?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:26:50.000Z",
+    "last_checked_at": "2026-08-12T17:26:09.000Z",
     "spotlight": false
   },
   {
@@ -3541,7 +2723,7 @@ const PRODUCTS = [
       "Peso do produto": "210 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C2877GJS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:14:07.000Z",
+    "last_checked_at": "2026-08-12T16:13:30.000Z",
     "spotlight": false
   },
   {
@@ -3590,7 +2772,7 @@ const PRODUCTS = [
       "Dimensões do produto": "13,4P x 13,4L x 37,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FY6X1G8R?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:16:36.000Z",
+    "last_checked_at": "2026-08-12T16:16:01.000Z",
     "spotlight": false
   },
   {
@@ -3662,136 +2844,7 @@ const PRODUCTS = [
       "Característica Especial": "MDP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089Y7F6GR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:36:38.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08Y3CV67L",
-    "title": "As extraordinárias viagens de Júlio Verne - Box com 6 livros",
-    "image": "https://m.media-amazon.com/images/I/71wgomAPTQS._SL1350_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 67.52,
-    "price_original": 179,
-    "discount_percentage": 62,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 7775,
-    "coupon_code": null,
-    "description": "Este conjunto de seis romances de Júlio Verne oferece uma jornada literária maravilhosa, com histórias de aventuras e exploração que transportam leitores para lugares fantásticos. Ao preço de apenas R$ 67,52, este box representa um excelente investimento em horas de entretenimento e conhecimento. Com uma avaliação média de 4,8/5 baseada em 7775 avaliações, é claro que muitos tiveram uma experiência positiva com este produto.",
-    "informacoes_produto": {},
-    "affiliate_url": "https://www.amazon.com.br/dp/B08Y3CV67L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:28:44.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0C22PGBGC",
-    "title": "EUCERIN Creme de Olhos Clareador de Olheiras 15ml, Anti-Pigment, Antimanchas, Thiamidol",
-    "image": "https://m.media-amazon.com/images/I/61IfKmdTAWL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 139.96,
-    "price_original": 249.9,
-    "discount_percentage": 43,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 5120,
-    "coupon_code": null,
-    "description": "O Eucerin Creme de Olhos Clareador de Olheiras é um produto destaque, oferecendo benefícios visíveis em 2 semanas*. Aplicação dupla diária reduz olheiras e bolsas, enquanto ilumina a área dos olhos. Compatível com lentes e adequado para todos os tipos de pele, o produto contém Thiamidol, Ácido Hialurônico e pigmentos refletivos. A textura leve e o aplicador metálico refrescante tornam a experiência de uso agradável.",
-    "informacoes_produto": {
-      "Nome da marca": "Eucerin",
-      "Descrição da faixa etária": "Adulto",
-      "Tipo de pele": "Todos os tipos de pele",
-      "Quantidade de itens": "1",
-      "Formato do item": "Creme",
-      "Benefícios do produto": "Resultados visíveis a partir de 2 semanas com Iluminação e uniformização imediata das olheiras.",
-      "Usos específicos do produto": "Aplique duas vezes ao dia Eucerin Anti-Pigment Creme Clareador de Olheira , manhã e noite, ao redor da área dos olhos limpa e seca. Massageie suavemente com a ponta dos dedos ou com o aplicador metálico até completa absorção. Evite o contato com os olhos.",
-      "País da etiqueta": "Estados Unidos",
-      "Nome do modelo": "Face Anti-Pigment-Creme, Augenkontur, 15 ml",
-      "Número de identificação de comércio internacional": "04005805478012, 04006000101972",
-      "País de origem": "Polônia",
-      "Número da peça do item": "4005900998385",
-      "Fabricante": "Eucerin",
-      "Número do modelo": "856-98385",
-      "Número da peça": "856-98385",
-      "ASIN": "B0C22PGBGC",
-      "Volume do item": "15 Mililitros",
-      "Dimensões do artigo": "42 x 25 x 141 milímetros",
-      "Contagem de unidades": "15 Mililitros",
-      "Princípios ativos": "Cocoglycerides",
-      "Livre de tipo de material": "Sem álcool",
-      "Additional Features": "Hidratante",
-      "Aroma": "Unparfümiert",
-      "Marca": "Eucerin",
-      "Volume do produto": "15 Mililitros",
-      "Dimensões do item C x L x A": "42 x 25 x 141 milímetros",
-      "Faixa etária (descrição)": "Adulto",
-      "Característica Especial": "Hidratante"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0C22PGBGC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:34:52.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0CG9WVV4K",
-    "title": "WAP Aspirador de Pó e Água Barril GTW COMPACT, Compacto, 5,5 Litros, com Filtro Lavável, 150mbar 1400W 220V",
-    "image": "https://m.media-amazon.com/images/I/81wsr7AcFAL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 210.3,
-    "price_original": 319.9,
-    "discount_percentage": 34,
-    "tem_oferta": true,
-    "avaliacao": 4.0,
-    "qtd_avaliacoes": 152,
-    "coupon_code": null,
-    "description": "O WAP Aspirador de Pó e Água Barril GTW COMPACT é um equipamento versátil, compacto e de alta capacidade (5,5 litros), ideal para limpeza em diversos ambientes internos e externos. Com suas características especiais, como filtro lavável e limpeza impecável, ele pode ser utilizado em superfícies duros e estofados, além de ser um ótimo auxiliar na limpeza de lugares inacessíveis. Além disso, o produto é equipado com filtro de pano descartável para retenção de pó e garantir a durabilidade do produto. Com suas capacidades de 2,5 litros para líquidos e 2,3 litros para sólidos, ele é um excelente",
-    "informacoes_produto": {
-      "Características especiais": "Compacto, Filtro lavável, Limpeza impecável",
-      "Tipo de filtro": "Filtro de Pano e Filtro Espuma",
-      "Superfície Recomendada": "Piso duro e estofados",
-      "Capacidade": "5,5 litros",
-      "Sucção máxima": "2,5 Metros",
-      "Usos recomendados do produto": "Leia o manual",
-      "Cor": "Cinza, Preto e Verde",
-      "Nível de ruído": "84 Decibéis",
-      "Estilo": "Moderna",
-      "Número de velocidades": "1",
-      "Portátil": "Sim",
-      "Utilização interior, exterior": "Área externa, Área interna",
-      "Tipo de acabamento": "Pintado",
-      "Fonte de energia": "Elétrico com fio",
-      "O produto é sem fio": "Não",
-      "Peso do item": "1,6 Quilogramas",
-      "Dimensões do item C x L x A": "22,5C x 19,5L x 28,5A centímetros",
-      "Unidade de comprimento da mangueira": "1,3 Metros",
-      "Fator de forma": "Barril",
-      "Tecnologia de conectividade": "Cabo elétrico",
-      "Nome da marca": "WAP",
-      "Componentes incluídos": "1 Filtro de Pano, 1 Filtro Espuma, 1 Bico Múltiplo, 1 Bico Canto/Escova",
-      "Nome do modelo": "GTW COMPACT",
-      "Número do modelo": "FW009440",
-      "País de origem": "China",
-      "Fabricante": "WAP",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "1 Unidade",
-      "Ano de fabricação": "2024",
-      "Nome do Tipo de Produto": "Aspirador de Pó e Água Barril GTW COMPACT",
-      "ASIN": "B0CG9WVV4K",
-      "Voltagem": "220 Volts",
-      "Potência": "1400 watts",
-      "Amperagem": "10 Amperes",
-      "Tempo de execução": "1 hora",
-      "Tipo de controle": "Botão de apertar",
-      "Método de controle": "Toque",
-      "Marca": "WAP",
-      "Característica Especial": "Compacto, Filtro lavável, Limpeza impecável",
-      "Tipo de Filtro": "Filtro de Pano e Filtro Espuma",
-      "Recomendação de superfície": "Piso duro e estofados",
-      "Fonte de alimentação": "Elétrico com fio"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CG9WVV4K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:12:26.000Z",
+    "last_checked_at": "2026-08-12T16:35:46.000Z",
     "spotlight": false
   },
   {
@@ -3837,7 +2890,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1C3MRMF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:16:58.000Z",
+    "last_checked_at": "2026-08-12T17:16:14.000Z",
     "spotlight": false
   },
   {
@@ -3883,7 +2936,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1C3MRMF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:41:13.000Z",
+    "last_checked_at": "2026-08-12T17:41:03.000Z",
     "spotlight": false
   },
   {
@@ -3902,7 +2955,7 @@ const PRODUCTS = [
     "description": "Este livro \"Psicopatologia e Semiologia dos Transtornos Mentais\" oferece uma abordagem detalhada e profunda sobre os transtornos mentais, destacando-se por sua clareza na explicação de conceitos complexos. Com uma avaliação média de 4,9/5 baseada em 5428 avaliações, o livro apresenta um excelente custo-benefício para quem busca uma compreensão profunda desses assuntos.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/8582715056?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:34:04.000Z",
+    "last_checked_at": "2026-08-12T17:33:16.000Z",
     "spotlight": false
   },
   {
@@ -3946,7 +2999,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9FVPXFC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:36:31.000Z",
+    "last_checked_at": "2026-08-12T17:36:05.000Z",
     "spotlight": false
   },
   {
@@ -3990,127 +3043,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9G9KG7N?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:25:25.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07KYFQRXD",
-    "title": "MONDIAL Aparador de Pelos Super Groom 11, Preto/Prata, Bivolt - BG-05",
-    "image": "https://m.media-amazon.com/images/I/711eicqp4WL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 125.37,
-    "price_original": 219.9,
-    "discount_percentage": 42,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 6727,
-    "coupon_code": null,
-    "description": "O MONDIAL Aparador de Pelos Super Groom 11 oferece uma variedade de pentes ajustáveis, permitindo aparar pelos no comprimento desejado com precisão e suavidade. Ideal para barba, corpo e pescoço, este aparador é perfeito para homens que buscam manter sua aparência limpa e bem-groomed. Ao lado do microbarbeador exclusivo, o produto inclui uma garantia de 12 meses e vem com uma ampla variedade de cabeças aparadoras e pentes de corte.",
-    "informacoes_produto": {
-      "Usos recomendados do produto": "Barba, Corpo, Pescoço",
-      "Descrição da garantia": "12 meses",
-      "Nome da marca": "MONDIAL",
-      "Público-alvo": "Homens",
-      "Nome do modelo": "Aparador de Pelos Super Groom 11",
-      "Usos específicos do produto": "Barbear a seco",
-      "Componentes incluídos": "01 Aparador de pelos completo; 05 Cabeças aparadoras; 05 Pentes de corte(3 mm, 6 mm, 9 mm, 12 mm, 15 mm); 01 pente ajustável (16 comprimentos); 01 Óleo lubrificante; 01 Carregador; 01 Base carregadora; Manual de Instruções e Manual de Assistência Técnica.",
-      "Contagem de unidades": "1.0 Unidade",
-      "Fabricante": "MK ELETRODOMESTICOS MONDIAL S.A.",
-      "Tipo de cabelo": "Todos",
-      "País de origem": "China",
-      "Nome do Tipo de Produto": "Aparador de Pelos Super Groom 11 Bivolt",
-      "Número do modelo": "BG-05",
-      "Número da peça": "BG-05",
-      "ASIN": "B07KYFQRXD",
-      "Fonte de energia": "Energia elétrica",
-      "Características especiais": "Recarregável",
-      "Baterias são necessárias?": "Não",
-      "Comprimento Máximo de Corte": "16 Milímetros",
-      "Dimensões do artigo": "15,5 x 17,5 x 18,5 centímetros",
-      "Material": "Pólipropileno e Metal",
-      "Material da Lâmina": "Aço inoxidável",
-      "Cor": "Preto/Prata",
-      "Adequação do controle por rádio": "Barba, Corpo, Pescoço",
-      "Marca": "MONDIAL",
-      "Fonte de alimentação": "Energia elétrica"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07KYFQRXD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:40:12.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BTYDLTM3",
-    "title": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
-    "image": "https://m.media-amazon.com/images/I/61ipp6r+idL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 155.97,
-    "price_original": 249,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 111284,
-    "coupon_code": null,
-    "description": "O Soundcore P20i da Anker é uma oferta do dia interessante para quem procura fones de ouvido Bluetooth sem fio. Com drivers dinâmicos de 10mm, a tecnologia BassUp fornece graves potentes e som claro, equilibrado e envolvente. Além disso, oferece uma experiência de audição personalizada com o app soundcore e possibilidades de reprodução longa e carga rápida. Ademais, a resistência à água IPX5 e a clareza nas chamadas com IA tornam esse produto ideal para uso em academia ou durante atividades físicas. Com um preço competitivo de R$ 155.97 e avaliação média de 4.6/5, o Soundcore P20i",
-    "informacoes_produto": {
-      "Nome da marca": "Soundcore",
-      "Número do modelo": "A3949",
-      "Nome do modelo": "P20i",
-      "Componentes incluídos": "Cabo",
-      "Descrição da faixa etária": "Adulto",
-      "País de origem": "China",
-      "Descrição da garantia": "18.00",
-      "Tipo de embalagem": "Embalagem padrão",
-      "Quantidade de itens": "1",
-      "Número de série": "3949",
-      "UPC": "194644124649",
-      "Fabricante": "Anker",
-      "Certificação de teste externa": "/",
-      "É autografado": "Não",
-      "ASIN": "B0BTYDLTM3",
-      "Colocação de auscultadores na orelha": "Intra-auriculares",
-      "Formato dos fones de ouvido": "Intra-auricular",
-      "Forma do auricular": "Vara",
-      "Cor": "Azul",
-      "Estilo": "Clássico",
-      "Comprimento do estojo de transporte": "2,24 Polegadas",
-      "Largura do estojo de transporte": "2,05 Polegadas",
-      "Altura do estojo de transporte": "1,1 Polegadas",
-      "Peso do estojo de transporte": "1,6 Onças",
-      "Impedância": "16 Ohms",
-      "Controle de ruído": "Isolamento de som",
-      "Resposta de frequência": "20 Hz",
-      "Sensibilidade": "102 dB",
-      "Tipo de controlador de áudio": "Controlador dinâmico",
-      "Tamanho do controlador de áudio": "10 Milímetros",
-      "Material": "Policarbonato (PC)",
-      "Usos específicos do produto": "Escola",
-      "Usos recomendados do produto": "Chamada",
-      "Dispositivos compatíveis": "Celulares",
-      "Característica do cabo": "Destacável",
-      "Nível de resistência à água": "Resistente à água",
-      "Material do estojo de transporte": "Plástico",
-      "É alimentado por energia elétrica?": "Não",
-      "Total de portas USB 2.0": "1",
-      "Entrada de fone de ouvido": "Nenhum",
-      "Tecnologia de conectividade": "Sem fio",
-      "Tecnologia de comunicação sem fio": "Bluetooth",
-      "Alcance do Bluetooth": "15 Metros",
-      "Versão do Bluetooth": "5.3",
-      "Tipo de controle": "Toque",
-      "Método de controle": "Toque",
-      "Charging Time": "2 Horas",
-      "Duração da bateria": "30 Horas",
-      "Duração média da bateria do estojo de transporte": "20 Horas",
-      "Tempo de carregamento da bateria no estojo de transporte": "2 Horas",
-      "Capacidade da bateria do estojo de transporte": "350 Milliamp Hours",
-      "Marca": "Soundcore",
-      "Colocação na orelha": "Intra-auriculares",
-      "Fator de forma dos fones de ouvido": "Intra-auricular"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BTYDLTM3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:51:09.486773+00:00",
+    "last_checked_at": "2026-08-12T17:24:42.000Z",
     "spotlight": false
   },
   {
@@ -4157,7 +3090,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7P x 7L x 37A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BT56FZRL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:13:53.000Z",
+    "last_checked_at": "2026-08-12T15:13:39.000Z",
     "spotlight": false
   },
   {
@@ -4207,7 +3140,7 @@ const PRODUCTS = [
       "Marca": "Paulo Cezar Enxovais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B9YDQJNC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:40:13.000Z",
+    "last_checked_at": "2026-08-12T17:39:50.000Z",
     "spotlight": false
   },
   {
@@ -4256,7 +3189,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Carvão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077Z2RPGN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:37:28.000Z",
+    "last_checked_at": "2026-08-12T16:36:47.000Z",
     "spotlight": false
   },
   {
@@ -4304,7 +3237,7 @@ const PRODUCTS = [
       "Dimensões do produto": "13,4P x 13,4L x 37,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FY6RV5FM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:18:07.000Z",
+    "last_checked_at": "2026-08-12T15:17:53.000Z",
     "spotlight": false
   },
   {
@@ -4348,166 +3281,7 @@ const PRODUCTS = [
       "Característica Especial": "Isolante Térmico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CT5XNB5S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:21:16.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0C67LXZQY",
-    "title": "WOLFF - Conjunto Jarra com 6 Copos de Cristal Palm Tree Handpaint",
-    "image": "https://m.media-amazon.com/images/I/61kD9AqK1FL._AC_SL1081_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 99.9,
-    "price_original": 187.3,
-    "discount_percentage": 46,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 400,
-    "coupon_code": null,
-    "description": "Este conjunto de jarra e copos de cristal da marca WOLFF, caracterizado por seu design exclusivo de palmeiras pintadas à mão, oferece uma combinação de estilo tropical e qualidade superior. Ao adquiri-lo, você recebe um produto fabricado com cristal de alta qualidade, que garante durabilidade e brilho excepcionais, ideal para ocasiões informais ou simplesmente para enriquecer sua rotina diária. Ao mesmo tempo, a jarra oferece capacidade generosa e os copos são perfeitos para porções individuais, proporcionando uma experiência de servir completa. Por fim, é importante lembrar que o cuidado adequado é fundamental para manter a beleza do produto, lavando-o com det",
-    "informacoes_produto": {
-      "Nome da marca": "WOLFF",
-      "Usos recomendados do produto": "Casa",
-      "Componentes Incluídos": "151",
-      "Descrição da faixa etária": "Adulto",
-      "País de origem": "China",
-      "Fabricante": "WOLFF",
-      "Nome do Conjunto": "Conjunto Jarra com 6 Copos de Cristal Palm Tree Handpaint",
-      "Nome do Tipo de Produto": "Jarra com Copos",
-      "Número do modelo": "29394",
-      "Número da peça": "29394",
-      "Descrição da garantia": "3 Meses Contra Defeito De Fabricação",
-      "ASIN": "B0C67LXZQY",
-      "Características especiais": "Conjunto jantar",
-      "Recurso de enfeite": "Design hand-painted Palm Tree",
-      "Cor": "PALM TREE",
-      "Estilo": "Palmeira",
-      "Estampa": "Palmeira",
-      "Ocasião": "Aniversário, Dia da Amizade",
-      "Material": "Cristal",
-      "Instruções de cuidados com o produto": "Lavar com detergente neutro, esponja macia e secar imediatamente. Não utilizar outros produtos químicos.",
-      "Reutilização": "Reutilizável",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "Tipo de acabamento": "Liso e brilhante",
-      "Capacidade": "1200 ml",
-      "Contagem de unidades": "6 Unidade",
-      "Peso do item": "3,95 Quilogramas",
-      "Dimensões do item L x A": "16L x 25A centímetros",
-      "Quantidade de itens": "7",
-      "Tamanho": "1,2L/330ml",
-      "Marca": "WOLFF",
-      "Característica Especial": "Conjunto jantar"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0C67LXZQY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:59:50.051470+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B09JH4PD8Q",
-    "title": "Base De Carregamento Do Dualsense - PlayStation 5",
-    "image": "https://m.media-amazon.com/images/I/41y-G-g+dVL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 165.5,
-    "price_original": 249.9,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 15705,
-    "coupon_code": null,
-    "description": "Este Base de Carregamento do Dualsense para PlayStation 5 é uma solução prática e rápida para carregar seus controles, permitindo que você seja preparado para suas próximas sessões de jogos sem precisar deixar as portas USB livres no console. A vantagem principal é a capacidade de carregamento sem fio, o que torna o processo rápido e fácil. Além disso, sua conexão é simples e compatível com consoles de jogos da PlayStation. O custo-benefício do produto é alto, considerando a qualidade e a velocidade de carregamento que oferece.",
-    "informacoes_produto": {
-      "Tipo de conector": "USB",
-      "Dispositivos compatíveis": "Consoles de jogos",
-      "Modelos de telefone compatíveis": "Playstatiton",
-      "Características Especiais": "Carregamento sem fio",
-      "Tensão de entrada": "5,1 Volts",
-      "Total de portas USB": "2",
-      "Corrente de saída": "15 Amperes",
-      "Tensão de saída": "5,1 Volts (CC)",
-      "Fonte de energia": "Elétrico com fio",
-      "Portátil": "Não",
-      "Conector": "No Plug",
-      "Corrente": "DC",
-      "Tipo de Plugue de Alimentação Compatível": "Type C",
-      "Tipo de Conector de Carregamento com Fio": "USB Type A",
-      "Tecnologia de conectividade": "USB",
-      "Cor": "Preto e Branco",
-      "Nome da marca": "PlayStation",
-      "Componentes incluídos": "Base De Carregamento Do Dualsense, conector",
-      "Número do modelo": "3006531",
-      "Número da peça": "3006531",
-      "Fabricante": "Sony",
-      "UPC": "711719547761",
-      "Certificação de teste externa": "Não aplicável",
-      "Nome do Tipo de Item": "Base de Carregamento do DualSense",
-      "Descrição da garantia": "12 meses",
-      "ASIN": "B09JH4PD8Q",
-      "Quantidade de itens": "1",
-      "Peso do item": "180 Gramas",
-      "Contagem de unidades": "1 Unidade",
-      "Marca": "PlayStation",
-      "Tipo de Conector": "USB",
-      "Dispositivos Compatíveis": "Consoles de jogos",
-      "Modelos de Telefone Compatíveis": "Playstatiton",
-      "Componentes Incluídos": "Base De Carregamento Do Dualsense, conector",
-      "Característica Especial": "Carregamento sem fio",
-      "Tensão de Entrada": "5,1 Volts",
-      "Total de Portas USB": "2",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B09JH4PD8Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:53:38.085449+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B07QK91PTZ",
-    "title": "MONDIAL Liquidificador Turbo Power, Preto, 550W, 220V - L-99 FB",
-    "image": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 79.9,
-    "price_original": 159.9,
-    "discount_percentage": 50,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 19765,
-    "coupon_code": null,
-    "description": "O liquidificador MONDIAL Turbo Power, de 550W, oferece uma experiência de misturação eficiente e precisa para preparar sucos, molhos e outros alimentos. Com capacidade total de 2,2 litros, três velocidades e pulsar, alcança a textura perfeita em cada preparação. O copo resistente à quedas e riscos, feito de San Cristal, é supertransparente e não pega cheiro ou cor. Adicionalmente, as lâminas em inox trituram com mais rapidez e precisão, sem enferrujar. Este liquidificador vem com um filtro em Inox para separar sementes e bagaços, tornando seus sucos e molhos mais limpos.",
-    "informacoes_produto": {
-      "Nome da marca": "MONDIAL",
-      "Componentes Incluídos": "01 Liquidificador; 01 Filtro e Manual de Instruções",
-      "Usos recomendados do produto": "Bater",
-      "Descrição da garantia": "12 meses",
-      "Ano de fabricação": "1900",
-      "Fabricante": "MK ELETRODOMESTICOS MONDIAL S/A",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Liquidificador Turbo Power",
-      "Número do modelo": "L-99 FB",
-      "Número da peça": "L-99 FB",
-      "ASIN": "B07QK91PTZ",
-      "Cor": "Preto",
-      "Estilo": "Liquidificadores de bancada",
-      "Características especiais": "Alça ergonômica, Controle de velocidade ajustável",
-      "Fonte de energia": "Electric",
-      "Potência": "500 watts",
-      "Número de velocidades": "3",
-      "Voltagem": "220 Volts",
-      "Tipo de controle": "Básico",
-      "Capacidade": "2,2 litros",
-      "Dimensões do item P x L x A": "20P x 21L x 40A centímetros",
-      "Peso do item": "1,35 Quilogramas",
-      "Material": "Polipropileno",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "Material da Lâmina": "Aço inoxidável",
-      "Material de recipiente": "Plástico",
-      "Tipo de garantia": "Garantia limitada de 1 ano",
-      "Marca": "MONDIAL",
-      "Característica Especial": "Alça ergonômica, Controle de velocidade ajustável",
-      "Dimensões do produto": "20P x 21L x 40A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07QK91PTZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:11:30.000Z",
+    "last_checked_at": "2026-08-12T15:20:49.000Z",
     "spotlight": false
   },
   {
@@ -4559,7 +3333,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B094YR4SLJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:58:28.357448+00:00",
+    "last_checked_at": "2026-08-12T17:42:21.000Z",
     "spotlight": false
   },
   {
@@ -4607,7 +3381,7 @@ const PRODUCTS = [
       "Característica Especial": "Proteção de sobretensão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077719JMJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:25:35.000Z",
+    "last_checked_at": "2026-08-12T17:24:52.000Z",
     "spotlight": false
   },
   {
@@ -4655,7 +3429,7 @@ const PRODUCTS = [
       "Tensão": "127 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07JK2YZTY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:38:29.000Z",
+    "last_checked_at": "2026-08-12T16:37:46.000Z",
     "spotlight": false
   },
   {
@@ -4696,7 +3470,7 @@ const PRODUCTS = [
       "Teor alcoólico": "40 %"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00861CC7Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:07:16.000Z",
+    "last_checked_at": "2026-08-12T16:06:51.000Z",
     "spotlight": false
   },
   {
@@ -4734,44 +3508,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Interior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GF2VQFG4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:23:34.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07RGQVHBJ",
-    "title": "Vonder, Pulverizador Costal Agrícola 20 Litros, Pc 020",
-    "image": "https://m.media-amazon.com/images/I/81nc+Ka15TL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 138,
-    "price_original": 212.9,
-    "discount_percentage": 35,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 3647,
-    "coupon_code": null,
-    "description": "Este Pulverizador Costal Agrícola 20 Litros da marca VONDER, modelo PC 020, é um produto de destaque por sua reversão da alavanca, facilitando o trabalho para ambos os lados dominantes. Indicado para pulverizações em geral, vem acompanhado de um jogo de acessórios para montagem e manutenção. Com uma garantia de 12 meses do fabricante, oferece um bom custo-benefício.",
-    "informacoes_produto": {
-      "Nome da marca": "VONDER",
-      "Componentes incluídos": "1 Pulverizador, acompanha: 1 jogo de acessórios para montagem e manutenção",
-      "Nome do modelo": "Pulverizador Agric 20,0l Pc020 Vonder",
-      "Número do modelo": "6240020000",
-      "Descrição da garantia": "12 meses com o fabricante",
-      "País de origem": "China",
-      "Nome do Tipo de Produto": "Pulverizador costal agrícola 20 litros PC 020 VONDER",
-      "Fabricante": "VONDER",
-      "Número da peça": "6240020000",
-      "ASIN": "B07RGQVHBJ",
-      "Peso do item": "4250 Gramas",
-      "Cor": "not_applicable",
-      "Fonte de energia": "Não aplicável",
-      "Marca": "VONDER",
-      "Peso do produto": "4250 Gramas",
-      "Fonte de alimentação": "Não aplicável",
-      "Componentes Incluídos": "1 Pulverizador, acompanha: 1 jogo de acessórios para montagem e manutenção"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07RGQVHBJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:56:10.000Z",
+    "last_checked_at": "2026-08-12T16:22:36.000Z",
     "spotlight": false
   },
   {
@@ -4820,7 +3557,7 @@ const PRODUCTS = [
       "Característica Especial": "Tamanho para viagem"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07R3DX5GS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:36:41.000Z",
+    "last_checked_at": "2026-08-12T17:36:15.000Z",
     "spotlight": false
   },
   {
@@ -4839,7 +3576,7 @@ const PRODUCTS = [
     "description": "Este livro \"Terapia cognitivo-comportamental: teoria e prática\" oferece uma abordagem detalhada e eficaz para a compreensão e aplicação da terapia cognitivo-comportamental, com avaliação de 4.9/5 (baseado em 4677 avaliações). O custo-benefício é alto, considerando o conhecimento profundo que ele oferece sobre uma técnica terapêutica amplamente utilizada e eficaz.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/6558820250?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:39:17.000Z",
+    "last_checked_at": "2026-08-12T17:38:48.000Z",
     "spotlight": false
   },
   {
@@ -4891,7 +3628,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076CF5DFL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:24:14.000Z",
+    "last_checked_at": "2026-08-12T15:23:46.000Z",
     "spotlight": false
   },
   {
@@ -4941,7 +3678,7 @@ const PRODUCTS = [
       "Característica Especial": "Preparo de xícara única"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZWXJ1WX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:52:11.000Z",
+    "last_checked_at": "2026-08-12T16:51:10.000Z",
     "spotlight": false
   },
   {
@@ -4992,7 +3729,7 @@ const PRODUCTS = [
       "Característica Especial": "Programável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09CC3QFDX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:16:00.000Z",
+    "last_checked_at": "2026-08-12T17:15:17.000Z",
     "spotlight": false
   },
   {
@@ -5033,7 +3770,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CXY81PL4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:34:41.000Z",
+    "last_checked_at": "2026-08-12T17:33:53.000Z",
     "spotlight": false
   },
   {
@@ -5072,86 +3809,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "29 julho 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:13:44.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GV5WBNP2",
-    "title": "Massageador Pescoço Ombro Recarregável Maozinha Calmante Deep 4D com Aquecimento Infravermelho e 3 Velocidades para Alívio Muscular, Portátil e Ergonômico",
-    "image": "https://m.media-amazon.com/images/I/615tMcEmgGL._AC_SL1024_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 109.7,
-    "price_original": 177.45,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 2,
-    "coupon_code": null,
-    "description": "Este Massageador Pescoço Ombro Recarregável Maozinha Calmante Deep 4D oferece uma massagem versátil e profunda, aliviando dores e tensões em várias partes do corpo. A função de aquecimento infravermelho promove relaxamento muscular profundo e melhora a circulação, enquanto o design sem fio permite uso flexível em qualquer ambiente. Com controle de 3 velocidades para personalizar a intensidade da massagem, este produto é confortável, eficaz e lembra a sensação de mãos humanas para uma experiência autêntica. Avaliado com 4.5/5, oferece um excelente custo-benefício.",
-    "informacoes_produto": {
-      "Fonte de energia": "Não aplicável",
-      "Dimensões do item C x L x A": "22C x 15L x 28A centímetros",
-      "Cor": "VERDE",
-      "Nome da marca": "Genérico",
-      "Contagem de unidades": "1 unidade",
-      "Fabricante": "BANPINSH",
-      "Número da peça": "maozinha18438575818394",
-      "ASIN": "B0GV5WBNP2",
-      "Fonte de alimentação": "Não aplicável",
-      "Marca": "Genérico",
-      "Dimensões do produto": "22C x 15L x 28A centímetros",
-      "Quantidade de Unidades": "1 unidade"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GV5WBNP2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:57:22.242088+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H6WVS7TN",
-    "title": "IOWODO Smartwatch Masculino e Feminino AMOLED 1.43\" com Chamadas Bluetooth, Relógio Inteligente 100+ Modos Esportivos, IP68, 2 Pulseiras - Compatível iPhone/Android",
-    "image": "https://m.media-amazon.com/images/I/71vXM6nlieL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 383.89,
-    "price_original": 449,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 20,
-    "coupon_code": null,
-    "description": "Este smartwatch IOWODO de 1,43\" AMOLED oferece uma experiência visual vibrante e detalhada, com cores vibrantes e preto profundo, além de visibilidade excepcional sob sol forte. Com tecnologia Always-On Display (AOD), você pode ver hora, clima e notificações sem precisar levantar o pulso. A estrutura robusta em liga de zinco combina durabilidade com design fino, oferecendo uma opção versátil para uso no escritório ou durante treinos intensos. O smartwatch também oferece chamadas Bluetooth HD, assistente de voz inteligente e mais de 100 modos esportivos, além de um tempo de uso contínuo de até 5 dias com apenas 2 horas de carga",
-    "informacoes_produto": {
-      "Características especiais": "Fazer e atender chamadas, assistente de voz com IA, calculadora, relógio mundial, jogos, mais de 100 modos esportivos, mostrador de relógio faça você mesmo, despertador, controle de música, controle de câmera, previsão do tempo, rastreador de atividades, rastreador multiesportivo, pedômetro, lembrete sedentário, rastreador de calorias, rastreador de distância",
-      "Nível de resistência à água": "Resistente à água",
-      "Formato do item": "Redondo",
-      "Estilo": "Clássico",
-      "Cor": "W40-Prata",
-      "Composição da célula da pilha": "Íon-lítio",
-      "Tecnologia de conectividade": "Bluetooth",
-      "Norma de comunicação sem fio": "Bluetooth",
-      "Tamanho da tela": "1,43 Polegadas",
-      "Tipo de tela": "AMOLED",
-      "Capacidade de armazenamento da memória": "128 MB",
-      "Nome da marca": "IOWODO",
-      "Nome do modelo": "W40",
-      "Público-alvo": "Adultos unissexo",
-      "Número do modelo": "W40",
-      "Componentes incluídos": "1 * Smartwatch (com pulseira de silicone) 1 * Pulseira de substituir 1 * Carregador USB 1 * Manual do usuário",
-      "Descrição da garantia": "Garantia de um ano",
-      "Fabricante": "IOWODO",
-      "País de origem": "China",
-      "Certificação de teste externa": "Anatel: 04748-26-18299",
-      "ASIN": "B0H6WVS7TN",
-      "Dispositivos compatíveis": "Smartphone",
-      "Modelos de telefone compatíveis": "Dispositivos Android, Dispositivos iOS",
-      "Capacidade de Armazenamento de Memória": "128 MB",
-      "Tecnologia de Conectividade": "Bluetooth",
-      "Padrão de comunicação sem fio": "Bluetooth",
-      "Composição das células da bateria": "Íon-lítio"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H6WVS7TN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:32:30.000Z",
+    "last_checked_at": "2026-08-12T15:13:28.000Z",
     "spotlight": false
   },
   {
@@ -5190,7 +3848,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:56:20.000Z",
+    "last_checked_at": "2026-08-12T15:55:34.000Z",
     "spotlight": false
   },
   {
@@ -5229,7 +3887,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:43:03.000Z",
+    "last_checked_at": "2026-08-12T15:42:41.000Z",
     "spotlight": false
   },
   {
@@ -5248,7 +3906,7 @@ const PRODUCTS = [
     "description": "Este Neostrata Minesol Protetor Solar Facial Oil Control, sem cor, oferece proteção avançada contra a luz solar e poluição, graças à tecnologia 3D Extended Defense. Além disso, contém neoglucosamina para estimular a síntese de colágeno, corrigindo rugas e linhas finas com uso contínuo. Adicionalmente, oferece 12h de controle ativo e redução da oleosidade, além de ser reforçado por antioxidantes como Feverfew e Vitamina E que previnem e combatem os sinais de envelhecimento da pele. Por fim, possui textura ultraleve que não deixa resíduos brancos e apresenta uma fragrância suave",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07Y2BK4GJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:00:54.000Z",
+    "last_checked_at": "2026-08-12T16:59:50.000Z",
     "spotlight": false
   },
   {
@@ -5286,7 +3944,7 @@ const PRODUCTS = [
       "Número de Velocidades": "3"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C7N2B3PP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:52:02.000Z",
+    "last_checked_at": "2026-08-12T15:51:26.000Z",
     "spotlight": false
   },
   {
@@ -5335,7 +3993,7 @@ const PRODUCTS = [
       "Dimensões do produto": "18P x 20L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08J8GKC5R?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:17:39.000Z",
+    "last_checked_at": "2026-08-12T15:17:22.000Z",
     "spotlight": false
   },
   {
@@ -5376,7 +4034,7 @@ const PRODUCTS = [
       "Característica Especial": "Ajustável, Aplicação inteligente, Tuya APP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGTSFP5Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:45:03.000Z",
+    "last_checked_at": "2026-08-12T17:44:42.000Z",
     "spotlight": false
   },
   {
@@ -5426,47 +4084,7 @@ const PRODUCTS = [
       "Característica Especial": "Proteção contra curto-circuito, Proteção contra sobrecarga"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CKK4XLTB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:23:25.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FV11RQJY",
-    "title": "Brinox, Jogo de Panelas 7 peças Smart Plus Areia indução Brinox",
-    "image": "https://m.media-amazon.com/images/I/81gPOmhKMQL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 499.99,
-    "price_original": 559.99,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 199,
-    "coupon_code": null,
-    "description": "Este conjunto de panelas Brinox Smart Plus Areia oferece design elegante e moderno, além de ser compatível com todos os tipos de fogões. O revestimento cerâmico antiaderente reduz a necessidade de óleo na cozinha, enquanto o cabos soft-touch proporciona conforto e segurança no manuseio das panelas. Também inclui tampas de vidro temperado com saída de vapor para monitorar o preparo dos alimentos sem abrir a panela. Com preço de R$ 499,99 e uma avaliação média de 4,5/5, este conjunto é um excelente investimento para aqueles que procuram uma cozinha mais prática e moderna.",
-    "informacoes_produto": {
-      "Nome da marca": "Brinox",
-      "Número de peças": "7",
-      "Componentes incluídos": "Jogo de panelas",
-      "Fabricante": "BRINOX METALURGICA SA",
-      "Nome do Conjunto": "Smart Plus Areia",
-      "Quantidade de itens": "7",
-      "Contagem de unidades": "1 Conjunto",
-      "Número do modelo": "4774106",
-      "ASIN": "B0FV11RQJY",
-      "Material": "Alumínio",
-      "Material do cabo": "Silicone, Borracha",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "Compatibilidade do Conjunto de Utensílios de Cozinha": "Fogão por Indução",
-      "Compatibilidade de Utensílios": "metal",
-      "É Compatível com Indução": "Sim",
-      "Cor": "Areia",
-      "O forno é seguro": "Não",
-      "Marca": "Brinox",
-      "Material da Alça": "Silicone, Borracha",
-      "Próprio para lava-louças": "Não"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FV11RQJY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:09:02.686022+00:00",
+    "last_checked_at": "2026-08-12T17:22:38.000Z",
     "spotlight": false
   },
   {
@@ -5507,7 +4125,7 @@ const PRODUCTS = [
       "Tipo de manutenção do veículo": "Carro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3NFVKB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:45:22.000Z",
+    "last_checked_at": "2026-08-12T17:45:01.000Z",
     "spotlight": false
   },
   {
@@ -5553,46 +4171,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "1.0 grams"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09MLBZM7X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:25:58.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FXY5946Y",
-    "title": "Kit Microsoft 365 Family + McAfee Premium Family",
-    "image": "https://m.media-amazon.com/images/I/6152hbwjw+L._AC_SL1080_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 417.0,
-    "price_original": 469,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 170,
-    "coupon_code": null,
-    "description": "Este Kit Microsoft 365 Family + McAfee Premium Family oferece uma produtividade premium para toda a família, com acesso aos aplicativos premium do Microsoft 365 e 6 TB de armazenamento seguro no OneDrive. Além disso, inclui proteção cibernética ilimitada, compatibilidade multiplataforma e garantia de privacidade online. Com um preço de R$ 417,00, o custo-benefício é evidente.",
-    "informacoes_produto": {
-      "Capacidade de armazenamento digital": "6 TB",
-      "Interface do disco rígido": "Ethernet",
-      "Tecnologia de conectividade": "Wi-Fi",
-      "Características especiais": "Compatível com versões anteriores",
-      "Dispositivos compatíveis": "Desktop, Smartphone, Tablet",
-      "Usos específicos do produto": "Pessoal",
-      "Tamanho do disco rígido": "6 TB",
-      "Nome da marca": "Microsoft",
-      "Descrição do disco rígido": "Unidade de estado sólido",
-      "ASIN": "B0FXY5946Y",
-      "Capacidade de Armazenamento Digital": "6 TB",
-      "Interface do Disco Rígido": "Ethernet",
-      "Tecnologia de Conectividade": "Wi-Fi",
-      "Marca": "Microsoft",
-      "Característica Especial": "Compatível com versões anteriores",
-      "Descrição do Disco Rígido": "Unidade de estado sólido",
-      "Dispositivos Compatíveis": "Desktop, Smartphone, Tablet",
-      "Tamanho do Disco Rígido": "6 TB",
-      "Usos Específicos do Produto": "Pessoal"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FXY5946Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:02:59.920471+00:00",
+    "last_checked_at": "2026-08-12T16:24:58.000Z",
     "spotlight": false
   },
   {
@@ -5640,7 +4219,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WKMBDN9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:24:03.000Z",
+    "last_checked_at": "2026-08-12T17:23:18.000Z",
     "spotlight": false
   },
   {
@@ -5694,7 +4273,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora 2376"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075736YWS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:41:03.000Z",
+    "last_checked_at": "2026-08-12T17:40:53.000Z",
     "spotlight": false
   },
   {
@@ -5713,7 +4292,7 @@ const PRODUCTS = [
     "description": "Este guia clássico sobre como ler livros oferece uma leitura inteligente, com uma avaliação de 4,8/5 baseada em 328 avaliações. O produto visa melhorar sua experiência na leitura, proporcionando conhecimento e habilidades úteis. Ao considerar o custo-benefício, é um investimento valioso para quem busca aprimorar suas competências em leitura.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/8594090781?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:38:22.000Z",
+    "last_checked_at": "2026-08-12T17:37:56.000Z",
     "spotlight": false
   },
   {
@@ -5752,7 +4331,7 @@ const PRODUCTS = [
       "Ingredientes ativos": "aloe vera, vitamina E"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07DHSTTCN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:01:05.088271+00:00",
+    "last_checked_at": "2026-08-12T17:47:15.000Z",
     "spotlight": false
   },
   {
@@ -5789,7 +4368,7 @@ const PRODUCTS = [
       "Tamanho da folha": "A4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07NX9R1MF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:23:17.000Z",
+    "last_checked_at": "2026-08-12T17:22:29.000Z",
     "spotlight": false
   },
   {
@@ -5833,7 +4412,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B079VVY5FG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:04:24.000Z",
+    "last_checked_at": "2026-08-12T17:03:18.000Z",
     "spotlight": false
   },
   {
@@ -5872,7 +4451,7 @@ const PRODUCTS = [
       "Marca": "PHILCO"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQRQVF2C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:24:20.000Z",
+    "last_checked_at": "2026-08-12T16:23:22.000Z",
     "spotlight": false
   },
   {
@@ -5907,7 +4486,7 @@ const PRODUCTS = [
       "Número de itens": "4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B01LNQXAZ6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:57:01.000Z",
+    "last_checked_at": "2026-08-12T15:56:15.000Z",
     "spotlight": false
   },
   {
@@ -5948,56 +4527,7 @@ const PRODUCTS = [
       "Resolução de Captura de Vídeo": "4K"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GXFHQ97H?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:41:44.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B088P9VTS1",
-    "title": "MamyPoko Fralda-Calça Premium Seca G 50 Unidades",
-    "image": "https://m.media-amazon.com/images/I/711VJddUaVL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 75.21,
-    "price_original": 117.9,
-    "discount_percentage": 36,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 2345,
-    "coupon_code": null,
-    "description": "O MamyPoko Fralda-Calça Premium Seca G oferece uma solução prática e confiável para bebês de 9 até 14kg, graças à sua dupla barreira que evita vazamentos laterais. A fraldinha absorve até 5 copos de líquidos e mantém o bebê sequinho por até 12 horas, com ondas de absorção que garantem a retirada do xixi imediatamente. Com uma avaliação média de 4,7/5 (baseado em 2345 avaliações), é um produto confiável para manter seu bebê sequinho e protegido à noite toda.",
-    "informacoes_produto": {
-      "Nome da marca": "MamyPoko",
-      "Tipo de protetor para incontinência": "Fralda infantil",
-      "Descrição da faixa etária": "Bebê",
-      "Público-alvo": "Unissex-bebês",
-      "Tipo de pacote": "Embalagem",
-      "Comprimento do artigo": "38 Centímetros",
-      "Fabricante": "Unicharm",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "MamyPoko Fralda-Calça Premium Seca G 50 Unidades",
-      "Número da peça": "YBR--330",
-      "Número do modelo": "YBR--330",
-      "ASIN": "B088P9VTS1",
-      "Usos recomendados do produto": "Proteção fecal",
-      "Quantidade de itens": "1",
-      "Tamanho": "L (50 Contagem)",
-      "Contagem de unidades": "50 Unidade",
-      "Dimensões do artigo": "38 x 14 x 30 centímetros",
-      "Peso do item": "1405 Gramas",
-      "Tamanho do protetor de incontinência": "Tamanho 5",
-      "Weight Range": "de 9 a 14 kg",
-      "Material": "Celulose",
-      "Livre de tipo de material": "Sem cloro",
-      "Reutilização": "Descartável",
-      "Nível de resistência à água": "À prova d'água",
-      "Cor": "Branco",
-      "Marca": "MamyPoko",
-      "Número de itens": "1",
-      "Tipo de protetor de incontinência": "Fralda infantil",
-      "Faixa etária (descrição)": "Bebê"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B088P9VTS1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:08:50.000Z",
+    "last_checked_at": "2026-08-12T16:40:46.000Z",
     "spotlight": false
   },
   {
@@ -6041,7 +4571,7 @@ const PRODUCTS = [
       "Dimensões do produto": "24P x 17,5L x 22A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076FGHHNG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:14:24.000Z",
+    "last_checked_at": "2026-08-12T15:14:09.000Z",
     "spotlight": false
   },
   {
@@ -6088,7 +4618,7 @@ const PRODUCTS = [
       "Característica Especial": "Proteção de sobretensão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HYZQMW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:53:16.000Z",
+    "last_checked_at": "2026-08-12T15:52:39.000Z",
     "spotlight": false
   },
   {
@@ -6132,7 +4662,7 @@ const PRODUCTS = [
       "Marca": "GA.MA ITALY PROFESSIONAL"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07C7Q2FP4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:46:45.000Z",
+    "last_checked_at": "2026-08-12T16:45:42.000Z",
     "spotlight": false
   },
   {
@@ -6177,7 +4707,7 @@ const PRODUCTS = [
       "Usos Específicos do Produto": "Saúde digestiva"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084T6P8P7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:37:11.000Z",
+    "last_checked_at": "2026-08-12T17:36:46.000Z",
     "spotlight": false
   },
   {
@@ -6214,7 +4744,45 @@ const PRODUCTS = [
       "Dimensões do produto": "20C x 20L x 15A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FH1KBSBJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:28:53.000Z",
+    "last_checked_at": "2026-08-12T16:27:48.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BSHFB4GC",
+    "title": "Kit 50 Cabides de Veludo 360° Antideslizante Kit Cabide para Roupas Camiseta Calça",
+    "image": "https://m.media-amazon.com/images/I/61hjRGrHTtL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 69.25,
+    "price_original": 109.9,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2503,
+    "coupon_code": null,
+    "description": "Este kit de 50 cabides de veludo antideslizantes é uma excelente escolha para quem busca manter sua roupas em lugar durante o armazenamento ou transporte. A espessura de 5mm garante suporte até 5kg, enquanto a rotação de 360° do gancho permite uma facilidade de uso. Com dimensões de 45cm x 24cm e um preço competitivo de R$ 67,80, este produto é recomendado para quem deseja manter suas camisetas, blusas, calças ou vestidos em ordem.",
+    "informacoes_produto": {
+      "Nome da marca": "KONTUZ",
+      "Fabricante": "Na Web Home",
+      "Contagem de unidades": "1 unidade",
+      "Nome do Tipo de Produto": "Cabided",
+      "ASIN": "B0BSHFB4GC",
+      "Usos recomendados do produto": "Camisa, Blusa, Calça, Vestido",
+      "Recomendação de peso máximo": "5 Quilogramas",
+      "Dimensões do item L x A": "45L x 24A centímetros",
+      "Quantidade de itens": "1",
+      "Tamanho": "Padrão",
+      "Cor": "BEGE",
+      "Formato do item": "Triangular",
+      "Material": "Metal, Plástico e Veludo",
+      "Tipo de acabamento": "Veludo",
+      "Características especiais": "Economia de espaço",
+      "Marca": "KONTUZ",
+      "Dimensões do produto": "45L x 24A centímetros",
+      "Característica Especial": "Economia de espaço"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BSHFB4GC?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:25:53.000Z",
     "spotlight": false
   },
   {
@@ -6252,7 +4820,7 @@ const PRODUCTS = [
       "Volume líquido": "480 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CRZ4TPCM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:45:12.000Z",
+    "last_checked_at": "2026-08-12T17:44:51.000Z",
     "spotlight": false
   },
   {
@@ -6294,7 +4862,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Crian a"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:38:48.000Z",
+    "last_checked_at": "2026-08-12T15:38:35.000Z",
     "spotlight": false
   },
   {
@@ -6334,58 +4902,7 @@ const PRODUCTS = [
       "Volume líquido": "17,6 Onças líquidas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074LVYZDJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:27:22.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08DJTXZ2B",
-    "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
-    "image": "https://m.media-amazon.com/images/I/7145nK-C+ML._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 89.9,
-    "price_original": 129.9,
-    "discount_percentage": 30,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 2347,
-    "coupon_code": null,
-    "description": "O MamyPoko Fralda-Calça Premium Seca G oferece proteção e conforto para bebês de 9 até 14kg, absorvendo imediatamente xixi por até 5 copos* e mantendo a seca durante até 12h*. A barreira dupla evita vazamentos laterais, enquanto as ondas de absorção garantem que o bebê permaneça sequinho toda noite. Com uma classificação média de 4,7/5 em 2347 avaliações, este produto é um excelente investimento para a saúde e bem-estar de seu bebê.\n\n*Pode variar de acordo com os hábitos e características do bebê. **1 copo = 50ml.",
-    "informacoes_produto": {
-      "Nome da marca": "MamyPoko",
-      "Tipo de protetor para incontinência": "Fralda infantil",
-      "Descrição da faixa etária": "Bebê",
-      "Público-alvo": "Unissex-bebês",
-      "Tipo de pacote": "Caixa",
-      "Comprimento do artigo": "37 Centímetros",
-      "Fabricante": "Unicharm",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
-      "Número da peça": "MK-G-189",
-      "Número do modelo": "Ad-bm1-131209",
-      "ASIN": "B08DJTXZ2B",
-      "Cor": "Branco",
-      "Quantidade de itens": "1",
-      "Tamanho": "L (60 Contagem)",
-      "Contagem de unidades": "60 Unidade",
-      "Dimensões do artigo": "37 x 27,5 x 20 centímetros",
-      "Peso do item": "1779,2 Gramas",
-      "Tamanho do protetor de incontinência": "G",
-      "Weight Range": "de 9 a 14 kg",
-      "Material": "Poliéster",
-      "Livre de tipo de material": "Sem cloro",
-      "Descrição do forro": "Poliéster",
-      "Reutilização": "Descartável",
-      "Nível de resistência à água": "À prova d'água",
-      "Horas de Absorção Efetiva": "12",
-      "Usos recomendados do produto": "Proteção de urina, Proteção fecal",
-      "Marca": "MamyPoko",
-      "Número de itens": "1",
-      "Tipo de protetor de incontinência": "Fralda infantil",
-      "Faixa etária (descrição)": "Bebê"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:44:12.000Z",
+    "last_checked_at": "2026-08-12T17:26:36.000Z",
     "spotlight": false
   },
   {
@@ -6436,7 +4953,7 @@ const PRODUCTS = [
       "Tipo de Cafeteira": "Máquina de café gota a gota"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09CC72K1X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:14:51.000Z",
+    "last_checked_at": "2026-08-12T17:14:04.000Z",
     "spotlight": false
   },
   {
@@ -6482,7 +4999,7 @@ const PRODUCTS = [
       "Marca": "Maccari&amp;Caporici"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FC3474W1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:07:38.000Z",
+    "last_checked_at": "2026-08-12T17:06:26.000Z",
     "spotlight": false
   },
   {
@@ -6531,7 +5048,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHRP7S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:05:37.000Z",
+    "last_checked_at": "2026-08-12T15:05:21.000Z",
     "spotlight": false
   },
   {
@@ -6580,7 +5097,7 @@ const PRODUCTS = [
       "Característica Especial": "Respirável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D517JDJW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:44:51.000Z",
+    "last_checked_at": "2026-08-12T16:43:50.000Z",
     "spotlight": false
   },
   {
@@ -6620,7 +5137,7 @@ const PRODUCTS = [
       "Marca": "Eucerin"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHKB3X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:42:24.000Z",
+    "last_checked_at": "2026-08-12T17:42:12.000Z",
     "spotlight": false
   },
   {
@@ -6670,7 +5187,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L4MDP5Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:03:29.000Z",
+    "last_checked_at": "2026-08-12T15:03:30.000Z",
     "spotlight": false
   },
   {
@@ -6720,48 +5237,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L4MDP5Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:13:47.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B01I54ITP0",
-    "title": "Nautica Perfume Voyage Eau de Toilette Masculino 100ml",
-    "image": "https://m.media-amazon.com/images/I/41bYQcKYVzL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "beleza",
-    "price_current": 75.82,
-    "price_original": 113.07,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 13438,
-    "coupon_code": null,
-    "description": "Este perfume masculino Nautica Voyage Eau de Toilette oferece uma fragrância marcante e duradoura, com notas frescas de maçã, lótus de água e cedro. O frasco de 100 ml é ideal para uso diário, proporcionando uma experiência olfativa fresca e sofisticada. Desenvolvido para o homem moderno e aventureiro, este perfume oferece um bom custo-benefício com sua qualidade e fixação duradoura.",
-    "informacoes_produto": {
-      "Formato do item": "Líquido",
-      "Aroma": "Aquática",
-      "Additional Features": "Esfregue na pele horas depois para reativar instantaneamente e liberar toda a fragrância!",
-      "Concentração de fragrância": "Eau de Toilette",
-      "Modo de Aplicação": "spray",
-      "É autografado": "Não",
-      "Volume do item": "3,3 Onças líquidas",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "1 Mililitros",
-      "Nome do tamanho da embalagem": "100ml",
-      "Nome da marca": "Nautica",
-      "Descrição da faixa etária": "Adulto",
-      "UPC": "789554043915",
-      "Número do modelo": "57",
-      "Número da peça": "57",
-      "ASIN": "B01I54ITP0",
-      "Livre de tipo de material": "Sem parabenos",
-      "Marca": "Nautica",
-      "Forma do produto": "Líquido",
-      "Volume do produto": "3,3 Onças líquidas",
-      "Característica Especial": "Esfregue na pele horas depois para reativar instantaneamente e liberar toda a fragrância!"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B01I54ITP0?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:15:07.280636+00:00",
+    "last_checked_at": "2026-08-12T16:13:09.000Z",
     "spotlight": false
   },
   {
@@ -6808,7 +5284,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Danificado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XFLHJ1S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:25:15.000Z",
+    "last_checked_at": "2026-08-12T17:24:32.000Z",
     "spotlight": false
   },
   {
@@ -6845,52 +5321,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Todas as Idades"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMFXH7RT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:51:42.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0875WN886",
-    "title": "Purina Friskies Friskies Megamix Castrados 10 1Kg",
-    "image": "https://m.media-amazon.com/images/I/81p1mFpnhaL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 163.79,
-    "price_original": 198.49,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 2602,
-    "coupon_code": null,
-    "description": "Este produto Purina Friskies Friskies Megamix Castrados oferece uma ração completa e balanceada para gatos adultos castrados, composta por um delicioso misto de carnes como frango, atum, salmão, figado, peru, camarão e carne. Com avaliação 4,8/5 baseada em 2602 avaliações, é uma opção popular entre os donos de gatos. O produto vem em um saco de 10,1 kg, ideal para abastecimentos prolongados. Além disso, o alimento é livre de corantes artificiais, oferecendo aos seus felinos uma alimentação saudável e deliciosa.",
-    "informacoes_produto": {
-      "Nome da marca": "Purina Friskies",
-      "Sabor": "Frango, Atum, Salmão, Fígado, Peru, Camarão e Carne",
-      "Descrição da faixa etária": "Todas as idades",
-      "Formato do item": "Grãos Secos",
-      "Usos específicos do produto": "Gatos Castrados",
-      "Ingredientes especiais": "Livre de Corantes Artificiais",
-      "Tipo de recipiente": "Saco",
-      "Recomendação de raça": "Raças médias, Raças pequenas, Todos os tamanhos da raça",
-      "País de origem": "Brasil",
-      "Informações sobre alérgenos": "O glúten pode conter",
-      "Espécie de destino": "Gato",
-      "Componentes incluídos": "Não aplicável",
-      "Nome do Tipo de Produto": "Ração Seca para Gatos",
-      "Fabricante": "Nestlé Purina",
-      "Model Number": "12521771",
-      "Ocasião": "Uso Diário",
-      "Número da peça": "Não aplicável",
-      "ASIN": "B0875WN886",
-      "Contagem de unidades": "10.1 Quilograma",
-      "Quantidade de itens": "1",
-      "Peso do item": "10,1 Quilogramas",
-      "Marca": "Purina Friskies",
-      "Faixa etária (descrição)": "Todas as idades",
-      "Forma do produto": "Grãos Secos",
-      "Usos Específicos do Produto": "Gatos Castrados"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0875WN886?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:49:15.000Z",
+    "last_checked_at": "2026-08-12T15:51:06.000Z",
     "spotlight": false
   },
   {
@@ -6930,7 +5361,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHLCH1ZP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:37:52.000Z",
+    "last_checked_at": "2026-08-12T17:37:27.000Z",
     "spotlight": false
   },
   {
@@ -6973,7 +5404,7 @@ const PRODUCTS = [
       "Nome do Modelo": "MG3941/15"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FG9GWZJS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:19:31.000Z",
+    "last_checked_at": "2026-08-12T16:18:35.000Z",
     "spotlight": false
   },
   {
@@ -7024,7 +5455,7 @@ const PRODUCTS = [
       "Característica Especial": "Redução de ruído"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F68W8CPQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:07:49.855440+00:00",
+    "last_checked_at": "2026-08-12T17:48:15.000Z",
     "spotlight": false
   },
   {
@@ -7043,7 +5474,7 @@ const PRODUCTS = [
     "description": "Esse kit da Lola Cosmetics é uma verdadeira joia! Com seus produtos Cronograma Capilar Be(m) Dita Ghee, você vai obter um cabelo saudável e brilhante. A combinação de rosas amarelo e azul com flutas mamão, banana e abacaxi é simplesmente incrível e vai deixar seu cabelo com um brilho natural e intenso!",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKVJ1HWB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:43:54.000Z",
+    "last_checked_at": "2026-08-12T15:43:22.000Z",
     "spotlight": false
   },
   {
@@ -7088,7 +5519,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B000XSG300?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:20:54.000Z",
+    "last_checked_at": "2026-08-12T16:19:58.000Z",
     "spotlight": false
   },
   {
@@ -7128,7 +5559,7 @@ const PRODUCTS = [
       "Dimensões do produto": "10L x 28,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXQC6MDM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:49:04.000Z",
+    "last_checked_at": "2026-08-12T15:48:29.000Z",
     "spotlight": false
   },
   {
@@ -7169,7 +5600,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "1 Frasco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G2682GZF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:43:19.000Z",
+    "last_checked_at": "2026-08-12T17:43:01.000Z",
     "spotlight": false
   },
   {
@@ -7210,7 +5641,7 @@ const PRODUCTS = [
       "Tipo de Pele": "Todos os tipos de pele"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B079VVRXZL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:26:31.000Z",
+    "last_checked_at": "2026-08-12T17:25:48.000Z",
     "spotlight": false
   },
   {
@@ -7260,7 +5691,7 @@ const PRODUCTS = [
       "Característica Especial": "Sem perfume"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XP8K162?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:21:26.000Z",
+    "last_checked_at": "2026-08-12T17:20:44.000Z",
     "spotlight": false
   },
   {
@@ -7312,7 +5743,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Hidratante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074LTNQBP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:21:36.000Z",
+    "last_checked_at": "2026-08-12T17:20:53.000Z",
     "spotlight": false
   },
   {
@@ -7369,7 +5800,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJ3BDN7T?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:29:34.000Z",
+    "last_checked_at": "2026-08-12T15:29:10.000Z",
     "spotlight": false
   },
   {
@@ -7405,52 +5836,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Livre de corantes, Livre de formaldeído, Livre de ftalatos, Livre de parabenos, Livre de sulfatos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FH7C4YCS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:20:43.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0B695DMC2",
-    "title": "L'Oréal Paris Protetor Facial Solar Expertise Antioleosidade FPS 60, 40g | com Ácido Salicílico, possui Efeito Matte e Contro",
-    "image": "https://m.media-amazon.com/images/I/81VO-Y6AgGL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "beleza",
-    "price_current": 30.2,
-    "price_original": 55.89,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 15064,
-    "coupon_code": null,
-    "description": "Este produto L'Oréal Paris Protetor Solar Expertise Antioleosidade FPS 60 oferece alta proteção solar (FPS 60) contra raios UVA/UVB, prevenindo envelhecimento cutâneo e manchas solares. A fórmula avançada contém Ácido Salicílico, que reduz excesso de oleosidade da pele e auxilia na desobstrução dos poros, garantindo um efeito matte duradouro por até 12 horas. Com textura leve e cremosa, é facilmente absorvida pela pele sem deixar resíduos oleosos, oferecendo proteção eficaz ao dia a dia. Este produto é recomendado para pele oleosa e não testado em animais",
-    "informacoes_produto": {
-      "Aroma": "Sem perfume",
-      "Benefícios do produto": "Proteção ultravioleta",
-      "Fator de Proteção Solar": "60 Fator de proteção solar (FPS)",
-      "Tipo de pele": "Oleosa",
-      "Nível de resistência à água": "Resistente à água",
-      "Formato do item": "Creme",
-      "Parte do corpo pretendida para utilização": "Rosto",
-      "Additional Features": "Não testado em animais, Sem perfume",
-      "Tom de pele": "Tudo",
-      "Princípios ativos": "AQUA/WATER ,HOMOSALATE ,SILICA ,ISONONYL ISONONANOATE ,ETHYLHEXYL TRIAZONE ,BUTYL METHOXYDIBENZOYLMETHANE ,BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE ,DIISOPROPYL SEBACATE ,GLYCERIN ,ALUMINUM STARCH ,OCTENYLSUCCINATE ,PHENYLBENZIMIDAZOLE SULFONIC ACID ,OCTOCRYLENE ,CAPRYLYL METHICONE ,PENTYLENE GLYCOL ,TRIETHANOLAMINE ,TITANIUM DIOXIDE ,POTASSIUM CETYL PHOSPHATE ,METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL ,PHENOXYETHANOL ,STEARIC ACID ,PALMITIC ACID ,GLYCERYL STEARATE ,PEG-100 STEARATE ,AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER ,SODIUM METHYL STEAROYL TAURATE ,CAPRYLYL GLYCOL ,STEARYL ALCOHOL ,TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID ,TOCOPHEROL ,CHLORPHENESIN ,POLOXAMER 338 ,POLYGLYCERYL-10 LAURATE ,ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER ,CELLULOSE ,BUTYLENE GLYCOL ,ALUMINUM HYDROXIDE ,SILICA SILYLATE ,DISODIUM EDTA ,MYRISTIC ACID ,SALICYLIC ACID ,LINALOOL ,T-BUTYL ALCOHOL ,PARFUM / FRAGRANCE",
-      "Usos Recomendados para o Produto": "Proteção solar diária, controle de oleosidade, prevenção do envelhecimento cutâneo, proteção contra raios UVA/UVB, redução de excesso de oleosidade, desobstrução dos poros",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "1.0 Unidade",
-      "Dimensões do artigo": "41 x 50 x 122 milímetros",
-      "Nome da marca": "L'Oreal Paris",
-      "País da etiqueta": "Brasil",
-      "Descrição da faixa etária": "Adulto",
-      "Fabricante": "L'Oréal Brasil",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Protetor Solar",
-      "Número do modelo": "H0859023",
-      "ASIN": "B0B695DMC2",
-      "Vantagens do produto": "Proteção ultravioleta",
-      "Número de itens": "1",
-      "Quantidade de Unidades": "1.0 Unidade"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0B695DMC2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:14:10.898259+00:00",
+    "last_checked_at": "2026-08-12T16:19:47.000Z",
     "spotlight": false
   },
   {
@@ -7498,7 +5884,7 @@ const PRODUCTS = [
       "Característica Especial": "Autoajustável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09ZPK9S7B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:36:01.000Z",
+    "last_checked_at": "2026-08-12T17:35:24.000Z",
     "spotlight": false
   },
   {
@@ -7537,7 +5923,7 @@ const PRODUCTS = [
       "Tipo de Pele": "Todos os tipos de pele"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C7Q4Q74P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:26:02.000Z",
+    "last_checked_at": "2026-08-12T17:25:20.000Z",
     "spotlight": false
   },
   {
@@ -7575,46 +5961,7 @@ const PRODUCTS = [
       "Volume líquido": "50 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09GHN14FP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:26:11.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07SBXMSGB",
-    "title": "Argan Óleo Reparador 50ml , Lola Cosmetics",
-    "image": "https://m.media-amazon.com/images/I/41sfmT4opyL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "beleza",
-    "price_current": 20.61,
-    "price_original": 44.9,
-    "discount_percentage": 54,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 46237,
-    "coupon_code": null,
-    "description": "O Argan Óleo Reparador de Lola Cosmetics é um produto de beleza que se destaca por reparar cabelos danificados, eliminar o frizz e conferir brilho intenso. Com uma formulação leve absorvida rapidamente, este óleo capilar de 50ml protege contra calor de secadores e pranchas, alinhando o cabelo com leveza e mantendo proteção contínua contra agressores externos. Este produto é ideal para uso diário na finalização dos fios, oferecendo um bom custo-benefício.",
-    "informacoes_produto": {
-      "Benefícios do produto": "Frizz",
-      "Tipo de cabelo": "Todos os tipos de cabelos",
-      "Aroma": "Floral amadeirada com toque cítrico e notas doces especiadas",
-      "Formato do item": "Óleo",
-      "Nome da marca": "Lola",
-      "Fabricante": "Lola Cosmetics",
-      "País de origem": "Brasil",
-      "Peso do item": "20 Gramas",
-      "Nome do Tipo de Produto": "Argan Oil novo 50 ml",
-      "ASIN": "B07SBXMSGB",
-      "Volume de líquido": "50 Mililitros",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "50 mililitro",
-      "Volume do item": "50 Mililitros",
-      "Livre de tipo de material": "Produto vegano",
-      "Vantagens do produto": "Frizz",
-      "Tipo de Cabelo": "Todos os tipos de cabelos",
-      "Tipo de material livre": "Produto vegano",
-      "Volume líquido": "50 Mililitros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:18:37.000Z",
+    "last_checked_at": "2026-08-12T17:25:30.000Z",
     "spotlight": false
   },
   {
@@ -7658,7 +6005,7 @@ const PRODUCTS = [
       "Instruções de Cuidados do Produto": "Pode ser lavado na máquina de lavar louça"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0789M146B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:35:19.000Z",
+    "last_checked_at": "2026-08-12T16:34:28.000Z",
     "spotlight": false
   },
   {
@@ -7705,7 +6052,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Hidratante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074LQXGM7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:28:25.000Z",
+    "last_checked_at": "2026-08-12T17:27:38.000Z",
     "spotlight": false
   },
   {
@@ -7747,7 +6094,7 @@ const PRODUCTS = [
       "Característica do material": "Perfumado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CVSBKF4N?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:31:18.000Z",
+    "last_checked_at": "2026-08-12T17:30:30.000Z",
     "spotlight": false
   },
   {
@@ -7794,7 +6141,7 @@ const PRODUCTS = [
       "Informações de embalagem": "garrafa pequena"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CXJLK24Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:55:01.699394+00:00",
+    "last_checked_at": "2026-08-12T17:46:36.000Z",
     "spotlight": false
   },
   {
@@ -7841,7 +6188,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Liso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CGBZDNHQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:55:11.000Z",
+    "last_checked_at": "2026-08-12T15:54:26.000Z",
     "spotlight": false
   },
   {
@@ -7895,53 +6242,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00KO3UO9A?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:17:15.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08YZ4CBG4",
-    "title": "Neutrogena Hidratante Facial Antissinais Reparado Face Care Intensive, 100g",
-    "image": "https://m.media-amazon.com/images/I/71wQlE6oJ3L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 28.79,
-    "price_original": 48.99,
-    "discount_percentage": 41,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 13723,
-    "coupon_code": null,
-    "description": "Este Neutrogena Hidratante Facial Antissinais Reparado oferece uma hidratação intensa 24 horas, reduz a oleosidade da pele e fornece um efeito primer instantâneo. A fórmula avançada oferece mais ciência para sua pele, combate e previne os principais sinais do envelhecimento, uniformiza o tom e corrige marcas da pele. Com preço acessível de R$ 21,20, é um produto recomendado para quem busca uma hidratação profunda e correção de sinais do envelhecimento.",
-    "informacoes_produto": {
-      "Nome da marca": "Neutrogena",
-      "Descrição da faixa etária": "Adulto",
-      "Tipo de pele": "Todos os tipos de pele",
-      "Quantidade de itens": "1",
-      "Formato do item": "Creme",
-      "Parte do corpo pretendida para utilização": "Rosto",
-      "Benefícios do produto": "Ação antissinais, combate e previne os principais sinais do envelhecimento, uniformiza o tom e corrige marcas da pele, hidratação intensa com toque seco, restaura os danos diários durante a noite, previne linhas de expressão, ajuda a firmar a pele",
-      "Usos específicos do produto": "Envelhecimento",
-      "Usos recomendados do produto": "Envelhecimento, Oleosidade",
-      "Número de identificação de comércio internacional": "07891010253806",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "NEUTROGENA® Face Care Intensive Antissinais Reparador 100g",
-      "Fabricante": "Johnson &amp; Johnson",
-      "ASIN": "B08YZ4CBG4",
-      "Volume do item": "100 Mililitros",
-      "Dimensões do artigo": "5,8 x 5,8 x 5,7 centímetros",
-      "Contagem de unidades": "1.0 grams",
-      "Peso do item": "200 Gramas",
-      "Princípios ativos": "Vitamina C, Niacinamida, Dimeticone",
-      "Ingredientes especiais": "Vitamina C",
-      "Additional Features": "Tamanho para viagem",
-      "Marca": "Neutrogena",
-      "Volume do produto": "100 Mililitros",
-      "Dimensões do item C x L x A": "5,8 x 5,8 x 5,7 centímetros",
-      "Faixa etária (descrição)": "Adulto",
-      "Característica Especial": "Tamanho para viagem"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B08YZ4CBG4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:02:33.000Z",
+    "last_checked_at": "2026-08-12T17:16:32.000Z",
     "spotlight": false
   },
   {
@@ -7985,7 +6286,7 @@ const PRODUCTS = [
       "Público-Alvo": "Fãs de Futebol"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H12ZV9GT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:40:53.000Z",
+    "last_checked_at": "2026-08-12T17:40:42.000Z",
     "spotlight": false
   },
   {
@@ -8052,45 +6353,7 @@ const PRODUCTS = [
       "Formato da Luminária": "Teto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FS72R73Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:21:36.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BLZVD5S5",
-    "title": "La Roche-Posay, Ultra Cover, Protetor Solar com Cor e Performance de Maquiagem, 12h de cobertura de base em uma única camada,",
-    "image": "https://m.media-amazon.com/images/I/41qWhEJxnaL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "beleza",
-    "price_current": 69.9,
-    "price_original": 89.9,
-    "discount_percentage": 22,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 12804,
-    "coupon_code": null,
-    "description": "Este produto La Roche-Posay Ultra Cover oferece uma proteção solar de alta performance combinada com maquiagem, fornecendo 12 horas de cobertura em uma única camada. Ademais, é leve, não craqueja e possui um toque seco, sendo adequado para todos os tipos de pele. Além disso, conta com cinco cores especificamente desenvolvidas para pele brasileira. Com benefícios como proteção contra luz visível, hipoalergênico, ingredientes naturais e não testado em animais, o custo-benefício é uma ótima opção para quem procura uma maquiagem solar de alta qualidade.",
-    "informacoes_produto": {
-      "Aroma": "Fragrância Leve e Agradável",
-      "Benefícios do produto": "Protetor solar com performance de maquiagem, 12h de cobertura de base em uma única camada, não pesa, não craquelaProteção contra luz visível",
-      "Tipo de pele": "Normal, Oleosa, Seca, Sensível, Todos os tipos de pele",
-      "Formato do item": "Creme",
-      "Cor": "Cor 3.0",
-      "Additional Features": "Hipoalergênico, Ingredientes naturais, Não testado em animais, Orgânico",
-      "Peso do item": "40 Gramas",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "30.0 Mililitros",
-      "Dimensões do artigo": "20 x 30 x 140 milímetros",
-      "Nome da marca": "La Roche-Posay",
-      "Fabricante": "L'oréal DCA BR",
-      "País de origem": "Brasil",
-      "Número da peça": "027250",
-      "ASIN": "B0BLZVD5S5",
-      "Peso do produto": "40 Gramas",
-      "Número de itens": "1",
-      "Quantidade de Unidades": "30.0 Mililitros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BLZVD5S5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:20:28.000Z",
+    "last_checked_at": "2026-08-12T16:20:37.000Z",
     "spotlight": false
   },
   {
@@ -8136,7 +6399,7 @@ const PRODUCTS = [
       "Tipo de Pele": "Todos os tipos de pele"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D3J37TLY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:17:07.000Z",
+    "last_checked_at": "2026-08-12T16:16:28.000Z",
     "spotlight": false
   },
   {
@@ -8179,7 +6442,7 @@ const PRODUCTS = [
       "Tipo de visor": "LCD"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FNXCLLDV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:15:02.000Z",
+    "last_checked_at": "2026-08-12T17:14:14.000Z",
     "spotlight": false
   },
   {
@@ -8231,7 +6494,7 @@ const PRODUCTS = [
       "Ingredientes ativos": "Niacinamida"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B079VXJK79?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:20:57.000Z",
+    "last_checked_at": "2026-08-12T17:20:15.000Z",
     "spotlight": false
   },
   {
@@ -8278,7 +6541,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DVCG76Z5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:27:33.000Z",
+    "last_checked_at": "2026-08-12T17:26:45.000Z",
     "spotlight": false
   },
   {
@@ -8329,7 +6592,46 @@ const PRODUCTS = [
       "Número de itens": "12"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0954R6FNH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:37:22.000Z",
+    "last_checked_at": "2026-08-12T17:36:56.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0F9ZTSFFX",
+    "title": "Brinox - Panela de Pressão 5,4L Antiaderente Ceramic Life Pressure com Fundo de Indução - Vanilla",
+    "image": "https://m.media-amazon.com/images/I/71Ht0qPHlyL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 199,
+    "price_original": 215.79,
+    "discount_percentage": 7,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 947,
+    "coupon_code": null,
+    "description": "A panela de pressão Brinox Vanilla oferece uma combinação de beleza, funcionalidade e segurança, além de possuir capacidade versátil para vários tipos de receitas. Com revestimento cerâmico antiaderente e uso compatível em todos os tipos de fogões, a panela proporciona cozimentos rápidos e uniformes, enquanto sua estética sofisticada valoriza a decoração da cozinha. Com 4 dispositivos de segurança e capacidade de 5,4 litros, a Brinox Vanilla é uma opção prática para aqueles que buscam economia de tempo na rotina culinária.",
+    "informacoes_produto": {
+      "Método de controle": "Botão",
+      "Modo de operação": "Manual",
+      "Tipo de fechamento": "Tampa Interna",
+      "Capacidade": "5,4 litros",
+      "Peso do item": "1,52 Quilogramas",
+      "Material": "Alumínio",
+      "Cor": "Vanila",
+      "Nome da marca": "Brinox",
+      "Número do modelo": "4953/503",
+      "Quantidade de itens": "1",
+      "País de origem": "China",
+      "Componentes incluídos": "01 Panela de Pressão",
+      "Nome do Tipo de Item": "Panela de Pressão Ceramic Life Pressure com Fundo de Indução 5,4",
+      "Fabricante": "Brinox",
+      "Contagem de unidades": "1 Unidade",
+      "Número da peça": "4953/503",
+      "ASIN": "B0F9ZTSFFX",
+      "Marca": "Brinox",
+      "Peso do produto": "1,52 Quilogramas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F9ZTSFFX?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:31:16.000Z",
     "spotlight": false
   },
   {
@@ -8375,7 +6677,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:44:54.000Z",
+    "last_checked_at": "2026-08-12T15:44:22.000Z",
     "spotlight": false
   },
   {
@@ -8425,7 +6727,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:19:05.000Z",
+    "last_checked_at": "2026-08-12T17:18:24.000Z",
     "spotlight": false
   },
   {
@@ -8465,7 +6767,7 @@ const PRODUCTS = [
       "Característica Especial": "Ajustável, Controle de ácaros, Lavável, Silencioso, À prova de água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DBY8MGT7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:27:41.000Z",
+    "last_checked_at": "2026-08-12T16:26:33.000Z",
     "spotlight": false
   },
   {
@@ -8501,7 +6803,7 @@ const PRODUCTS = [
       "Informações sobre Alérgenos": "Contém: Cevada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09CR3T4QN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:47:01.000Z",
+    "last_checked_at": "2026-08-12T15:46:25.000Z",
     "spotlight": false
   },
   {
@@ -8542,7 +6844,7 @@ const PRODUCTS = [
       "Ingredientes ativos": "Niacinamida, Vitamina C, Ácido Hialurônico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DP82WCWS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:18:26.000Z",
+    "last_checked_at": "2026-08-12T17:17:44.000Z",
     "spotlight": false
   },
   {
@@ -8588,7 +6890,7 @@ const PRODUCTS = [
       "Dimensões do produto": "132C x 68L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9KXXC1G?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:38:44.000Z",
+    "last_checked_at": "2026-08-12T17:38:18.000Z",
     "spotlight": false
   },
   {
@@ -8640,7 +6942,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DTJKLBBQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:28:46.000Z",
+    "last_checked_at": "2026-08-12T15:28:19.000Z",
     "spotlight": false
   },
   {
@@ -8685,7 +6987,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área externa, Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GK9Z757L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:54:33.000Z",
+    "last_checked_at": "2026-08-12T16:53:36.000Z",
     "spotlight": false
   },
   {
@@ -8736,7 +7038,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WKPK952?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:27:06.000Z",
+    "last_checked_at": "2026-08-12T15:26:38.000Z",
     "spotlight": false
   },
   {
@@ -8787,7 +7089,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WKPK952?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:34:13.000Z",
+    "last_checked_at": "2026-08-12T17:33:25.000Z",
     "spotlight": false
   },
   {
@@ -8836,7 +7138,7 @@ const PRODUCTS = [
       "Número de itens": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4G9HWF7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:10:09.000Z",
+    "last_checked_at": "2026-08-12T17:08:57.000Z",
     "spotlight": false
   },
   {
@@ -8869,7 +7171,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "3 fevereiro 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTTM9J9J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:09:00.000Z",
+    "last_checked_at": "2026-08-12T17:07:42.000Z",
     "spotlight": false
   },
   {
@@ -8912,7 +7214,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0089WNKVC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:43:38.000Z",
+    "last_checked_at": "2026-08-12T17:43:19.000Z",
     "spotlight": false
   },
   {
@@ -8960,7 +7262,7 @@ const PRODUCTS = [
       "Dimensões do produto": "18,4C x 8,6L x 18,4A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVJWQ3PX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:53:26.000Z",
+    "last_checked_at": "2026-08-12T16:52:32.000Z",
     "spotlight": false
   },
   {
@@ -9004,7 +7306,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "60.0 Grama"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08B5GFHZN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:02:08.861163+00:00",
+    "last_checked_at": "2026-08-12T17:47:27.000Z",
     "spotlight": false
   },
   {
@@ -9048,7 +7350,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:37:25.000Z",
+    "last_checked_at": "2026-08-12T15:37:14.000Z",
     "spotlight": false
   },
   {
@@ -9087,47 +7389,7 @@ const PRODUCTS = [
       "Descrição do Corpo": "Encorpado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CXV3LHQR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:34:32.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B082481SDH",
-    "title": "Cápsulas de Café Original Nespresso Variados - 50 Cápsulas",
-    "image": "https://m.media-amazon.com/images/I/51BwrtdepjL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 157.25,
-    "price_original": 170,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 488,
-    "coupon_code": null,
-    "description": "O produto Nespresso Variados oferece uma variedade de sabores equilibrados, com 50 cápsulas de Volluto, Ispirazione Genova Livanto, Ispirazione Ristretto Italiano, Ispirazione Roma e Firenze Arpeggio. A tecnologia de cápsula da Nespresso permite que você obtenha café fresco e suave em instantes, com sabor rico e luxuoso. Cada cápsula é individualmente embalada e pronta para uso em sua máquina, oferecendo café 100% original de origem responsável. A qualidade e sustentabilidade são prioridades, garantindo um sabor requintado em cada xícara.",
-    "informacoes_produto": {
-      "Nome da marca": "Nespresso",
-      "Formato do item": "Cápsula",
-      "Sabor": "Volluto, Ispirazione Genova Livanto, Ispirazione Ristretto Italiano, Ispirazione Roma e Firenze Arpeggio",
-      "Descrição do teor de cafeína": "Com cafeína",
-      "Níveis de torra do café": "Torra média",
-      "Tipo de recipiente": "Pacote",
-      "Tipo de dieta": "À base de plantas",
-      "Contagem de unidades": "50 Unidade",
-      "Quantidade de itens": "50",
-      "Ingredientes especiais": "‎Café torrado e moído 100% ARÁBICA:Volluto: Café com notas de biscoito doce e acidez frutada,Genova Livanto: Café equilibrado com harmonia entre cereal, caramelo e acidez, Ristretto Italiano: Café clássico intenso com notas torradas e frutado,Firenze Arpeggio: Café aveludado e cremoso com notas de cacau,Roma: Café balanceado e completo com notas doces, amadeiradas e de cereais",
-      "Especialidade": "Origem única",
-      "Tipo de Café": "Inserção de Máquina de Café",
-      "Variedade": "Variado",
-      "Teor de cafeína por porção": "55 Gramas",
-      "Número de peças": "50",
-      "ASIN": "B082481SDH",
-      "Dimensões do artigo": "50 x 50 x 150 milímetros",
-      "Marca": "Nespresso",
-      "Forma do produto": "Cápsula",
-      "Nível de torragem": "Torra média"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B082481SDH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:56:12.534790+00:00",
+    "last_checked_at": "2026-08-12T17:33:44.000Z",
     "spotlight": false
   },
   {
@@ -9172,7 +7434,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Sem flúor, Sem parabenos, Sem triclosan"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCJ1JZWG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:42:52.000Z",
+    "last_checked_at": "2026-08-12T15:42:33.000Z",
     "spotlight": false
   },
   {
@@ -9221,7 +7483,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B093G9PSPP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:03:54.000Z",
+    "last_checked_at": "2026-08-12T17:02:48.000Z",
     "spotlight": false
   },
   {
@@ -9263,7 +7525,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D519XS9K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:38:37.000Z",
+    "last_checked_at": "2026-08-12T15:38:26.000Z",
     "spotlight": false
   },
   {
@@ -9301,7 +7563,7 @@ const PRODUCTS = [
       "Teor alcoólico": "5,2 %"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CN9NGTXK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:37:00.000Z",
+    "last_checked_at": "2026-08-12T17:36:36.000Z",
     "spotlight": false
   },
   {
@@ -9343,7 +7605,7 @@ const PRODUCTS = [
       "Peso do produto": "1,07 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07YDWM1QF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:13:07.000Z",
+    "last_checked_at": "2026-08-12T16:12:40.000Z",
     "spotlight": false
   },
   {
@@ -9383,7 +7645,7 @@ const PRODUCTS = [
       "Tipo de Garrafa": "Inox, Coqueteleira"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9XFQ394?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:24:11.000Z",
+    "last_checked_at": "2026-08-12T16:23:13.000Z",
     "spotlight": false
   },
   {
@@ -9427,7 +7689,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:10:17.000Z",
+    "last_checked_at": "2026-08-12T17:09:07.000Z",
     "spotlight": false
   },
   {
@@ -9476,7 +7738,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Preto Revestido em Pó"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJ8YLP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:00:37.000Z",
+    "last_checked_at": "2026-08-12T15:00:48.000Z",
     "spotlight": false
   },
   {
@@ -9495,7 +7757,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/8594318782?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:42:46.000Z",
+    "last_checked_at": "2026-08-12T17:42:30.000Z",
     "spotlight": false
   },
   {
@@ -9542,7 +7804,7 @@ const PRODUCTS = [
       "Tensão": "120 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07JN5P9QD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:16:09.000Z",
+    "last_checked_at": "2026-08-12T17:15:28.000Z",
     "spotlight": false
   },
   {
@@ -9586,7 +7848,7 @@ const PRODUCTS = [
       "Peso do produto": "1 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B082QY4KJH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:28:35.000Z",
+    "last_checked_at": "2026-08-12T17:27:48.000Z",
     "spotlight": false
   },
   {
@@ -9629,7 +7891,7 @@ const PRODUCTS = [
       "Peso do produto": "2,2 Libras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B001GAP4YA?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:40:24.000Z",
+    "last_checked_at": "2026-08-12T17:40:01.000Z",
     "spotlight": false
   },
   {
@@ -9669,51 +7931,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Seco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FBD3G6FR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:43:47.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DKG4VZ3Q",
-    "title": "Frigideira Rochedo Stone Pro 24cm Preto com Efeito Pedra e Antiaderente Minerium, Alta Resistência e Durabilidade, Cabos Ergo",
-    "image": "https://m.media-amazon.com/images/I/41kW-UdKnoL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 79.9,
-    "price_original": 89.99,
-    "discount_percentage": 11,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 324,
-    "coupon_code": null,
-    "description": "O produto Rochedo Stone Pro 24cm preto possui um revestimento antiaderente Minerium efeito pedra, oferecendo durabilidade e eficiência no preparo de alimentos. A frigideira também apresenta tecnologia Thermo-Sinal inteligente que muda de cor quando atinge a temperatura ideal para selar os alimentos, garantindo um cozimento uniforme e profissional. Com design moderno e resistente, mantém sua aparência sofisticada sem manchas causadas pelo calor do fogão. Adicionalmente, cabos ergonômicos oferecem conforto e segurança no manuseio, tornando o uso mais prático no dia a dia. Com preço competitivo, essa frigideira é uma boa opção para aqueles que buscam",
-    "informacoes_produto": {
-      "Nome da marca": "Rochedo",
-      "País de origem": "Colômbia",
-      "Nome do modelo": "Frigideira",
-      "Usos recomendados do produto": "Fritar",
-      "Usos específicos do produto": "Crepe, Omelete, Panqueca",
-      "Ano de fabricação": "2024",
-      "Componentes incluídos": "01 Frigideira 24cm",
-      "Nome do Tipo de Produto": "Frigideira",
-      "Fabricante": "Rochedo",
-      "Número do modelo": "0371300",
-      "Número da peça": "0371300",
-      "ASIN": "B0DKG4VZ3Q",
-      "Material": "Alumínio",
-      "Instruções de cuidados com o produto": "Pode ser lavado na máquina de lavar louça",
-      "Material do cabo": "Alumínio",
-      "Tem revestimento antiaderente": "Sim",
-      "O item pode ser lavado na máquina de lavar louça?": "Sim",
-      "Características especiais": "Antiaderente, Compatível com fogão a gás, Compatível com fogão elétrico",
-      "Dispositivos compatíveis": "Gás, Vitrocerâmico, Elétrico",
-      "Formato do item": "circular",
-      "Capacidade": "1,7 litros",
-      "Cor": "Preto e cinza (efeito pedra)",
-      "Marca": "Rochedo",
-      "Característica Especial": "Antiaderente, Compatível com fogão a gás, Compatível com fogão elétrico"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DKG4VZ3Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:17:49.000Z",
+    "last_checked_at": "2026-08-12T17:43:28.000Z",
     "spotlight": false
   },
   {
@@ -9753,7 +7971,7 @@ const PRODUCTS = [
       "Tipo de visor": "LCD"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1BSW83R?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:43:28.000Z",
+    "last_checked_at": "2026-08-12T17:43:10.000Z",
     "spotlight": false
   },
   {
@@ -9795,7 +8013,7 @@ const PRODUCTS = [
       "Tipo de Garrafa": "Garrafa Térmica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXZVDG74?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T10:52:33.958692+00:00",
+    "last_checked_at": "2026-08-12T17:46:15.000Z",
     "spotlight": false
   },
   {
@@ -9828,7 +8046,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "1 Pacote"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GK7QZFSK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:41:43.000Z",
+    "last_checked_at": "2026-08-12T17:41:32.000Z",
     "spotlight": false
   },
   {
@@ -9869,60 +8087,7 @@ const PRODUCTS = [
       "Tipo de Garrafa": "Boca larga"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FT7CG9FZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:35:31.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DN4RM6X7",
-    "title": "Mouse sem fio Logitech M196 com Conexão Bluetooth, Design Ambidestro Compacto, Rastreamento Preciso, Compatível com PC e Mac,",
-    "image": "https://m.media-amazon.com/images/I/61Y0zPErIxL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 69.99,
-    "price_original": 79.9,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 1835,
-    "coupon_code": null,
-    "description": "O mouse sem fio Logitech M196 é uma opção confiável para quem procura um dispositivo de entrada portátil e prático. Com conexão Bluetooth pair-and-play, design ambidestro confortável e rastreamento óptico preciso em diversas superfícies, este mouse oferece controle suave e preciso. Ademais, as peças de plástico incluem plástico reciclado certificado, garantindo uma opção sustentável. Com duração da pilha confiável até 12 meses, o custo-benefício é atraente para quem busca um mouse sem fio de alta qualidade.",
-    "informacoes_produto": {
-      "Tecnologia de conectividade": "Bluetooth",
-      "Características especiais": "Design ergonômico, Leve, Portátil, Sem fio",
-      "Deteção de movimento": "Óptico",
-      "Quantidade do botão": "3",
-      "Orientação de uso": "Ambidestro",
-      "Dispositivos compatíveis": "Computador pessoal",
-      "Sistema operacional": "Windows 10",
-      "Duração da bateria": "8760 Horas",
-      "Tipo de bateria": "1 AA baterias necessárias. (inclusas)",
-      "Plataforma de hardware": "PC",
-      "Fonte de energia": "Alimentado por bateria",
-      "Escala": "10.0",
-      "Cor": "Preto",
-      "Estilo": "Moderno",
-      "Peso do item": "76 Gramas",
-      "Dimensões do item C x L": "98C x 62L centímetros",
-      "Nome da marca": "Logitech",
-      "Nome do modelo": "910-007456",
-      "Usos recomendados do produto": "Jogos",
-      "Número do modelo": "910-007456",
-      "País de origem": "China",
-      "Componentes Incluídos": "Documentação do usuário, Mouse sem fio, Pilha",
-      "Baterias incluídas?": "Sim",
-      "Baterias são necessárias?": "Sim",
-      "Fabricante": "Logitech",
-      "UPC": "097855200648",
-      "Número da peça": "910-007456",
-      "Descrição da garantia": "12 MESES",
-      "ASIN": "B0DN4RM6X7",
-      "Marca": "Logitech",
-      "Tecnologia de Conectividade": "Bluetooth",
-      "Característica Especial": "Design ergonômico, Leve, Portátil, Sem fio",
-      "Tecnologia de detecção de movimento": "Óptico"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DN4RM6X7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:29:52.000Z",
+    "last_checked_at": "2026-08-12T17:34:54.000Z",
     "spotlight": false
   },
   {
@@ -9968,7 +8133,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Gás, Elétrico, Vitrocerâmico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DLJCRGJK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:52:20.000Z",
+    "last_checked_at": "2026-08-12T16:51:22.000Z",
     "spotlight": false
   },
   {
@@ -10009,7 +8174,7 @@ const PRODUCTS = [
       "Característica Especial": "Tamanho para viagem"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B072MK7BN2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:17:49.000Z",
+    "last_checked_at": "2026-08-12T17:17:04.000Z",
     "spotlight": false
   },
   {
@@ -10059,7 +8224,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B088P83FTR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:40:30.000Z",
+    "last_checked_at": "2026-08-12T15:40:14.000Z",
     "spotlight": false
   },
   {
@@ -10107,7 +8272,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086BVM3QD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:05:53.000Z",
+    "last_checked_at": "2026-08-12T16:05:25.000Z",
     "spotlight": false
   },
   {
@@ -10162,7 +8327,7 @@ const PRODUCTS = [
       "Número de itens": "12"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XPK2DMQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:23:08.000Z",
+    "last_checked_at": "2026-08-12T17:22:21.000Z",
     "spotlight": false
   },
   {
@@ -10194,40 +8359,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXQCXSM9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:44:08.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0CYJ7DBQC",
-    "title": "NIVEA Desodorante Antitranspirante Stick Derma Protect Clinical 58g, Defesa Intensa 96h, Controle de Suor Extremo, Toque Suav",
-    "image": "https://m.media-amazon.com/images/I/61NTiLfdhGL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "beleza",
-    "price_current": 18.02,
-    "price_original": 25.9,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 3615,
-    "coupon_code": null,
-    "description": "O NIVEA Desodorante Antitranspirante Stick Derma Protect Clinical oferece uma proteção intensa contra suor por 96 horas, sendo fácil de se aplicar e contendo tecnologia DermaDry para proteger a pele. Este produto é cientificamente comprovado e dermatologicamente testado, oferecendo um bom custo-benefício com preço de R$ 18,02.",
-    "informacoes_produto": {
-      "Formato do item": "Creme",
-      "Aroma": "Protect Clinical",
-      "Additional Features": "Tecnologia DermaDry",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "1.0 Unidade",
-      "Nome da marca": "NIVEA",
-      "Fabricante": "Beiersdorf",
-      "País de origem": "Brasil",
-      "ASIN": "B0CYJ7DBQC",
-      "Marca": "NIVEA",
-      "Forma do produto": "Creme",
-      "Característica Especial": "Tecnologia DermaDry",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CYJ7DBQC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:12:49.328471+00:00",
+    "last_checked_at": "2026-08-12T17:43:47.000Z",
     "spotlight": false
   },
   {
@@ -10278,7 +8410,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Ultra macia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XS8J3Q1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:39:55.000Z",
+    "last_checked_at": "2026-08-12T17:39:29.000Z",
     "spotlight": false
   },
   {
@@ -10322,7 +8454,7 @@ const PRODUCTS = [
       "Borda da lâmina": "Plana"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:51:41.000Z",
+    "last_checked_at": "2026-08-12T16:50:40.000Z",
     "spotlight": false
   },
   {
@@ -10371,7 +8503,7 @@ const PRODUCTS = [
       "Tipo de pacote": "Bulk"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09MLBPL1K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:08:56.000Z",
+    "last_checked_at": "2026-08-12T16:08:34.000Z",
     "spotlight": false
   },
   {
@@ -10414,7 +8546,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Kit Mini Elásticos Fitness com 4 tensões"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B06WGW3XN8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:43:57.000Z",
+    "last_checked_at": "2026-08-12T17:43:37.000Z",
     "spotlight": false
   },
   {
@@ -10459,7 +8591,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B088P9S98P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:39:29.000Z",
+    "last_checked_at": "2026-08-12T16:38:43.000Z",
     "spotlight": false
   },
   {
@@ -10499,7 +8631,7 @@ const PRODUCTS = [
       "Absorventes higiênicos": "Moderado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07W6B8LCZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:41:54.000Z",
+    "last_checked_at": "2026-08-12T17:41:42.000Z",
     "spotlight": false
   },
   {
@@ -10545,89 +8677,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:40:39.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0876YDWVC",
-    "title": "Dover-Roll Odor Defense Banheiro & Pia Lilás, Rolo com 50 Sacos para Lixo Pure Fresh",
-    "image": "https://m.media-amazon.com/images/I/51DjpTGQlFL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 14.99,
-    "price_original": 21.22,
-    "discount_percentage": 29,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 9614,
-    "coupon_code": null,
-    "description": "O Dover-Roll Odor Defense Banheiro & Pia Lilás é um produto de destaque para quem busca uma solução eficiente para lidar com os maus odores em banheiros e pias. Com sua tecnologia exclusiva Pure Fresh, ele neutraliza as mal-olorosidades de forma agradável, oferecendo um aroma fresco e agradável. Além disso, com uma capacidade de 8 litros e medidas de saco de 34 x 40cm, o produto é ideal para uso em cestinhas de banheiros e pias. Com uma avaliação média de 4,8/5 (9614 avaliações), é um investimento que oferece um bom custo-benefício.",
-    "informacoes_produto": {
-      "Capacidade": "8 litros",
-      "Contagem de unidades": "50 unidade",
-      "Quantidade de itens": "1",
-      "Características do material": "Perfumado",
-      "Material": "Plástico",
-      "Cor": "Lilás",
-      "Formato do item": "Sacola",
-      "Aroma": "Sem perfume",
-      "Nome da marca": "Dover-Roll",
-      "Usos recomendados do produto": "Resíduo sanitário",
-      "Fabricante": "Engetech Com. Ind. Plast. Ltda",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "produto + embalagem",
-      "Nome do Tipo de Produto": "Sacos para Lixo",
-      "ASIN": "B0876YDWVC",
-      "Marca": "Dover-Roll",
-      "Quantidade de Unidades": "50 unidade",
-      "Adequação do controle por rádio": "Resíduo sanitário",
-      "Característica do material": "Perfumado"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0876YDWVC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:00:19.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08X1P11KS",
-    "title": "LYOR - Bandeja de Bambu Hire Marrom Natural 20cm - Mesa Posta - Organização - Utensílios de Cozinha - Enxoval - Decoração - T",
-    "image": "https://m.media-amazon.com/images/I/61IXPSaGdBL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 13.8,
-    "price_original": 19.9,
-    "discount_percentage": 30,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 3382,
-    "coupon_code": null,
-    "description": "A bandeja de bambu Hire Marrom Natural da Lyor é uma adição elegante e versátil para qualquer ambiente, oferecendo soluções de organização e decoração em um único produto. Com seu design minimalista e sustentável, a bandeja se adapta conscientemente a diferentes espaços, sendo ideal para servir petiscos, cafés, chás ou lanches. Além disso, sua manutenção é simples e prática, tornando-a uma excelente opção para facilitar a vida cotidiana dos anfitriões.",
-    "informacoes_produto": {
-      "Nome da marca": "Lyor",
-      "Tipo de bandeja": "Bandeja decorativa, Bandeja para servir",
-      "Usos recomendados do produto": "Bebida, Comida, Decoração, Organização",
-      "País de origem": "China",
-      "Número do modelo": "Hire",
-      "Fabricante": "Lyor",
-      "Nome do Tipo de Produto": "Bandeja de Bambu",
-      "Descrição da garantia": "3 Meses Contra Defeito De Fabricação",
-      "ASIN": "B08X1P11KS",
-      "Características especiais": "Bambu",
-      "Cor": "Natural",
-      "Formato do item": "Retangular",
-      "Estilo": "Escandinava",
-      "Material": "Bambu",
-      "Tipo de acabamento": "Sem acabamento",
-      "Instruções de cuidados com o produto": "LIMPAR COM FLANELA BRANCA E SECA. CASO NECESSÁRIO, LAVAR COM DETERGENTE NEUTRO, ESPONJA MACIA E SECAR IMEDIATAMENTE. NÃO UTILIZAR PRODUTOS QUÍMICOS.",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "O forno é seguro": "Não",
-      "Dimensões do item C x L x A": "20C x 10L x 1,5A centímetros",
-      "Quantidade de itens": "1",
-      "Marca": "Lyor",
-      "Dimensões do produto": "20C x 10L x 1,5A centímetros",
-      "Forma": "Retangular"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B08X1P11KS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:17:00.000Z",
+    "last_checked_at": "2026-08-12T15:40:24.000Z",
     "spotlight": false
   },
   {
@@ -10668,7 +8718,7 @@ const PRODUCTS = [
       "Característica Especial": "Alça de transporte, Parede dupla, À prova de derramamento, À prova de suor, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GTLW3HXJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:27:55.000Z",
+    "last_checked_at": "2026-08-12T17:27:05.000Z",
     "spotlight": false
   },
   {
@@ -10714,7 +8764,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Transferência de dados, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMXN4H9M?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:29:42.000Z",
+    "last_checked_at": "2026-08-12T15:29:20.000Z",
     "spotlight": false
   },
   {
@@ -10751,7 +8801,7 @@ const PRODUCTS = [
       "Tamanho da folha": "a4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B01CZXF4XW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:01:33.000Z",
+    "last_checked_at": "2026-08-12T17:00:32.000Z",
     "spotlight": false
   },
   {
@@ -10793,7 +8843,7 @@ const PRODUCTS = [
       "Marca": "Banana Brasil"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XGM1BM8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:54:15.000Z",
+    "last_checked_at": "2026-08-12T15:53:36.000Z",
     "spotlight": false
   },
   {
@@ -10835,7 +8885,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQL8TQJL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:40:34.000Z",
+    "last_checked_at": "2026-08-12T17:40:10.000Z",
     "spotlight": false
   },
   {
@@ -10875,7 +8925,45 @@ const PRODUCTS = [
       "Tipo de tomada": "CEE 7/16 Europlug, Type C, Type E - 2 pin (French), Type F - 2 pin (German)"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077V1BVD8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:22:44.000Z",
+    "last_checked_at": "2026-08-12T15:22:19.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CPFTSW63",
+    "title": "Garrafa de Água Térmica Aço Inox Esportiva Academia Isolada a Vácuo Aço Inox 304 de 800ml (PRETA 1321)",
+    "image": "https://m.media-amazon.com/images/I/51MxUiQKyoL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 34.5,
+    "price_original": 40.0,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 964,
+    "coupon_code": null,
+    "description": "Este produto é uma garrafa de água térmica em aço inoxidável 304, com capacidade para 800ml. Destaca-se por sua vedação em silicone livre de BPA e pela dupla parede com isolamento a vácuo, que conserva a bebida gelada até 12 horas e quente até 8 horas. Ideal para atividades ao ar livre, commuting ou viajar, essa garrafa é uma boa opção para aqueles que buscam manter sua bebida à temperatura desejada por um longo período.",
+    "informacoes_produto": {
+      "Nome da marca": "LSMI MARKET",
+      "Usos recomendados do produto": "Atividades ao ar livre, Commuting, Viajar",
+      "Descrição da faixa etária": "Adulto",
+      "Contagem de unidades": "1 unidade",
+      "ASIN": "B0CPFTSW63",
+      "Cor": "PRETA 1321",
+      "Capacidade": "800 ml",
+      "Dimensões do item L x A": "12L x 30A centímetros",
+      "Quantidade de itens": "1",
+      "Características especiais": "Parede dupla com isolamento a vácuo, À prova de vazamentos",
+      "Tipo de tampa": "Tampa de aço inox",
+      "Com tampa": "Sim",
+      "Material": "Aço inoxidável",
+      "Instruções de cuidados com o produto": "Apenas lavagem à mão",
+      "O item pode ir no micro-ondas?": "Não",
+      "Marca": "LSMI MARKET",
+      "Adequação do controle por rádio": "Atividades ao ar livre, Commuting, Viajar",
+      "Característica Especial": "Parede dupla com isolamento a vácuo, À prova de vazamentos"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CPFTSW63?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:20:31.000Z",
     "spotlight": false
   },
   {
@@ -10913,7 +9001,7 @@ const PRODUCTS = [
       "Volume do produto": "10 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07MCY59G5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:44:20.000Z",
+    "last_checked_at": "2026-08-12T16:43:21.000Z",
     "spotlight": false
   },
   {
@@ -10952,7 +9040,7 @@ const PRODUCTS = [
       "Característica do material": "Perfumado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08C1C4RS9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:12:00.117425+00:00",
+    "last_checked_at": "2026-08-12T17:41:14.000Z",
     "spotlight": false
   },
   {
@@ -10991,7 +9079,7 @@ const PRODUCTS = [
       "Tamanho da folha": "A4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077J5DZN6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:11:08.000Z",
+    "last_checked_at": "2026-08-12T17:10:00.000Z",
     "spotlight": false
   },
   {
@@ -11036,50 +9124,7 @@ const PRODUCTS = [
       "Característica do material": "Ecológico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08N844668?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:05:07.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GR7HVVCB",
-    "title": "Cabo USB para Tipo C 2 Metros 60W Turbo Carregamento Rápido, Cabo Tipo C Reforçado Ultra Resistente, Compatibilidade Universa",
-    "image": "https://m.media-amazon.com/images/I/61lzGB5rtlL._AC_SL1024_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 12.9,
-    "price_original": 17.9,
-    "discount_percentage": 27,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 198,
-    "coupon_code": null,
-    "description": "Este cabo USB de 2 metros oferece carregamento rápido e eficiente, além de permitir transferência de dados, tornando sua experiência diária mais prática e eficiente. Com um design reforçado ultra resistente, ele é ideal para uso em casa, escritório ou no carro, oferecendo maior liberdade ao usuário. Ademais, o cabo possui conectores de alta durabilidade e proteção inteligente para garantir segurança aos seus dispositivos.",
-    "informacoes_produto": {
-      "Tipo de conector": "USB tipo A, USB tipo C",
-      "Tipo de cabo": "USB",
-      "Dispositivos compatíveis": "Fone de ouvido, Notebook, Smartphone, Tablet",
-      "Características especiais": "Alta velocidade, Carregamento rápido, Sem emaranhado, Transferência de dados, Trançado",
-      "Adaptador do conector": "Macho-macho",
-      "Usos recomendados do produto": "Carregamento",
-      "Contagem de unidades": "1 Count",
-      "Item Weight": "50 Gramas",
-      "Quantidade de itens": "1",
-      "Cor": "Sortida",
-      "Brand Name": "Genérico",
-      "País de origem": "China",
-      "Comprimento do artigo": "2 Metros",
-      "Fabricante": "Importado",
-      "Certificação de teste externa": "Não Aplicável",
-      "Componentes Incluídos": "1 Cabo USB para Tipo C",
-      "Part Number": "001",
-      "ASIN": "B0GR7HVVCB",
-      "Marca": "Genérico",
-      "Tipo de Conector": "USB tipo A, USB tipo C",
-      "Tipo de Cabo": "USB",
-      "Dispositivos Compatíveis": "Fone de ouvido, Notebook, Smartphone, Tablet",
-      "Característica Especial": "Alta velocidade, Carregamento rápido, Sem emaranhado, Transferência de dados, Trançado"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GR7HVVCB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:56:53.000Z",
+    "last_checked_at": "2026-08-12T17:03:58.000Z",
     "spotlight": false
   },
   {
@@ -11120,7 +9165,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B01N35N6ZC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:34:15.000Z",
+    "last_checked_at": "2026-08-12T15:33:51.000Z",
     "spotlight": false
   },
   {
@@ -11156,7 +9201,7 @@ const PRODUCTS = [
       "Formato do Plugue": "Tipo N"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FW81NYQ9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:25:14.000Z",
+    "last_checked_at": "2026-08-12T15:24:46.000Z",
     "spotlight": false
   },
   {
@@ -11194,45 +9239,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "6 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CGY4RKK3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:34:21.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GVGN7JVJ",
-    "title": "Bolsa Térmica Lancheira com Alça de Ombro para Marmita - Academira, Trabalho, Escola, Faculdade e Passeios - Marmiteira Impermeável Resistente 7 Litros - Cor PRETA",
-    "image": "https://m.media-amazon.com/images/I/51VC8wiM3oL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 25.56,
-    "price_original": 29.9,
-    "discount_percentage": 14,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 107,
-    "coupon_code": null,
-    "description": "Este bolsa térmica lancheira, com alça de ombro, é uma ótima escolha para transportar marmitas e alimentos durante trabalho, academia, escola ou passeios. A sua capacidade de 7 litros permite acomodar uma marmita, garrafa e lanches, mantendo tudo organizado e protegido durante o transporte. Além disso, a bolsa é impermeável e resistente, com revestimento interno isolante que conserva alimentos quentes ou frios por até 6 horas. Ademais, possui alça transversal ajustável e removível para maior conforto em qualquer rotina. Por fim, o zíper reforçado com abertura ampla facilita o acesso aos alimentos e aumenta a durabil",
-    "informacoes_produto": {
-      "Nome da marca": "Genérico",
-      "Usos recomendados do produto": "Transportar marmitas para trabalho, escola, academia e passeios",
-      "Componentes Incluídos": "Lancheira",
-      "País de origem": "China",
-      "Fabricante": "Importado",
-      "ASIN": "B0GVGN7JVJ",
-      "Características especiais": "Alça de ombro ajustável, Ideal para marmitas e alimentos, Isolado termicamente, Resistente a vazamentos",
-      "Tipo de fechamento": "Zíper",
-      "Cor": "Preto",
-      "Tema": "Moderno",
-      "Estampa": "Liso",
-      "Formato do item": "Saco",
-      "Capacidade": "7 litros",
-      "Quantidade de itens": "1",
-      "Material": "Oxford",
-      "Instruções de cuidados com o produto": "Lavar apenas à mão",
-      "Marca": "Genérico",
-      "Adequação do controle por rádio": "Transportar marmitas para trabalho, escola, academia e passeios"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GVGN7JVJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:28:16.000Z",
+    "last_checked_at": "2026-08-12T17:33:34.000Z",
     "spotlight": false
   },
   {
@@ -11267,147 +9274,7 @@ const PRODUCTS = [
       "Característica do material": "Hipoalergênicos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B5YF3HSW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:18:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B086BWYJD3",
-    "title": "MamyPoko Fralda-Calça Dia&Noite G 50 Unidades",
-    "image": "https://m.media-amazon.com/images/I/715xNA-HXrL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 71.15,
-    "price_original": 74.9,
-    "discount_percentage": 5,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 5596,
-    "coupon_code": null,
-    "description": "Este MamyPoko Fralda-Calça Dia&Noite oferece proteção para bebês de 9 até 14kg, absorvendo até 4 copos de líquidos e mantendo a absorção por até 12 horas. A barreira dupla evita vazamentos laterais e a fita de descarte facilita a troca. Com uma avaliação média de 4,6/5 (baseada em 5596 avaliações), este produto é um bom investimento para a proteção noturna do seu bebê.",
-    "informacoes_produto": {
-      "Nome da marca": "MamyPoko",
-      "Tipo de protetor para incontinência": "Fralda infantil",
-      "Descrição da faixa etária": "Bebê",
-      "Público-alvo": "Unissex-bebês",
-      "Tipo de pacote": "Caixa",
-      "Número de identificação de comércio internacional": "17898656390459",
-      "Comprimento do artigo": "38 Centímetros",
-      "Fabricante": "Unicharm",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "MamyPoko Fralda-Calça Dia&amp;Noite G 50 Unidades",
-      "Número da peça": "HU-XI-154",
-      "Número do modelo": "HU-XI-154",
-      "ASIN": "B086BWYJD3",
-      "Quantidade de itens": "1",
-      "Tamanho": "L (50 Contagem)",
-      "Contagem de unidades": "50 Unidade",
-      "Dimensões do artigo": "38 x 53 x 30 centímetros",
-      "Peso do item": "1421 Gramas",
-      "Tamanho do protetor de incontinência": "Tamanho 5",
-      "Weight Range": "9-14 kg",
-      "Livre de tipo de material": "Sem cloro",
-      "Descrição do forro": "Mistura de algodão",
-      "Reutilização": "Descartável",
-      "Nível de resistência à água": "Resistente à água",
-      "Cor": "Branco",
-      "Usos recomendados do produto": "Proteção de urina",
-      "Marca": "MamyPoko",
-      "Número de itens": "1",
-      "Tipo de protetor de incontinência": "Fralda infantil",
-      "Faixa etária (descrição)": "Bebê"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B086BWYJD3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:39:59.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B086BVJ1CT",
-    "title": "MamyPoko Fralda-Calça Dia&Noite Xg 42 Unidades",
-    "image": "https://m.media-amazon.com/images/I/71Z0pO4yDRL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 71.15,
-    "price_original": 74.9,
-    "discount_percentage": 5,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 3459,
-    "coupon_code": null,
-    "description": "O MamyPoko Fralda-Calça Dia&Noite Xg oferece proteção completa à noite para bebês de 12 até 17kg, absorvendo até 4 copos de líquidos e tendo até 12h de absorção. A barreira dupla evita vazamentos laterais e a fita de descarte facilita a troca. Com uma avaliação de 4.6/5, este produto é um excelente investimento para a conforto e proteção do seu bebê.",
-    "informacoes_produto": {
-      "Nome da marca": "MamyPoko",
-      "Tipo de protetor para incontinência": "Fralda infantil",
-      "Descrição da faixa etária": "Bebê",
-      "Público-alvo": "Unissex-bebês",
-      "Número de identificação de comércio internacional": "17898656390466",
-      "Fabricante": "Unicharm",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "MamyPoko Fralda-Calça Dia&amp;Noite Xg 42 Unidades",
-      "ASIN": "B086BVJ1CT",
-      "Cor": "Branco",
-      "Quantidade de itens": "1",
-      "Tamanho": "XL (42 Contagem)",
-      "Contagem de unidades": "42 Unidade",
-      "Dimensões do artigo": "41 x 60 x 26,5 centímetros",
-      "Peso do item": "1376,2 Gramas",
-      "Tamanho do protetor de incontinência": "Tamanho 5+",
-      "Weight Range": "12 a 17 kg",
-      "Livre de tipo de material": "Sem cloro",
-      "Descrição do forro": "Furos de Ar",
-      "Reutilização": "Descartável",
-      "Nível de resistência à água": "À prova d'água",
-      "Usos recomendados do produto": "Proteção de urina noturna",
-      "Marca": "MamyPoko",
-      "Número de itens": "1",
-      "Tipo de protetor de incontinência": "Fralda infantil",
-      "Faixa etária (descrição)": "Bebê"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B086BVJ1CT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:37:09.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B01MZ3Z72T",
-    "title": "Azeite de Oliva Extra Virgem Herdade do Esporão 500ml",
-    "image": "https://m.media-amazon.com/images/I/41JAJ84iYGL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 66.79,
-    "price_original": 70.49,
-    "discount_percentage": 5,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 1560,
-    "coupon_code": null,
-    "description": "Este Azeite de Oliva Extra Virgem Herdade do Esporão oferece um perfil fresco, suave e harmonioso, com bom equilíbrio dos aromas frutados típicos das azeitonas do Alentejo. Ideal para temperar, cozinhar e fritar, além de ser versátil em temperar sopas e pratos de forno. Com uma avaliação média de 4,8/5 (baseada em 1560 avaliações), é um produto de qualidade que oferece um excelente custo-benefício.",
-    "informacoes_produto": {
-      "Nome da marca": "Quinta do Crasto",
-      "Tipo de dieta": "Sem glúten",
-      "Sabor": "Olive",
-      "País de origem": "Portugal",
-      "Origem da mercadoria": "2",
-      "Informações sobre alérgenos": "Contém: Não contém glúten",
-      "Região de origem": "Douro",
-      "Fabricante": "Não informado",
-      "Número do modelo": "55685",
-      "Número da peça": "55685",
-      "Tipo de produto para planta ou animal": "extra virgin olive oil",
-      "ASIN": "B01MZ3Z72T",
-      "Volume do conteúdo líquido": "500 Mililitros",
-      "Quantidade de pacotes do item": "1",
-      "Peso do item": "500 Gramas",
-      "Dimensões do artigo": "7 x 7 x 15 centímetros",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "500 Mililitro",
-      "Número de peças": "1",
-      "Tamanho": "500 ml (Pacote de 1)",
-      "Marca": "Quinta do Crasto",
-      "Tipo de Dieta": "Sem glúten",
-      "Volume de Conteúdo Líquido": "500 Mililitros",
-      "Quantidade de embalagens do produto": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B01MZ3Z72T?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:45:53.000Z",
+    "last_checked_at": "2026-08-12T17:17:23.000Z",
     "spotlight": false
   },
   {
@@ -11456,7 +9323,7 @@ const PRODUCTS = [
       "Característica Especial": "Hidratação"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07DTNP5GX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:25:05.000Z",
+    "last_checked_at": "2026-08-12T17:24:21.000Z",
     "spotlight": false
   },
   {
@@ -11501,7 +9368,7 @@ const PRODUCTS = [
       "Característica Especial": "Forte, Secagem rápida, Resistente ao calor, Resistente à umidade, Resistente a produtos químicos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HX4N2L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:25:44.000Z",
+    "last_checked_at": "2026-08-12T15:25:15.000Z",
     "spotlight": false
   },
   {
@@ -11543,7 +9410,7 @@ const PRODUCTS = [
       "Característica Especial": "Secagem rápida, Resistente ao calor, Resistente à umidade, Resistente a impactos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SYBNBNF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:16:48.000Z",
+    "last_checked_at": "2026-08-12T17:16:06.000Z",
     "spotlight": false
   },
   {
@@ -11578,7 +9445,7 @@ const PRODUCTS = [
       "Dimensões do produto": "20C x 20L x 5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XVNB4JH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:53:57.000Z",
+    "last_checked_at": "2026-08-12T16:53:00.000Z",
     "spotlight": false
   },
   {
@@ -11624,7 +9491,7 @@ const PRODUCTS = [
       "Característica do material": "Perfumado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08NDWZJ2D?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:52:22.000Z",
+    "last_checked_at": "2026-08-12T15:51:46.000Z",
     "spotlight": false
   },
   {
@@ -11666,7 +9533,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê (15 a 26 meses)"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C3FQQVLH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:04:57.000Z",
+    "last_checked_at": "2026-08-12T17:03:47.000Z",
     "spotlight": false
   },
   {
@@ -11709,7 +9576,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:07:49.000Z",
+    "last_checked_at": "2026-08-12T17:06:36.000Z",
     "spotlight": false
   },
   {
@@ -11749,7 +9616,7 @@ const PRODUCTS = [
       "Tensão de Saída": "250 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0777S9WRF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:24:35.000Z",
+    "last_checked_at": "2026-08-12T15:24:07.000Z",
     "spotlight": false
   },
   {
@@ -11800,41 +9667,7 @@ const PRODUCTS = [
       "Forma do produto": "Rolo com folhas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07D5LTDT4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:38:05.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B092XRM687",
-    "title": "Lifree Absorvente Geriátrico 20 Unidades",
-    "image": "https://m.media-amazon.com/images/I/71GkDMG-S5L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 23.89,
-    "price_original": 25.9,
-    "discount_percentage": 7,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 1004,
-    "coupon_code": null,
-    "description": "Este Lifree Absorvente Geriátrico oferece um excelente custo-benefício, com uma alta absorção que ultrapassa os absorventes geriátricos e pós-parto comuns. Ademais, é fácil de se usar com apenas uma mão, sendo uma opção reconhecida pela marca Lifree.",
-    "informacoes_produto": {
-      "Nome do produto": "‎Lifree Absorvente Geriátrico 20 Unidades",
-      "Unidades": "‎20 Unidade",
-      "Marca": "‎Lifree",
-      "Formato": "‎Pad",
-      "Número de unidades": "‎1",
-      "Tamanho": "‎20 Contagem (Pacote de 1)",
-      "Departamento": "‎Adultos",
-      "Fabricante": "‎Unicharm",
-      "Dimensões do produto": "‎45 x 10 x 0,54 cm; 32,2 g",
-      "ASIN": "‎B092XRM687",
-      "Funciona a bateria ou pilha?": "‎Não",
-      "EAN": "‎7898656390889",
-      "Dimensões do pacote": "30 x 20 x 10 centímetros",
-      "Disponível para compra desde": "16 abril 2021"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B092XRM687?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:40:31.000Z",
+    "last_checked_at": "2026-08-12T15:37:53.000Z",
     "spotlight": false
   },
   {
@@ -11871,7 +9704,7 @@ const PRODUCTS = [
       "Peso do produto": "150 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07K2F1B2S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:32:35.000Z",
+    "last_checked_at": "2026-08-12T15:32:13.000Z",
     "spotlight": false
   },
   {
@@ -11919,7 +9752,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adolescente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07D3WCMVD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:42:57.000Z",
+    "last_checked_at": "2026-08-12T17:42:42.000Z",
     "spotlight": false
   },
   {
@@ -11958,7 +9791,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Uso doméstico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C7DLXV6Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:17:29.000Z",
+    "last_checked_at": "2026-08-12T15:17:13.000Z",
     "spotlight": false
   },
   {
@@ -12000,7 +9833,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077PPK6HG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:41:32.000Z",
+    "last_checked_at": "2026-08-12T17:41:23.000Z",
     "spotlight": false
   },
   {
@@ -12055,7 +9888,7 @@ const PRODUCTS = [
       "Marca": "RHEAD RED HIGH END STUDIOS"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1K4LTLW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:14:11.000Z",
+    "last_checked_at": "2026-08-12T17:13:14.000Z",
     "spotlight": false
   },
   {
@@ -12064,7 +9897,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41z7d-LlVEL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 89.9,
+    "price_current": 99.21,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -12098,7 +9931,46 @@ const PRODUCTS = [
       "Elementos de aquecimento": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCM31SDG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:00:09.000Z",
+    "last_checked_at": "2026-08-12T15:00:19.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0876YDWVC",
+    "title": "Dover-Roll Odor Defense Banheiro & Pia Lilás, Rolo com 50 Sacos para Lixo Pure Fresh",
+    "image": "https://m.media-amazon.com/images/I/51DjpTGQlFL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 14.77,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 9614,
+    "coupon_code": null,
+    "description": "O Dover-Roll Odor Defense Banheiro & Pia Lilás é um produto de destaque para quem busca uma solução eficiente para lidar com os maus odores em banheiros e pias. Com sua tecnologia exclusiva Pure Fresh, ele neutraliza as mal-olorosidades de forma agradável, oferecendo um aroma fresco e agradável. Além disso, com uma capacidade de 8 litros e medidas de saco de 34 x 40cm, o produto é ideal para uso em cestinhas de banheiros e pias. Com uma avaliação média de 4,8/5 (9614 avaliações), é um investimento que oferece um bom custo-benefício.",
+    "informacoes_produto": {
+      "Capacidade": "8 litros",
+      "Contagem de unidades": "50 unidade",
+      "Quantidade de itens": "1",
+      "Características do material": "Perfumado",
+      "Material": "Plástico",
+      "Cor": "Lilás",
+      "Formato do item": "Sacola",
+      "Aroma": "Sem perfume",
+      "Nome da marca": "Dover-Roll",
+      "Usos recomendados do produto": "Resíduo sanitário",
+      "Fabricante": "Engetech Com. Ind. Plast. Ltda",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "produto + embalagem",
+      "Nome do Tipo de Produto": "Sacos para Lixo",
+      "ASIN": "B0876YDWVC",
+      "Marca": "Dover-Roll",
+      "Quantidade de Unidades": "50 unidade",
+      "Adequação do controle por rádio": "Resíduo sanitário",
+      "Característica do material": "Perfumado"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0876YDWVC?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:00:30.000Z",
     "spotlight": false
   },
   {
@@ -12149,7 +10021,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B929QDL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:00:46.000Z",
+    "last_checked_at": "2026-08-12T15:00:58.000Z",
     "spotlight": false
   },
   {
@@ -12158,7 +10030,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41iY1Zn43VL._AC_SL1072_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 29.89,
+    "price_current": 37.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -12185,7 +10057,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 agosto 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP1251TD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:00:57.000Z",
+    "last_checked_at": "2026-08-12T15:01:09.000Z",
     "spotlight": false
   },
   {
@@ -12228,7 +10100,7 @@ const PRODUCTS = [
       "Característica Especial": "Acabamento no zíper, Fácil de limpar"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086WWQX1S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:01:07.000Z",
+    "last_checked_at": "2026-08-12T15:01:19.000Z",
     "spotlight": false
   },
   {
@@ -12237,7 +10109,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61e0+ijy0pL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 37.9,
+    "price_current": 39.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -12265,7 +10137,7 @@ const PRODUCTS = [
       "Tipo de Fechamento": "Elástico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D7NPF9Z2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:01:47.000Z",
+    "last_checked_at": "2026-08-12T15:01:48.000Z",
     "spotlight": false
   },
   {
@@ -12316,7 +10188,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVP6KRP4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:02:18.000Z",
+    "last_checked_at": "2026-08-12T15:02:18.000Z",
     "spotlight": false
   },
   {
@@ -12325,7 +10197,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71uLqItiKiL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 315.5,
+    "price_current": 303.05,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -12363,7 +10235,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás natural"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7C9HXGL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:02:51.000Z",
+    "last_checked_at": "2026-08-12T15:02:49.000Z",
     "spotlight": false
   },
   {
@@ -12372,7 +10244,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71O3vss0DlL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 464.55,
+    "price_current": 455.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -12411,7 +10283,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3DM5Y2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:03:11.000Z",
+    "last_checked_at": "2026-08-12T15:03:11.000Z",
     "spotlight": false
   },
   {
@@ -12459,7 +10331,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3CLH7M?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:03:39.000Z",
+    "last_checked_at": "2026-08-12T15:03:42.000Z",
     "spotlight": false
   },
   {
@@ -12498,7 +10370,58 @@ const PRODUCTS = [
       "Característica Especial": "Cuidado com lã, Inverter"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:04:19.000Z",
+    "last_checked_at": "2026-08-12T15:04:21.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09B8W3KQP",
+    "title": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean (LED15) - 127V",
+    "image": "https://m.media-amazon.com/images/I/41pS08Q7EoL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 1897.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 885,
+    "coupon_code": null,
+    "description": "Este Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean (LED15) oferece uma lavagem eficiente e econômica graças à tecnologia Jet&Clean, que otimiza o uso do sabão e do amaciante. Além disso, o filtro Ultra Filter Pega Fiapos armazena até 8 vezes mais fiapos, enquanto os ciclos rápidos promovem mais cuidado e menos desgaste às roupas. A função de limpeza do cesto e a agitação/secagem turbo melhoram ainda mais o desempenho da lavadora. Com características especiais como reutilização de água, duplo enxágue e controle totalmente automático, este produto oferece um",
+    "informacoes_produto": {
+      "Capacidade": "15 quilogramas",
+      "Características especiais": "Dispenser Jet&amp;Clean, Ultra Filter Pega Fiapos, Ciclos Rápidos, Limpeza de Cesto, Turbo Agitação/Secagem, Duplo Enxágue, Reutilização de Água",
+      "Local do acesso": "Carga superior",
+      "Tipo de acabamento": "Branca",
+      "Opções de ciclo": "Ciclos Rápidos, Função Duplo Enxágue",
+      "Tipo de controles": "Botão de pressão",
+      "Modo de operação": "Totalmente automático",
+      "Voltagem": "127 Volts",
+      "Número de ciclos padrão": "11",
+      "Entrada de interface humana": "Botões",
+      "Tipo de instalação": "Independente",
+      "Opções de dosador da máquina de lavar": "Dispenser Jet&amp;Clean",
+      "Número de programas": "11",
+      "Dimensões do item P x L x A": "72,4P x 66,2L x 105,2A centímetros",
+      "Peso do item": "48 Quilogramas",
+      "Profundidade do item": "72, 4 centimetros",
+      "Nome da marca": "Electrolux",
+      "Usos recomendados do produto": "Residencial",
+      "Nome do modelo": "LED15",
+      "Componentes incluídos": "1 máquina de lavar, 1 guia rápido, 1 curva da mangueira",
+      "Fabricante": "Electrolux",
+      "Nome do Tipo de Produto": "Máquina de Lavar",
+      "Número do modelo": "LED15",
+      "Número da peça": "LED15",
+      "ASIN": "B09B8W3KQP",
+      "Material": "Plástico",
+      "Material do tambor do aparelho de lavagem de roupa": "Aço inoxidável",
+      "Cor": "Branca",
+      "Dimensões do produto": "72,4P x 66,2L x 105,2A centímetros",
+      "Marca": "Electrolux",
+      "Local de acesso": "Carga superior"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:04:52.000Z",
     "spotlight": false
   },
   {
@@ -12546,7 +10469,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Revestido em pó"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJBVK6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:05:15.000Z",
+    "last_checked_at": "2026-08-12T15:05:00.000Z",
     "spotlight": false
   },
   {
@@ -12594,7 +10517,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B081FKSGPP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:05:26.000Z",
+    "last_checked_at": "2026-08-12T15:05:11.000Z",
     "spotlight": false
   },
   {
@@ -12660,7 +10583,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVSVS9WH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:06:18.000Z",
+    "last_checked_at": "2026-08-12T15:06:01.000Z",
     "spotlight": false
   },
   {
@@ -12740,7 +10663,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR5NSCF7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:06:26.000Z",
+    "last_checked_at": "2026-08-12T15:06:12.000Z",
     "spotlight": false
   },
   {
@@ -12749,7 +10672,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61U2cKwv20L._AC_SL1200_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 2690.0,
+    "price_current": 2785,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -12802,7 +10725,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN2L3DZZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:06:35.000Z",
+    "last_checked_at": "2026-08-12T15:06:21.000Z",
     "spotlight": false
   },
   {
@@ -12811,7 +10734,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/412RWxKFt8L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 3599.1,
+    "price_current": 3599,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -12827,68 +10750,7 @@ const PRODUCTS = [
       "Nome do Modelo": "iPhone 16e"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:07:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GN1N5C7M",
-    "title": "Smartphone Xiaomi Poco X8 Pro 512GB / 12GB Ram (Branco)",
-    "image": "https://m.media-amazon.com/images/I/61YIFxo0N-L._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "celulares e smartphones",
-    "price_current": 2784.0,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 154,
-    "coupon_code": null,
-    "description": "O Xiaomi Poco X8 Pro oferece uma experiência visual imersiva graças à sua tela AMOLED de alta fluidez e resolução elevada, além de um desempenho avançado devido ao processador Mediatek Dimensity 8500 Ultra Octa-core. O dispositivo também conta com uma câmera profissional de alta qualidade, conectividade 5G ultrarrápida e bateria de longa duração. Ademais, é certificado IP68/IP69K, oferecendo proteção máxima contra água e poeira, garantindo durabilidade em diversas condições de uso.",
-    "informacoes_produto": {
-      "Sistema operacional": "android",
-      "Memória RAM instalada": "12 GB",
-      "Modelo da CPU": "Cortex A7",
-      "Velocidade da CPU": "3,4 GHz",
-      "Capacidade de armazenamento da memória": "512 GB",
-      "Cor": "Branco",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Impressão digital",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "À prova d'água",
-      "Resolução do sensor fotográfico frontal": "20 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50.0, 8.0 MP",
-      "Número de câmaras traseiras": "2",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "6500 Milliamp Hours",
-      "Potência da bateria": "6500.0",
-      "Resolução de captura de vídeo": "4k",
-      "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
-      "Tamanho da tela": "6,66 Polegadas",
-      "Resolução": "2756x1268",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Densidade do pixel de exibição": "460 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G, Bluetooth, GPS, Wi-fi",
-      "Tecnologia de rede sem fios": "GSM, LTE, UMTS",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "Adaptador de alimentação",
-      "Descrição da garantia": "90 dias em caso do defeito da fabrica",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "multitarefa, fotografia, gravação de vídeo, navegação, downloads",
-      "Certificação de teste externa": "Anatel : 087792509185 / Modelo: 2511FPC34G",
-      "ASIN": "B0GN1N5C7M",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "android",
-      "Tamanho instalado da memória RAM": "12 GB",
-      "Velocidade do CPU": "3,4 GHz"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GN1N5C7M?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:07:26.000Z",
+    "last_checked_at": "2026-08-12T15:06:50.000Z",
     "spotlight": false
   },
   {
@@ -12949,7 +10811,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCYP5FB2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:07:37.000Z",
+    "last_checked_at": "2026-08-12T15:07:21.000Z",
     "spotlight": false
   },
   {
@@ -13018,7 +10880,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DQQCGG3Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:07:57.000Z",
+    "last_checked_at": "2026-08-12T15:07:41.000Z",
     "spotlight": false
   },
   {
@@ -13027,7 +10889,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61XgofTTv1L._AC_SL1254_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 1347.99,
+    "price_current": 1353,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13081,7 +10943,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9QPQYL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:08:08.000Z",
+    "last_checked_at": "2026-08-12T15:07:51.000Z",
     "spotlight": false
   },
   {
@@ -13155,7 +11017,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHWF5G76?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:08:18.000Z",
+    "last_checked_at": "2026-08-12T15:08:02.000Z",
     "spotlight": false
   },
   {
@@ -13164,7 +11026,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51ydsfiGvOL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 2998.99,
+    "price_current": 2990.5,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13214,7 +11076,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "4,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTC96JJ5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:08:29.000Z",
+    "last_checked_at": "2026-08-12T15:08:12.000Z",
     "spotlight": false
   },
   {
@@ -13223,7 +11085,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61AYtRHD0SL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 761.4,
+    "price_current": 759.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13272,7 +11134,52 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPHYC9FQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:09:01.000Z",
+    "last_checked_at": "2026-08-12T15:08:44.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DJFS7GXV",
+    "title": "Apple iPhone 16 (512 GB) – Preto",
+    "image": "https://m.media-amazon.com/images/I/41uUYcqfLxL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "celulares e smartphones",
+    "price_current": 5219.1,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 330,
+    "coupon_code": null,
+    "description": "O Apple iPhone 16 (512 GB) - Preto oferece uma experiência inigualável em fotos e vídeos, graças à sua câmera avançada e chip A18 superinteligente. Com acesso rápido a ferramentas de edição e um novo sistema de estilos fotográficos, cada captura se tornará mais autoral. Além disso, o aumento na duração da bateria, com até 22 horas de reprodução de vídeo, garante uma utilização prolongada sem a necessidade de recargas frequentes.",
+    "informacoes_produto": {
+      "Sistema operacional": "iOS",
+      "Capacidade de armazenamento da memória": "512 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Com tela de toque",
+      "Nível de resistência à água": "Resistente à água",
+      "Potência da bateria": "13.83900",
+      "Tamanho da tela": "6,1 Polegadas",
+      "Tipo de tela": "OLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Nome da marca": "Apple",
+      "Ano do modelo": "2024",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "iPhone 16, Cabo carregador USB-C",
+      "Descrição da garantia": "Garantia Limitada de um (1) ano",
+      "Fabricante": "Apple",
+      "UPC": "195949825057",
+      "Certificação de teste externa": "ANATEL: 068402401993/ Modelo:A3287",
+      "ASIN": "B0DJFS7GXV",
+      "Marca": "Apple",
+      "Sistema Operacional": "iOS",
+      "Capacidade de Armazenamento de Memória": "512 GB",
+      "Tamanho da Tela": "6,1 Polegadas",
+      "Nome do Modelo": "iPhone 16"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:09:04.000Z",
     "spotlight": false
   },
   {
@@ -13281,7 +11188,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51KhADSYbsL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 689.0,
+    "price_current": 711,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13332,7 +11239,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,67 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTP4X8Z2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:09:32.000Z",
+    "last_checked_at": "2026-08-12T15:09:12.000Z",
     "spotlight": false
   },
   {
@@ -13341,7 +11248,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61rzdvs0QWL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 2120.0,
+    "price_current": 2216.35,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13392,7 +11299,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "512 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQD3W1R4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:09:41.000Z",
+    "last_checked_at": "2026-08-12T15:09:23.000Z",
     "spotlight": false
   },
   {
@@ -13401,7 +11308,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61HiBnVR42L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 1298.0,
+    "price_current": 1353,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13452,7 +11359,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9DBZ5T?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:09:51.000Z",
+    "last_checked_at": "2026-08-12T15:09:35.000Z",
     "spotlight": false
   },
   {
@@ -13461,7 +11368,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51Pco9WFJcL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 698.0,
+    "price_current": 749.55,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13517,7 +11424,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DZPGRMKM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:10:10.000Z",
+    "last_checked_at": "2026-08-12T15:09:54.000Z",
     "spotlight": false
   },
   {
@@ -13567,7 +11474,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZDVS62S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:10:31.000Z",
+    "last_checked_at": "2026-08-12T15:10:12.000Z",
     "spotlight": false
   },
   {
@@ -13576,7 +11483,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51uccv-jBiL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 88.09,
+    "price_current": 89.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13615,7 +11522,46 @@ const PRODUCTS = [
       "Dimensões do produto": "27,1C x 18,8L x 20,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:11:00.000Z",
+    "last_checked_at": "2026-08-12T15:10:43.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0F256HPZJ",
+    "title": "Filtro/Refil Original de Água Acqua Pure para Purificador Electrolux PE12A/PE12B/PE12G/PE12V/PE12P",
+    "image": "https://m.media-amazon.com/images/I/61Wa-avvnwL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 73.37,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 3872,
+    "coupon_code": null,
+    "description": "Este filtro de água Acqua Pure para purificadores Electrolux PE12A/PE12B/PE12G/PE12V/PE12P oferece uma alta eficiência na remoção de partículas sólidas, gosto de cloro e bactérias, graças ao uso de carvão ativado com íons de prata e polipropileno meltblown. A filtragem oferece uma vazão alta e maior capacidade de retenção de contaminantes, garantindo água segura para o consumo. Além disso, é testado e aprovado em relação à eficiência na retificação de partículas, redução do excesso de cloro livre e controle microbiológico. Com uma vida útil de troca",
+    "informacoes_produto": {
+      "Número do modelo": "A28154801",
+      "Benefícios do produto": "Remove partículas sólidas e gosto de cloro com eficiência superior a 85% e 75%, respectivamente, e inibe o desenvolvimento de bactérias",
+      "Nome da marca": "Electrolux",
+      "Nome do Conjunto": "PE12A/PE12B/PE12G/PE12V/PE12P",
+      "Descrição da garantia": "90 dias",
+      "Contagem de unidades": "1 count",
+      "Quantidade de itens": "1",
+      "País de origem": "China",
+      "Componentes incluídos": "Não Aplicável",
+      "Nome do Tipo de Produto": "FILTRO AGUA PE12 PC02",
+      "Fabricante": "Electrolux",
+      "Número da peça": "41052247",
+      "ASIN": "B0F256HPZJ",
+      "Material": "Plástico",
+      "Dimensões do item P x L x A": "7,4P x 7,4L x 29A centímetros",
+      "Certificação de teste externa": "Não Aplicável",
+      "Dimensões do produto": "7,4P x 7,4L x 29A centímetros",
+      "Certificação de testes externos": "Não Aplicável",
+      "Marca": "Electrolux"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F256HPZJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:10:54.000Z",
     "spotlight": false
   },
   {
@@ -13654,7 +11600,57 @@ const PRODUCTS = [
       "Dimensões do produto": "22,3P x 21,5L x 7,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CDJ4L7CZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:11:20.000Z",
+    "last_checked_at": "2026-08-12T15:11:04.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07QK91PTZ",
+    "title": "MONDIAL Liquidificador Turbo Power, Preto, 550W, 220V - L-99 FB",
+    "image": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 83.1,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 19765,
+    "coupon_code": null,
+    "description": "O liquidificador MONDIAL Turbo Power, de 550W, oferece uma experiência de misturação eficiente e precisa para preparar sucos, molhos e outros alimentos. Com capacidade total de 2,2 litros, três velocidades e pulsar, alcança a textura perfeita em cada preparação. O copo resistente à quedas e riscos, feito de San Cristal, é supertransparente e não pega cheiro ou cor. Adicionalmente, as lâminas em inox trituram com mais rapidez e precisão, sem enferrujar. Este liquidificador vem com um filtro em Inox para separar sementes e bagaços, tornando seus sucos e molhos mais limpos.",
+    "informacoes_produto": {
+      "Nome da marca": "MONDIAL",
+      "Componentes Incluídos": "01 Liquidificador; 01 Filtro e Manual de Instruções",
+      "Usos recomendados do produto": "Bater",
+      "Descrição da garantia": "12 meses",
+      "Ano de fabricação": "1900",
+      "Fabricante": "MK ELETRODOMESTICOS MONDIAL S/A",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Liquidificador Turbo Power",
+      "Número do modelo": "L-99 FB",
+      "Número da peça": "L-99 FB",
+      "ASIN": "B07QK91PTZ",
+      "Cor": "Preto",
+      "Estilo": "Liquidificadores de bancada",
+      "Características especiais": "Alça ergonômica, Controle de velocidade ajustável",
+      "Fonte de energia": "Electric",
+      "Potência": "500 watts",
+      "Número de velocidades": "3",
+      "Voltagem": "220 Volts",
+      "Tipo de controle": "Básico",
+      "Capacidade": "2,2 litros",
+      "Dimensões do item P x L x A": "20P x 21L x 40A centímetros",
+      "Peso do item": "1,35 Quilogramas",
+      "Material": "Polipropileno",
+      "O item pode ser lavado na máquina de lavar louça?": "Não",
+      "Material da Lâmina": "Aço inoxidável",
+      "Material de recipiente": "Plástico",
+      "Tipo de garantia": "Garantia limitada de 1 ano",
+      "Marca": "MONDIAL",
+      "Característica Especial": "Alça ergonômica, Controle de velocidade ajustável",
+      "Dimensões do produto": "20P x 21L x 40A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07QK91PTZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:11:13.000Z",
     "spotlight": false
   },
   {
@@ -13701,7 +11697,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 7L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:11:52.000Z",
+    "last_checked_at": "2026-08-12T15:11:33.000Z",
     "spotlight": false
   },
   {
@@ -13710,7 +11706,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51G4AxVAJxL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 499,
+    "price_current": 479,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13753,7 +11749,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32P x 36,1L x 36A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZJDLT6Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:12:04.000Z",
+    "last_checked_at": "2026-08-12T15:11:44.000Z",
     "spotlight": false
   },
   {
@@ -13795,7 +11791,7 @@ const PRODUCTS = [
       "Marca": "Pazie"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYSBW68G?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:12:13.000Z",
+    "last_checked_at": "2026-08-12T15:11:53.000Z",
     "spotlight": false
   },
   {
@@ -13804,7 +11800,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51N3Xi4JJML._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 160.46,
+    "price_current": 169,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13845,7 +11841,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22P x 21L x 42A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DFCF9HW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:12:24.000Z",
+    "last_checked_at": "2026-08-12T15:12:03.000Z",
     "spotlight": false
   },
   {
@@ -13892,7 +11888,7 @@ const PRODUCTS = [
       "Dimensões do produto": "5P x 35L x 5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B091V73RF5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:12:34.000Z",
+    "last_checked_at": "2026-08-12T15:12:11.000Z",
     "spotlight": false
   },
   {
@@ -13901,7 +11897,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61cEQrCzY6L._AC_SL1200_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 18.9,
+    "price_current": 19,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13925,7 +11921,7 @@ const PRODUCTS = [
       "Próprio para lava-louças": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCB3HLGK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:12:56.000Z",
+    "last_checked_at": "2026-08-12T15:12:33.000Z",
     "spotlight": false
   },
   {
@@ -13934,7 +11930,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51biUti5OVL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 26.9,
+    "price_current": 27.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -13971,7 +11967,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYVDJDC1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:13:06.000Z",
+    "last_checked_at": "2026-08-12T15:12:44.000Z",
     "spotlight": false
   },
   {
@@ -13980,7 +11976,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51NFGyGQN8L._SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 599.0,
+    "price_current": 620,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14015,7 +12011,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Purificador de água e bandeja para copo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08X66RQ48?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:13:17.000Z",
+    "last_checked_at": "2026-08-12T15:12:55.000Z",
     "spotlight": false
   },
   {
@@ -14024,7 +12020,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61qkGbE-uTL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 22,
+    "price_current": 22.8,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14055,7 +12051,7 @@ const PRODUCTS = [
       "Forma": "Retangular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0778TXP77?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:13:26.000Z",
+    "last_checked_at": "2026-08-12T15:13:06.000Z",
     "spotlight": false
   },
   {
@@ -14109,7 +12105,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40,3P x 30,9L x 30,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:13:35.000Z",
+    "last_checked_at": "2026-08-12T15:13:16.000Z",
     "spotlight": false
   },
   {
@@ -14118,7 +12114,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61-U7n6-0uL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 16.73,
+    "price_current": 16.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14153,7 +12149,53 @@ const PRODUCTS = [
       "Nível de torragem": "Torra clara"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CN1L7B18?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:14:04.000Z",
+    "last_checked_at": "2026-08-12T15:13:50.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B076HYKFL7",
+    "title": "Electrolux Panela pressão elétrica Electrolux digital capacidade 6L silenciosa segura 10 travas segurança 15 receitas pré-pro",
+    "image": "https://m.media-amazon.com/images/I/61W25IvSTrL._AC_SL1148_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 499,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 11344,
+    "coupon_code": null,
+    "description": "Este eletricista de panela de pressão Electrolux oferece uma capacidade de 6 litros, ideal para preparar porções maiores. Com três níveis de pressão e quinze receitas pré-programadas, você pode cozinhar refeições conhecidas com apenas um toque. Adicionalmente, o produto é super seguro com dez dispositivos de segurança, incluindo aviso sonoro e travamento automático da tampa, além de funcionar silenciosamente durante as preparações. Com uma potência de 1000 watts e características especiais como desligamento automático e lavagem na máquina de lavar louça, o custo-benefício é evidente.",
+    "informacoes_produto": {
+      "Características especiais": "Configuração Manter quente, Desligamento automático, Pode ser lavado na máquina de lavar louça, Programável, Tampa de bloqueio",
+      "Potência": "1000 watts",
+      "Método de controle": "Toque",
+      "Modo de operação": "Automático",
+      "Voltagem": "127 Volts",
+      "Tipo de fechamento": "Tampa externa",
+      "Tipo de controle": "Botão mecânico",
+      "Capacidade": "6 litros",
+      "Dimensões do item P x L x A": "30,5P x 31L x 32A centímetros",
+      "Peso do item": "5,8 Quilogramas",
+      "Material": "Aço inoxidável, Plástico",
+      "Tipo de acabamento": "Metálico",
+      "O item pode ser lavado na máquina de lavar louça?": "Não",
+      "Nome da marca": "Electrolux",
+      "Número do modelo": "PCC20",
+      "Descrição da garantia": "12 meses com o fabricante",
+      "País de origem": "China",
+      "Componentes incluídos": "Concha plástica, Copo medidor, Panela elétrica",
+      "Nome do Tipo de Produto": "Panela Elétrica de pressão",
+      "Fabricante": "Electrolux BR",
+      "Contagem de unidades": "1 Count de 6 L",
+      "Número da peça": "4340AJBR483",
+      "ASIN": "B076HYKFL7",
+      "Cor": "Preto",
+      "Marca": "Electrolux",
+      "Tipo de Acabamento": "Metálico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B076HYKFL7?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:14:00.000Z",
     "spotlight": false
   },
   {
@@ -14162,7 +12204,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51pDaHGEVGL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 293.54,
+    "price_current": 293.61,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14199,7 +12241,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,3P x 45L x 36,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QN1RW8K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:14:33.000Z",
+    "last_checked_at": "2026-08-12T15:14:19.000Z",
     "spotlight": false
   },
   {
@@ -14238,7 +12280,7 @@ const PRODUCTS = [
       "Dimensões do produto": "6P x 22L x 20A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCCGJQZS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:14:43.000Z",
+    "last_checked_at": "2026-08-12T15:14:28.000Z",
     "spotlight": false
   },
   {
@@ -14287,7 +12329,7 @@ const PRODUCTS = [
       "Característica Especial": "Durável, Seguro para congelador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:14:53.000Z",
+    "last_checked_at": "2026-08-12T15:14:38.000Z",
     "spotlight": false
   },
   {
@@ -14335,7 +12377,7 @@ const PRODUCTS = [
       "Característica Especial": "À prova de derramamento"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9GDTM67?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:15:03.000Z",
+    "last_checked_at": "2026-08-12T15:14:46.000Z",
     "spotlight": false
   },
   {
@@ -14377,7 +12419,7 @@ const PRODUCTS = [
       "Característica Especial": "Desligamento automático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076MCNZX6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:15:33.000Z",
+    "last_checked_at": "2026-08-12T15:15:15.000Z",
     "spotlight": false
   },
   {
@@ -14416,7 +12458,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "13 dezembro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPYT6NL2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:15:43.000Z",
+    "last_checked_at": "2026-08-12T15:15:25.000Z",
     "spotlight": false
   },
   {
@@ -14425,7 +12467,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61WqzwY7Z6L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 479,
+    "price_current": 452.1,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14467,7 +12509,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33,8P x 43,9L x 25,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FGZHG928?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:16:03.000Z",
+    "last_checked_at": "2026-08-12T15:15:43.000Z",
     "spotlight": false
   },
   {
@@ -14476,7 +12518,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51KjY8kbbSS._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 10.8,
+    "price_current": 12.4,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14504,7 +12546,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 15L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076JLCYFR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:16:12.000Z",
+    "last_checked_at": "2026-08-12T15:15:51.000Z",
     "spotlight": false
   },
   {
@@ -14545,7 +12587,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32C x 53L x 64A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G5YRSFP1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:16:21.000Z",
+    "last_checked_at": "2026-08-12T15:16:02.000Z",
     "spotlight": false
   },
   {
@@ -14554,7 +12596,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51cjL7YlwAS._AC_SL1200_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 35.9,
+    "price_current": 41.27,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14584,7 +12626,50 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08Y5LKM6W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:16:40.000Z",
+    "last_checked_at": "2026-08-12T15:16:22.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08X1P11KS",
+    "title": "LYOR - Bandeja de Bambu Hire Marrom Natural 20cm - Mesa Posta - Organização - Utensílios de Cozinha - Enxoval - Decoração - T",
+    "image": "https://m.media-amazon.com/images/I/61IXPSaGdBL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 13.49,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 3382,
+    "coupon_code": null,
+    "description": "A bandeja de bambu Hire Marrom Natural da Lyor é uma adição elegante e versátil para qualquer ambiente, oferecendo soluções de organização e decoração em um único produto. Com seu design minimalista e sustentável, a bandeja se adapta conscientemente a diferentes espaços, sendo ideal para servir petiscos, cafés, chás ou lanches. Além disso, sua manutenção é simples e prática, tornando-a uma excelente opção para facilitar a vida cotidiana dos anfitriões.",
+    "informacoes_produto": {
+      "Nome da marca": "Lyor",
+      "Tipo de bandeja": "Bandeja decorativa, Bandeja para servir",
+      "Usos recomendados do produto": "Bebida, Comida, Decoração, Organização",
+      "País de origem": "China",
+      "Número do modelo": "Hire",
+      "Fabricante": "Lyor",
+      "Nome do Tipo de Produto": "Bandeja de Bambu",
+      "Descrição da garantia": "3 Meses Contra Defeito De Fabricação",
+      "ASIN": "B08X1P11KS",
+      "Características especiais": "Bambu",
+      "Cor": "Natural",
+      "Formato do item": "Retangular",
+      "Estilo": "Escandinava",
+      "Material": "Bambu",
+      "Tipo de acabamento": "Sem acabamento",
+      "Instruções de cuidados com o produto": "LIMPAR COM FLANELA BRANCA E SECA. CASO NECESSÁRIO, LAVAR COM DETERGENTE NEUTRO, ESPONJA MACIA E SECAR IMEDIATAMENTE. NÃO UTILIZAR PRODUTOS QUÍMICOS.",
+      "O item pode ser lavado na máquina de lavar louça?": "Não",
+      "O forno é seguro": "Não",
+      "Dimensões do item C x L x A": "20C x 10L x 1,5A centímetros",
+      "Quantidade de itens": "1",
+      "Marca": "Lyor",
+      "Dimensões do produto": "20C x 10L x 1,5A centímetros",
+      "Forma": "Retangular"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B08X1P11KS?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:16:42.000Z",
     "spotlight": false
   },
   {
@@ -14624,7 +12709,7 @@ const PRODUCTS = [
       "Tipo de visor": "LCD"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F8G37Y56?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:17:09.000Z",
+    "last_checked_at": "2026-08-12T15:16:52.000Z",
     "spotlight": false
   },
   {
@@ -14665,7 +12750,51 @@ const PRODUCTS = [
       "Característica Especial": "Desligamento automático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09CBXQFYY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:17:20.000Z",
+    "last_checked_at": "2026-08-12T15:17:04.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DKG4VZ3Q",
+    "title": "Frigideira Rochedo Stone Pro 24cm Preto com Efeito Pedra e Antiaderente Minerium, Alta Resistência e Durabilidade, Cabos Ergo",
+    "image": "https://m.media-amazon.com/images/I/41kW-UdKnoL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 75.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 324,
+    "coupon_code": null,
+    "description": "O produto Rochedo Stone Pro 24cm preto possui um revestimento antiaderente Minerium efeito pedra, oferecendo durabilidade e eficiência no preparo de alimentos. A frigideira também apresenta tecnologia Thermo-Sinal inteligente que muda de cor quando atinge a temperatura ideal para selar os alimentos, garantindo um cozimento uniforme e profissional. Com design moderno e resistente, mantém sua aparência sofisticada sem manchas causadas pelo calor do fogão. Adicionalmente, cabos ergonômicos oferecem conforto e segurança no manuseio, tornando o uso mais prático no dia a dia. Com preço competitivo, essa frigideira é uma boa opção para aqueles que buscam",
+    "informacoes_produto": {
+      "Nome da marca": "Rochedo",
+      "País de origem": "Colômbia",
+      "Nome do modelo": "Frigideira",
+      "Usos recomendados do produto": "Fritar",
+      "Usos específicos do produto": "Crepe, Omelete, Panqueca",
+      "Ano de fabricação": "2024",
+      "Componentes incluídos": "01 Frigideira 24cm",
+      "Nome do Tipo de Produto": "Frigideira",
+      "Fabricante": "Rochedo",
+      "Número do modelo": "0371300",
+      "Número da peça": "0371300",
+      "ASIN": "B0DKG4VZ3Q",
+      "Material": "Alumínio",
+      "Instruções de cuidados com o produto": "Pode ser lavado na máquina de lavar louça",
+      "Material do cabo": "Alumínio",
+      "Tem revestimento antiaderente": "Sim",
+      "O item pode ser lavado na máquina de lavar louça?": "Sim",
+      "Características especiais": "Antiaderente, Compatível com fogão a gás, Compatível com fogão elétrico",
+      "Dispositivos compatíveis": "Gás, Vitrocerâmico, Elétrico",
+      "Formato do item": "circular",
+      "Capacidade": "1,7 litros",
+      "Cor": "Preto e cinza (efeito pedra)",
+      "Marca": "Rochedo",
+      "Característica Especial": "Antiaderente, Compatível com fogão a gás, Compatível com fogão elétrico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DKG4VZ3Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:17:34.000Z",
     "spotlight": false
   },
   {
@@ -14703,7 +12832,7 @@ const PRODUCTS = [
       "Peso do produto": "66 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076X79L8P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:17:57.000Z",
+    "last_checked_at": "2026-08-12T15:17:43.000Z",
     "spotlight": false
   },
   {
@@ -14712,7 +12841,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81oRNVZ6SUL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 139.99,
+    "price_current": 149.51,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14741,7 +12870,7 @@ const PRODUCTS = [
       "Característica Especial": "Bocal direcionador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07G1FHPDR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:18:17.000Z",
+    "last_checked_at": "2026-08-12T15:18:02.000Z",
     "spotlight": false
   },
   {
@@ -14786,7 +12915,7 @@ const PRODUCTS = [
       "Característica Especial": "Revestimento Antiaderente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLHZNS6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:18:27.000Z",
+    "last_checked_at": "2026-08-12T15:18:12.000Z",
     "spotlight": false
   },
   {
@@ -14795,7 +12924,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51CmxAPMOML._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 46.99,
+    "price_current": 52.37,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14825,7 +12954,7 @@ const PRODUCTS = [
       "Informações de embalagem": "RM"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075TGQVHT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:18:36.000Z",
+    "last_checked_at": "2026-08-12T15:18:21.000Z",
     "spotlight": false
   },
   {
@@ -14834,7 +12963,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61hwnGbImPL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 538.46,
+    "price_current": 538.48,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14879,7 +13008,7 @@ const PRODUCTS = [
       "Característica Especial": "Descongelar"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09NL9BDRT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:18:46.000Z",
+    "last_checked_at": "2026-08-12T15:18:31.000Z",
     "spotlight": false
   },
   {
@@ -14925,7 +13054,7 @@ const PRODUCTS = [
       "Característica Especial": "Tigela removível"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C4CFLZPB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:19:07.000Z",
+    "last_checked_at": "2026-08-12T15:18:50.000Z",
     "spotlight": false
   },
   {
@@ -14934,7 +13063,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81DHdkzgECL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 283,
+    "price_current": 312.56,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -14973,50 +13102,7 @@ const PRODUCTS = [
       "Dimensões do produto": "36P x 28,5L x 33A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08HZFC8C2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:19:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FNYHYV8V",
-    "title": "Balança de Cozinha Digital para Alimentos Portátil em Inox Resistente a Água Com Base Antiderrapante e Visor de Alta Definiçã",
-    "image": "https://m.media-amazon.com/images/I/61qTJMbAqNL._SL1200_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 16.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 530,
-    "coupon_code": null,
-    "description": "Este balança digital portátil em inox resistente à água oferece precisão profissional, design moderno e tecnologia acessível para sua cozinha. Com 4 sensores inteligentes de alta precisão, medições exatas com incrementos de apenas 1g são garantidas, ideal para receitas delicadas ou controle alimentar rigoroso. Além disso, seu design elegante e compacto economiza espaço na sua cozinha. Com função Tara inteligente, auto desligamento e botões sensíveis ao toque, o uso diário é facilitado. Com apenas 217g de peso, é fácil de guardar, transportar e manter sempre à mão.",
-    "informacoes_produto": {
-      "Características especiais": "Função Tare",
-      "Tipo de tela": "LCD",
-      "Capacidade máxima de peso": "10 Quilogramas",
-      "Fator de forma": "Portátil",
-      "Tipo de balança de pesagem": "Balança de mesa",
-      "Tipo de medição": "Digital",
-      "Cor": "Inox e Branco",
-      "Material": "Plástico",
-      "Item Weight": "217,4 Gramas",
-      "Brand Name": "Genérico",
-      "Usos recomendados do produto": "Comida",
-      "Fabricante": "BF",
-      "Contagem de unidades": "1 Unidade",
-      "País de origem": "China",
-      "Componentes incluídos": "Balança, pilhas e manual",
-      "Model Number": "BCMB",
-      "Part Number": "BC001",
-      "Tipo de sala": "Cozinha",
-      "ASIN": "B0FNYHYV8V",
-      "Marca": "Genérico",
-      "Adequação do controle por rádio": "Comida",
-      "Característica Especial": "Função Tare",
-      "Tipo de visor": "LCD"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FNYHYV8V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:20:13.000Z",
+    "last_checked_at": "2026-08-12T15:19:01.000Z",
     "spotlight": false
   },
   {
@@ -15052,7 +13138,7 @@ const PRODUCTS = [
       "Marca": "Consul"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07C65DB8T?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:20:34.000Z",
+    "last_checked_at": "2026-08-12T15:20:22.000Z",
     "spotlight": false
   },
   {
@@ -15061,7 +13147,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/31iXW1mLs5L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 14.75,
+    "price_current": 15.65,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -15093,7 +13179,7 @@ const PRODUCTS = [
       "Peso do produto": "90 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085M4N2VQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:21:06.000Z",
+    "last_checked_at": "2026-08-12T15:20:40.000Z",
     "spotlight": false
   },
   {
@@ -15132,7 +13218,7 @@ const PRODUCTS = [
       "Tipo de gume da ferramenta": "Espiral"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:21:35.000Z",
+    "last_checked_at": "2026-08-12T15:21:09.000Z",
     "spotlight": false
   },
   {
@@ -15173,7 +13259,7 @@ const PRODUCTS = [
       "Dimensões do produto": "37P x 26,5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:21:46.000Z",
+    "last_checked_at": "2026-08-12T15:21:20.000Z",
     "spotlight": false
   },
   {
@@ -15182,7 +13268,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61CvoedtOSL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 13.83,
+    "price_current": 17.95,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -15212,7 +13298,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Todos os dispositivos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075X3NYJK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:21:57.000Z",
+    "last_checked_at": "2026-08-12T15:21:31.000Z",
     "spotlight": false
   },
   {
@@ -15257,7 +13343,7 @@ const PRODUCTS = [
       "Tensão": "120 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07JN19LDF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:22:06.000Z",
+    "last_checked_at": "2026-08-12T15:21:41.000Z",
     "spotlight": false
   },
   {
@@ -15266,7 +13352,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/514x2w0chDL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 35.9,
+    "price_current": 37.65,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -15301,7 +13387,7 @@ const PRODUCTS = [
       "Peso do produto": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CV2JXNH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:22:17.000Z",
+    "last_checked_at": "2026-08-12T15:21:50.000Z",
     "spotlight": false
   },
   {
@@ -15341,7 +13427,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076N2S8FV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:22:27.000Z",
+    "last_checked_at": "2026-08-12T15:22:00.000Z",
     "spotlight": false
   },
   {
@@ -15350,7 +13436,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81hJD-odFeL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 143.91,
+    "price_current": 169.11,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -15394,7 +13480,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:22:35.000Z",
+    "last_checked_at": "2026-08-12T15:22:08.000Z",
     "spotlight": false
   },
   {
@@ -15437,7 +13523,7 @@ const PRODUCTS = [
       "Protocolo de conectividade": "Wi-Fi"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTT42SDP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:23:02.000Z",
+    "last_checked_at": "2026-08-12T15:22:37.000Z",
     "spotlight": false
   },
   {
@@ -15515,7 +13601,7 @@ const PRODUCTS = [
       "Característica Especial": "Detecção De Movimento, Giratória, Prova D'água, Visão Noturna Infravermelho, Áudio Bidirecional"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H3QJ9PX1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:23:44.000Z",
+    "last_checked_at": "2026-08-12T15:23:18.000Z",
     "spotlight": false
   },
   {
@@ -15524,7 +13610,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51pzkr0y+XL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 130.9,
+    "price_current": 138.51,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -15554,7 +13640,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0776VVM73?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:23:54.000Z",
+    "last_checked_at": "2026-08-12T15:23:27.000Z",
     "spotlight": false
   },
   {
@@ -15591,7 +13677,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Digital, Luz LED, Desligamento automático, Detecção de pressão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP9FF295?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:24:44.000Z",
+    "last_checked_at": "2026-08-12T15:24:17.000Z",
     "spotlight": false
   },
   {
@@ -15600,7 +13686,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51lkqibSL6L._AC_SL1024_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 7.83,
+    "price_current": 7.73,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -15633,7 +13719,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Embalagem, Presente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077P84NBQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:24:52.000Z",
+    "last_checked_at": "2026-08-12T15:24:26.000Z",
     "spotlight": false
   },
   {
@@ -15642,7 +13728,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71Y14RKTJBL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 13.3,
+    "price_current": 12.62,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -15671,7 +13757,7 @@ const PRODUCTS = [
       "Material da lâmina": "Liga de aço"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0778XFVHN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:25:04.000Z",
+    "last_checked_at": "2026-08-12T15:24:36.000Z",
     "spotlight": false
   },
   {
@@ -15745,7 +13831,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "Sem fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XLML2YS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:25:33.000Z",
+    "last_checked_at": "2026-08-12T15:25:04.000Z",
     "spotlight": false
   },
   {
@@ -15803,7 +13889,7 @@ const PRODUCTS = [
       "Característica Especial": "À prova d'água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08Y55DZXT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:25:53.000Z",
+    "last_checked_at": "2026-08-12T15:25:26.000Z",
     "spotlight": false
   },
   {
@@ -15841,7 +13927,7 @@ const PRODUCTS = [
       "Tipo de tomada": "Type C"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08BJDK91Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:26:02.000Z",
+    "last_checked_at": "2026-08-12T15:25:34.000Z",
     "spotlight": false
   },
   {
@@ -15894,7 +13980,7 @@ const PRODUCTS = [
       "Tensão": "12 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DB61V6L6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:26:12.000Z",
+    "last_checked_at": "2026-08-12T15:25:45.000Z",
     "spotlight": false
   },
   {
@@ -15954,7 +14040,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074L9L5KZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:26:55.000Z",
+    "last_checked_at": "2026-08-12T15:26:27.000Z",
     "spotlight": false
   },
   {
@@ -15963,7 +14049,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51Go2vIg0ML._AC_SL1080_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 1024.99,
+    "price_current": 959.33,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16036,7 +14122,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B098YHFT9S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:27:16.000Z",
+    "last_checked_at": "2026-08-12T15:26:46.000Z",
     "spotlight": false
   },
   {
@@ -16086,7 +14172,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074HMBWQG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:27:36.000Z",
+    "last_checked_at": "2026-08-12T15:27:06.000Z",
     "spotlight": false
   },
   {
@@ -16137,7 +14223,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Computador pessoal, Notebook, Tablet"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07643MPGS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:27:46.000Z",
+    "last_checked_at": "2026-08-12T15:27:16.000Z",
     "spotlight": false
   },
   {
@@ -16180,7 +14266,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0765KZ264?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:27:56.000Z",
+    "last_checked_at": "2026-08-12T15:27:27.000Z",
     "spotlight": false
   },
   {
@@ -16222,7 +14308,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1G2TL8P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:28:17.000Z",
+    "last_checked_at": "2026-08-12T15:27:48.000Z",
     "spotlight": false
   },
   {
@@ -16254,7 +14340,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil e moderno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09963FWYX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:28:26.000Z",
+    "last_checked_at": "2026-08-12T15:27:58.000Z",
     "spotlight": false
   },
   {
@@ -16263,7 +14349,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/91e-WNUpH0L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 553.11,
+    "price_current": 553.74,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16316,7 +14402,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido externo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQX6DVWY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:28:55.000Z",
+    "last_checked_at": "2026-08-12T15:28:30.000Z",
     "spotlight": false
   },
   {
@@ -16325,7 +14411,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51TU36U5C1L._AC_SL1080_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 1399.0,
+    "price_current": 1471.07,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16387,7 +14473,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "1920 x 1200 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4SLJNFF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:29:04.000Z",
+    "last_checked_at": "2026-08-12T15:28:39.000Z",
     "spotlight": false
   },
   {
@@ -16396,7 +14482,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/618iLr2V14L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 129.9,
+    "price_current": 144.42,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16437,7 +14523,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Computador pessoal, Notebook, Tablet"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLFWP47Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:29:13.000Z",
+    "last_checked_at": "2026-08-12T15:28:49.000Z",
     "spotlight": false
   },
   {
@@ -16446,7 +14532,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71kxpJ7DTGL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 1449.0,
+    "price_current": 1504.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16517,7 +14603,60 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2560 x 1600 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9B9QDNK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:29:22.000Z",
+    "last_checked_at": "2026-08-12T15:28:59.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DN4RM6X7",
+    "title": "Mouse sem fio Logitech M196 com Conexão Bluetooth, Design Ambidestro Compacto, Rastreamento Preciso, Compatível com PC e Mac,",
+    "image": "https://m.media-amazon.com/images/I/61Y0zPErIxL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 70,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1835,
+    "coupon_code": null,
+    "description": "O mouse sem fio Logitech M196 é uma opção confiável para quem procura um dispositivo de entrada portátil e prático. Com conexão Bluetooth pair-and-play, design ambidestro confortável e rastreamento óptico preciso em diversas superfícies, este mouse oferece controle suave e preciso. Ademais, as peças de plástico incluem plástico reciclado certificado, garantindo uma opção sustentável. Com duração da pilha confiável até 12 meses, o custo-benefício é atraente para quem busca um mouse sem fio de alta qualidade.",
+    "informacoes_produto": {
+      "Tecnologia de conectividade": "Bluetooth",
+      "Características especiais": "Design ergonômico, Leve, Portátil, Sem fio",
+      "Deteção de movimento": "Óptico",
+      "Quantidade do botão": "3",
+      "Orientação de uso": "Ambidestro",
+      "Dispositivos compatíveis": "Computador pessoal",
+      "Sistema operacional": "Windows 10",
+      "Duração da bateria": "8760 Horas",
+      "Tipo de bateria": "1 AA baterias necessárias. (inclusas)",
+      "Plataforma de hardware": "PC",
+      "Fonte de energia": "Alimentado por bateria",
+      "Escala": "10.0",
+      "Cor": "Preto",
+      "Estilo": "Moderno",
+      "Peso do item": "76 Gramas",
+      "Dimensões do item C x L": "98C x 62L centímetros",
+      "Nome da marca": "Logitech",
+      "Nome do modelo": "910-007456",
+      "Usos recomendados do produto": "Jogos",
+      "Número do modelo": "910-007456",
+      "País de origem": "China",
+      "Componentes Incluídos": "Documentação do usuário, Mouse sem fio, Pilha",
+      "Baterias incluídas?": "Sim",
+      "Baterias são necessárias?": "Sim",
+      "Fabricante": "Logitech",
+      "UPC": "097855200648",
+      "Número da peça": "910-007456",
+      "Descrição da garantia": "12 MESES",
+      "ASIN": "B0DN4RM6X7",
+      "Marca": "Logitech",
+      "Tecnologia de Conectividade": "Bluetooth",
+      "Característica Especial": "Design ergonômico, Leve, Portátil, Sem fio",
+      "Tecnologia de detecção de movimento": "Óptico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DN4RM6X7?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:29:30.000Z",
     "spotlight": false
   },
   {
@@ -16572,7 +14711,7 @@ const PRODUCTS = [
       "Característica Especial": "Possível processo de fabricação industrial"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SRYF5L7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:30:01.000Z",
+    "last_checked_at": "2026-08-12T15:29:40.000Z",
     "spotlight": false
   },
   {
@@ -16581,7 +14720,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61Ggc5CthJL._AC_SL1367_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 19.99,
+    "price_current": 22.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16618,7 +14757,7 @@ const PRODUCTS = [
       "Modelos de Telefone Compatíveis": "Notebook"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086CB6BXW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:30:11.000Z",
+    "last_checked_at": "2026-08-12T15:29:49.000Z",
     "spotlight": false
   },
   {
@@ -16627,7 +14766,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71g1gS6qGmL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 159.9,
+    "price_current": 185.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16680,7 +14819,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CHJXCJTW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:30:21.000Z",
+    "last_checked_at": "2026-08-12T15:29:59.000Z",
     "spotlight": false
   },
   {
@@ -16689,7 +14828,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41xp0NCaW4L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 98.99,
+    "price_current": 98.93,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16726,7 +14865,7 @@ const PRODUCTS = [
       "Classe de banda de frequência": "Dual-Band"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00A0VCJPI?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:30:33.000Z",
+    "last_checked_at": "2026-08-12T15:30:08.000Z",
     "spotlight": false
   },
   {
@@ -16735,7 +14874,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/618fghm1r2L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 43.9,
+    "price_current": 48.01,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16776,7 +14915,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF8VTNHM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:30:44.000Z",
+    "last_checked_at": "2026-08-12T15:30:19.000Z",
     "spotlight": false
   },
   {
@@ -16785,7 +14924,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41X8XelsCqL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 17.99,
+    "price_current": 19,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16819,7 +14958,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "10 x 5 x 0,1 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX4CYHVV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:30:53.000Z",
+    "last_checked_at": "2026-08-12T15:30:31.000Z",
     "spotlight": false
   },
   {
@@ -16875,7 +15014,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Manual do usuário, Webcam"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLZ2T78C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:31:04.000Z",
+    "last_checked_at": "2026-08-12T15:30:42.000Z",
     "spotlight": false
   },
   {
@@ -16925,7 +15064,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF8ZSC9D?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:31:14.000Z",
+    "last_checked_at": "2026-08-12T15:30:53.000Z",
     "spotlight": false
   },
   {
@@ -16934,7 +15073,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51IPtedWrsL._AC_SL1280_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 119.9,
+    "price_current": 139,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -16965,7 +15104,7 @@ const PRODUCTS = [
       "Descrição do Teclado": "Multimídia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPTK4P38?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:31:23.000Z",
+    "last_checked_at": "2026-08-12T15:31:02.000Z",
     "spotlight": false
   },
   {
@@ -16974,7 +15113,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51j9SOgYLqL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 737.11,
+    "price_current": 737.1,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17028,7 +15167,7 @@ const PRODUCTS = [
       "Peso do produto": "4,94 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00DZIOMJ4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:31:34.000Z",
+    "last_checked_at": "2026-08-12T15:31:12.000Z",
     "spotlight": false
   },
   {
@@ -17082,7 +15221,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D6NLHV8N?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:31:44.000Z",
+    "last_checked_at": "2026-08-12T15:31:22.000Z",
     "spotlight": false
   },
   {
@@ -17091,7 +15230,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/417WNJsR6hL._SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 18.48,
+    "price_current": 20.48,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17134,7 +15273,82 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Flexível, Resistente a riscos e corrosão, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CLTBPP4X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:31:54.000Z",
+    "last_checked_at": "2026-08-12T15:31:32.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0F3LTWYS5",
+    "title": "Tablet Samsung Galaxy Tab S10 FE, Cinza, 128GB, 8GB RAM, Tela Imersiva de 10.9\" 90Hz, Camera Traseira de 13MP, Câmera Frontal",
+    "image": "https://m.media-amazon.com/images/I/51nStwLekjL._AC_SL1080_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 2851.08,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 2616,
+    "coupon_code": null,
+    "description": "O Samsung Galaxy Tab S10 FE, disponível em cinza, oferece 128GB de armazenamento e 8GB RAM para um desempenho excepcional. A tela imersiva de 10,9 polegadas com taxa de atualização de 90Hz garante uma experiência visual fluida. Adicionalmente, a câmera traseira de 13MP e a frente de 12MP Ultra Wide permitem fotos e vídeochamadas com amplo campo de visão. Com o Android 15, resistência IP68 e componentes extras incluídos, este tablet oferece um custo-benefício inegável na categoria Computadores e Informática.",
+    "informacoes_produto": {
+      "Nome da marca": "Samsung",
+      "Nome do modelo": "BSM-520/N",
+      "Geração": "10ª geração",
+      "Ano do modelo": "2025",
+      "Descrição da faixa etária": "Adulto",
+      "Componentes Incluídos": "Tablet, Capa Protetora, Caneta S Pen, Carregador, Cabos de Dados, Guia Rápido, Extrator da bandeja de MicroSD,",
+      "País de origem": "Brasil",
+      "Descrição da garantia": "1 ano com o fabricante",
+      "Usos específicos do produto": "Entretenimento",
+      "Estilo": "Art Deco",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Nome do Conjunto": "Galaxy Tab",
+      "Tamanho": "Pequeno",
+      "Certificação de teste externa": "Não aplicável",
+      "ASIN": "B0F3LTWYS5",
+      "Capacidade da bateria": "8000 Milliamp Hours",
+      "Composição da célula da pilha": "Polímero de lítio",
+      "Potência da bateria": "8000 Milliamp Hours",
+      "Conteúdo de energia da bateria de lítio": "30,8 Watt-hora",
+      "Descrição do processador": "Exynos 1580",
+      "Fabricante do modelo da CPU": "Samsung",
+      "Resolução de captura de vídeo": "4K",
+      "Descrição da câmera": "Traseira",
+      "Resolução do sensor fotográfico traseiro da câmara": "13 MP",
+      "Sistema operacional": "Android 15",
+      "Cor": "Cinza",
+      "Fabricante da placa de vídeo": "Samsung",
+      "Peso do item": "497 Gramas",
+      "Dimensões do item C x L x Espessura": "25,4C x 16,6L x 6Espessura centímetros",
+      "Entrada de interface humana": "Tela tátil",
+      "Descrição da placa de vídeo": "Dedicada",
+      "Dispositivos compatíveis": "Caneta S Pen, Capa Protetora",
+      "Tipo de garantia": "Garantia do Fabricante",
+      "Família do Sistema Operacional": "Android",
+      "Tamanho da tela": "10,9 Polegadas",
+      "Resolução máxima da tela": "2304 x 1440 Pixels",
+      "Tipo de tela": "LCD",
+      "Resolução nativa": "2304 x 1440 pixels",
+      "Proporção de aspecto": "16:9",
+      "Taxa de Atualização da Tela em Hertz": "90",
+      "Capacidade de armazenamento da memória": "128 GB",
+      "Memória RAM instalada": "8 GB",
+      "Tamanho do disco rígido": "80.0",
+      "Interface de hardware": "802.11 ac/b/g/n",
+      "Tecnologia de comunicação sem fio": "Wi-fi",
+      "Tecnologia de celular": "WiFi",
+      "Tecnologia de conectividade": "USB",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Norma de comunicação sem fio": "802.11ax",
+      "Características especiais": "Conectividade Celular",
+      "Marca": "Samsung",
+      "Nome do Modelo": "BSM-520/N",
+      "Capacidade de Armazenamento de Memória": "128 GB",
+      "Tamanho da Tela": "10,9 Polegadas",
+      "Resolução máxima do visor": "2304 x 1440 Pixels"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F3LTWYS5?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:31:52.000Z",
     "spotlight": false
   },
   {
@@ -17184,7 +15398,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLKGNYJ8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:32:25.000Z",
+    "last_checked_at": "2026-08-12T15:32:02.000Z",
     "spotlight": false
   },
   {
@@ -17225,7 +15439,7 @@ const PRODUCTS = [
       "Dimensões do produto": "15C x 7L x 19A milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B098K3H92Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:32:43.000Z",
+    "last_checked_at": "2026-08-12T15:32:24.000Z",
     "spotlight": false
   },
   {
@@ -17281,7 +15495,7 @@ const PRODUCTS = [
       "Tipo de Cabo": "Usb-c Para Usb-c"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVZXW9N2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:32:51.000Z",
+    "last_checked_at": "2026-08-12T15:32:34.000Z",
     "spotlight": false
   },
   {
@@ -17346,7 +15560,7 @@ const PRODUCTS = [
       "ASIN": "B075Y72PHZ"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075Y72PHZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:33:02.000Z",
+    "last_checked_at": "2026-08-12T15:32:45.000Z",
     "spotlight": false
   },
   {
@@ -17383,7 +15597,7 @@ const PRODUCTS = [
       "Taxa de Transferência de Dados": "1300 Megabits Per Second"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR2SWFVN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:33:12.000Z",
+    "last_checked_at": "2026-08-12T15:32:56.000Z",
     "spotlight": false
   },
   {
@@ -17392,7 +15606,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61M5mkvTeTL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 37,
+    "price_current": 38.95,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17440,7 +15654,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido de 100 W, capa de alumínio, trança de nylon"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07V5MKXJ1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:33:22.000Z",
+    "last_checked_at": "2026-08-12T15:33:05.000Z",
     "spotlight": false
   },
   {
@@ -17449,7 +15663,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/512RvK5DHHL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 881.84,
+    "price_current": 876.84,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17499,7 +15713,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "802.11ac"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DH3PLZ6N?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:33:32.000Z",
+    "last_checked_at": "2026-08-12T15:33:14.000Z",
     "spotlight": false
   },
   {
@@ -17508,7 +15722,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61UHRi-KLmL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 90.35,
+    "price_current": 90.31,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17557,7 +15771,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B01JPOLKDW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:33:43.000Z",
+    "last_checked_at": "2026-08-12T15:33:24.000Z",
     "spotlight": false
   },
   {
@@ -17605,7 +15819,7 @@ const PRODUCTS = [
       "Velocidade de Gravação": "3.0"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754M9KZT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:33:54.000Z",
+    "last_checked_at": "2026-08-12T15:33:33.000Z",
     "spotlight": false
   },
   {
@@ -17641,7 +15855,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório, Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVPG6XR9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:34:06.000Z",
+    "last_checked_at": "2026-08-12T15:33:42.000Z",
     "spotlight": false
   },
   {
@@ -17650,7 +15864,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71gkfwNZHXL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 34.59,
+    "price_current": 36.23,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17680,7 +15894,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório, Estudos, Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BLZS13QR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:34:25.000Z",
+    "last_checked_at": "2026-08-12T15:34:02.000Z",
     "spotlight": false
   },
   {
@@ -17689,7 +15903,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51F4d5LTbdL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 23.92,
+    "price_current": 26.5,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17738,7 +15952,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075VFWDD4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:34:35.000Z",
+    "last_checked_at": "2026-08-12T15:34:12.000Z",
     "spotlight": false
   },
   {
@@ -17793,7 +16007,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4L1SBV3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:34:46.000Z",
+    "last_checked_at": "2026-08-12T15:34:23.000Z",
     "spotlight": false
   },
   {
@@ -17855,7 +16069,7 @@ const PRODUCTS = [
       "Instruções de cuidados com o produto": "Apenas lavagem à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0842XB4BN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:34:56.000Z",
+    "last_checked_at": "2026-08-12T15:34:32.000Z",
     "spotlight": false
   },
   {
@@ -17864,7 +16078,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41UZqy2PB-L._AC_SL1080_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 50,
+    "price_current": 42.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17900,7 +16114,7 @@ const PRODUCTS = [
       "Característica Especial": "Proteção de sobretensão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DC89J988?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:35:05.000Z",
+    "last_checked_at": "2026-08-12T15:34:44.000Z",
     "spotlight": false
   },
   {
@@ -17942,7 +16156,7 @@ const PRODUCTS = [
       "Nome do Modelo": "910-007597"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4NLKLJX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:35:16.000Z",
+    "last_checked_at": "2026-08-12T15:34:55.000Z",
     "spotlight": false
   },
   {
@@ -17951,7 +16165,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61Xh3RM3KFL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 17.91,
+    "price_current": 19.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -17979,7 +16193,7 @@ const PRODUCTS = [
       "Dimensões do produto": "27C x 14L x 7A milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08H1MYNNW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:35:27.000Z",
+    "last_checked_at": "2026-08-12T15:35:04.000Z",
     "spotlight": false
   },
   {
@@ -18033,7 +16247,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00KO401T2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:35:38.000Z",
+    "last_checked_at": "2026-08-12T15:35:13.000Z",
     "spotlight": false
   },
   {
@@ -18042,7 +16256,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/415cNkqCWlL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 10.9,
+    "price_current": 13.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -18087,7 +16301,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086J78G67?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:35:48.000Z",
+    "last_checked_at": "2026-08-12T15:35:24.000Z",
     "spotlight": false
   },
   {
@@ -18096,7 +16310,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61CldfoU16L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 189.05,
+    "price_current": 189,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -18139,7 +16353,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CM6FSPY3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:35:59.000Z",
+    "last_checked_at": "2026-08-12T15:35:35.000Z",
     "spotlight": false
   },
   {
@@ -18199,7 +16413,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Brilhante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3144L7C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:36:10.000Z",
+    "last_checked_at": "2026-08-12T15:35:44.000Z",
     "spotlight": false
   },
   {
@@ -18208,7 +16422,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51BeI0fbpzL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 862.33,
+    "price_current": 874.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -18269,7 +16483,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DTTM47F9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:36:19.000Z",
+    "last_checked_at": "2026-08-12T15:35:54.000Z",
     "spotlight": false
   },
   {
@@ -18278,7 +16492,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/518U+8v+f4L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 129.99,
+    "price_current": 129.97,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -18314,50 +16528,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00MTFIL0U?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:36:36.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B002BSJLE0",
-    "title": "Old Parr Whisky 12 Anos 1L",
-    "image": "https://m.media-amazon.com/images/I/51zz0lzNtuL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 116.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 6557,
-    "coupon_code": null,
-    "description": "O Old Parr Whisky 12 Anos é uma oferta do dia de qualidade inquestionável, com uma nota média de 4,8/5 em 6557 avaliações. Envelhecido por 12 anos, este whisky escocês apresenta um perfil de sabor equilibrado e frutado, além de ser uma homenagem à vida bem vivida. Com conteúdo alcoólico de 40%, o Old Parr é mais do que uma bebida - é o símbolo de tradição e qualidade.",
-    "informacoes_produto": {
-      "Nome da marca": "Old Parr",
-      "Tipo alcoólico": "Blended whiskey",
-      "Sabor": "Frutas",
-      "Quantidade de itens": "1",
-      "Conteúdo alcoólico": "40 %",
-      "Descrição do conteúdo líquido": "Whisky",
-      "Número de identificação de comércio internacional": "05000281004020",
-      "Item Nype Name": "Whisky",
-      "Fabricante": "Diageo BR",
-      "Número do modelo": "5000281004020",
-      "Número da peça": "5000281004020",
-      "ASIN": "B002BSJLE0",
-      "Contagem de unidades": "1 Unidade",
-      "Volume de líquido": "1000 Mililitros",
-      "Peso do item": "1000 Gramas",
-      "Peso do pacote": "1,54 Quilogramas",
-      "Total de pacotes": "1",
-      "Volume do item": "1 Litros",
-      "Informações sobre alérgenos": "Contém: Não contém glúten",
-      "Marca": "Old Parr",
-      "Tipo de álcool": "Blended whiskey",
-      "Quantidade de Unidades": "1 Unidade",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B002BSJLE0?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:36:54.000Z",
+    "last_checked_at": "2026-08-12T15:36:26.000Z",
     "spotlight": false
   },
   {
@@ -18366,7 +16537,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/511TSrqzmCL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 46.78,
+    "price_current": 42.79,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -18403,7 +16574,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B005IZZDAY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:37:05.000Z",
+    "last_checked_at": "2026-08-12T15:36:56.000Z",
     "spotlight": false
   },
   {
@@ -18441,7 +16612,7 @@ const PRODUCTS = [
       "Comprimento da mangueira": "3 Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYQD8CN1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:37:36.000Z",
+    "last_checked_at": "2026-08-12T15:37:25.000Z",
     "spotlight": false
   },
   {
@@ -18450,7 +16621,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61aKb4ov8bL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 153.36,
+    "price_current": 148.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -18483,7 +16654,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BG312BMR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:37:45.000Z",
+    "last_checked_at": "2026-08-12T15:37:35.000Z",
     "spotlight": false
   },
   {
@@ -18523,7 +16694,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076N2S8FV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:38:59.000Z",
+    "last_checked_at": "2026-08-12T15:38:46.000Z",
     "spotlight": false
   },
   {
@@ -18532,7 +16703,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51fEK96-a5L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 101.28,
+    "price_current": 98.01,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -18542,7 +16713,7 @@ const PRODUCTS = [
     "description": "A Máscara de Tratamento Invigo Nutri-Enrich Wella Professionals oferece um tratamento nutritivo profundo para cabelos, com uma classificação média de 4.7/5 baseada em 1083 avaliações. Este produto de 150 ml promete resultados visíveis em termos de brilho, saúde e resistência ao cabelo, oferecendo um bom custo-benefício para quem busca uma experiência de tratamento profissional em casa.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BM4Q7F13?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:39:09.000Z",
+    "last_checked_at": "2026-08-12T15:38:56.000Z",
     "spotlight": false
   },
   {
@@ -18551,7 +16722,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/514sw6sff8L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 209.99,
+    "price_current": 205.11,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -18581,7 +16752,133 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Normal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0812BFKXP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:39:38.000Z",
+    "last_checked_at": "2026-08-12T15:39:24.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CRTYZG5C",
+    "title": "soundcore P30i da Anker, Fone de Ouvido Bluetooth 5.4 com Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto | Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 Suporte para Celular, IP54, Fone sem fio",
+    "image": "https://m.media-amazon.com/images/I/51o-AcAQWgL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 199.5,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 38523,
+    "coupon_code": null,
+    "description": "O Soundcore P30i da Anker é um fone de ouvido Bluetooth 5.4 de alta qualidade, oferecendo uma experiência inigualável em termos de cancelamento de ruído adaptativo, graves poderosos e longa duração da bateria. Com estojo de carregamento 2-em-1 com suporte para celular, você pode assistir às séries favoritas durante viagens sem complicações. Além disso, a tecnologia exclusiva BassUp da soundcore amplifica os graves profundos e impactantes, enquanto o cancelamento de ruído ativo inteligente reduz ruídos em até 42dB. Com 4 microfones + IA, garantem clareza absoluta nas ligações e videochamadas. A longa dura",
+    "informacoes_produto": {
+      "Nome da marca": "Soundcore",
+      "Número do modelo": "A3959",
+      "Nome do modelo": "P30i",
+      "Componentes incluídos": "Blu-ray",
+      "Descrição da faixa etária": "All",
+      "País de origem": "China",
+      "Descrição da garantia": "18.00",
+      "Tipo de embalagem": "Embalagem padrão",
+      "Quantidade de itens": "1",
+      "Número de série": "3956",
+      "UPC": "194644186333",
+      "Fabricante": "Anker",
+      "Certificação de teste externa": "/",
+      "É autografado": "Não",
+      "ASIN": "B0CRTYZG5C",
+      "Colocação de auscultadores na orelha": "Intra-auriculares",
+      "Formato dos fones de ouvido": "Intra-auricular",
+      "Forma do auricular": "Vara",
+      "Cor": "Preto",
+      "Estilo": "Clássico",
+      "Comprimento do estojo de transporte": "4,25 Polegadas",
+      "Largura do estojo de transporte": "4,25 Polegadas",
+      "Altura do estojo de transporte": "1,42 Polegadas",
+      "Peso do estojo de transporte": "1,76 Onças",
+      "Contagem de unidades": "1 par",
+      "Impedância": "16 Ohms",
+      "Controle de ruído": "Cancelamento de ruído adaptativo",
+      "Resposta de frequência": "20 KHz",
+      "Sensibilidade": "113 dB",
+      "Tipo de controlador de áudio": "Controlador dinâmico",
+      "Tamanho do controlador de áudio": "10 Milímetros",
+      "Material": "Policarbonato (PC)",
+      "Usos específicos do produto": "Entretenimento",
+      "Usos recomendados do produto": "Chamada",
+      "Dispositivos compatíveis": "Celulares",
+      "Característica do cabo": "Destacável",
+      "Nível de resistência à água": "À prova d'água",
+      "Material do estojo de transporte": "Plástico",
+      "Características especiais": "Cancelamento de ruído",
+      "É alimentado por energia elétrica?": "Não",
+      "Total de portas USB 2.0": "1",
+      "Entrada de fone de ouvido": "Nenhum",
+      "Tecnologia de conectividade": "Sem fio",
+      "Tecnologia de comunicação sem fio": "Bluetooth",
+      "Alcance do Bluetooth": "15 Metros",
+      "Versão do Bluetooth": "5.4",
+      "Tipo de controle": "Toque",
+      "Método de controle": "Toque",
+      "Charging Time": "10 Minutos",
+      "Duração da bateria": "45 Horas",
+      "Duração média da bateria do estojo de transporte": "35 Horas",
+      "Tempo de carregamento da bateria no estojo de transporte": "2,5 Horas",
+      "Capacidade da bateria do estojo de transporte": "700 Milliamp Hours",
+      "Marca": "Soundcore",
+      "Colocação na orelha": "Intra-auriculares",
+      "Fator de forma dos fones de ouvido": "Intra-auricular"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:39:36.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B086BWYJD3",
+    "title": "MamyPoko Fralda-Calça Dia&Noite G 50 Unidades",
+    "image": "https://m.media-amazon.com/images/I/715xNA-HXrL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 74.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 5596,
+    "coupon_code": null,
+    "description": "Este MamyPoko Fralda-Calça Dia&Noite oferece proteção para bebês de 9 até 14kg, absorvendo até 4 copos de líquidos e mantendo a absorção por até 12 horas. A barreira dupla evita vazamentos laterais e a fita de descarte facilita a troca. Com uma avaliação média de 4,6/5 (baseada em 5596 avaliações), este produto é um bom investimento para a proteção noturna do seu bebê.",
+    "informacoes_produto": {
+      "Nome da marca": "MamyPoko",
+      "Tipo de protetor para incontinência": "Fralda infantil",
+      "Descrição da faixa etária": "Bebê",
+      "Público-alvo": "Unissex-bebês",
+      "Tipo de pacote": "Caixa",
+      "Número de identificação de comércio internacional": "17898656390459",
+      "Comprimento do artigo": "38 Centímetros",
+      "Fabricante": "Unicharm",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "MamyPoko Fralda-Calça Dia&amp;Noite G 50 Unidades",
+      "Número da peça": "HU-XI-154",
+      "Número do modelo": "HU-XI-154",
+      "ASIN": "B086BWYJD3",
+      "Quantidade de itens": "1",
+      "Tamanho": "L (50 Contagem)",
+      "Contagem de unidades": "50 Unidade",
+      "Dimensões do artigo": "38 x 53 x 30 centímetros",
+      "Peso do item": "1421 Gramas",
+      "Tamanho do protetor de incontinência": "Tamanho 5",
+      "Weight Range": "9-14 kg",
+      "Livre de tipo de material": "Sem cloro",
+      "Descrição do forro": "Mistura de algodão",
+      "Reutilização": "Descartável",
+      "Nível de resistência à água": "Resistente à água",
+      "Cor": "Branco",
+      "Usos recomendados do produto": "Proteção de urina",
+      "Marca": "MamyPoko",
+      "Número de itens": "1",
+      "Tipo de protetor de incontinência": "Fralda infantil",
+      "Faixa etária (descrição)": "Bebê"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B086BWYJD3?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:39:46.000Z",
     "spotlight": false
   },
   {
@@ -18611,7 +16908,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "22 junho 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4T5245K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:40:49.000Z",
+    "last_checked_at": "2026-08-12T15:40:33.000Z",
     "spotlight": false
   },
   {
@@ -18650,7 +16947,7 @@ const PRODUCTS = [
       "Teor alcoólico": "40 %"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:40:59.000Z",
+    "last_checked_at": "2026-08-12T15:40:42.000Z",
     "spotlight": false
   },
   {
@@ -18693,7 +16990,52 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9R8RC1P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:41:17.000Z",
+    "last_checked_at": "2026-08-12T15:41:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0B788FPCD",
+    "title": "Purina Friskies, Friskies Megamix - Ração Gatos Adultos,10.1Kg",
+    "image": "https://m.media-amazon.com/images/I/814Cj02tRCL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 128.95,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1797,
+    "coupon_code": null,
+    "description": "O Purina Friskies Megamix para gatos adultos oferece uma combinação deliciosa de sete proteínas, incluindo salmão, atum e frango, além de contribuir para manter o trato urinário saudável com um equilíbrio adequado de minerais. Além disso, este alimento premium é completo e balanceado, oferecendo proteínas de alta qualidade, vitaminas e minerais essenciais para manter os músculos fortes e saudáveis dos gatos.",
+    "informacoes_produto": {
+      "Nome da marca": "Purina Friskies",
+      "Sabor": "Frango, Atum, Salmão, Fígado, Peru, Camarão e Carne",
+      "Descrição da faixa etária": "Adulto",
+      "Formato do item": "Grãos Secos",
+      "Usos específicos do produto": "Alimentação diária",
+      "Ingredientes especiais": "Livre de Corantes Artificiais",
+      "Tipo de recipiente": "Saco",
+      "Recomendação de raça": "Adulto, Todos os tamanhos da raça",
+      "País de origem": "Brasil",
+      "Informações sobre alérgenos": "O glúten pode conter",
+      "Espécie de destino": "Gato",
+      "Componentes incluídos": "Não aplicável",
+      "Nome do Tipo de Produto": "Ração Seca para Gatos",
+      "Fabricante": "Nestlé Purina",
+      "Model Number": "12519868",
+      "Ocasião": "Uso Diário",
+      "Número da peça": "Não aplicável",
+      "ASIN": "B0B788FPCD",
+      "Contagem de unidades": "10100 grama",
+      "Quantidade de itens": "1",
+      "Peso do item": "10,1 Quilogramas",
+      "Marca": "Purina Friskies",
+      "Faixa etária (descrição)": "Adulto",
+      "Forma do produto": "Grãos Secos",
+      "Usos Específicos do Produto": "Alimentação diária"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0B788FPCD?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:41:12.000Z",
     "spotlight": false
   },
   {
@@ -18729,7 +17071,7 @@ const PRODUCTS = [
       "Quantidade de embalagens do produto": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D2LQRW2N?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:41:40.000Z",
+    "last_checked_at": "2026-08-12T15:41:22.000Z",
     "spotlight": false
   },
   {
@@ -18778,7 +17120,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Criança"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B088PB2FF1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:41:51.000Z",
+    "last_checked_at": "2026-08-12T15:41:31.000Z",
     "spotlight": false
   },
   {
@@ -18812,7 +17154,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "180.0 gram(s)"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPN7WWF8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:41:59.000Z",
+    "last_checked_at": "2026-08-12T15:41:41.000Z",
     "spotlight": false
   },
   {
@@ -18867,7 +17209,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GM1GYWR1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:42:08.000Z",
+    "last_checked_at": "2026-08-12T15:41:53.000Z",
     "spotlight": false
   },
   {
@@ -18919,7 +17261,48 @@ const PRODUCTS = [
       "Dimensões do produto": "62P x 59L x 33A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJCDRXJ4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:42:41.000Z",
+    "last_checked_at": "2026-08-12T15:42:24.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07SVS5VWZ",
+    "title": "Granado Colônia Terrapeutics, Bergamota E Flor De Laranjeira, 230ml",
+    "image": "https://m.media-amazon.com/images/I/41DIlKpfGEL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 64.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1817,
+    "coupon_code": null,
+    "description": "Este Granado Colônia Terrapeutics, com aroma de bergamota e flor de laranjeira, oferece uma fragrância versátil e aconchegante, resultando de um processo de maceração que garante melhor qualidade ao produto. Aproveite-se da concentração Eau de Cologne, composta somente com ingredientes naturais, para ter um perfume marcante e intenso. Com 230ml de volume, o custo-benefício é favorável.",
+    "informacoes_produto": {
+      "Formato do item": "Líquido",
+      "Aroma": "Bergamota/Flor de Laranjeira",
+      "Additional Features": "Versátil e aconchegante, o perfume Granado Bergamota &amp; Flor de Laranjeira é composto somente com ingredientes naturais.",
+      "Concentração de fragrância": "Eau de Cologne",
+      "Modo de Aplicação": "Spray",
+      "Volume do item": "230 Mililitros",
+      "Peso do item": "230 Gramas",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "1 milliliters",
+      "Livre de tipo de material": "Sem ingredientes de origem animal",
+      "Características do material": "Natural",
+      "Nome da marca": "Granado",
+      "Descrição da faixa etária": "Adulto",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Colônia Granado Terrapeutics Bergamota&amp;Flor de Laranjeira 230mL",
+      "Fabricante": "Granado",
+      "Número da peça": "7896512939951",
+      "ASIN": "B07SVS5VWZ",
+      "Marca": "Granado",
+      "Forma do produto": "Líquido",
+      "Volume do produto": "230 Mililitros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07SVS5VWZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:42:52.000Z",
     "spotlight": false
   },
   {
@@ -18975,7 +17358,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Montagem no teto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7RF51CW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:43:36.000Z",
+    "last_checked_at": "2026-08-12T15:43:03.000Z",
     "spotlight": false
   },
   {
@@ -19019,7 +17402,58 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9RVFRZD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:43:45.000Z",
+    "last_checked_at": "2026-08-12T15:43:12.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08DJTXZ2B",
+    "title": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
+    "image": "https://m.media-amazon.com/images/I/7145nK-C+ML._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 113.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2347,
+    "coupon_code": null,
+    "description": "O MamyPoko Fralda-Calça Premium Seca G oferece proteção e conforto para bebês de 9 até 14kg, absorvendo imediatamente xixi por até 5 copos* e mantendo a seca durante até 12h*. A barreira dupla evita vazamentos laterais, enquanto as ondas de absorção garantem que o bebê permaneça sequinho toda noite. Com uma classificação média de 4,7/5 em 2347 avaliações, este produto é um excelente investimento para a saúde e bem-estar de seu bebê.\n\n*Pode variar de acordo com os hábitos e características do bebê. **1 copo = 50ml.",
+    "informacoes_produto": {
+      "Nome da marca": "MamyPoko",
+      "Tipo de protetor para incontinência": "Fralda infantil",
+      "Descrição da faixa etária": "Bebê",
+      "Público-alvo": "Unissex-bebês",
+      "Tipo de pacote": "Caixa",
+      "Comprimento do artigo": "37 Centímetros",
+      "Fabricante": "Unicharm",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "MamyPoko Fralda-Calça Premium Seca G 60 Unidades",
+      "Número da peça": "MK-G-189",
+      "Número do modelo": "Ad-bm1-131209",
+      "ASIN": "B08DJTXZ2B",
+      "Cor": "Branco",
+      "Quantidade de itens": "1",
+      "Tamanho": "L (60 Contagem)",
+      "Contagem de unidades": "60 Unidade",
+      "Dimensões do artigo": "37 x 27,5 x 20 centímetros",
+      "Peso do item": "1779,2 Gramas",
+      "Tamanho do protetor de incontinência": "G",
+      "Weight Range": "de 9 a 14 kg",
+      "Material": "Poliéster",
+      "Livre de tipo de material": "Sem cloro",
+      "Descrição do forro": "Poliéster",
+      "Reutilização": "Descartável",
+      "Nível de resistência à água": "À prova d'água",
+      "Horas de Absorção Efetiva": "12",
+      "Usos recomendados do produto": "Proteção de urina, Proteção fecal",
+      "Marca": "MamyPoko",
+      "Número de itens": "1",
+      "Tipo de protetor de incontinência": "Fralda infantil",
+      "Faixa etária (descrição)": "Bebê"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B08DJTXZ2B?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:43:43.000Z",
     "spotlight": false
   },
   {
@@ -19028,7 +17462,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51iC0RL7yIL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 135.59,
+    "price_current": 135,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -19064,7 +17498,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B004QEKTSO?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:44:33.000Z",
+    "last_checked_at": "2026-08-12T15:44:02.000Z",
     "spotlight": false
   },
   {
@@ -19117,7 +17551,7 @@ const PRODUCTS = [
       "Dimensões do produto": "77P x 25L x 59A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJTZTXZM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:44:43.000Z",
+    "last_checked_at": "2026-08-12T15:44:12.000Z",
     "spotlight": false
   },
   {
@@ -19126,7 +17560,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71zEbhxf3UL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 70.59,
+    "price_current": 68.31,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -19157,7 +17591,7 @@ const PRODUCTS = [
       "Característica Especial": "Fórmula com Goji Berry, Ácido Oleico e Pantenol"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BG2XY8LT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:45:05.000Z",
+    "last_checked_at": "2026-08-12T15:44:32.000Z",
     "spotlight": false
   },
   {
@@ -19196,7 +17630,7 @@ const PRODUCTS = [
       "Tipo de gume da ferramenta": "Espiral"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:45:16.000Z",
+    "last_checked_at": "2026-08-12T15:44:41.000Z",
     "spotlight": false
   },
   {
@@ -19205,7 +17639,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61NTiLfdhGL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 20.36,
+    "price_current": 19.7,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -19229,7 +17663,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYJ7DBQC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:45:27.000Z",
+    "last_checked_at": "2026-08-12T15:44:51.000Z",
     "spotlight": false
   },
   {
@@ -19291,7 +17725,7 @@ const PRODUCTS = [
       "Instruções de cuidados com o produto": "Apenas lavagem à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0842XB4BN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:45:36.000Z",
+    "last_checked_at": "2026-08-12T15:45:01.000Z",
     "spotlight": false
   },
   {
@@ -19331,7 +17765,7 @@ const PRODUCTS = [
       "Teor alcoólico": "40 %"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00E0EUP66?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:45:45.000Z",
+    "last_checked_at": "2026-08-12T15:45:11.000Z",
     "spotlight": false
   },
   {
@@ -19392,7 +17826,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 58L x 110A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CGR56CN4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:46:18.000Z",
+    "last_checked_at": "2026-08-12T15:45:43.000Z",
     "spotlight": false
   },
   {
@@ -19401,7 +17835,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81Rh6GOpcqL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 25.51,
+    "price_current": 29.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -19432,7 +17866,7 @@ const PRODUCTS = [
       "Forma do produto": "pops"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX36ZMLZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:46:30.000Z",
+    "last_checked_at": "2026-08-12T15:45:54.000Z",
     "spotlight": false
   },
   {
@@ -19475,7 +17909,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Sem petróleo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CW1ZJMSS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:46:39.000Z",
+    "last_checked_at": "2026-08-12T15:46:05.000Z",
     "spotlight": false
   },
   {
@@ -19484,7 +17918,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71ZV83R6LxL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 40.56,
+    "price_current": 46.59,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -19520,7 +17954,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controlador de jogos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754J31B7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:46:50.000Z",
+    "last_checked_at": "2026-08-12T15:46:14.000Z",
     "spotlight": false
   },
   {
@@ -19560,7 +17994,7 @@ const PRODUCTS = [
       "Volume líquido": "200 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08PPKQTFB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:47:23.000Z",
+    "last_checked_at": "2026-08-12T15:46:47.000Z",
     "spotlight": false
   },
   {
@@ -19600,7 +18034,7 @@ const PRODUCTS = [
       "Dimensões do produto": "62P x 60L x 85A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G2MX2HZL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:47:32.000Z",
+    "last_checked_at": "2026-08-12T15:46:57.000Z",
     "spotlight": false
   },
   {
@@ -19654,7 +18088,43 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 49L x 120A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DG5JXLHB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:48:03.000Z",
+    "last_checked_at": "2026-08-12T15:47:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DGTKZ2S1",
+    "title": "Bebedouro para Gatos, 3L Fonte Gato Inox Comedouros, Bebedouros e Acessorios para Gatos, Silenciosa, Bivolt",
+    "image": "https://m.media-amazon.com/images/I/61EJXP1YreL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 95.32,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1429,
+    "coupon_code": null,
+    "description": "Este bebedouro para gatos em aço inoxidável 304 oferece uma combinação de qualidade, capacidade e tecnologia avançada que garante um estilo de vida saudável para seus animais de estimação. Com uma capacidade de 3 litros, filtragem impecável e bomba ultra-silenciosa, este produto é ideal para residências com vários animais de estimação. Além disso, o fluxo dinâmico da água ajuda a atrair os gatos para beber, tornando a hidratação mais fácil e agradável. Com preço competitivo e garantia de 3 anos, este bebedouro é um excelente investimento para quem busca uma solução saudável e moderna para o abastecimento",
+    "informacoes_produto": {
+      "Nome da marca": "VDRBG",
+      "Quantidade de Unidades": "820 Gramas",
+      "Fabricante": "VDRGB-NP892",
+      "Componentes incluídos": "bebedouro para gatos inox,plugue USB",
+      "Model Number": "VDRGB-NP892",
+      "Descrição da garantia": "3",
+      "ASIN": "B0DGTKZ2S1",
+      "Fonte de energia": "Elétrico com fio",
+      "Utilização interior, exterior": "Área interna",
+      "Características especiais": "materiais de alta qualidade, sistema de filtragem avançado, bomba de água ultra-silenciosa",
+      "Cor": "inox",
+      "Material": "Aço inoxidável",
+      "Dimensões do item C x L x A": "22,5C x 10,5L x 8,8A centímetros",
+      "Capacidade": "3 litros",
+      "Marca": "VDRBG",
+      "Dimensões do produto": "22,5C x 10,5L x 8,8A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DGTKZ2S1?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:47:37.000Z",
     "spotlight": false
   },
   {
@@ -19691,7 +18161,7 @@ const PRODUCTS = [
       "Peso do produto": "13 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D78RX8Y1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:48:23.000Z",
+    "last_checked_at": "2026-08-12T15:47:47.000Z",
     "spotlight": false
   },
   {
@@ -19735,7 +18205,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "40.0 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09LD48ZZ4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:48:34.000Z",
+    "last_checked_at": "2026-08-12T15:47:58.000Z",
     "spotlight": false
   },
   {
@@ -19744,7 +18214,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51zr7O3WDxL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 55.51,
+    "price_current": 63.89,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -19782,7 +18252,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTTLYZN9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:48:43.000Z",
+    "last_checked_at": "2026-08-12T15:48:07.000Z",
     "spotlight": false
   },
   {
@@ -19830,7 +18300,52 @@ const PRODUCTS = [
       "Dimensões do produto": "13,4P x 13,4L x 37,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FY6RV5FM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:48:53.000Z",
+    "last_checked_at": "2026-08-12T15:48:18.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0875WN886",
+    "title": "Purina Friskies Friskies Megamix Castrados 10 1Kg",
+    "image": "https://m.media-amazon.com/images/I/81p1mFpnhaL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 162.68,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 2602,
+    "coupon_code": null,
+    "description": "Este produto Purina Friskies Friskies Megamix Castrados oferece uma ração completa e balanceada para gatos adultos castrados, composta por um delicioso misto de carnes como frango, atum, salmão, figado, peru, camarão e carne. Com avaliação 4,8/5 baseada em 2602 avaliações, é uma opção popular entre os donos de gatos. O produto vem em um saco de 10,1 kg, ideal para abastecimentos prolongados. Além disso, o alimento é livre de corantes artificiais, oferecendo aos seus felinos uma alimentação saudável e deliciosa.",
+    "informacoes_produto": {
+      "Nome da marca": "Purina Friskies",
+      "Sabor": "Frango, Atum, Salmão, Fígado, Peru, Camarão e Carne",
+      "Descrição da faixa etária": "Todas as idades",
+      "Formato do item": "Grãos Secos",
+      "Usos específicos do produto": "Gatos Castrados",
+      "Ingredientes especiais": "Livre de Corantes Artificiais",
+      "Tipo de recipiente": "Saco",
+      "Recomendação de raça": "Raças médias, Raças pequenas, Todos os tamanhos da raça",
+      "País de origem": "Brasil",
+      "Informações sobre alérgenos": "O glúten pode conter",
+      "Espécie de destino": "Gato",
+      "Componentes incluídos": "Não aplicável",
+      "Nome do Tipo de Produto": "Ração Seca para Gatos",
+      "Fabricante": "Nestlé Purina",
+      "Model Number": "12521771",
+      "Ocasião": "Uso Diário",
+      "Número da peça": "Não aplicável",
+      "ASIN": "B0875WN886",
+      "Contagem de unidades": "10.1 Quilograma",
+      "Quantidade de itens": "1",
+      "Peso do item": "10,1 Quilogramas",
+      "Marca": "Purina Friskies",
+      "Faixa etária (descrição)": "Todas as idades",
+      "Forma do produto": "Grãos Secos",
+      "Usos Específicos do Produto": "Gatos Castrados"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0875WN886?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:48:40.000Z",
     "spotlight": false
   },
   {
@@ -19839,7 +18354,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51JsyLyOvSL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 72.9,
+    "price_current": 74.1,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -19868,7 +18383,7 @@ const PRODUCTS = [
       "Volume líquido": "500 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085Z2MYFL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:49:56.000Z",
+    "last_checked_at": "2026-08-12T15:49:22.000Z",
     "spotlight": false
   },
   {
@@ -19915,7 +18430,7 @@ const PRODUCTS = [
       "Dimensões do produto": "0,7P x 2L x 1A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GPFL5FXP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:50:29.000Z",
+    "last_checked_at": "2026-08-12T15:49:55.000Z",
     "spotlight": false
   },
   {
@@ -19957,7 +18472,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0086LLUG8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:50:39.000Z",
+    "last_checked_at": "2026-08-12T15:50:04.000Z",
     "spotlight": false
   },
   {
@@ -20006,7 +18521,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00007ISWA?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:50:50.000Z",
+    "last_checked_at": "2026-08-12T15:50:15.000Z",
     "spotlight": false
   },
   {
@@ -20049,7 +18564,7 @@ const PRODUCTS = [
       "Informações sobre Alérgenos": "A soja pode conter, O leite pode conter, O ovo pode conter, Os amendoins podem conter"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D81TG399?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:51:23.000Z",
+    "last_checked_at": "2026-08-12T15:50:46.000Z",
     "spotlight": false
   },
   {
@@ -20087,7 +18602,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Todas as Idades"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMFVYFXC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:51:33.000Z",
+    "last_checked_at": "2026-08-12T15:50:58.000Z",
     "spotlight": false
   },
   {
@@ -20155,7 +18670,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Montagem no chão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CDB81N1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:51:52.000Z",
+    "last_checked_at": "2026-08-12T15:51:15.000Z",
     "spotlight": false
   },
   {
@@ -20198,7 +18713,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Volume"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G45KPX15?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:52:11.000Z",
+    "last_checked_at": "2026-08-12T15:51:35.000Z",
     "spotlight": false
   },
   {
@@ -20207,7 +18722,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61WndjO3KEL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 43.16,
+    "price_current": 53.95,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -20238,7 +18753,7 @@ const PRODUCTS = [
       "Material da Alça": "Liga de aço"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0771R2NF6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:53:35.000Z",
+    "last_checked_at": "2026-08-12T15:52:59.000Z",
     "spotlight": false
   },
   {
@@ -20276,7 +18791,7 @@ const PRODUCTS = [
       "Baterias inclusas?": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086GXWLKN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:53:45.000Z",
+    "last_checked_at": "2026-08-12T15:53:08.000Z",
     "spotlight": false
   },
   {
@@ -20320,7 +18835,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Não Aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B1VXW16F?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:53:55.000Z",
+    "last_checked_at": "2026-08-12T15:53:17.000Z",
     "spotlight": false
   },
   {
@@ -20366,7 +18881,7 @@ const PRODUCTS = [
       "Característica Especial": "1,5m, 240W, Trançado e Livre de Sujeira"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYFC5F3D?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:54:50.000Z",
+    "last_checked_at": "2026-08-12T15:54:08.000Z",
     "spotlight": false
   },
   {
@@ -20420,7 +18935,7 @@ const PRODUCTS = [
       "Tipo de fonte de luz": "LED"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKWV28CZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:55:01.000Z",
+    "last_checked_at": "2026-08-12T15:54:17.000Z",
     "spotlight": false
   },
   {
@@ -20429,7 +18944,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41sswQf4hnL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 34.62,
+    "price_current": 31.83,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -20467,7 +18982,7 @@ const PRODUCTS = [
       "Tipo de fonte de luz": "LED"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08K3GS882?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:55:20.000Z",
+    "last_checked_at": "2026-08-12T15:54:35.000Z",
     "spotlight": false
   },
   {
@@ -20514,7 +19029,7 @@ const PRODUCTS = [
       "Dimensões do produto": "6,5P x 6,5L x 39,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCPBKT3Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:55:31.000Z",
+    "last_checked_at": "2026-08-12T15:54:46.000Z",
     "spotlight": false
   },
   {
@@ -20561,7 +19076,7 @@ const PRODUCTS = [
       "Dimensões do produto": "5P x 35L x 5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B091V73RF5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:55:40.000Z",
+    "last_checked_at": "2026-08-12T15:54:56.000Z",
     "spotlight": false
   },
   {
@@ -20610,7 +19125,7 @@ const PRODUCTS = [
       "Marca": "VONDER"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078HFQHKX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:55:50.000Z",
+    "last_checked_at": "2026-08-12T15:55:06.000Z",
     "spotlight": false
   },
   {
@@ -20619,7 +19134,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81wsr7AcFAL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 169.34,
+    "price_current": 189,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -20672,7 +19187,44 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CG792C4C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:55:59.000Z",
+    "last_checked_at": "2026-08-12T15:55:15.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07RGQVHBJ",
+    "title": "Vonder, Pulverizador Costal Agrícola 20 Litros, Pc 020",
+    "image": "https://m.media-amazon.com/images/I/81nc+Ka15TL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 160.11,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 3647,
+    "coupon_code": null,
+    "description": "Este Pulverizador Costal Agrícola 20 Litros da marca VONDER, modelo PC 020, é um produto de destaque por sua reversão da alavanca, facilitando o trabalho para ambos os lados dominantes. Indicado para pulverizações em geral, vem acompanhado de um jogo de acessórios para montagem e manutenção. Com uma garantia de 12 meses do fabricante, oferece um bom custo-benefício.",
+    "informacoes_produto": {
+      "Nome da marca": "VONDER",
+      "Componentes incluídos": "1 Pulverizador, acompanha: 1 jogo de acessórios para montagem e manutenção",
+      "Nome do modelo": "Pulverizador Agric 20,0l Pc020 Vonder",
+      "Número do modelo": "6240020000",
+      "Descrição da garantia": "12 meses com o fabricante",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Pulverizador costal agrícola 20 litros PC 020 VONDER",
+      "Fabricante": "VONDER",
+      "Número da peça": "6240020000",
+      "ASIN": "B07RGQVHBJ",
+      "Peso do item": "4250 Gramas",
+      "Cor": "not_applicable",
+      "Fonte de energia": "Não aplicável",
+      "Marca": "VONDER",
+      "Peso do produto": "4250 Gramas",
+      "Fonte de alimentação": "Não aplicável",
+      "Componentes Incluídos": "1 Pulverizador, acompanha: 1 jogo de acessórios para montagem e manutenção"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07RGQVHBJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:55:24.000Z",
     "spotlight": false
   },
   {
@@ -20703,7 +19255,7 @@ const PRODUCTS = [
       "Número de Pacotes": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H11S5GBQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:56:30.000Z",
+    "last_checked_at": "2026-08-12T15:55:45.000Z",
     "spotlight": false
   },
   {
@@ -20712,7 +19264,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/511yh96bEfL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 208.89,
+    "price_current": 208.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -20745,7 +19297,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07V2PBWGK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:56:40.000Z",
+    "last_checked_at": "2026-08-12T15:55:54.000Z",
     "spotlight": false
   },
   {
@@ -20796,7 +19348,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09MZXLW51?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:56:51.000Z",
+    "last_checked_at": "2026-08-12T15:56:04.000Z",
     "spotlight": false
   },
   {
@@ -20832,7 +19384,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "12 unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3ZFGVK6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:57:09.000Z",
+    "last_checked_at": "2026-08-12T15:56:26.000Z",
     "spotlight": false
   },
   {
@@ -20871,7 +19423,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084B4LT3Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:57:19.000Z",
+    "last_checked_at": "2026-08-12T15:56:36.000Z",
     "spotlight": false
   },
   {
@@ -20915,7 +19467,7 @@ const PRODUCTS = [
       "Nível de torragem": "Torra escura"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07YVPKNZY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:57:29.000Z",
+    "last_checked_at": "2026-08-12T15:56:45.000Z",
     "spotlight": false
   },
   {
@@ -20958,7 +19510,7 @@ const PRODUCTS = [
       "Tipo de bico da mamadeira": "Simétrico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09VW57PZV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:57:40.000Z",
+    "last_checked_at": "2026-08-12T15:56:55.000Z",
     "spotlight": false
   },
   {
@@ -21001,7 +19553,52 @@ const PRODUCTS = [
       "Tensão": "220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GNB8JMS8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:57:51.000Z",
+    "last_checked_at": "2026-08-12T15:57:05.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DJFS7GXV",
+    "title": "Apple iPhone 16 (512 GB) – Preto",
+    "image": "https://m.media-amazon.com/images/I/41uUYcqfLxL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "celulares e smartphones",
+    "price_current": 5219.1,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 331,
+    "coupon_code": null,
+    "description": "O Apple iPhone 16 (512 GB) oferece uma experiência inigualável em fotografia, graças à sua câmera aprimorada e ao chip A18 superinteligente. Além disso, a nova geração de estilos fotográficos permite criar e personalizar suas imagens com mais flexibilidade do que nunca. Ademais, o iPhone 16 oferece maior duração da bateria, com até 22 horas de reprodução de vídeo.",
+    "informacoes_produto": {
+      "Sistema operacional": "iOS",
+      "Capacidade de armazenamento da memória": "512 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Com tela de toque",
+      "Nível de resistência à água": "Resistente à água",
+      "Potência da bateria": "13.83900",
+      "Tamanho da tela": "6,1 Polegadas",
+      "Tipo de tela": "OLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Nome da marca": "Apple",
+      "Ano do modelo": "2024",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "iPhone 16, Cabo carregador USB-C",
+      "Descrição da garantia": "Garantia Limitada de um (1) ano",
+      "Fabricante": "Apple",
+      "UPC": "195949825057",
+      "Certificação de teste externa": "ANATEL: 068402401993/ Modelo:A3287",
+      "ASIN": "B0DJFS7GXV",
+      "Marca": "Apple",
+      "Sistema Operacional": "iOS",
+      "Capacidade de Armazenamento de Memória": "512 GB",
+      "Tamanho da Tela": "6,1 Polegadas",
+      "Nome do Modelo": "iPhone 16"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T15:58:10.000Z",
     "spotlight": false
   },
   {
@@ -21010,7 +19607,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/412RWxKFt8L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 3599.1,
+    "price_current": 3599,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -21026,7 +19623,7 @@ const PRODUCTS = [
       "Nome do Modelo": "iPhone 16e"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T19:59:37.000Z",
+    "last_checked_at": "2026-08-12T15:58:52.000Z",
     "spotlight": false
   },
   {
@@ -21099,7 +19696,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:00:07.000Z",
+    "last_checked_at": "2026-08-12T15:59:22.000Z",
     "spotlight": false
   },
   {
@@ -21162,7 +19759,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9QPQYL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:00:18.000Z",
+    "last_checked_at": "2026-08-12T15:59:32.000Z",
     "spotlight": false
   },
   {
@@ -21228,7 +19825,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVSVS9WH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:01:19.000Z",
+    "last_checked_at": "2026-08-12T16:00:30.000Z",
     "spotlight": false
   },
   {
@@ -21296,7 +19893,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPJ52LSR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:01:40.000Z",
+    "last_checked_at": "2026-08-12T16:00:51.000Z",
     "spotlight": false
   },
   {
@@ -21357,72 +19954,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCYP5FB2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:01:50.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GN1TCVYX",
-    "title": "Smartphone Xiaomi Poco X8 Pro 512GB / 8GB Ram (Preto) | Dimensity 8500-Ultra, AMOLED 120Hz e Bateria de 6500mAh",
-    "image": "https://m.media-amazon.com/images/I/61k37vEr5aL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "celulares e smartphones",
-    "price_current": 2530,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 296,
-    "coupon_code": null,
-    "description": "O Xiaomi Poco X8 Pro oferece uma experiência visual superior graças à sua tela AMOLED de 120Hz, além de capturar fotos e vídeos em 4K de alta qualidade com sua câmera principal dupla de 50MP. Ademais, a tecnologia 5G avançada permite navegação rápida e downloads ágeis, enquanto a bateria de longa duração garante que o dispositivo acompanhe sua rotina diária sem interrupções. Por fim, a certificação máxima de proteção contra água e poeira garante durabilidade e segurança em diversas condições de uso.",
-    "informacoes_produto": {
-      "Sistema operacional": "android",
-      "Memória RAM instalada": "8 GB",
-      "Velocidade da CPU": "3,4 GHz",
-      "Capacidade de armazenamento da memória": "512 GB",
-      "Cor": "Preto",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Impressão digital (sob display, óptica)",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "À prova d'água",
-      "Características especiais": "Dimensity 8500-Ultra, AMOLED 120Hz, 6500mAh, 100W, NFC e IP68",
-      "Tamanho máximo suportado pela memória flash": "512 GB",
-      "Resolução do sensor fotográfico frontal": "20 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50.0, 8.0 MP",
-      "Número de câmaras traseiras": "2",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "6500 Milliamp Hours",
-      "Potência da bateria": "6500.0",
-      "Resolução de captura de vídeo": "4k",
-      "Taxa de quadros": "120 Hz",
-      "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
-      "Tamanho da tela": "6,66 Polegadas",
-      "Resolução": "2756x1268",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2756_x_1268 pixels",
-      "Densidade do pixel de exibição": "460 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Desbloqueado",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G, Bluetooth, GPS, USB, Wi-fi",
-      "Tecnologia de rede sem fios": "GSM, LTE, UMTS",
-      "Nome da marca": "XIAOMI",
-      "Ano do modelo": "2026",
-      "Componentes incluídos": "Adaptador de alimentação",
-      "Descrição da garantia": "90 dias em caso do defeito da fabrica",
-      "Fabricante": "Xiaomi",
-      "Usos específicos do produto": "uso diário, fotografia móvel, conectividade",
-      "Certificação de teste externa": "Anatel: 087792509185 / Modelo: 2511FPC34G",
-      "ASIN": "B0GN1TCVYX",
-      "Marca": "XIAOMI",
-      "Sistema Operacional": "android",
-      "Tamanho instalado da memória RAM": "8 GB",
-      "Velocidade do CPU": "3,4 GHz",
-      "Capacidade de Armazenamento de Memória": "512 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GN1TCVYX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:02:22.000Z",
+    "last_checked_at": "2026-08-12T16:01:03.000Z",
     "spotlight": false
   },
   {
@@ -21497,7 +20029,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPPQ5T37?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:02:43.000Z",
+    "last_checked_at": "2026-08-12T16:01:52.000Z",
     "spotlight": false
   },
   {
@@ -21552,7 +20084,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F51KRTX1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:02:53.000Z",
+    "last_checked_at": "2026-08-12T16:02:00.000Z",
     "spotlight": false
   },
   {
@@ -21610,7 +20142,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,8 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F38C3JXW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:03:23.000Z",
+    "last_checked_at": "2026-08-12T16:02:32.000Z",
     "spotlight": false
   },
   {
@@ -21660,7 +20192,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084R94R4S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:03:33.000Z",
+    "last_checked_at": "2026-08-12T16:02:43.000Z",
     "spotlight": false
   },
   {
@@ -21669,7 +20201,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61nbiJ9iyTL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 13.85,
+    "price_current": 14,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -21699,59 +20231,7 @@ const PRODUCTS = [
       "Forma": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08NWQHGR4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:03:43.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0D152HV7Y",
-    "title": "SUGGAR LAVADORA DE ROUPAS LAVAMAX ECO 10KG 220V BRANCA LE1022BR",
-    "image": "https://m.media-amazon.com/images/I/51Xzw3t1fvL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 493.5,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 744,
-    "coupon_code": null,
-    "description": "Este lavador de roupa SUGGAR LAVAMAX ECO 10KG oferece uma combinação de eficiência energética e baixo consumo, com um consumo de apenas 0,08kWh por ciclo. Além disso, possui características especiais como dispensador para sabão, filtro cata fiapos e capacidade de processar até 10 quilogramas de roupas. Com opções de ciclos personalizados, incluindo normal, heavy duty e delicates, este modelo é uma boa escolha para aqueles que buscam um lavador de alta qualidade com baixo custo operacional.",
-    "informacoes_produto": {
-      "Capacidade": "10 quilogramas",
-      "Características especiais": "Baixo consumo de energia 0,08kWh ciclo, Dispenser para sabão, Eficiencia 0.73, Filtro cata fiapos, potencia 450W",
-      "Local do acesso": "Carga superior",
-      "Tipo de acabamento": "Branco",
-      "Opções de ciclo": "Normal, Heavy Duty, Delicates",
-      "Tipo de controles": "Alavancas",
-      "Modo de operação": "Totalmente automático",
-      "Voltagem": "220 Volts",
-      "Número de ciclos padrão": "3",
-      "Entrada de interface humana": "Botões",
-      "Tipo de instalação": "Independente",
-      "Opções de dosador da máquina de lavar": "Dispenser para sabão",
-      "Tipo de tela": "LED",
-      "Dimensões do item P x L x A": "54P x 49,8L x 96,1A centímetros",
-      "Peso do item": "10,19 Quilogramas",
-      "Profundidade do item": "54 centimeters",
-      "Cor": "Branco",
-      "Nome da marca": "Suggar",
-      "Usos recomendados do produto": "Residencial",
-      "Nome do modelo": "Lavamax Eco",
-      "Componentes incluídos": "manual de instruções",
-      "Fabricante": "Suggar",
-      "Nome do Tipo de Produto": "Lavadora roupas",
-      "Número do modelo": "LE1022BR",
-      "Número da peça": "LE1022BR",
-      "Descrição da garantia": "1 ano de garantia",
-      "ASIN": "B0D152HV7Y",
-      "Material": "Plástico",
-      "Material do tambor do aparelho de lavagem de roupa": "Plástico",
-      "Dimensões do produto": "54P x 49,8L x 96,1A centímetros",
-      "Marca": "Suggar",
-      "Local de acesso": "Carga superior"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0D152HV7Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:03:53.000Z",
+    "last_checked_at": "2026-08-12T16:02:54.000Z",
     "spotlight": false
   },
   {
@@ -21809,7 +20289,7 @@ const PRODUCTS = [
       "Número de faixas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07G2G7CYW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:04:34.000Z",
+    "last_checked_at": "2026-08-12T16:03:56.000Z",
     "spotlight": false
   },
   {
@@ -21874,7 +20354,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076YFR31L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:05:12.000Z",
+    "last_checked_at": "2026-08-12T16:04:41.000Z",
     "spotlight": false
   },
   {
@@ -21918,7 +20398,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B008X6TB08?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:06:03.000Z",
+    "last_checked_at": "2026-08-12T16:05:36.000Z",
     "spotlight": false
   },
   {
@@ -21970,7 +20450,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084RCXNJX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:06:45.000Z",
+    "last_checked_at": "2026-08-12T16:06:19.000Z",
     "spotlight": false
   },
   {
@@ -21979,7 +20459,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51vgS0dO9SL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 322.11,
+    "price_current": 331.08,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -22013,7 +20493,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C35PHXK2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:06:55.000Z",
+    "last_checked_at": "2026-08-12T16:06:30.000Z",
     "spotlight": false
   },
   {
@@ -22032,7 +20512,7 @@ const PRODUCTS = [
     "description": "Red Dead Redemption para PlayStation 5 oferece um mundo expansivo, abrangendo três territórios distintos no Sudoeste americano e México. A variedade de animais, incluindo gado, animais de estimação e predadores mortíferos, enriquece a exploração. Jogar também significa ter acesso a uma ampla variedade de armas históricas autênticas, desde mosquetes embalados à mão até primeiras metralhadoras. As escolhas do jogador afetam seus níveis de honra e fama, criando uma experiência imersiva e interativa. Avaliação: 4,5/5.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2KBN3K1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:07:07.000Z",
+    "last_checked_at": "2026-08-12T16:06:40.000Z",
     "spotlight": false
   },
   {
@@ -22067,7 +20547,7 @@ const PRODUCTS = [
       "Característica Especial": "Bloqueio do suor, Proteção durante todo o dia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G1PVKXCW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:07:34.000Z",
+    "last_checked_at": "2026-08-12T16:07:13.000Z",
     "spotlight": false
   },
   {
@@ -22101,7 +20581,7 @@ const PRODUCTS = [
       "Fator de Forma": "Independente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTR1FWDK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:07:45.000Z",
+    "last_checked_at": "2026-08-12T16:07:22.000Z",
     "spotlight": false
   },
   {
@@ -22148,7 +20628,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09LHVCPPY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:08:04.000Z",
+    "last_checked_at": "2026-08-12T16:07:43.000Z",
     "spotlight": false
   },
   {
@@ -22200,7 +20680,103 @@ const PRODUCTS = [
       "Forma do produto": "Rolo com folhas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07D5LZZCC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:08:24.000Z",
+    "last_checked_at": "2026-08-12T16:08:05.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GCZFXZJL",
+    "title": "Armazém Brasil, Monitor Portatil 15,6'', FHD 1080P Monitor Portátil Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para Notebook com VESA e Funda Inteligente magnético, Plug and Play",
+    "image": "https://m.media-amazon.com/images/I/81hxGCobgzL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 379.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 61,
+    "coupon_code": null,
+    "description": "Este Monitor Portátil Armazém Brasil, de 15,6 polegadas FHD 1080P, oferece uma qualidade visual excepcional com sua tela IPS avançada e tecnologia HDR. Com dupla conexão USB-C e HDMI, é conveniente para conectar vários dispositivos, como notebooks, smartphones, PCs e consolas de jogos. O monitor portátil também apresenta uma tela ultra-fina de 0,3 polegadas, facilitando sua transportabilidade, e vem com alto-falantes embutidos e um rolamento amigável para configuração. Com uma cobertura inteligente e serviço confiável, é ideal para uso em viagens de negócios ou entretenimento doméstico. A qualidade/pre",
+    "informacoes_produto": {
+      "Proporção de aspecto": "16:9",
+      "Descrição da superfície da tela": "Brilhante",
+      "Taxa de atualização": "60 Hz",
+      "Tipo de tela": "IPS",
+      "Tecnologia da tela": "IPS",
+      "Ângulo de visão": "178 Graus",
+      "Tem tela colorida": "Sim",
+      "Tecnologia de Aprimoramento da Qualidade da Imagem": "IPS, HDR",
+      "Tamanho da tela": "15.6",
+      "Dimensões do item P x L x A": "3P x 34L x 20A centímetros",
+      "Peso do item": "1,8 Quilogramas",
+      "Resolução": "FHD 1080p Ultra Wide +",
+      "Resolução máxima da tela": "1920 x 1080 Pixels",
+      "Resolução nativa": "1920x1080",
+      "Total de portas HDMI": "1",
+      "Total de portas USB": "2",
+      "Total de portas de saída de vídeo": "3",
+      "Características especiais": "Portátil",
+      "Cor": "preto de carbono",
+      "Nome da marca": "Qutoso",
+      "Número do modelo": "QUBR-P156-10K9-060",
+      "Descrição da garantia": "1 anos",
+      "Fabricante": "Qutoso",
+      "Contagem de unidades": "1 Unidade",
+      "ASIN": "B0GCZFXZJL",
+      "Tempo de resposta": "1 Milliseconds",
+      "Tecnologia de conectividade": "Mini-HDMI, USB Tipo-C",
+      "Interface de hardware": "Mini HDMI, USB-C",
+      "Marca": "Qutoso",
+      "Tamanho da Tela": "15.6",
+      "Proporção de tela": "16:9",
+      "Descrição da Superfície da Tela": "Brilhante"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GCZFXZJL?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:08:15.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BSVM7QS8",
+    "title": "Pilha Alcalina AA com 16 unidades Elgin Comum",
+    "image": "https://m.media-amazon.com/images/I/71RnTuLpZeL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 21.7,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 21648,
+    "coupon_code": null,
+    "description": "Este pacote de 16 pilhas alcalinas AA da marca Elgin oferece uma combinação interessante de características desejáveis. Além de ser composto sem metais pesados prejudiciais à saúde, as baterias apresentam alta durabilidade na carga e são aprovadas por laboratórios credenciados pelo INMETRO. Ideal para aparelhos que requerem descargas de energia rápidas e fortes, essas pilhas possuem validade de 5 anos. Com uma avaliação média de 4,6/5 com mais de 21 mil avaliações, é um produto confiável para satisfação do cliente.",
+    "informacoes_produto": {
+      "Tipo de bateria": "16 AA (necessita de baterias)",
+      "Nome da marca": "Elgin",
+      "Número do modelo": "82351",
+      "Nome do modelo": "AA Comum",
+      "Fabricante": "Elgin",
+      "País de origem": "China",
+      "Certificação de teste externa": "Não aplicável",
+      "Nome do Tipo de Produto": "Pilha Alcalina AA com 16 unidades Elgin Comum",
+      "Descrição da garantia": "180 dias",
+      "ASIN": "B0BSVM7QS8",
+      "Voltagem": "1,5 Volts",
+      "Reutilização": "Não recarregável",
+      "Amperagem": "16 Amperes",
+      "Modelos de telefone compatíveis": "Não aplicável",
+      "Contagem de unidades": "16.0 Blister",
+      "Peso da bateria": "20 Gramas",
+      "Dimensões do artigo": "20 x 60 x 220 milímetros",
+      "Usos recomendados do produto": "Controle remoto da TV",
+      "Composição da célula da pilha": "Alcalina",
+      "Número de baterias": "16 AA (necessita de baterias)",
+      "Marca": "Elgin",
+      "Composição das células da bateria": "Alcalina",
+      "Adequação do controle por rádio": "Controle remoto da TV",
+      "Quantidade de Unidades": "16.0 Blister"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BSVM7QS8?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:08:25.000Z",
     "spotlight": false
   },
   {
@@ -22250,53 +20826,7 @@ const PRODUCTS = [
       "Nome do Modelo": "32S5K"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTGL2XBC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:09:07.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DWXSTDMX",
-    "title": "Buddemeyer Jogo de Toalhas Melissa Extra Soft Gigante Branco 5 pçs",
-    "image": "https://m.media-amazon.com/images/I/51v4mCY7klL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 299.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 454,
-    "coupon_code": null,
-    "description": "O Jogo de Toalhas Melissa da Buddemeyer é um luxo para o banheiro, oferecendo uma combinação de design canelado sofisticado e toque ultra delicado. A tecnologia Extra Soft garante toalhas extremamente macias, aconchegantes e volumosas, com fios inovadores de baixo impacto ambiental que oferecem alta performance em absorção e secagem. Compre um jogo de cinco peças, incluindo duas toalhas gigantes, dois rosto e uma de piso, este produto é uma opção ideal para momentos relaxantes com máxima tranquilidade.",
-    "informacoes_produto": {
-      "Nome da marca": "Buddemeyer",
-      "Quantidade de itens": "5",
-      "País de origem": "Brasil",
-      "Nome do Conjunto": "Jogo de Toalhas Melissa",
-      "Nome do modelo": "Toalhas Melissa",
-      "Fabricante": "Buddemeyer",
-      "Descrição da faixa etária": "Adulto",
-      "Nome do Tipo de Produto": "Jogo de toalhas",
-      "Número do modelo": "7909301744718",
-      "Número da peça": "7909301744718",
-      "ASIN": "B0DWXSTDMX",
-      "Cor": "Branco",
-      "Estilo": "Sofisticado e decorativo",
-      "Estampa": "Liso",
-      "Formato do item": "Retangular",
-      "Material": "Algodão",
-      "Peso do tecido": "420 Gramas por Metro Quadrado",
-      "Instruções de cuidados com o produto": "Lavar em máquina com água morna, usar detergente suave, não alvejar, secar em máquina ou ao ar livre.",
-      "Tipo de material": "100% Algodão",
-      "Dimensões do item C x L": "150C x 90L centímetros",
-      "Tamanho": "Gigante",
-      "Contagem de unidades": "1.0 unidade",
-      "Tipo de Forma da Toalha": "Toalha de banho",
-      "Marca": "Buddemeyer",
-      "Tipo de formato de toalha": "Toalha de banho",
-      "Dimensões do produto": "150C x 90L centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DWXSTDMX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:09:17.000Z",
+    "last_checked_at": "2026-08-12T16:08:45.000Z",
     "spotlight": false
   },
   {
@@ -22305,7 +20835,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51OmHUb71RL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 1687.2,
+    "price_current": 1598.4,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -22346,7 +20876,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7,9P x 7,9L x 7,9A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F3QCWL1Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:09:27.000Z",
+    "last_checked_at": "2026-08-12T16:09:05.000Z",
     "spotlight": false
   },
   {
@@ -22396,7 +20926,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:09:37.000Z",
+    "last_checked_at": "2026-08-12T16:09:16.000Z",
     "spotlight": false
   },
   {
@@ -22459,7 +20989,55 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C3HCD34R?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:09:48.000Z",
+    "last_checked_at": "2026-08-12T16:09:28.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CN1LTF2M",
+    "title": "Cafeteira Cadence Single Up, 127V, CAF230",
+    "image": "https://m.media-amazon.com/images/I/51a2ttPzl8L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 91.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 431,
+    "coupon_code": null,
+    "description": "O Cadence Single Up é uma cafeteira de alta qualidade, oferecendo diversas vantagens para quem busca um café exquisivo em casa. Com 2 xícaras exclusivas, filtro permanente lavável e reservatório de 300 ml que permite preparar 2 cafés ao mesmo tempo, a cafeteira é prática e fácil de usar. Além disso, o aquecimento rápido e design compacto fazem com que seja uma excelente escolha para quem busca uma cafeteira de alta performance em um preço acessível.",
+    "informacoes_produto": {
+      "Características especiais": "Filtro permanente",
+      "Tipo de cafeteira": "Cafeteira coadora",
+      "Usos específicos do produto": "Café",
+      "Modo de operação": "Manual",
+      "Potência": "600 watts",
+      "Voltagem": "110 Volts",
+      "Tipo de Entrada de Café": "Manual",
+      "Fonte de energia": "Energia elétrica",
+      "Tipo de filtro": "Reutilizável",
+      "Dimensões do item P x L x A": "19,8P x 15L x 22,5A centímetros",
+      "Peso do item": "1 Quilogramas",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "1 Count",
+      "Material": "Plástico",
+      "Nome da marca": "Cadence",
+      "Componentes incluídos": "Filtro",
+      "Nome do modelo": "Cafeteira",
+      "Número do modelo": "CAF230-127",
+      "Fabricante": "Cadence",
+      "Nome do Tipo de Produto": "Cafeteira",
+      "Número da peça": "CAF230-127",
+      "ASIN": "B0CN1LTF2M",
+      "Cor": "Preto e Vermelho",
+      "Estilo": "Moderno",
+      "Marca": "Cadence",
+      "Dimensões do produto": "19,8P x 15L x 22,5A centímetros",
+      "Característica Especial": "Filtro permanente",
+      "Tipo de Cafeteira": "Cafeteira coadora"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CN1LTF2M?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:09:38.000Z",
     "spotlight": false
   },
   {
@@ -22487,7 +21065,7 @@ const PRODUCTS = [
       "Peso do produto": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GKD64FST?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:10:30.000Z",
+    "last_checked_at": "2026-08-12T16:09:58.000Z",
     "spotlight": false
   },
   {
@@ -22496,7 +21074,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71GIYmjfiyL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 219,
+    "price_current": 195.34,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -22522,114 +21100,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Manual de instruções"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHZHB64V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:10:41.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H1R6FM9L",
-    "title": "Smart TV 32 Polegadas, Whale 10.0, LED HD Ready, Wi-Fi e Bluetooth, Dolby Atmos, Netflix e YouTube, 3x HDMI",
-    "image": "https://m.media-amazon.com/images/I/71PtJPMgx4L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 740.05,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 3.3,
-    "qtd_avaliacoes": 25,
-    "coupon_code": null,
-    "description": "Este Smart TV de 32 polegadas, marca Whale, oferece uma experiência inigualável em entretenimento doméstico. Com Android 10.0 e acesso às plataformas Netflix, YouTube, Prime Video e outras, você pode ter seu conteúdo favorito sempre a mão. A imagem é nítida e vibrante graças à tela LED VA com resolução HD (1366x768) e contraste 1000:1. O som imersivo com Dolby Atmos, oferece uma experiência sonora envolvente, perfeita para filmes e jogos. Além disso, a conectividade completa, com Wi-Fi, Bluetooth, HDMI, USB e outros portas, permite que você conecte todos seus dispositivos",
-    "informacoes_produto": {
-      "Tecnologia da tela": "LED",
-      "Resolução": "768p",
-      "Taxa de atualização": "600 Hz",
-      "Proporção de aspecto": "16:9",
-      "Índice de contraste da imagem": "1000.0",
-      "Brilho máximo do visor": "200 Candela por metro quadrado",
-      "Descrição da superfície da tela": "Fosco",
-      "Formato HDR suportado": "Dolby Atmos",
-      "Tecnologia de aprimoramento de movimento": "HDR",
-      "Tecnologia de Aprimoramento da Qualidade da Imagem": "Dled",
-      "Exibir opções de idioma": "Português",
-      "Tempo de resposta": "8 Milliseconds",
-      "Configuração da Luz de Fundo da Tela": "Dled",
-      "Tecnologia da Luz de Fundo da Tela": "LED",
-      "Taxa de Atualização da Tela em Hertz": "60",
-      "Tamanho da tela": "32 Polegadas",
-      "Dimensões do item P x L x A": "7,5P x 73,5L x 47A centímetros",
-      "Peso do Produto sem Suporte": "4,5 Quilogramas",
-      "Largura da base": "73,5 Centímetros",
-      "Profundidade da Base": "10 Centímetros",
-      "Tamanho do Visor": "32 Polegadas",
-      "Tamanho": "32 Polegadas",
-      "Modo de saída de áudio": "Estéreo",
-      "Codificação de áudio": "Dolby Atmos",
-      "Descrição do alto-falante": "Alto-falantes Estéreo Integrados",
-      "Potência máxima de saída do alto-falante": "20 watts",
-      "Configuração do canal som surround": "2.0",
-      "Total de Saídas Analógicas de Áudio": "1",
-      "Formato Integrado de Som Surround": "Dolby Atmos",
-      "Voltagem": "110 Volts, 220 Volts",
-      "Potência": "20 watts",
-      "Consumo de energia": "45 Watt",
-      "Voltagem da linha": "100-240 VAC 50-60 Hz",
-      "Tipo de bateria": "2 AAA (necessita de baterias)",
-      "Consumo de energia anual": "50 Kilowatt Hours",
-      "Tipo de montagem": "Montagem Em Parede E Suporte De Mesa",
-      "Padrão de montagem VESA": "100 x 100 mm",
-      "Cor": "Preto",
-      "Tipo de garantia": "Garantia Do Fabricante",
-      "Dispositivos compatíveis": "Smartphone",
-      "Tecnologia de sintonização": "Rf",
-      "Codificação de vídeo": "H.264, H.265, Mpeg-4, Mpeg-2",
-      "Nome da marca": "Genérico",
-      "Componentes incluídos": "Base De Suporte",
-      "Usos recomendados do produto": "Entretenimento Doméstico",
-      "Ano do modelo": "2026",
-      "Número do modelo": "1380",
-      "Descrição da garantia": "1",
-      "Série do Modelo": "Whale Tv",
-      "Tamanho da Pilha Necessária para o Controle Remoto": "AAA",
-      "Quantidade de Pilhas Necessária para o Controle Remoto": "2",
-      "Usos específicos do produto": "Streaming De Vídeo",
-      "Contagem de unidades": "1.0 Unidade",
-      "Fabricante": "Generico",
-      "País de origem": "China",
-      "Certificação de teste externa": "04854-25-14970",
-      "ASIN": "B0H1R6FM9L",
-      "Tecnologia de conectividade": "Wi-fi",
-      "Serviços da Internet suportados": "Netflix",
-      "Entrada de áudio": "Coaxial",
-      "Formato do sinal": "Ntsc, Pal",
-      "Total de portas HDMI": "3",
-      "Interface de hardware": "HDMI",
-      "Tecnologia de comunicação sem fio": "Wi-fi",
-      "Tecnologia de espelhamento de ecrã": "Miracast, Projeção Sem Fio",
-      "Versão do Bluetooth": "5.0",
-      "Tipo de conector": "HDMI",
-      "Total de portas de saída de áudio": "1",
-      "Total de portas de entrada do componente": "1",
-      "Portas compostas totais": "1",
-      "Total de portas USB 2.0": "2",
-      "Total de portas USB": "2",
-      "Direção de Compartilhamento de Conteúdo": "Do Celular para a TV",
-      "Características especiais": "Alto-falante integrado, Assistência por voz múltipla, Design sem moldura, Dolby Atmos, Wi-fi",
-      "Sistema operacional": "Whale 10.0",
-      "Capacidade de armazenamento da memória": "8 GB",
-      "Método de controle": "Remoto, Voz",
-      "Tecnologia de controle remoto": "Controle Remoto Por Voz",
-      "Tamanho da Tela": "32 Polegadas",
-      "Marca": "Genérico",
-      "Tecnologia do visor": "LED",
-      "Taxa de Atualização": "600 Hz",
-      "Característica Especial": "Alto-falante integrado, Assistência por voz múltipla, Design sem moldura, Dolby Atmos, Wi-fi",
-      "Componentes Incluídos": "Base De Suporte",
-      "Tecnologia de Conectividade": "Wi-fi",
-      "Proporção de tela": "16:9",
-      "Dimensões do produto": "7,5P x 73,5L x 47A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1R6FM9L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:11:00.000Z",
+    "last_checked_at": "2026-08-12T16:10:08.000Z",
     "spotlight": false
   },
   {
@@ -22671,7 +21142,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Microsoft 365 Family, McAfee Premium Family"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4X5C76L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:11:10.000Z",
+    "last_checked_at": "2026-08-12T16:10:50.000Z",
     "spotlight": false
   },
   {
@@ -22720,7 +21191,7 @@ const PRODUCTS = [
       "Característica Especial": "Respirável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D51L9SZD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:11:51.000Z",
+    "last_checked_at": "2026-08-12T16:11:33.000Z",
     "spotlight": false
   },
   {
@@ -22792,7 +21263,69 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZV4QFP8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:12:13.000Z",
+    "last_checked_at": "2026-08-12T16:11:53.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CG9WVV4K",
+    "title": "WAP Aspirador de Pó e Água Barril GTW COMPACT, Compacto, 5,5 Litros, com Filtro Lavável, 150mbar 1400W 220V",
+    "image": "https://m.media-amazon.com/images/I/81wsr7AcFAL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 182.77,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.0,
+    "qtd_avaliacoes": 152,
+    "coupon_code": null,
+    "description": "O WAP Aspirador de Pó e Água Barril GTW COMPACT é um equipamento versátil, compacto e de alta capacidade (5,5 litros), ideal para limpeza em diversos ambientes internos e externos. Com suas características especiais, como filtro lavável e limpeza impecável, ele pode ser utilizado em superfícies duros e estofados, além de ser um ótimo auxiliar na limpeza de lugares inacessíveis. Além disso, o produto é equipado com filtro de pano descartável para retenção de pó e garantir a durabilidade do produto. Com suas capacidades de 2,5 litros para líquidos e 2,3 litros para sólidos, ele é um excelente",
+    "informacoes_produto": {
+      "Características especiais": "Compacto, Filtro lavável, Limpeza impecável",
+      "Tipo de filtro": "Filtro de Pano e Filtro Espuma",
+      "Superfície Recomendada": "Piso duro e estofados",
+      "Capacidade": "5,5 litros",
+      "Sucção máxima": "2,5 Metros",
+      "Usos recomendados do produto": "Leia o manual",
+      "Cor": "Cinza, Preto e Verde",
+      "Nível de ruído": "84 Decibéis",
+      "Estilo": "Moderna",
+      "Número de velocidades": "1",
+      "Portátil": "Sim",
+      "Utilização interior, exterior": "Área externa, Área interna",
+      "Tipo de acabamento": "Pintado",
+      "Fonte de energia": "Elétrico com fio",
+      "O produto é sem fio": "Não",
+      "Peso do item": "1,6 Quilogramas",
+      "Dimensões do item C x L x A": "22,5C x 19,5L x 28,5A centímetros",
+      "Unidade de comprimento da mangueira": "1,3 Metros",
+      "Fator de forma": "Barril",
+      "Tecnologia de conectividade": "Cabo elétrico",
+      "Nome da marca": "WAP",
+      "Componentes incluídos": "1 Filtro de Pano, 1 Filtro Espuma, 1 Bico Múltiplo, 1 Bico Canto/Escova",
+      "Nome do modelo": "GTW COMPACT",
+      "Número do modelo": "FW009440",
+      "País de origem": "China",
+      "Fabricante": "WAP",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "1 Unidade",
+      "Ano de fabricação": "2024",
+      "Nome do Tipo de Produto": "Aspirador de Pó e Água Barril GTW COMPACT",
+      "ASIN": "B0CG9WVV4K",
+      "Voltagem": "220 Volts",
+      "Potência": "1400 watts",
+      "Amperagem": "10 Amperes",
+      "Tempo de execução": "1 hora",
+      "Tipo de controle": "Botão de apertar",
+      "Método de controle": "Toque",
+      "Marca": "WAP",
+      "Característica Especial": "Compacto, Filtro lavável, Limpeza impecável",
+      "Tipo de Filtro": "Filtro de Pano e Filtro Espuma",
+      "Recomendação de superfície": "Piso duro e estofados",
+      "Fonte de alimentação": "Elétrico com fio"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CG9WVV4K?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:12:02.000Z",
     "spotlight": false
   },
   {
@@ -22829,7 +21362,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Moer"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVLXJV7L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:12:36.000Z",
+    "last_checked_at": "2026-08-12T16:12:11.000Z",
     "spotlight": false
   },
   {
@@ -22838,7 +21371,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/518gnMhkgkL._AC_SL1001_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 148.5,
+    "price_current": 148.49,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -22869,44 +21402,144 @@ const PRODUCTS = [
       "Descrição do Corpo": "Encorpado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XS8WKYL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:12:47.000Z",
+    "last_checked_at": "2026-08-12T16:12:20.000Z",
     "spotlight": false
   },
   {
-    "asin": "B0BPYR83CF",
-    "title": "Passadeira de Roupa a Vapor Vertical Elgin 110V - Steamer, Vaporizador e Higienizador",
-    "image": "https://m.media-amazon.com/images/I/51eE2NjE9ZL._AC_SL1500_.jpg",
+    "asin": "B0FTGK5XK2",
+    "title": "Smart TV TCL 43 Polegadas Full HD QLED S5K WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 43S5K",
+    "image": "https://m.media-amazon.com/images/I/81yyXps2lKL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 324.62,
+    "price_current": 1563.09,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 1518,
+    "avaliacao": 4.2,
+    "qtd_avaliacoes": 123,
     "coupon_code": null,
-    "description": "Este Passadeira de Roupa a Vapor Vertical Elgin oferece uma reservatório com alta capacidade, longa autonomia e é portátil e versátil, podendo ser usada em qualquer lugar da casa. Inclui suporte tipo cabide fixo para pendurar as roupas e passa na vertical, higieniza e elimina mofo e odores de forma rápida e descomplicada. Além disso, vem com garantia de 1 ano. Com preço acessível e benefícios como remoção de rugas e eliminação de odores, este vaporizador é uma boa opção para quem busca manter suas roupas limpas e frescas.",
+    "description": "Este Smart TV TCL de 43 polegadas oferece uma experiência completa de entretenimento, integrando Google TV, Wi-Fi Dual Band, Bluetooth, HDR10 e Dolby Audio, além do Google Cast. A tela QLED apresenta alto contraste e baixo reflexo, com tecnologia HVA. Duas entradas HDMI garantem conectividade versátil, enquanto a energia é consumida responsavelmente, com classificação A energética. Com resolução Full HD e suporte ao formato HDR10, este Smart TV oferece um custo-benefício excelente para quem busca uma experiência de visualização de alta qualidade.",
     "informacoes_produto": {
-      "Nome da marca": "Elgin",
-      "Número do modelo": "42STM1001000",
-      "Benefícios do produto": "Remover rugas, Elimine odor",
-      "Fabricante": "ELGIN",
-      "País de origem": "China",
-      "Componentes incluídos": "01 Corpo principal do Vaporizador 01 Tubo telescopico de aluminio 01 Mangueira com ponteira 01 Reservatorio de água 01 Kit para cabide 01 Luva termica (brinde) 01 Manual do Usuário",
-      "Nome do Tipo de Produto": "Vaporizador de Roupa",
-      "Número da peça": "42STM1001000",
-      "ASIN": "B0BPYR83CF",
-      "Voltagem": "110 Volts",
-      "Capacidade": "1,6 litros",
-      "Cor": "Branco",
-      "Estilo": "upright",
-      "Dimensões do item C x L x A": "22C x 14,9L x 30A centímetros",
-      "Marca": "Elgin",
-      "Dimensões do produto": "22C x 14,9L x 30A centímetros",
-      "Tensão": "110 Volts"
+      "Tecnologia da tela": "Qled",
+      "Resolução": "FHD",
+      "Taxa de atualização": "60 Hz",
+      "Proporção de aspecto": "16:9",
+      "Índice de contraste da imagem": "Alto",
+      "Formato HDR suportado": "HDR10",
+      "Tecnologia de aprimoramento de movimento": "Sim (Possui tecnologia de melhoria de movimento)",
+      "Tecnologia de Aprimoramento da Qualidade da Imagem": "QLED",
+      "Exibir opções de idioma": "Português, Inglês, Espanhol",
+      "Configuração da Luz de Fundo da Tela": "Dimerização",
+      "Tecnologia da Luz de Fundo da Tela": "LED",
+      "Taxa de Atualização da Tela em Hertz": "60",
+      "Tamanho da tela": "43 Polegadas",
+      "Dimensões do item P x L x A": "1,85P x 9,55L x 6,07A Metros",
+      "Peso do item": "5,2 Quilogramas",
+      "Tamanho do Visor": "43 Polegadas",
+      "Descrição do alto-falante": "Dolby Audio",
+      "Configuração do canal som surround": "2.1",
+      "Formato Integrado de Som Surround": "Dolby Audio",
+      "Voltagem": "110,22 Volts",
+      "Eficiência": "A",
+      "Padrão de montagem VESA": "200 x 200 mm",
+      "Nome da marca": "TCL",
+      "Componentes incluídos": "Controle remoto",
+      "Nome do modelo": "TCL QLED SMART TV 43” 43S5K FHD GOOGLE TV",
+      "Ano do modelo": "2025",
+      "Número do modelo": "43S5K",
+      "Descrição da garantia": "1 Ano",
+      "Série do Modelo": "QLED",
+      "Fabricante": "TCL SEMP",
+      "Certificação de teste externa": "ANATEL:011042510435",
+      "Número da peça": "43S5K",
+      "ASIN": "B0FTGK5XK2",
+      "Tecnologia de conectividade": "Bluetooth",
+      "Serviços da Internet suportados": "Google Cast, Google TV",
+      "Formato do sinal": "Digital",
+      "Total de portas HDMI": "2",
+      "Interface de hardware": "Bluetooth",
+      "Tecnologia de comunicação sem fio": "Bluetooth, Wi-fi",
+      "Total de portas USB 3.0": "1",
+      "Características especiais": "Dolby Audio, HDR, QLED, Tela HVA - Alto contraste e baixo reflexo, Wi-Fi Dual Band",
+      "Cor": "Preta",
+      "Tipo de garantia": "Limitado",
+      "Tamanho da Tela": "43 Polegadas",
+      "Marca": "TCL",
+      "Tecnologia do visor": "Qled",
+      "Taxa de Atualização": "60 Hz",
+      "Característica Especial": "Dolby Audio, HDR, QLED, Tela HVA - Alto contraste e baixo reflexo, Wi-Fi Dual Band",
+      "Componentes Incluídos": "Controle remoto",
+      "Tecnologia de Conectividade": "Bluetooth",
+      "Proporção de tela": "16:9",
+      "Dimensões do produto": "1,85P x 9,55L x 6,07A Metros"
     },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BPYR83CF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:13:38.000Z",
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FTGK5XK2?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:12:30.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0G4MDV9WH",
+    "title": "EMEET PIXY Câmera PTZ Dual com IA, 4K com Tripé, Rastreamento de IA, PDAF e Foco Automático por 0.2s, Sensor 1/2.55'', 3 Microfones, Predefinições, para Streaming, Compatível com OBS/Twitch/Switch 2",
+    "image": "https://m.media-amazon.com/images/I/61GXBxEuqnL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 588.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 155,
+    "coupon_code": null,
+    "description": "Este Kit EMEET PIXY oferece uma experiência de transmissão ao vivo inigualável, combinando tecnologia avançada e versatilidade em um único produto. A câmera PTZ 4K dupla com IA garante imagens nítidas e tons de pele perfeitos, enquanto o array triplo de microfones captura som cristalino. O rastreamento inteligente suave permite que a webcam se adapte automaticamente às movimentações dos usuários, tornando-a ideal para diversas ocasiões, como transmissões de beleza, demonstrações de produtos e ensino online. Além disso, o tripé ajustável oferece enquadramento estável e flexível em angulos variados. Ao todo, este",
+    "informacoes_produto": {
+      "Tecnologia do sensor fotográfico": "CMOS",
+      "Tecnologia de conectividade": "Cabo USB 2.0 C-C de 1,5 m e adaptador tipo C para A",
+      "Cor": "marrom",
+      "Característica Especial": "1ª webcam 4K alimentada por IA com câmera dupla do mundo, Matriz de 3 microfones e 3 modos de som, Rastreamento PTZ AI, Sensor Sony de 1/2,55 pol, Tripid",
+      "Tamanho do sensor fotográfico": "1/2.55''",
+      "Nível de resistência à água": "Não resistente à água",
+      "Tem estabilização de imagem": "Não",
+      "Fator de forma": "Ultra compacto",
+      "Estilo": "PIXY Kit de câmera dupla AI PTZ 4K",
+      "Comprimento focal máximo": "3000 Milímetros",
+      "Abertura máxima": "1,8 f",
+      "Comprimento focal mínimo": "100 Milímetros",
+      "Tipo de lente": "Zoom",
+      "Tipo de foco": "Autofoco PDAF e AI 0,2s",
+      "Resolução de captura de vídeo": "4K",
+      "Formato de captura de vídeo": "MP4",
+      "Resolução final": "8 MP",
+      "Modos de disparo": "Automático",
+      "Proporção de aspecto da imagem": "16:9",
+      "Formato de arquivo": "MP4, AVI, MOV, MJPEG",
+      "Resolução efetiva de vídeo": "3840 Pixels",
+      "Nome da marca": "EMEET",
+      "Número do modelo": "E3138",
+      "Tipo de filmadora": "Webcam",
+      "Nome do modelo": "PIXY with Tripod",
+      "Componentes incluídos": "Câmera",
+      "Baterias incluídas?": "Não",
+      "Contagem de unidades": "1.0 unidade",
+      "Fabricante": "Shenzhen eMeet technology Co.,Ltd.",
+      "UPC": "860014941016",
+      "Descrição da garantia": "2 anos de garantia",
+      "ASIN": "B0G4MDV9WH",
+      "Tamanho da tela": "3,8 Polegadas",
+      "Formato de áudio compatível": "AAC, MP3",
+      "Tipo de zoom": "Optical",
+      "Dispositivos compatíveis": "Computador pessoal, laptop",
+      "Marca": "EMEET",
+      "Tecnologia de Sensor Fotográfico": "CMOS",
+      "Resolução de Captura de Vídeo": "4K",
+      "Distância focal máxima": "3000 Milímetros",
+      "Abertura Máxima": "1,8 f",
+      "Formato de Captura de Vídeo": "MP4",
+      "Formato de Áudio Suportado": "AAC, MP3",
+      "Tamanho da Tela": "3,8 Polegadas",
+      "Tecnologia de Conectividade": "Cabo USB 2.0 C-C de 1,5 m e adaptador tipo C para A"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0G4MDV9WH?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:12:50.000Z",
     "spotlight": false
   },
   {
@@ -22942,7 +21575,7 @@ const PRODUCTS = [
       "Informações sobre Alérgenos": "Contém: Cevada, Trigo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DWPSXKX6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:14:15.000Z",
+    "last_checked_at": "2026-08-12T16:13:39.000Z",
     "spotlight": false
   },
   {
@@ -22951,7 +21584,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/7167YGveS6L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 138.56,
+    "price_current": 138.58,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -22980,7 +21613,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "13 x 13,5 x 26,5 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CZSDW4T8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:14:24.000Z",
+    "last_checked_at": "2026-08-12T16:13:51.000Z",
     "spotlight": false
   },
   {
@@ -23019,50 +21652,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "À prova d'água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDCVQLK7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:14:36.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0B2YJK7KF",
-    "title": "Caixa de Pilha AA com 40 unidades Elgin Palito - Tubo, Zinco",
-    "image": "https://m.media-amazon.com/images/I/71KcB2I6GfL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 23.85,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 3252,
-    "coupon_code": null,
-    "description": "Este Caixa de Pilha AA com 40 unidades Elgin Palito - Tubo, Zinco oferece um excelente custo-benefício, com pilhas de alta qualidade aprovadas pelo INMETRO e testadas periodicamente para garantir conformidade. Ideal para aparelhos que requerem descargas de energia rápidas e fortes, as pilhas Elgin têm 0% de Mercúrio e Cadmio em sua composição, contribuindo para a preservação do meio ambiente. Com uma validade de 3 anos, é uma opção ecológica e econômica.",
-    "informacoes_produto": {
-      "Tipo de bateria": "40 AA (necessita de baterias)",
-      "Nome da marca": "Elgin",
-      "Número do modelo": "ELE000000082341",
-      "Nome do modelo": "ELE000000082341",
-      "Fabricante": "Elgin",
-      "País de origem": "China",
-      "Certificação de teste externa": "Não aplicável",
-      "Componentes Incluídos": "PILHAS ZINCO CARVAO",
-      "Nome do Tipo de Produto": "Pilha de Zinco AA com 40 unidades Elgin Comum",
-      "Descrição da garantia": "180 dias",
-      "ASIN": "B0B2YJK7KF",
-      "Capacidade da bateria": "1300 Milliampere Hour (mAh)",
-      "Voltagem": "1,5 Volts",
-      "Reutilização": "Recarregável",
-      "Peso da bateria": "100 Gramas",
-      "Dimensões do artigo": "14 x 14 x 50 milímetros",
-      "Usos recomendados do produto": "Controlador de jogos",
-      "Composição da célula da pilha": "Zinco",
-      "Número de baterias": "40 AA (necessita de baterias)",
-      "Marca": "Elgin",
-      "Composição das células da bateria": "Zinco",
-      "Capacidade da Bateria": "1300 Milliampere Hour (mAh)",
-      "Adequação do controle por rádio": "Controlador de jogos"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0B2YJK7KF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:14:54.000Z",
+    "last_checked_at": "2026-08-12T16:14:00.000Z",
     "spotlight": false
   },
   {
@@ -23109,7 +21699,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B088P9SFSM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:15:14.000Z",
+    "last_checked_at": "2026-08-12T16:14:40.000Z",
     "spotlight": false
   },
   {
@@ -23118,7 +21708,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ef6-5wLUL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 29.25,
+    "price_current": 29.24,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -23157,7 +21747,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BDSYNJS4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:15:23.000Z",
+    "last_checked_at": "2026-08-12T16:14:51.000Z",
     "spotlight": false
   },
   {
@@ -23166,7 +21756,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71T+JD0dadL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 105.74,
+    "price_current": 105.73,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -23199,7 +21789,7 @@ const PRODUCTS = [
       "Característica do material": "Hipoalergênico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0010ED5FC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:15:34.000Z",
+    "last_checked_at": "2026-08-12T16:15:01.000Z",
     "spotlight": false
   },
   {
@@ -23241,7 +21831,7 @@ const PRODUCTS = [
       "Característica Especial": "Uma criação efervescente earomática."
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SSMCZ7Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:15:44.000Z",
+    "last_checked_at": "2026-08-12T16:15:09.000Z",
     "spotlight": false
   },
   {
@@ -23250,7 +21840,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61CldfoU16L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 160.71,
+    "price_current": 189,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -23293,7 +21883,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CM6FSPY3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:15:54.000Z",
+    "last_checked_at": "2026-08-12T16:15:18.000Z",
     "spotlight": false
   },
   {
@@ -23333,7 +21923,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FNQ6RJHP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:16:06.000Z",
+    "last_checked_at": "2026-08-12T16:15:30.000Z",
     "spotlight": false
   },
   {
@@ -23394,7 +21984,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGPVPW72?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:16:16.000Z",
+    "last_checked_at": "2026-08-12T16:15:41.000Z",
     "spotlight": false
   },
   {
@@ -23403,7 +21993,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51PEMSa3-7L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 224.3,
+    "price_current": 232.82,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -23438,7 +22028,7 @@ const PRODUCTS = [
       "Temperatura da cor": "3900 Kelvin"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07FXKF1NT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:16:25.000Z",
+    "last_checked_at": "2026-08-12T16:15:52.000Z",
     "spotlight": false
   },
   {
@@ -23485,7 +22075,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09TG7191L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:17:25.000Z",
+    "last_checked_at": "2026-08-12T16:16:46.000Z",
     "spotlight": false
   },
   {
@@ -23535,7 +22125,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CSZ6Z6JG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:17:56.000Z",
+    "last_checked_at": "2026-08-12T16:17:15.000Z",
     "spotlight": false
   },
   {
@@ -23583,7 +22173,7 @@ const PRODUCTS = [
       "Informações de embalagem": "Sacola"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BCXF4CDM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:18:06.000Z",
+    "last_checked_at": "2026-08-12T16:17:24.000Z",
     "spotlight": false
   },
   {
@@ -23592,7 +22182,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71WZihhaDDL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 79.5,
+    "price_current": 89.4,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -23625,7 +22215,58 @@ const PRODUCTS = [
       "Informações sobre Alérgenos": "A soja pode conter, Não contém glúten, Os crustáceos podem conter, Os peixes podem conter"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D47NL3GK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:18:15.000Z",
+    "last_checked_at": "2026-08-12T16:17:34.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07TMRJFNZ",
+    "title": "Colormaq Maquina de Lavar Roupa Semi Automatica Tanquinho 10kg LCS10 Branco 127V",
+    "image": "https://m.media-amazon.com/images/I/41IU6i0swdL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 464.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1800,
+    "coupon_code": null,
+    "description": "Este Colormaq Lavador de Roupa Semi Automático Tanquinho é ideal para famílias pequenas, oferecendo um design compacto e prático que facilita seu uso no dia-a-day. Com capacidade para lavar até 10kg de roupas, as funções econômicas e eficazes garantem uma limpeza profissional. Além disso, o aparelho é fácil de usar e possui opções de ciclo personalizadas, tornando-o um excelente investimento para quem busca uma solução prática e eficiente para lavar suas roupas.",
+    "informacoes_produto": {
+      "Capacidade": "10 litros",
+      "Características especiais": "Alta eficiência",
+      "Local do acesso": "Carga superior",
+      "Tipo de acabamento": "Espelhado platinado",
+      "Opções de ciclo": "Algodão, Delicados, Enxaguar",
+      "Tipo de controles": "Toque",
+      "Modo de operação": "Semiautomático",
+      "Voltagem": "110",
+      "Número de ciclos padrão": "5",
+      "Entrada de interface humana": "Seletor",
+      "Tipo de instalação": "Independente",
+      "Opções de dosador da máquina de lavar": "2 compartimentos (Amaciante e Sabão)",
+      "Dimensões do item P x L x A": "56,2P x 48,5L x 96,5A centímetros",
+      "Peso do item": "11,5 Quilogramas",
+      "Profundidade do item": "56.2 centimeters",
+      "Cor": "BRANCO",
+      "Nome da marca": "Colormaq",
+      "Nome do modelo": "LSC10",
+      "Componentes incluídos": "Manual de Produto",
+      "Fabricante": "Colormaq",
+      "Nome do Tipo de Produto": "Tanquinho",
+      "Número do modelo": "LCS 10KG",
+      "Número da peça": "LCS 10KG",
+      "Descrição da garantia": "12 meses",
+      "ASIN": "B07TMRJFNZ",
+      "Material": "Polipropileno",
+      "Material do tambor do aparelho de lavagem de roupa": "Polipropileno",
+      "Dimensões do produto": "56,2P x 48,5L x 96,5A centímetros",
+      "Marca": "Colormaq",
+      "Característica Especial": "Alta eficiência",
+      "Local de acesso": "Carga superior"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07TMRJFNZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:17:43.000Z",
     "spotlight": false
   },
   {
@@ -23670,7 +22311,7 @@ const PRODUCTS = [
       "Peso do produto": "15 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F13FK329?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:19:21.000Z",
+    "last_checked_at": "2026-08-12T16:18:26.000Z",
     "spotlight": false
   },
   {
@@ -23679,7 +22320,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61AjgTFEaRL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 365.52,
+    "price_current": 398.14,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -23712,7 +22353,7 @@ const PRODUCTS = [
       "Próprio para lava-louças": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CDR1SKHR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:19:41.000Z",
+    "last_checked_at": "2026-08-12T16:18:44.000Z",
     "spotlight": false
   },
   {
@@ -23752,7 +22393,7 @@ const PRODUCTS = [
       "Duração da Bateria": "2190 Meses"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07MRZ2R3V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:19:52.000Z",
+    "last_checked_at": "2026-08-12T16:18:56.000Z",
     "spotlight": false
   },
   {
@@ -23761,7 +22402,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/8148kkYPYUL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 69.8,
+    "price_current": 67.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -23790,7 +22431,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos, Tratado quimicamente, Tratato com coloração"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZWH9D3W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:20:02.000Z",
+    "last_checked_at": "2026-08-12T16:19:06.000Z",
     "spotlight": false
   },
   {
@@ -23837,7 +22478,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 7L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:20:32.000Z",
+    "last_checked_at": "2026-08-12T16:19:36.000Z",
     "spotlight": false
   },
   {
@@ -23846,7 +22487,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/711OpDhWASS._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 373.71,
+    "price_current": 370.83,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -23879,53 +22520,7 @@ const PRODUCTS = [
       "Comprimento da mangueira": "3 Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076QDQVMJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:21:26.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DCPWN2FG",
-    "title": "WAP Mixer Elétrico 3 em 1 com Processador, Miniprocessador e Batedor de Clara em Inox Prosdócimo WM1 1000W 220V",
-    "image": "https://m.media-amazon.com/images/I/61JZvofH46L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 190.89,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 310,
-    "coupon_code": null,
-    "description": "Este Mixer Elétrico 3 em 1 WAP WM1 oferece durabilidade, flexibilidade e facilidade de uso em sua preparação de alimentos. A haste e as quatro lâminas em aço inoxidável garantem resistência, enquanto a velocidade regulável permite selecionar a intensidade ideal para cada tipo de alimento. A função turbo facilita a trituração de alimentos difíceis e o design ergonômico proporciona conforto e segurança durante o uso. Ademais, o equipamento é fácil de limpar, sendo desmontável para evitar acúmulo de resíduos em áreas difíceis de alcançar. Com uma avaliação de 4.8/5 (310 avalia",
-    "informacoes_produto": {
-      "Nome da marca": "WAP",
-      "Componentes Incluídos": "Batedor de Claras, Mini Processador de Alimentos, Copo com tampa.",
-      "Usos recomendados do produto": "Bater, Mixing, Moer, Triturar",
-      "Fabricante": "WAP",
-      "País de origem": "China",
-      "Nome do Tipo de Produto": "Mixer Elétrico",
-      "Número do modelo": "FW010139",
-      "Número da peça": "FW010139",
-      "ASIN": "B0DCPWN2FG",
-      "Cor": "Preto e Cinza",
-      "Características especiais": "Leve, Portátil",
-      "Fonte de energia": "Energia elétrica",
-      "Potência": "1000 watts",
-      "Número de velocidades": "3",
-      "Voltagem": "220",
-      "Tipo de controles": "aço inoxidável",
-      "Capacidade": "700 ml",
-      "Dimensões do item P x L x A": "6,5P x 6,5L x 39,5A centímetros",
-      "Peso do item": "1,2 Quilogramas",
-      "Material": "Aço inoxidável + ABS",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "Material da Lâmina": "Aço inoxidável",
-      "Material de recipiente": "ABS",
-      "Marca": "WAP",
-      "Característica Especial": "Leve, Portátil",
-      "Dimensões do produto": "6,5P x 6,5L x 39,5A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DCPWN2FG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:21:45.000Z",
+    "last_checked_at": "2026-08-12T16:20:28.000Z",
     "spotlight": false
   },
   {
@@ -23963,7 +22558,7 @@ const PRODUCTS = [
       "Característica Especial": "Alça de transporte, Boca larga, Parede dupla, À prova de derramamento, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQF6CYMW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:21:54.000Z",
+    "last_checked_at": "2026-08-12T16:20:57.000Z",
     "spotlight": false
   },
   {
@@ -23999,7 +22594,7 @@ const PRODUCTS = [
       "Modo de Operação": "Manual"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078YXW76M?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:22:05.000Z",
+    "last_checked_at": "2026-08-12T16:21:06.000Z",
     "spotlight": false
   },
   {
@@ -24041,7 +22636,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Independente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CVR1JLN4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:22:14.000Z",
+    "last_checked_at": "2026-08-12T16:21:17.000Z",
     "spotlight": false
   },
   {
@@ -24078,7 +22673,7 @@ const PRODUCTS = [
       "Volume líquido": "60 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1WDN2PC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:22:23.000Z",
+    "last_checked_at": "2026-08-12T16:21:25.000Z",
     "spotlight": false
   },
   {
@@ -24087,7 +22682,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71RDq03-uQL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 206,
+    "price_current": 202.87,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -24127,7 +22722,7 @@ const PRODUCTS = [
       "Característica Especial": "Respirável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D51GC1PN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:22:55.000Z",
+    "last_checked_at": "2026-08-12T16:21:57.000Z",
     "spotlight": false
   },
   {
@@ -24198,7 +22793,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDB9Z96L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:23:15.000Z",
+    "last_checked_at": "2026-08-12T16:22:16.000Z",
     "spotlight": false
   },
   {
@@ -24230,7 +22825,7 @@ const PRODUCTS = [
       "Dimensões do produto": "26C x 8L x 29A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMYQN74L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:23:24.000Z",
+    "last_checked_at": "2026-08-12T16:22:25.000Z",
     "spotlight": false
   },
   {
@@ -24290,7 +22885,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 58L x 110A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CGR7FNC2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:23:53.000Z",
+    "last_checked_at": "2026-08-12T16:22:53.000Z",
     "spotlight": false
   },
   {
@@ -24325,7 +22920,7 @@ const PRODUCTS = [
       "Peso do produto": "1 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GPN6CNRT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:24:02.000Z",
+    "last_checked_at": "2026-08-12T16:23:03.000Z",
     "spotlight": false
   },
   {
@@ -24334,7 +22929,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61gqF9jP0ZL._AC_SL1280_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 173.12,
+    "price_current": 169,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -24389,7 +22984,7 @@ const PRODUCTS = [
       "ASIN": "B0CS6WZJHJ"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CS6WZJHJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:24:52.000Z",
+    "last_checked_at": "2026-08-12T16:23:55.000Z",
     "spotlight": false
   },
   {
@@ -24398,7 +22993,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51n+edKvBPL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 174.16,
+    "price_current": 161.49,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -24445,7 +23040,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCB2VKVR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:25:47.000Z",
+    "last_checked_at": "2026-08-12T16:24:49.000Z",
     "spotlight": false
   },
   {
@@ -24487,7 +23082,45 @@ const PRODUCTS = [
       "Componentes Incluídos": "lamina em aço inox e cabo de madeira"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07GS3MLJX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:26:06.000Z",
+    "last_checked_at": "2026-08-12T16:25:09.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FD496MRL",
+    "title": "Pista de Carrinhos Dinossauro com 2 Carrinhos com Luz 277 Peças Brinquedo Infantil",
+    "image": "https://m.media-amazon.com/images/I/81D+moxA2TL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 113.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 179,
+    "coupon_code": null,
+    "description": "Este brinquedo de pista de carrinhos dinossauro oferece diversão variada para crianças, com 277 peças que permitem montagens diferentes e inesquecíveis. A segurança é priorizada, sendo indicado para crianças a partir dos 36 meses. Com uma avaliação de 4,7/5, este brinquedo oferece um bom custo-benefício.",
+    "informacoes_produto": {
+      "Nome da marca": "ATENTU",
+      "Descrição da faixa etária": "Criança",
+      "Contagem de unidades": "277 Contagem",
+      "Idade mínima segundo o fabricante (MESES)": "36",
+      "País de origem": "China",
+      "Componentes incluídos": "277 peças",
+      "Fabricante": "Na Web Group",
+      "Número da peça": "PISTDINO-277",
+      "Nome do Conjunto": "Pista de Carrinhos Dinossauro",
+      "ASIN": "B0FD496MRL",
+      "Dimensões do artigo": "29 x 19 x 16 centímetros",
+      "Escala": "G",
+      "Exige montagem": "Sim",
+      "Descrição da bateria": "2 pilhas AA",
+      "Objetivo educacional": "Estimular a criatividade e o desenvolvimento das habilidades motoras",
+      "Modo de operação": "automático",
+      "Fonte de energia": "Pilhas AA",
+      "Material": "Plástico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FD496MRL?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:26:02.000Z",
     "spotlight": false
   },
   {
@@ -24538,7 +23171,7 @@ const PRODUCTS = [
       "Característica Especial": "Leve"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0785S55QQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:28:01.000Z",
+    "last_checked_at": "2026-08-12T16:26:55.000Z",
     "spotlight": false
   },
   {
@@ -24547,7 +23180,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71oDl7NmgaL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 279.9,
+    "price_current": 227.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -24581,7 +23214,7 @@ const PRODUCTS = [
       "Nome do Modelo": "MG3927/15"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FN5DD149?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:29:03.000Z",
+    "last_checked_at": "2026-08-12T16:27:58.000Z",
     "spotlight": false
   },
   {
@@ -24590,7 +23223,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61yKvEjR6kL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 3249.99,
+    "price_current": 3229.05,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -24651,7 +23284,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7,3P x 144,6L x 88,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPRJHKB9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:29:14.000Z",
+    "last_checked_at": "2026-08-12T16:28:09.000Z",
     "spotlight": false
   },
   {
@@ -24709,7 +23342,7 @@ const PRODUCTS = [
       "Marca": "Panasonic"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GTWYK3TY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:29:23.000Z",
+    "last_checked_at": "2026-08-12T16:28:17.000Z",
     "spotlight": false
   },
   {
@@ -24754,7 +23387,7 @@ const PRODUCTS = [
       "Característica Especial": "Esterilização"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZ129NTZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:29:34.000Z",
+    "last_checked_at": "2026-08-12T16:28:26.000Z",
     "spotlight": false
   },
   {
@@ -24805,7 +23438,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVP6KRP4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:29:54.000Z",
+    "last_checked_at": "2026-08-12T16:28:45.000Z",
     "spotlight": false
   },
   {
@@ -24830,7 +23463,7 @@ const PRODUCTS = [
       "Nome do Modelo": "iPhone 16"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFT8HZC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:30:03.000Z",
+    "last_checked_at": "2026-08-12T16:28:56.000Z",
     "spotlight": false
   },
   {
@@ -24876,7 +23509,7 @@ const PRODUCTS = [
       "Dimensões do produto": "135C x 70L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DWXVRPB7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:30:14.000Z",
+    "last_checked_at": "2026-08-12T16:29:07.000Z",
     "spotlight": false
   },
   {
@@ -24930,60 +23563,7 @@ const PRODUCTS = [
       "Dimensões do produto": "9,06P x 9,06L x 9,06A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FD58XDQD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:30:23.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H3R4CXJ9",
-    "title": "Cadeira de Escritório Preta Design Ergonômico com Suporte Lombar com Apoio de Cabeça Ajustável Braços Rebatíveis 90° Malha Respirável Regulagem de Altura e Inclinação até 120° Suporta 150kg Linha GT",
-    "image": "https://m.media-amazon.com/images/I/61ZMXzVdhGL._AC_SL1254_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 270.73,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.1,
-    "qtd_avaliacoes": 30,
-    "coupon_code": null,
-    "description": "Este produto é uma cadeira de escritório ergonômica de alta qualidade, oferecendo conforto e suporte profissionais. A malha respirável promove circulação de ar, garantindo maior frescor e conforto térmico, enquanto o encosto anatômico com suporte lombar auxilia na postura correta e reduz o desconforto durante o uso. Além disso, a inclinação ajustável de 90° a 120° permite encontrar o ângulo ideal para trabalhar, estudar ou relaxar com mais conforto. Com altura regulável entre 38 e 48 cm, esta cadeira se adapta perfeitamente ao usuário, enquanto o apoio de cabeça ajustável redu",
-    "informacoes_produto": {
-      "Nome da marca": "GATAO",
-      "Características especiais": "Ajuste Pneumático De Altura Entre 38 E 48 Cm, Apoio De Cabeça Ajustável, Braços Rebatíveis Em 90°, Encosto Em Tela Mesh Respirável, Suporte Lombar Integrado",
-      "Contagem de unidades": "1 Unidade",
-      "País de origem": "China",
-      "Descrição da faixa etária": "Adulto",
-      "Componentes Incluídos": "Apoio De Cabeça Ajustável, Apoios De Braço Rebatíveis, Base Giratória Com Rodas, Cadeira Ergonômica, Pistão Pneumático",
-      "Utilização interior, exterior": "Área interna",
-      "Número do modelo": "0001",
-      "Fabricante": "Não Especificado",
-      "Número da peça": "0001",
-      "ASIN": "B0H3R4CXJ9",
-      "Material": "Espuma, Malha Mesh, Metal, Nylon, Plástico",
-      "Instruções de cuidados com o produto": "Evitar Uso De Produtos Abrasivos Ou Solventes, Limpo, Lubrificar As Rodas Giratórias Periodicamente Para Manter O Deslizamento Suave, Não Expor À Luz Solar Direta Por Longos Períodos, Secar Imediatamente Após Limpeza, Verificar Periodicamente O Aperto Dos Parafusos E Conexões",
-      "Material do assento": "Espuma",
-      "Material de preenchimento": "Espuma",
-      "Tipo de tecido do estofo": "Malha Mesh",
-      "Cor": "Preto",
-      "Estilo de fundo": "mesh back",
-      "Estilo": "Ergonômico",
-      "Estampa": "Liso",
-      "Formato do item": "Retangular",
-      "Estilo de braço": "Rebatível",
-      "Estilo do pé": "wheels",
-      "Fator de forma": "reclinável",
-      "Dimensões do item P x L x A": "50P x 30L x 50A centímetros",
-      "Tamanho": "Único",
-      "Peso do item": "15 Quilogramas",
-      "Dimensões do artigo": "50 x 30 x 50 centímetros",
-      "Recomendação de peso máximo": "150 Quilogramas",
-      "Descrição das Instruções de Montagem": "Montagem Necessária. A Cadeira É Fornecida Desmontada E Requer Encaixe Das Rodas Na Base Estrela De 5 Pontas, Fixação Do Pistão Pneumático, Acoplamento Do Assento Ao Mecanismo De Inclinação, Instalação Do Encosto Em Mesh Com Suporte Lombar Integrado E Fixação Do Apoio De Cabeça Ajustável. Os Braços Rebatíveis Em 90° Devem Ser Parafusados Nas Laterais Do Assento. Recomenda-se Seguir O Manual De Instruções Incluso Na Embalagem.",
-      "Exige montagem": "Sim",
-      "Marca": "GATAO",
-      "Dimensões do produto": "50P x 30L x 50A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H3R4CXJ9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:30:34.000Z",
+    "last_checked_at": "2026-08-12T16:29:17.000Z",
     "spotlight": false
   },
   {
@@ -25040,7 +23620,50 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGQLYST1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:30:43.000Z",
+    "last_checked_at": "2026-08-12T16:29:48.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0C51C4ZTZ",
+    "title": "Bosch Furadeira de Impacto GSB 13 RE-M - 750W 127V, em maleta",
+    "image": "https://m.media-amazon.com/images/I/61zfwVifj8L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 363.5,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 1214,
+    "coupon_code": null,
+    "description": "Este Furadeira de Impacto Bosch GSB 13 RE-M oferece um desempenho robusto com seu motor potente de 750 W, atendendo às necessidades dos usuários. A variável velocidade e o botão-trava permitem trabalhos contínuos, enquanto a emborrachada empunhadura garante um agarre seguro e confortável. Utilizando os acessórios profissionais Bosch, você pode melhorar ainda mais o desempenho de sua ferramenta.",
+    "informacoes_produto": {
+      "Fonte de energia": "Energia elétrica",
+      "Voltagem": "110 Volts",
+      "Tamanho máximo do mandril": "10 Milímetros",
+      "Características especiais": "Velocidade Variável",
+      "Potência máxima": "750 Watt",
+      "Tipo de broca": "Broca de combinação",
+      "É alimentado por energia elétrica?": "Sim",
+      "Capacidade de Perfuração em Madeira": "10 Milímetros",
+      "Capacidade de Perfuração em Metal": "10 Milímetros",
+      "Cor": "Azul",
+      "Material": "Metal",
+      "Nome da marca": "Bosch",
+      "Componentes incluídos": "1 Furadeira de Impacto GSB 13 RE, 1 manual de instruções, 1 Chave de mandril, 1 Empunhadeira auxiliar, 1 limitador de profundidade, maleta",
+      "Fabricante": "Robert Bosch Ltda",
+      "Descrição da garantia": "2 anos com o fabricante",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Furadeira de Impacto",
+      "ASIN": "B0C51C4ZTZ",
+      "Dimensões do item C x L x A": "27,2C x 7L x 19,2A centímetros",
+      "Marca": "Bosch",
+      "Fonte de alimentação": "Energia elétrica",
+      "Tensão": "110 Volts",
+      "Tamanho Máximo do Mandril": "10 Milímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0C51C4ZTZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:29:57.000Z",
     "spotlight": false
   },
   {
@@ -25116,7 +23739,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2400*1600 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CSK9296X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:31:03.000Z",
+    "last_checked_at": "2026-08-12T16:30:05.000Z",
     "spotlight": false
   },
   {
@@ -25143,7 +23766,7 @@ const PRODUCTS = [
       "Peso da embalagem": "8 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G2BHP7S9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:31:13.000Z",
+    "last_checked_at": "2026-08-12T16:30:15.000Z",
     "spotlight": false
   },
   {
@@ -25152,7 +23775,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61OUckvJvLL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 816.9,
+    "price_current": 816.91,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -25182,7 +23805,7 @@ const PRODUCTS = [
       "Comprimento da mangueira": "4 Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D79HNMYL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:31:23.000Z",
+    "last_checked_at": "2026-08-12T16:30:26.000Z",
     "spotlight": false
   },
   {
@@ -25234,7 +23857,7 @@ const PRODUCTS = [
       "Taxa de Atualização": "144 Hz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FWRGKTBX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:31:41.000Z",
+    "last_checked_at": "2026-08-12T16:30:46.000Z",
     "spotlight": false
   },
   {
@@ -25281,7 +23904,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "[POSSIBLE_USES]"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0779BRVVS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:31:50.000Z",
+    "last_checked_at": "2026-08-12T16:30:57.000Z",
     "spotlight": false
   },
   {
@@ -25344,7 +23967,117 @@ const PRODUCTS = [
       "Dimensões do produto": "77P x 25L x 59A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:31:58.000Z",
+    "last_checked_at": "2026-08-12T16:31:07.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BQ3L6WZD",
+    "title": "Cadeira de Escritório Ergonômica Preto Elements Vertta Special",
+    "image": "https://m.media-amazon.com/images/I/51TIMSrgbSL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 1500,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 57,
+    "coupon_code": null,
+    "description": "O Elements Vertta Special oferece uma combinação de estilo e conforto, com seu design ergonômico e base em retas que adiciona sofisticação ao ambiente do escritório. A cadeira possui um encosto e assento 100% mesh premium, além de ser extremamente respirável graças à sua trama mais aberta. Ademais, a base em nylon é resistente e facilmente transportável, tornando-a uma opção prática para mudanças de local. Com garantia padrão de 12 meses e possibilidade de estender até um ano após registro, este produto oferece um bom custo-benefício.",
+    "informacoes_produto": {
+      "Nome da marca": "ELEMENTS",
+      "Características especiais": "Altura ajustável, Apoio de braço, Ergonômico, Lombar Ajustável, Suporte de cabeça",
+      "Contagem de unidades": "1 unidade",
+      "Usos recomendados do produto": "Escritório",
+      "País de origem": "China",
+      "Tipo de sala": "Escritório",
+      "Descrição da faixa etária": "Adulto",
+      "Componentes Incluídos": "Rodízios",
+      "Nome do modelo": "VERTTA",
+      "Utilização interior, exterior": "Área interna",
+      "Número do modelo": "70047",
+      "Fabricante": "ELEMENTS",
+      "Descrição da garantia": "2 anos de garantia com fabricante",
+      "Nome do Tipo de Produto": "Cadeira de Escritório",
+      "Número da peça": "70047",
+      "ASIN": "B0BQ3L6WZD",
+      "Movimento da base do móvel": "Giratória",
+      "Total de Posições Reclináveis": "1",
+      "Inclinada": "Não",
+      "É personalizável?": "Não",
+      "É dobrável": "Não",
+      "Cor": "Preto",
+      "Estilo de fundo": "curvo",
+      "Estilo": "Urbano",
+      "Estampa": "Liso",
+      "Formato do item": "curvo",
+      "Estilo de braço": "Sem braços",
+      "Estilo do pé": "Perna reta",
+      "Fator de forma": "Cadeira de Escritório",
+      "Dimensões do item P x L x A": "51P x 68L x 137A centímetros",
+      "Tamanho": "68 cm x 51 cm x 137 cm",
+      "Peso do item": "17 Quilogramas",
+      "Profundidade do item": "51 centímetros",
+      "Dimensões do artigo": "51 x 68 x 137 centímetros",
+      "Material": "Poliuretano",
+      "Frame Material Type": "Nylon",
+      "Instruções de cuidados com o produto": "Limpo",
+      "Material do assento": "Mesh",
+      "Material de preenchimento": "Mesh",
+      "Descrição das Instruções de Montagem": "Faça você mesmo",
+      "Exige montagem": "Sim",
+      "Marca": "ELEMENTS",
+      "Dimensões do produto": "51P x 68L x 137A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BQ3L6WZD?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:31:15.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H6WVS7TN",
+    "title": "IOWODO Smartwatch Masculino e Feminino AMOLED 1.43\" com Chamadas Bluetooth, Relógio Inteligente 100+ Modos Esportivos, IP68, 2 Pulseiras - Compatível iPhone/Android",
+    "image": "https://m.media-amazon.com/images/I/71vXM6nlieL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 426.55,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 20,
+    "coupon_code": null,
+    "description": "Este smartwatch IOWODO de 1,43\" AMOLED oferece uma experiência visual vibrante e detalhada, com cores vibrantes e preto profundo, além de visibilidade excepcional sob sol forte. Com tecnologia Always-On Display (AOD), você pode ver hora, clima e notificações sem precisar levantar o pulso. A estrutura robusta em liga de zinco combina durabilidade com design fino, oferecendo uma opção versátil para uso no escritório ou durante treinos intensos. O smartwatch também oferece chamadas Bluetooth HD, assistente de voz inteligente e mais de 100 modos esportivos, além de um tempo de uso contínuo de até 5 dias com apenas 2 horas de carga",
+    "informacoes_produto": {
+      "Características especiais": "Fazer e atender chamadas, assistente de voz com IA, calculadora, relógio mundial, jogos, mais de 100 modos esportivos, mostrador de relógio faça você mesmo, despertador, controle de música, controle de câmera, previsão do tempo, rastreador de atividades, rastreador multiesportivo, pedômetro, lembrete sedentário, rastreador de calorias, rastreador de distância",
+      "Nível de resistência à água": "Resistente à água",
+      "Formato do item": "Redondo",
+      "Estilo": "Clássico",
+      "Cor": "W40-Prata",
+      "Composição da célula da pilha": "Íon-lítio",
+      "Tecnologia de conectividade": "Bluetooth",
+      "Norma de comunicação sem fio": "Bluetooth",
+      "Tamanho da tela": "1,43 Polegadas",
+      "Tipo de tela": "AMOLED",
+      "Capacidade de armazenamento da memória": "128 MB",
+      "Nome da marca": "IOWODO",
+      "Nome do modelo": "W40",
+      "Público-alvo": "Adultos unissexo",
+      "Número do modelo": "W40",
+      "Componentes incluídos": "1 * Smartwatch (com pulseira de silicone) 1 * Pulseira de substituir 1 * Carregador USB 1 * Manual do usuário",
+      "Descrição da garantia": "Garantia de um ano",
+      "Fabricante": "IOWODO",
+      "País de origem": "China",
+      "Certificação de teste externa": "Anatel: 04748-26-18299",
+      "ASIN": "B0H6WVS7TN",
+      "Dispositivos compatíveis": "Smartphone",
+      "Modelos de telefone compatíveis": "Dispositivos Android, Dispositivos iOS",
+      "Capacidade de Armazenamento de Memória": "128 MB",
+      "Tecnologia de Conectividade": "Bluetooth",
+      "Padrão de comunicação sem fio": "Bluetooth",
+      "Composição das células da bateria": "Íon-lítio"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H6WVS7TN?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:31:35.000Z",
     "spotlight": false
   },
   {
@@ -25385,7 +24118,7 @@ const PRODUCTS = [
       "Comprimento da mangueira": "3 Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076QCBC3G?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:32:48.000Z",
+    "last_checked_at": "2026-08-12T16:31:55.000Z",
     "spotlight": false
   },
   {
@@ -25394,7 +24127,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ZmtBUaVEL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 35.18,
+    "price_current": 34.94,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -25414,7 +24147,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "9 setembro 2024"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGMDDXL7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:33:19.000Z",
+    "last_checked_at": "2026-08-12T16:32:26.000Z",
     "spotlight": false
   },
   {
@@ -25485,7 +24218,7 @@ const PRODUCTS = [
       "Característica Especial": "哭声检测"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BR51ZZY6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:34:11.000Z",
+    "last_checked_at": "2026-08-12T16:33:17.000Z",
     "spotlight": false
   },
   {
@@ -25529,7 +24262,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPD7BTG3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:34:20.000Z",
+    "last_checked_at": "2026-08-12T16:33:28.000Z",
     "spotlight": false
   },
   {
@@ -25570,7 +24303,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXWRD4PP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:34:30.000Z",
+    "last_checked_at": "2026-08-12T16:33:39.000Z",
     "spotlight": false
   },
   {
@@ -25615,7 +24348,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Computador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CRWQXPD9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:34:39.000Z",
+    "last_checked_at": "2026-08-12T16:33:48.000Z",
     "spotlight": false
   },
   {
@@ -25657,7 +24390,7 @@ const PRODUCTS = [
       "Tensão": "110"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBWG45C4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:34:47.000Z",
+    "last_checked_at": "2026-08-12T16:33:57.000Z",
     "spotlight": false
   },
   {
@@ -25701,7 +24434,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9G2QNS9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:34:57.000Z",
+    "last_checked_at": "2026-08-12T16:34:07.000Z",
     "spotlight": false
   },
   {
@@ -25710,7 +24443,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51eZ1U9YiWL._AC_SL1280_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 401.68,
+    "price_current": 388,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -25740,49 +24473,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Computador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D1CMWC7J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:35:08.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GR1L1BBL",
-    "title": "Freezer Horizontal Consul 307 Litros Branco - CHA31MB (220, Volts)",
-    "image": "https://m.media-amazon.com/images/I/41Qjk7mlhLL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 2099,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.4,
-    "qtd_avaliacoes": 7,
-    "coupon_code": null,
-    "description": "O Freezer Horizontal Consul CHA31MB oferece 307 litros de armazenamento, eficiência energética e Super Frio para congelação rápida. Com cinco níveis de temperatura, rodinhas, fechadura, dreno frontal e material eco-friendly, este freezer é uma boa opção para aqueles que procuram um armazenamento frio confiável e eficiente. Avaliação: 4.4/5.",
-    "informacoes_produto": {
-      "Nome da marca": "Consul",
-      "Nome do modelo": "Cha31mb",
-      "Fabricante": "Consul",
-      "Componentes incluídos": "Manual do Usuário",
-      "Número do modelo": "CHA31MB",
-      "Número da peça": "CHA31MB",
-      "Descrição da garantia": "12 Meses",
-      "ASIN": "B0GR1L1BBL",
-      "Orientação de abertura da porta": "Superior (tampa Horizontal)",
-      "Voltagem": "220 Volts",
-      "Número de prateleiras": "1",
-      "Capacidade": "309 litros",
-      "Especificação atendida": "Gás Refrigerante R600a, Inmetro 005219/2016",
-      "Tipo de instalação": "Independente",
-      "Cor": "Branco",
-      "Tipo de material da porta": "Aço Com Revestimento Em Pintura Epóxi Branca",
-      "Dimensões do item P x L x A": "77,3P x 94L x 94,3A centímetros",
-      "Peso do item": "46 Quilogramas",
-      "Dimensões do produto": "77,3P x 94L x 94,3A centímetros",
-      "Marca": "Consul",
-      "Nome do Modelo": "Cha31mb",
-      "Tipo de Material da Porta": "Aço Com Revestimento Em Pintura Epóxi Branca"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GR1L1BBL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:35:30.000Z",
+    "last_checked_at": "2026-08-12T16:34:17.000Z",
     "spotlight": false
   },
   {
@@ -25820,7 +24511,7 @@ const PRODUCTS = [
       "Peso do produto": "10 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G52J9ZLY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:35:50.000Z",
+    "last_checked_at": "2026-08-12T16:34:56.000Z",
     "spotlight": false
   },
   {
@@ -25829,7 +24520,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71IIUpYn8OL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 290.21,
+    "price_current": 290.16,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -25860,7 +24551,7 @@ const PRODUCTS = [
       "Nome do Modelo": "Philips Shaver"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJQ7G654?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:36:00.000Z",
+    "last_checked_at": "2026-08-12T16:35:06.000Z",
     "spotlight": false
   },
   {
@@ -25897,7 +24588,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Digital, Luz LED, Desligamento automático, Detecção de pressão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP9FF295?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:36:18.000Z",
+    "last_checked_at": "2026-08-12T16:35:26.000Z",
     "spotlight": false
   },
   {
@@ -25947,49 +24638,53 @@ const PRODUCTS = [
       "Dimensões do produto": "51P x 55L x 51A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DK477VG3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:36:27.000Z",
+    "last_checked_at": "2026-08-12T16:35:37.000Z",
     "spotlight": false
   },
   {
-    "asin": "B0FN7QV838",
-    "title": "PHILIPS Aparador e raspador de pelos do corpo, à prova d’água, Bivolt, BG7470/15",
-    "image": "https://m.media-amazon.com/images/I/61AynfH7V0L._AC_SL1250_.jpg",
+    "asin": "B086BVJ1CT",
+    "title": "MamyPoko Fralda-Calça Dia&Noite Xg 42 Unidades",
+    "image": "https://m.media-amazon.com/images/I/71Z0pO4yDRL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 679.9,
+    "price_current": 74.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 223,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 3459,
     "coupon_code": null,
-    "description": "Este aparador de pelos do corpo Philips BG7470/15 é uma opção versátil e prática para manter sua pele em perfeito estado, oferecendo vantagens como um design 100% à prova d'água, tecnologia Optilight exclusiva para iluminação de áreas difíceis, cabeça flexível 2D avançada e um kit completo de acessórios. Com lâminas hipoalergênicas, pontas arredondadas e uma variedade de pentes diferentes, este dispositivo oferece segurança, precisão e conforto em todas as áreas do corpo. O custo-benefício é alto, com 1h20min de uso por apenas 1h de carga",
+    "description": "O MamyPoko Fralda-Calça Dia&Noite Xg oferece proteção completa à noite para bebês de 12 até 17kg, absorvendo até 4 copos de líquidos e tendo até 12h de absorção. A barreira dupla evita vazamentos laterais e a fita de descarte facilita a troca. Com uma avaliação de 4.6/5, este produto é um excelente investimento para a conforto e proteção do seu bebê.",
     "informacoes_produto": {
-      "Nome da marca": "PHILIPS",
-      "Usos recomendados do produto": "Axila, Cabelo nas costas, Peito",
-      "Nome do modelo": "BG7470/15",
-      "Número do modelo": "BG7470/15",
-      "Componentes incluídos": "Escova de limpeza Cabo USB-A (adaptador não incluso) Bolsa para armazenamento 2 pentes para pelos corporais (2 mm e 3 mm) Pente de precisão: 1 a 3 mm, com controle preciso de 0,5 mm Pente ajustável: 3 a 7 mm Pente para áreas íntimas: 1 mm",
-      "Contagem de unidades": "1.0 unidade",
-      "Fabricante": "Philips",
-      "País de origem": "Indonésia",
-      "Número da peça": "BG7470/15",
-      "ASIN": "B0FN7QV838",
-      "Características especiais": "Antiarranhões, Auto-afiação, Design ergonômico, Lavável, Recarregável",
-      "Fonte de energia": "Energia elétrica",
-      "Duração da bateria": "80 Minutos",
-      "Descrição da bateria": "Lítio",
-      "Número de lâminas": "1",
-      "Peso do item": "273 Gramas",
-      "Cor": "Preto",
-      "Marca": "PHILIPS",
-      "Adequação do controle por rádio": "Axila, Cabelo nas costas, Peito",
-      "Característica Especial": "Antiarranhões, Auto-afiação, Design ergonômico, Lavável, Recarregável",
-      "Fonte de alimentação": "Energia elétrica",
-      "Nome do Modelo": "BG7470/15"
+      "Nome da marca": "MamyPoko",
+      "Tipo de protetor para incontinência": "Fralda infantil",
+      "Descrição da faixa etária": "Bebê",
+      "Público-alvo": "Unissex-bebês",
+      "Número de identificação de comércio internacional": "17898656390466",
+      "Fabricante": "Unicharm",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "MamyPoko Fralda-Calça Dia&amp;Noite Xg 42 Unidades",
+      "ASIN": "B086BVJ1CT",
+      "Cor": "Branco",
+      "Quantidade de itens": "1",
+      "Tamanho": "XL (42 Contagem)",
+      "Contagem de unidades": "42 Unidade",
+      "Dimensões do artigo": "41 x 60 x 26,5 centímetros",
+      "Peso do item": "1376,2 Gramas",
+      "Tamanho do protetor de incontinência": "Tamanho 5+",
+      "Weight Range": "12 a 17 kg",
+      "Livre de tipo de material": "Sem cloro",
+      "Descrição do forro": "Furos de Ar",
+      "Reutilização": "Descartável",
+      "Nível de resistência à água": "À prova d'água",
+      "Usos recomendados do produto": "Proteção de urina noturna",
+      "Marca": "MamyPoko",
+      "Número de itens": "1",
+      "Tipo de protetor de incontinência": "Fralda infantil",
+      "Faixa etária (descrição)": "Bebê"
     },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FN7QV838?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:36:48.000Z",
+    "affiliate_url": "https://www.amazon.com.br/dp/B086BVJ1CT?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:36:29.000Z",
     "spotlight": false
   },
   {
@@ -26025,7 +24720,7 @@ const PRODUCTS = [
       "Concentração da Fragrância": "Eau de Toilette"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FD56JMQY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:37:19.000Z",
+    "last_checked_at": "2026-08-12T16:36:38.000Z",
     "spotlight": false
   },
   {
@@ -26065,7 +24760,7 @@ const PRODUCTS = [
       "Peso do produto": "27,6 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSVMZ2R5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:37:46.000Z",
+    "last_checked_at": "2026-08-12T16:37:07.000Z",
     "spotlight": false
   },
   {
@@ -26108,7 +24803,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DM2N5B2Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:37:56.000Z",
+    "last_checked_at": "2026-08-12T16:37:16.000Z",
     "spotlight": false
   },
   {
@@ -26145,7 +24840,7 @@ const PRODUCTS = [
       "Dimensões do produto": "10C x 10L x 43A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FNZZM3BM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:38:39.000Z",
+    "last_checked_at": "2026-08-12T16:37:56.000Z",
     "spotlight": false
   },
   {
@@ -26164,7 +24859,7 @@ const PRODUCTS = [
     "description": "Este Metal Gear Solid Delta Snake Eater Tactical Edition para PS5 é uma oferta inesquecível, com uma média de avaliação de 4.7/5 baseada em 1348 avaliações. A história, os personagens e a jogabilidade do clássico retornam refeitos para consoles modernos, oferecendo uma experiência inigualável. Novos gráficos incríveis detalham o crescimento exuberante das selvas, florestas e pântanos, enquanto os personagens são renderizados com detalhes minuciosos. Qualquer ferimento em seu corpo deixará sua marca permanentemente, contando a história da jornada única de cada jogador. Este produto oferece um excelente cust",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0D4RJGFDT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:39:00.000Z",
+    "last_checked_at": "2026-08-12T16:38:14.000Z",
     "spotlight": false
   },
   {
@@ -26200,7 +24895,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Ideal para cozinhas residenciais, apartamentos, casas, escritórios, áreas gourmet"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5KSDYDS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:39:09.000Z",
+    "last_checked_at": "2026-08-12T16:38:24.000Z",
     "spotlight": false
   },
   {
@@ -26234,7 +24929,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40P x 45L x 50A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9YSWR6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:39:19.000Z",
+    "last_checked_at": "2026-08-12T16:38:34.000Z",
     "spotlight": false
   },
   {
@@ -26243,7 +24938,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61T5ujX6pyL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 120.45,
+    "price_current": 120.55,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -26295,48 +24990,195 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C6MSDKYT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:39:40.000Z",
+    "last_checked_at": "2026-08-12T16:38:53.000Z",
     "spotlight": false
   },
   {
-    "asin": "B07CVCTJLQ",
-    "title": "Bosch Kit de pontas e brocas em titânio X-Line com 103 peças",
-    "image": "https://m.media-amazon.com/images/I/61DH3bWjvcS._SL1000_.jpg",
+    "asin": "B0FS9SXL26",
+    "title": "Cesto de Roupas Sujas Dobrável 70L em Bambu com Tampa e Forro Removível | Ideal para Banheiro, Lavanderia e Brinquedos",
+    "image": "https://m.media-amazon.com/images/I/71Mn7vMJPqL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 309.9,
+    "price_current": 78.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 182,
+    "coupon_code": null,
+    "description": "Este cesto de roupas em bambu de 70 litros é ideal para organizar sua lavanderia ou banheiro, oferecendo alças de corda trançada e um forro removível e lavável. A tampa superior com alça permite acesso fácil enquanto mantém as roupas sujas discretas e controla odores. Construído com estrutura de aço e acabamento natural, é durável, fácil de montar, guardar e transportar. Além disso, pode ser usado para armazenar brinquedos, toalhas ou roupas limpas.",
+    "informacoes_produto": {
+      "Características especiais": "Alças De Corda, Dobrável, Forro Lavável, Fácil De Higienizar, Tampa Removível",
+      "Número de peças": "1",
+      "Capacidade": "70 litros",
+      "Usos específicos do produto": "Armazenamento De Roupas Sujas, Organização De Lavanderia",
+      "Usos recomendados do produto": "Banheiro, Lavanderia, Quarto, Área De Serviço",
+      "Tipo de sala": "Banheiro, Dormitório, Lavanderia, Quarto, Quarto infantil",
+      "Tipo de fechamento": "Flip Top",
+      "Tipo de recipiente": "Cesta",
+      "Cor": "Bege",
+      "Estilo": "Moderno",
+      "Formato do item": "Retangular",
+      "Tema": "Lavanderia, Organizacao",
+      "Estampa": "Listrado",
+      "Material": "Bambu, Metal, Tecido",
+      "Nome da marca": "Genérico",
+      "Componentes incluídos": "Alças De Corda, Cesto De Bambu, Forro Removível, Tampa",
+      "País de origem": "China",
+      "Fabricante": "Não Especificado",
+      "Contagem de unidades": "1 Unidade",
+      "Número do modelo": "Não Especificado",
+      "ASIN": "B0FS9SXL26",
+      "Dimensões do item C x L x A": "30C x 40L x 58A centímetros",
+      "Tamanho": "70 Litros",
+      "Peso do item": "1,6 Quilogramas",
+      "Dimensões do produto": "30C x 40L x 58A centímetros",
+      "Marca": "Genérico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FS9SXL26?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:39:04.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07KYFQRXD",
+    "title": "MONDIAL Aparador de Pelos Super Groom 11, Preto/Prata, Bivolt - BG-05",
+    "image": "https://m.media-amazon.com/images/I/711eicqp4WL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 139.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 6727,
+    "coupon_code": null,
+    "description": "O MONDIAL Aparador de Pelos Super Groom 11 oferece uma variedade de pentes ajustáveis, permitindo aparar pelos no comprimento desejado com precisão e suavidade. Ideal para barba, corpo e pescoço, este aparador é perfeito para homens que buscam manter sua aparência limpa e bem-groomed. Ao lado do microbarbeador exclusivo, o produto inclui uma garantia de 12 meses e vem com uma ampla variedade de cabeças aparadoras e pentes de corte.",
+    "informacoes_produto": {
+      "Usos recomendados do produto": "Barba, Corpo, Pescoço",
+      "Descrição da garantia": "12 meses",
+      "Nome da marca": "MONDIAL",
+      "Público-alvo": "Homens",
+      "Nome do modelo": "Aparador de Pelos Super Groom 11",
+      "Usos específicos do produto": "Barbear a seco",
+      "Componentes incluídos": "01 Aparador de pelos completo; 05 Cabeças aparadoras; 05 Pentes de corte(3 mm, 6 mm, 9 mm, 12 mm, 15 mm); 01 pente ajustável (16 comprimentos); 01 Óleo lubrificante; 01 Carregador; 01 Base carregadora; Manual de Instruções e Manual de Assistência Técnica.",
+      "Contagem de unidades": "1.0 Unidade",
+      "Fabricante": "MK ELETRODOMESTICOS MONDIAL S.A.",
+      "Tipo de cabelo": "Todos",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Aparador de Pelos Super Groom 11 Bivolt",
+      "Número do modelo": "BG-05",
+      "Número da peça": "BG-05",
+      "ASIN": "B07KYFQRXD",
+      "Fonte de energia": "Energia elétrica",
+      "Características especiais": "Recarregável",
+      "Baterias são necessárias?": "Não",
+      "Comprimento Máximo de Corte": "16 Milímetros",
+      "Dimensões do artigo": "15,5 x 17,5 x 18,5 centímetros",
+      "Material": "Pólipropileno e Metal",
+      "Material da Lâmina": "Aço inoxidável",
+      "Cor": "Preto/Prata",
+      "Adequação do controle por rádio": "Barba, Corpo, Pescoço",
+      "Marca": "MONDIAL",
+      "Fonte de alimentação": "Energia elétrica"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07KYFQRXD?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:39:14.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B092XRM687",
+    "title": "Lifree Absorvente Geriátrico 20 Unidades",
+    "image": "https://m.media-amazon.com/images/I/71GkDMG-S5L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 21.85,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
     "avaliacao": 4.8,
-    "qtd_avaliacoes": 3346,
+    "qtd_avaliacoes": 1004,
     "coupon_code": null,
-    "description": "O Kit de pontas e brocas em titânio X-Line da Bosch, oferece uma solução completa para parafusar, fixar e perfurar em diferentes materiais, metal, madeira e alvenaria. Com 103 peças inclusivas, o kit é versátil e prático para diversos tipos de trabalho. O revestimento de titânio traz durabilidade e velocidade nas aplicações, enquanto o design das pontas evita o desgaste da cabeça do parafuso e seu encaixe hexagonal evita o deslizamento na ferramenta. Acompanha uma maleta robusta para armazenamento e transporte prático de todos os acessórios, com peso total de 3,4 quilogramas. Com uma avaliação",
+    "description": "Este Lifree Absorvente Geriátrico oferece um excelente custo-benefício, com uma alta absorção que ultrapassa os absorventes geriátricos e pós-parto comuns. Ademais, é fácil de se usar com apenas uma mão, sendo uma opção reconhecida pela marca Lifree.",
     "informacoes_produto": {
-      "Brand Name": "Bosch",
-      "Model Number": "2607017395",
-      "Fabricante": "Bosch",
-      "Part Number": "2607017395",
-      "Número de peças": "103",
-      "País de origem": "Alemanha",
-      "Componentes incluídos": "18 Brocas para Metal Ø1/1,5/2/2/2,5/3/3/3,5/4/4/4,5/5/5,5/6/6,5/7/8/10, 7 Brocas para Concreto Ø3/4/5/5,5/6/7/8mm, 7 Brocas para Madeira Ø3/4/5/6/7/8/10mm, 3 Brocas Chata Titânio Ø16/22/32mm, 4 Serras-Copo Ø32/38/45/54mm, 40 Pontas 25mm: SL, HEX, PH, PZ, Torx, 8 Soquetes Ø5/6/7/8/9/10/11/13mm, , 4 limitadores de profundidade Ø3/5/8/10mm, 1 adaptador magnético universal, 1 adaptador de soquete, 1 adaptador para serra-copo, 1 chave allen, 1 nível de bolha, 1 fita métrica, 1 martelo, 1 chave ajustável, 1 alicate de ponta fina, 1 alicate tradicional, 1 guia para broca, 1 limitador de profundidade, 1 maleta plástica para armazenamento.",
-      "Item Weight": "3,4 Quilogramas",
-      "Informações de contacto do fabricante": "Robert Bosch Ltda",
-      "ASIN": "B07CVCTJLQ",
-      "Dimensões do artigo": "33 x 36 x 2,7 centímetros",
-      "Material": "Titânio",
-      "Finish Types": "Nitreto de titânio",
-      "Tipo de haste": "Hex",
-      "Superfície Recomendada": "Madeira, Metal",
-      "Tipo de sulco da ferramenta": "Em linha reta",
-      "Número de sulcos": "2",
-      "Tipo de Acabamento": "Nitreto de titânio",
-      "Tipo da haste": "Hex",
-      "Marca": "Bosch",
-      "Dimensões do item C x L x A": "33 x 36 x 2,7 centímetros"
+      "Nome do produto": "‎Lifree Absorvente Geriátrico 20 Unidades",
+      "Unidades": "‎20 Unidade",
+      "Marca": "‎Lifree",
+      "Formato": "‎Pad",
+      "Número de unidades": "‎1",
+      "Tamanho": "‎20 Contagem (Pacote de 1)",
+      "Departamento": "‎Adultos",
+      "Fabricante": "‎Unicharm",
+      "Dimensões do produto": "‎45 x 10 x 0,54 cm; 32,2 g",
+      "ASIN": "‎B092XRM687",
+      "Funciona a bateria ou pilha?": "‎Não",
+      "EAN": "‎7898656390889",
+      "Dimensões do pacote": "30 x 20 x 10 centímetros",
+      "Disponível para compra desde": "16 abril 2021"
     },
-    "affiliate_url": "https://www.amazon.com.br/dp/B07CVCTJLQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:40:51.000Z",
+    "affiliate_url": "https://www.amazon.com.br/dp/B092XRM687?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:39:35.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0C6B19HQ9",
+    "title": "Câmera Inteligente Full HD iM5 SC Preta Intelbras",
+    "image": "https://m.media-amazon.com/images/I/41yXOc9-9HL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 259,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 608,
+    "coupon_code": null,
+    "description": "A câmera inteligente Full HD iM5 SC Preta Intelbras oferece uma visão nítida e de alta qualidade, capturando imagens mesmo em condições noturnas. Com proteção contra chuva e poeira, pode ser instalada ao ar livre sem risco de danos. Acesso pelo celular permite que você veja imagens ao vivo e receba alertas de movimento suspeito, tornando a segurança da sua casa mais fácil e confiável. Com um preço competitivo e características especiais como detecção de movimento com alertas no app, microfone embutido e proteção IP67, é uma opção interessante para quem busca segurança em casa.",
+    "informacoes_produto": {
+      "Características especiais": "Alcance infravermelho: 30m (IR inteligente), Detecção de movimento com alertas no app, Microfone embutido, Proteção: IP67 (resistente à água e poeira), Resolução Full HD (1920x1080p)",
+      "Utilização interior, exterior": "Área externa, Área interna",
+      "Dispositivos compatíveis": "Smartphone",
+      "Tipo de montagem": "Montagem na parede",
+      "Cor": "Preto",
+      "Fator de forma": "Bala",
+      "Material": "Plástico",
+      "Nível de resistência à água": "Resistente à água",
+      "Tipo de alerta": "Somente movimento",
+      "Tipo de sala": "Todos os quartos",
+      "Fonte de luz": "Infravermelho",
+      "Classificação de proteção internacional": "IP67",
+      "Tecnologia de conectividade": "Sem fio",
+      "Tipo de conectividade": "Wi-Fi",
+      "Tecnologia de comunicação sem fio": "Wi-fi",
+      "Resolução de captura de vídeo": "1080p",
+      "Formato de captura de vídeo": "AVI",
+      "Faixa de visão noturna": "30 Metros",
+      "Visão noturna": "Cor noturna",
+      "Usos recomendados do produto": "Segurança externa",
+      "Nome da marca": "intelbras",
+      "Nome do modelo": "CAMERA INTELBRAS MIBO IM5 SC BLACK IP 2MP WIFI 2.8MM IR30M OUTDOOR IP67 SUPORTE SD 4590006",
+      "Quantidade de itens": "1",
+      "Componentes incluídos": "Câmera, Fonte de energia bivolt, Guia de instalação, Kit de instalação",
+      "Número do modelo": "IM5 SC",
+      "País de origem": "Brasil",
+      "Usos específicos do produto": "Vigilância",
+      "Nome do Tipo de Produto": "Câmera de Segurança",
+      "Fabricante": "INTELBRAS",
+      "ASIN": "B0C6B19HQ9",
+      "Fonte de energia": "Não aplicável",
+      "Voltagem": "110 Volts, 220 Volts",
+      "Potência": "3.5 watts",
+      "Baterias são necessárias?": "Não",
+      "Campo de visão": "125 Graus",
+      "Dimensões do artigo": "7,5 x 7,5 x 14,7 centímetros",
+      "Peso do item": "615 Gramas",
+      "Contagem de unidades": "1 unidade",
+      "Adequação do controle por rádio": "Segurança externa",
+      "Marca": "intelbras",
+      "Nome do Modelo": "CAMERA INTELBRAS MIBO IM5 SC BLACK IP 2MP WIFI 2.8MM IR30M OUTDOOR IP67 SUPORTE SD 4590006",
+      "Tecnologia de Conectividade": "Sem fio"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0C6B19HQ9?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:39:45.000Z",
     "spotlight": false
   },
   {
@@ -26380,7 +25222,7 @@ const PRODUCTS = [
       "Característica do material": "Sem BPA, à prova de vazamentos, fácil de limpar"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPP5KGJ4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:41:02.000Z",
+    "last_checked_at": "2026-08-12T16:40:04.000Z",
     "spotlight": false
   },
   {
@@ -26411,7 +25253,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "20 maio 2020"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WFS7SDY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:41:34.000Z",
+    "last_checked_at": "2026-08-12T16:40:35.000Z",
     "spotlight": false
   },
   {
@@ -26450,7 +25292,7 @@ const PRODUCTS = [
       "Característica do material": "Natural"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C6N14MW2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:41:54.000Z",
+    "last_checked_at": "2026-08-12T16:40:57.000Z",
     "spotlight": false
   },
   {
@@ -26536,7 +25378,7 @@ const PRODUCTS = [
       "Peso do produto": "5,54 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FFVVD9RH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:42:25.000Z",
+    "last_checked_at": "2026-08-12T16:41:28.000Z",
     "spotlight": false
   },
   {
@@ -26559,7 +25401,7 @@ const PRODUCTS = [
       "ASIN": "B0GWJTLY99"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWJTLY99?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:42:55.000Z",
+    "last_checked_at": "2026-08-12T16:41:57.000Z",
     "spotlight": false
   },
   {
@@ -26588,7 +25430,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQP1B2D1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:43:27.000Z",
+    "last_checked_at": "2026-08-12T16:42:28.000Z",
     "spotlight": false
   },
   {
@@ -26637,7 +25479,7 @@ const PRODUCTS = [
       "Característica Especial": "Armazenamento Prático e Espaçoso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZ99Y541?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:43:49.000Z",
+    "last_checked_at": "2026-08-12T16:42:50.000Z",
     "spotlight": false
   },
   {
@@ -26667,7 +25509,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "elétrico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJMMBTL2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:43:58.000Z",
+    "last_checked_at": "2026-08-12T16:43:00.000Z",
     "spotlight": false
   },
   {
@@ -26709,7 +25551,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08ZGYHBJ7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:44:09.000Z",
+    "last_checked_at": "2026-08-12T16:43:10.000Z",
     "spotlight": false
   },
   {
@@ -26752,7 +25594,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085PJ15G9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:44:31.000Z",
+    "last_checked_at": "2026-08-12T16:43:31.000Z",
     "spotlight": false
   },
   {
@@ -26794,7 +25636,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1G2TL8P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:44:41.000Z",
+    "last_checked_at": "2026-08-12T16:43:40.000Z",
     "spotlight": false
   },
   {
@@ -26846,7 +25688,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Carvão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0772VSSKK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:45:01.000Z",
+    "last_checked_at": "2026-08-12T16:44:00.000Z",
     "spotlight": false
   },
   {
@@ -26879,7 +25721,7 @@ const PRODUCTS = [
       "É elétrico": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPPXQ58T?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:45:11.000Z",
+    "last_checked_at": "2026-08-12T16:44:09.000Z",
     "spotlight": false
   },
   {
@@ -26928,7 +25770,51 @@ const PRODUCTS = [
       "Informações de embalagem": "Garrafa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084C1L1GX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:45:21.000Z",
+    "last_checked_at": "2026-08-12T16:44:18.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B01MZ3Z72T",
+    "title": "Azeite de Oliva Extra Virgem Herdade do Esporão 500ml",
+    "image": "https://m.media-amazon.com/images/I/41JAJ84iYGL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 78,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1560,
+    "coupon_code": null,
+    "description": "Este Azeite de Oliva Extra Virgem Herdade do Esporão oferece um perfil fresco, suave e harmonioso, com bom equilíbrio dos aromas frutados típicos das azeitonas do Alentejo. Ideal para temperar, cozinhar e fritar, além de ser versátil em temperar sopas e pratos de forno. Com uma avaliação média de 4,8/5 (baseada em 1560 avaliações), é um produto de qualidade que oferece um excelente custo-benefício.",
+    "informacoes_produto": {
+      "Nome da marca": "Quinta do Crasto",
+      "Tipo de dieta": "Sem glúten",
+      "Sabor": "Olive",
+      "País de origem": "Portugal",
+      "Origem da mercadoria": "2",
+      "Informações sobre alérgenos": "Contém: Não contém glúten",
+      "Região de origem": "Douro",
+      "Fabricante": "Não informado",
+      "Número do modelo": "55685",
+      "Número da peça": "55685",
+      "Tipo de produto para planta ou animal": "extra virgin olive oil",
+      "ASIN": "B01MZ3Z72T",
+      "Volume do conteúdo líquido": "500 Mililitros",
+      "Quantidade de pacotes do item": "1",
+      "Peso do item": "500 Gramas",
+      "Dimensões do artigo": "7 x 7 x 15 centímetros",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "500 Mililitro",
+      "Número de peças": "1",
+      "Tamanho": "500 ml (Pacote de 1)",
+      "Marca": "Quinta do Crasto",
+      "Tipo de Dieta": "Sem glúten",
+      "Volume de Conteúdo Líquido": "500 Mililitros",
+      "Quantidade de embalagens do produto": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B01MZ3Z72T?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:44:51.000Z",
     "spotlight": false
   },
   {
@@ -26972,7 +25858,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:46:02.000Z",
+    "last_checked_at": "2026-08-12T16:45:00.000Z",
     "spotlight": false
   },
   {
@@ -27009,70 +25895,7 @@ const PRODUCTS = [
       "Peso do produto": "2,3 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FH6YR2ZR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:46:35.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DBR1N89F",
-    "title": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
-    "image": "https://m.media-amazon.com/images/I/919ZDa78WjL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 649.9,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 600,
-    "coupon_code": null,
-    "description": "A AWS-PB-07 oferece uma experiência de som nítida e em perfeita harmonia, graças à sua potência consistente de 100W RMS e ao sistema de duas vias. Ademais, a caixa de som possui um design resistente à respingos de água (IPX4) e uma bateria que dura 8 horas. Além disso, o controle da PartyBox pode ser feito pelo aplicativo AIWA Brasil, permitindo ajustes em DJ Effects, equalização, modos e níveis de intensidade das luzes.",
-    "informacoes_produto": {
-      "Modo de saída de áudio": "Stereo",
-      "Tipo de montagem": "Suporte de mesa",
-      "Material": "PP",
-      "Tipo de alto-falante": "Woofer",
-      "Características especiais": "RBG Colors Ligths",
-      "Usos recomendados do produto": "Para Computadores, Para Smartphones ou Tablets",
-      "Cor": "preto",
-      "É à prova d'água": "true",
-      "Tipo de garantia": "Limitado",
-      "Método de controle": "Voz",
-      "Tamanho do alto-falante": "6,5 Polegadas",
-      "Diâmetro do woofer": "6,5 Polegadas",
-      "Diâmetro do tweeter": "1,5 Polegadas",
-      "Alcance do Bluetooth": "10 Metros",
-      "Usos específicos do produto": "Festas e uso externo",
-      "Duração da bateria": "8 Horas",
-      "Leitor MP3": "Não",
-      "Tecnologia de conectividade": "Bluetooth",
-      "Tecnologia de comunicação sem fios": "Bluetooth",
-      "Tipo de conectividade": "Bluetooth",
-      "Fonte de energia": "Fio elétrico",
-      "Tipo de bateria": "Íon de lítio baterias necessárias. (inclusas)",
-      "Nome da marca": "Aiwa",
-      "Número do modelo": "AWS-PB-07",
-      "Nome do modelo": "Caixa de Som Party Box",
-      "Componentes incluídos": "01 Party Box; 01 Cabo de Carregamento e 01 Manual de Instruções.",
-      "Descrição da garantia": "12 meses",
-      "Quantidade de itens": "1",
-      "Fabricante": "AIWA",
-      "ASIN": "B0DBR1N89F",
-      "Potência máxima de saída do alto-falante": "100 watts",
-      "Configuração do canal som surround": "2",
-      "Contagem de unidades": "1 1",
-      "Dimensões do item P x L x A": "25,5P x 26,4L x 30,2A centímetros",
-      "Peso do item": "3,79 Quilogramas",
-      "Dispositivos compatíveis": "Notebook, Smartphone, Tablet",
-      "Tipo de controlador de áudio": "Controlador dinâmico",
-      "Tamanho do controlador de áudio": "6,5 Polegadas",
-      "Marca": "Aiwa",
-      "Potência máxima de saída dos alto-falantes": "100 watts",
-      "Tecnologia de Conectividade": "Bluetooth",
-      "Modo de Saída de Áudio": "Stereo",
-      "Tipo de Montagem": "Suporte de mesa"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DBR1N89F?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:46:54.000Z",
+    "last_checked_at": "2026-08-12T16:45:32.000Z",
     "spotlight": false
   },
   {
@@ -27107,7 +25930,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "GULD36W1/NhA-S | GULD36ZD1/A-S"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B081DK89PF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:47:05.000Z",
+    "last_checked_at": "2026-08-12T16:46:02.000Z",
     "spotlight": false
   },
   {
@@ -27116,7 +25939,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/416WNxgs-HL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 172.34,
+    "price_current": 174.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -27147,7 +25970,7 @@ const PRODUCTS = [
       "Forma": "Retangular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075XLLLM2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:47:16.000Z",
+    "last_checked_at": "2026-08-12T16:46:14.000Z",
     "spotlight": false
   },
   {
@@ -27190,7 +26013,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "1 serra marmore GDC 150, 1 chave allen, 1 chave de boca, 1 manual de instruções, 1 disco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076ZR4F36?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:47:27.000Z",
+    "last_checked_at": "2026-08-12T16:46:25.000Z",
     "spotlight": false
   },
   {
@@ -27242,7 +26065,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084RCXNJX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:47:37.000Z",
+    "last_checked_at": "2026-08-12T16:46:35.000Z",
     "spotlight": false
   },
   {
@@ -27283,7 +26106,7 @@ const PRODUCTS = [
       "Peso do produto": "19,5 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FK163DY6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:47:46.000Z",
+    "last_checked_at": "2026-08-12T16:46:45.000Z",
     "spotlight": false
   },
   {
@@ -27340,7 +26163,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BDR1P7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:49:16.000Z",
+    "last_checked_at": "2026-08-12T16:48:14.000Z",
     "spotlight": false
   },
   {
@@ -27413,7 +26236,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:49:27.000Z",
+    "last_checked_at": "2026-08-12T16:48:24.000Z",
     "spotlight": false
   },
   {
@@ -27422,7 +26245,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51EzEIVZ3cL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 2998.99,
+    "price_current": 2998.8,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -27476,7 +26299,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "4,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTC316HL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:49:38.000Z",
+    "last_checked_at": "2026-08-12T16:48:35.000Z",
     "spotlight": false
   },
   {
@@ -27485,7 +26308,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61FupVYWaxL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 4199.9,
+    "price_current": 3935.7,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -27539,7 +26362,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "4,1 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSY665M3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:50:20.000Z",
+    "last_checked_at": "2026-08-12T16:49:16.000Z",
     "spotlight": false
   },
   {
@@ -27548,7 +26371,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61Dfzukq7KL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "celulares e smartphones",
-    "price_current": 2417.99,
+    "price_current": 2375,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -27607,7 +26430,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DRD1SBSD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:50:29.000Z",
+    "last_checked_at": "2026-08-12T16:49:27.000Z",
     "spotlight": false
   },
   {
@@ -27616,7 +26439,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51pdYg3ULPL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 127.0,
+    "price_current": 127.93,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -27650,7 +26473,7 @@ const PRODUCTS = [
       "Característica Especial": "Leve"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCKDXPV6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:50:39.000Z",
+    "last_checked_at": "2026-08-12T16:49:37.000Z",
     "spotlight": false
   },
   {
@@ -27659,7 +26482,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51G4AxVAJxL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 484.99,
+    "price_current": 479,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -27701,53 +26524,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32P x 36,1L x 36A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZJDB39Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:50:48.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DCPWN2FG",
-    "title": "WAP Mixer Elétrico 3 em 1 com Processador, Miniprocessador e Batedor de Clara em Inox Prosdócimo WM1 1000W 220V",
-    "image": "https://m.media-amazon.com/images/I/61JZvofH46L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 178.99,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 313,
-    "coupon_code": null,
-    "description": "O Mixer Elétrico 3 em 1 da WAP oferece durabilidade e resistência para preparar alimentos, graças à haste e quatro lâminas em aço inox. Com velocidade regulável e função turbo, você pode selecionar a intensidade ideal para cada tipo de alimento e triturar até os mais difíceis. O design ergonômico do corpo do Mixer WM1 proporciona conforto e segurança durante o uso, enquanto seu design desmontável facilita a limpeza. Compre um mixer que oferece uma combinação de batedor de claras, mini processador de alimentos e copo com tampa, para realizar várias tarefas culinárias em um único equipamento.",
-    "informacoes_produto": {
-      "Nome da marca": "WAP",
-      "Componentes Incluídos": "Batedor de Claras, Mini Processador de Alimentos, Copo com tampa.",
-      "Usos recomendados do produto": "Bater, Mixing, Moer, Triturar",
-      "Fabricante": "WAP",
-      "País de origem": "China",
-      "Nome do Tipo de Produto": "Mixer Elétrico",
-      "Número do modelo": "FW010139",
-      "Número da peça": "FW010139",
-      "ASIN": "B0DCPWN2FG",
-      "Cor": "Preto e Cinza",
-      "Características especiais": "Leve, Portátil",
-      "Fonte de energia": "Energia elétrica",
-      "Potência": "1000 watts",
-      "Número de velocidades": "3",
-      "Voltagem": "220",
-      "Tipo de controles": "aço inoxidável",
-      "Capacidade": "700 ml",
-      "Dimensões do item P x L x A": "6,5P x 6,5L x 39,5A centímetros",
-      "Peso do item": "1,2 Quilogramas",
-      "Material": "Aço inoxidável + ABS",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "Material da Lâmina": "Aço inoxidável",
-      "Material de recipiente": "ABS",
-      "Marca": "WAP",
-      "Característica Especial": "Leve, Portátil",
-      "Dimensões do produto": "6,5P x 6,5L x 39,5A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DCPWN2FG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:51:08.000Z",
+    "last_checked_at": "2026-08-12T16:49:47.000Z",
     "spotlight": false
   },
   {
@@ -27756,7 +26533,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/716HuBmcRsL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 15.0,
+    "price_current": 18.5,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -27795,7 +26572,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Cooking"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJF94M8J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:51:50.000Z",
+    "last_checked_at": "2026-08-12T16:50:51.000Z",
     "spotlight": false
   },
   {
@@ -27804,7 +26581,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71UmpPqryOL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 29.9,
+    "price_current": 32.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -27830,7 +26607,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H7VV8XSF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:52:30.000Z",
+    "last_checked_at": "2026-08-12T16:51:32.000Z",
     "spotlight": false
   },
   {
@@ -27869,7 +26646,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Reduz o excesso de cloro livre na água, além de diminuir odores e sabores."
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256FGRK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:52:41.000Z",
+    "last_checked_at": "2026-08-12T16:51:42.000Z",
     "spotlight": false
   },
   {
@@ -27909,7 +26686,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256PXM8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:52:51.000Z",
+    "last_checked_at": "2026-08-12T16:51:53.000Z",
     "spotlight": false
   },
   {
@@ -27966,7 +26743,7 @@ const PRODUCTS = [
       "Característica Especial": "Parede Dupla Isolante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5TGYNPL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:53:09.000Z",
+    "last_checked_at": "2026-08-12T16:52:13.000Z",
     "spotlight": false
   },
   {
@@ -28005,7 +26782,7 @@ const PRODUCTS = [
       "Instruções de Cuidados do Produto": "Pode ser lavado na máquina de lavar louça"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07WGQ64QR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:53:18.000Z",
+    "last_checked_at": "2026-08-12T16:52:22.000Z",
     "spotlight": false
   },
   {
@@ -28014,7 +26791,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51IRloWQneL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 139.9,
+    "price_current": 141.55,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -28051,7 +26828,7 @@ const PRODUCTS = [
       "Usos Específicos do Produto": "Pão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09CC5DN5C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:53:46.000Z",
+    "last_checked_at": "2026-08-12T16:52:50.000Z",
     "spotlight": false
   },
   {
@@ -28060,7 +26837,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61TM-BYsCJL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 2.4,
+    "price_current": 3,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -28087,7 +26864,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aplicação de massa corrida, Nivelamento de superfícies"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07X82SVST?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:54:06.000Z",
+    "last_checked_at": "2026-08-12T16:53:10.000Z",
     "spotlight": false
   },
   {
@@ -28096,7 +26873,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51EDolwwHOS._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 49.9,
+    "price_current": 55,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -28147,7 +26924,7 @@ const PRODUCTS = [
       "Tipo de Conector": "Plug In"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07S14JHF2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:54:14.000Z",
+    "last_checked_at": "2026-08-12T16:53:18.000Z",
     "spotlight": false
   },
   {
@@ -28186,7 +26963,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CTN73L1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:54:22.000Z",
+    "last_checked_at": "2026-08-12T16:53:27.000Z",
     "spotlight": false
   },
   {
@@ -28225,7 +27002,7 @@ const PRODUCTS = [
       "Tipo de tomada": "Type G"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075X432B9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:54:43.000Z",
+    "last_checked_at": "2026-08-12T16:53:44.000Z",
     "spotlight": false
   },
   {
@@ -28263,7 +27040,7 @@ const PRODUCTS = [
       "Tipo de Conector": "Bivolt"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GFP98GKF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:54:52.000Z",
+    "last_checked_at": "2026-08-12T16:53:53.000Z",
     "spotlight": false
   },
   {
@@ -28306,7 +27083,7 @@ const PRODUCTS = [
       "Característica Especial": "Secagem rápida, Multiuso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B082WYPGVC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:55:11.000Z",
+    "last_checked_at": "2026-08-12T16:54:11.000Z",
     "spotlight": false
   },
   {
@@ -28343,7 +27120,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Proteção contra ruídos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08ZH4JVVN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:55:22.000Z",
+    "last_checked_at": "2026-08-12T16:54:22.000Z",
     "spotlight": false
   },
   {
@@ -28352,7 +27129,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61oWoZ+68iL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 499.55,
+    "price_current": 502.55,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -28406,7 +27183,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF2WSGF6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:55:32.000Z",
+    "last_checked_at": "2026-08-12T16:54:31.000Z",
     "spotlight": false
   },
   {
@@ -28454,7 +27231,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HQVSXZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:55:43.000Z",
+    "last_checked_at": "2026-08-12T16:54:40.000Z",
     "spotlight": false
   },
   {
@@ -28463,7 +27240,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51UFm7dGUuL._AC_SL1080_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 2277.99,
+    "price_current": 2374.05,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -28536,7 +27313,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2112 x 1320 (WUXGA+) Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:56:03.000Z",
+    "last_checked_at": "2026-08-12T16:55:00.000Z",
     "spotlight": false
   },
   {
@@ -28594,7 +27371,7 @@ const PRODUCTS = [
       "Característica Especial": "0,9m, 240W, Trançado e Livre de Sujeira"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DBTV5QF5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:56:14.000Z",
+    "last_checked_at": "2026-08-12T16:55:09.000Z",
     "spotlight": false
   },
   {
@@ -28693,7 +27470,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYVVRSSZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:56:33.000Z",
+    "last_checked_at": "2026-08-12T16:55:28.000Z",
     "spotlight": false
   },
   {
@@ -28757,7 +27534,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D8DPT7ZY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:56:44.000Z",
+    "last_checked_at": "2026-08-12T16:55:38.000Z",
     "spotlight": false
   },
   {
@@ -28819,7 +27596,7 @@ const PRODUCTS = [
       "Dimensões do produto": "5,81P x 4,35L x 2,59A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0050J4DOU?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:57:25.000Z",
+    "last_checked_at": "2026-08-12T16:56:20.000Z",
     "spotlight": false
   },
   {
@@ -28867,7 +27644,59 @@ const PRODUCTS = [
       "Velocidade de Gravação": "3.0"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754JVBGJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:57:34.000Z",
+    "last_checked_at": "2026-08-12T16:56:31.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GCZFXZJL",
+    "title": "Armazém Brasil, Monitor Portatil 15,6'', FHD 1080P Monitor Portátil Conectado Com USB C Dupla/HDMI, IPS Extensor De Tela para",
+    "image": "https://m.media-amazon.com/images/I/81hxGCobgzL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 379.99,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 64,
+    "coupon_code": null,
+    "description": "Este monitor portátil Armazém Brasil, de 15,6 polegadas FHD 1080P, oferece uma experiência visual excelente com sua tela IPS avançada e tecnologia HDR. Sua ampla compatibilidade permite conexão fácil com vários dispositivos, incluindo laptops, smartphones e consoles de jogos. Com 2 alto-falantes embutidos e um design ultra-fino, é ideal para uso em viagens ou entretenimento doméstico. Além disso, sua qualidade de imagem aprimorada e a cobertura inteligente garantem uma experiência confiável. Com preço competitivo, este monitor portátil oferece um excelente custo-benefício para quem procura uma solução portátil de al",
+    "informacoes_produto": {
+      "Proporção de aspecto": "16:9",
+      "Descrição da superfície da tela": "Brilhante",
+      "Taxa de atualização": "60 Hz",
+      "Tipo de tela": "IPS",
+      "Tecnologia da tela": "IPS",
+      "Ângulo de visão": "178 Graus",
+      "Tem tela colorida": "Sim",
+      "Tecnologia de Aprimoramento da Qualidade da Imagem": "IPS, HDR",
+      "Tamanho da tela": "15.6",
+      "Dimensões do item P x L x A": "3P x 34L x 20A centímetros",
+      "Peso do item": "1,8 Quilogramas",
+      "Resolução": "FHD 1080p Ultra Wide +",
+      "Resolução máxima da tela": "1920 x 1080 Pixels",
+      "Resolução nativa": "1920x1080",
+      "Total de portas HDMI": "1",
+      "Total de portas USB": "2",
+      "Total de portas de saída de vídeo": "3",
+      "Características especiais": "Portátil",
+      "Cor": "preto de carbono",
+      "Nome da marca": "Qutoso",
+      "Número do modelo": "QUBR-P156-10K9-060",
+      "Descrição da garantia": "1 anos",
+      "Fabricante": "Qutoso",
+      "Contagem de unidades": "1 Unidade",
+      "ASIN": "B0GCZFXZJL",
+      "Tempo de resposta": "1 Milliseconds",
+      "Tecnologia de conectividade": "Mini-HDMI, USB Tipo-C",
+      "Interface de hardware": "Mini HDMI, USB-C",
+      "Marca": "Qutoso",
+      "Tamanho da Tela": "15.6",
+      "Proporção de tela": "16:9",
+      "Descrição da Superfície da Tela": "Brilhante"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GCZFXZJL?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T16:56:40.000Z",
     "spotlight": false
   },
   {
@@ -28908,7 +27737,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Sobre a mesa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1C2GCK4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:57:53.000Z",
+    "last_checked_at": "2026-08-12T16:56:48.000Z",
     "spotlight": false
   },
   {
@@ -28951,7 +27780,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Desktops, Notebooks"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DZ9WD8HB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:58:03.000Z",
+    "last_checked_at": "2026-08-12T16:56:59.000Z",
     "spotlight": false
   },
   {
@@ -28960,7 +27789,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61jmtmDUR1L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 24.8,
+    "price_current": 25.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -29009,7 +27838,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07T99CGDF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:58:13.000Z",
+    "last_checked_at": "2026-08-12T16:57:09.000Z",
     "spotlight": false
   },
   {
@@ -29047,7 +27876,7 @@ const PRODUCTS = [
       "Total de Portas USB": "7"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F48MZ942?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:58:22.000Z",
+    "last_checked_at": "2026-08-12T16:57:20.000Z",
     "spotlight": false
   },
   {
@@ -29113,7 +27942,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVSVS9WH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:58:32.000Z",
+    "last_checked_at": "2026-08-12T16:57:31.000Z",
     "spotlight": false
   },
   {
@@ -29161,7 +27990,7 @@ const PRODUCTS = [
       "Forma do produto": "Rolo com folhas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C75GP7VP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:58:42.000Z",
+    "last_checked_at": "2026-08-12T16:57:41.000Z",
     "spotlight": false
   },
   {
@@ -29205,7 +28034,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:59:03.000Z",
+    "last_checked_at": "2026-08-12T16:58:01.000Z",
     "spotlight": false
   },
   {
@@ -29252,7 +28081,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:59:14.000Z",
+    "last_checked_at": "2026-08-12T16:58:12.000Z",
     "spotlight": false
   },
   {
@@ -29295,7 +28124,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:59:25.000Z",
+    "last_checked_at": "2026-08-12T16:58:21.000Z",
     "spotlight": false
   },
   {
@@ -29304,7 +28133,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51CUZh0m8bL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 479,
+    "price_current": 469.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -29346,7 +28175,7 @@ const PRODUCTS = [
       "Dimensões do produto": "37P x 32,7L x 37,6A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08R93TVRG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:59:36.000Z",
+    "last_checked_at": "2026-08-12T16:58:30.000Z",
     "spotlight": false
   },
   {
@@ -29388,7 +28217,7 @@ const PRODUCTS = [
       "Dimensões do produto": "36P x 28L x 33A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CRBJYG6P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:59:46.000Z",
+    "last_checked_at": "2026-08-12T16:58:41.000Z",
     "spotlight": false
   },
   {
@@ -29457,7 +28286,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,3 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVT6FMNG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T20:59:55.000Z",
+    "last_checked_at": "2026-08-12T16:58:50.000Z",
     "spotlight": false
   },
   {
@@ -29486,7 +28315,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "57.0 Grams"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DW9L8BFD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:00:04.000Z",
+    "last_checked_at": "2026-08-12T16:59:00.000Z",
     "spotlight": false
   },
   {
@@ -29530,7 +28359,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:00:13.000Z",
+    "last_checked_at": "2026-08-12T16:59:12.000Z",
     "spotlight": false
   },
   {
@@ -29573,7 +28402,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:00:23.000Z",
+    "last_checked_at": "2026-08-12T16:59:22.000Z",
     "spotlight": false
   },
   {
@@ -29582,7 +28411,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61v0SaOuJML._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 69.99,
+    "price_current": 68.89,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -29621,7 +28450,54 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B097S11KYF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:00:44.000Z",
+    "last_checked_at": "2026-08-12T16:59:41.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B076BB8J7Z",
+    "title": "Liquidificador, Ph900, 3L, Preto, 220V, Philco",
+    "image": "https://m.media-amazon.com/images/I/51UcFkAcKDL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 105.23,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 4401,
+    "coupon_code": null,
+    "description": "Este liquidificador Philco PH900 de 3 litros oferece diversas vantagens, como uma chave eletrônica com 12 velocidades e pulsar/autolimpeza, copo integrado com seis lâminas faca, alça do copo anatômica, tampa que permite servir sem retirá-la e tampinha dosadora graduada. Com uma avaliação de 4.6/5 (baseada em 4401 avaliações), este liquidificador oferece um excelente custo-benefício com seu preço de R$ 99,89.",
+    "informacoes_produto": {
+      "Nome da marca": "PHILCO",
+      "Componentes Incluídos": "Copo dosador, manual de instruções e mini folder.",
+      "Usos recomendados do produto": "Pulso, Triturar",
+      "Contagem de unidades": "1 Count",
+      "Fabricante": "PHILCO",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Liquidificador",
+      "Número do modelo": "103102017",
+      "Número da peça": "103102017",
+      "ASIN": "B076BB8J7Z",
+      "Cor": "Preto",
+      "Estilo": "Liquidificadores de bancada",
+      "Características especiais": "12 velocidades + pulsar, Acompanha Filtro, Potência de 1200W",
+      "Fonte de energia": "A",
+      "Potência": "1200",
+      "Número de velocidades": "12",
+      "Voltagem": "220 Volts",
+      "Tipo de controles": "Botão de pressão",
+      "Capacidade": "3 litros",
+      "Dimensões do item P x L x A": "17,5P x 20L x 42,5A centímetros",
+      "Peso do item": "1887 Gramas",
+      "Material": "Plástico e Metal",
+      "O item pode ser lavado na máquina de lavar louça?": "Sim",
+      "Material da Lâmina": "Metal",
+      "Marca": "PHILCO",
+      "Característica Especial": "12 velocidades + pulsar, Acompanha Filtro, Potência de 1200W",
+      "Dimensões do produto": "17,5P x 20L x 42,5A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B076BB8J7Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:00:00.000Z",
     "spotlight": false
   },
   {
@@ -29651,7 +28527,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "10 abril 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4G1GF7W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:01:14.000Z",
+    "last_checked_at": "2026-08-12T17:00:11.000Z",
     "spotlight": false
   },
   {
@@ -29704,7 +28580,7 @@ const PRODUCTS = [
       "Dimensões do produto": "45,3P x 56,9L x 33,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D3N6ZHT8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:01:23.000Z",
+    "last_checked_at": "2026-08-12T17:00:20.000Z",
     "spotlight": false
   },
   {
@@ -29752,7 +28628,7 @@ const PRODUCTS = [
       "Ingredientes ativos": "Ácido hialurônico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B06XQ27YLL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:01:44.000Z",
+    "last_checked_at": "2026-08-12T17:00:41.000Z",
     "spotlight": false
   },
   {
@@ -29786,7 +28662,7 @@ const PRODUCTS = [
       "Peso do produto": "530 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJCF8JV3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:01:53.000Z",
+    "last_checked_at": "2026-08-12T17:00:50.000Z",
     "spotlight": false
   },
   {
@@ -29795,7 +28671,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 63.9,
+    "price_current": 59.97,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -29829,7 +28705,7 @@ const PRODUCTS = [
       "Ingredientes ativos": "Vitamina E, aveia probiótica, vitamina B5"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9W32C1J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:02:03.000Z",
+    "last_checked_at": "2026-08-12T17:01:01.000Z",
     "spotlight": false
   },
   {
@@ -29838,7 +28714,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71pgfN1OJPL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 63.89,
+    "price_current": 63.88,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -29862,7 +28738,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "3 fevereiro 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTTLGRFH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:02:13.000Z",
+    "last_checked_at": "2026-08-12T17:01:12.000Z",
     "spotlight": false
   },
   {
@@ -29908,7 +28784,53 @@ const PRODUCTS = [
       "Característica Especial": "Indicado por Dermatologistas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B91WQ41J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:02:22.000Z",
+    "last_checked_at": "2026-08-12T17:01:21.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08YZ4CBG4",
+    "title": "Neutrogena Hidratante Facial Antissinais Reparado Face Care Intensive, 100g",
+    "image": "https://m.media-amazon.com/images/I/71wQlE6oJ3L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 25.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 13723,
+    "coupon_code": null,
+    "description": "Este Neutrogena Hidratante Facial Antissinais Reparado oferece uma hidratação intensa 24 horas, reduz a oleosidade da pele e fornece um efeito primer instantâneo. A fórmula avançada oferece mais ciência para sua pele, combate e previne os principais sinais do envelhecimento, uniformiza o tom e corrige marcas da pele. Com preço acessível de R$ 21,20, é um produto recomendado para quem busca uma hidratação profunda e correção de sinais do envelhecimento.",
+    "informacoes_produto": {
+      "Nome da marca": "Neutrogena",
+      "Descrição da faixa etária": "Adulto",
+      "Tipo de pele": "Todos os tipos de pele",
+      "Quantidade de itens": "1",
+      "Formato do item": "Creme",
+      "Parte do corpo pretendida para utilização": "Rosto",
+      "Benefícios do produto": "Ação antissinais, combate e previne os principais sinais do envelhecimento, uniformiza o tom e corrige marcas da pele, hidratação intensa com toque seco, restaura os danos diários durante a noite, previne linhas de expressão, ajuda a firmar a pele",
+      "Usos específicos do produto": "Envelhecimento",
+      "Usos recomendados do produto": "Envelhecimento, Oleosidade",
+      "Número de identificação de comércio internacional": "07891010253806",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "NEUTROGENA® Face Care Intensive Antissinais Reparador 100g",
+      "Fabricante": "Johnson &amp; Johnson",
+      "ASIN": "B08YZ4CBG4",
+      "Volume do item": "100 Mililitros",
+      "Dimensões do artigo": "5,8 x 5,8 x 5,7 centímetros",
+      "Contagem de unidades": "1.0 grams",
+      "Peso do item": "200 Gramas",
+      "Princípios ativos": "Vitamina C, Niacinamida, Dimeticone",
+      "Ingredientes especiais": "Vitamina C",
+      "Additional Features": "Tamanho para viagem",
+      "Marca": "Neutrogena",
+      "Volume do produto": "100 Mililitros",
+      "Dimensões do item C x L x A": "5,8 x 5,8 x 5,7 centímetros",
+      "Faixa etária (descrição)": "Adulto",
+      "Característica Especial": "Tamanho para viagem"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B08YZ4CBG4?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:01:31.000Z",
     "spotlight": false
   },
   {
@@ -29955,7 +28877,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CLYG96G5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:02:42.000Z",
+    "last_checked_at": "2026-08-12T17:01:40.000Z",
     "spotlight": false
   },
   {
@@ -29994,7 +28916,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22P x 26L x 8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B5B7ZCZZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:02:51.000Z",
+    "last_checked_at": "2026-08-12T17:01:49.000Z",
     "spotlight": false
   },
   {
@@ -30003,7 +28925,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41XTKM4Cg4L._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 469,
+    "price_current": 469.01,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -30047,7 +28969,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,3P x 45L x 26,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B097CM9H5M?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:03:01.000Z",
+    "last_checked_at": "2026-08-12T17:01:58.000Z",
     "spotlight": false
   },
   {
@@ -30093,7 +29015,7 @@ const PRODUCTS = [
       "Característica Especial": "Resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08YZGMQ3S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:03:22.000Z",
+    "last_checked_at": "2026-08-12T17:02:19.000Z",
     "spotlight": false
   },
   {
@@ -30135,7 +29057,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:03:34.000Z",
+    "last_checked_at": "2026-08-12T17:02:29.000Z",
     "spotlight": false
   },
   {
@@ -30144,7 +29066,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51pDaHGEVGL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 293.6,
+    "price_current": 293.61,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -30181,7 +29103,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,3P x 45L x 36,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QN1RW8K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:03:43.000Z",
+    "last_checked_at": "2026-08-12T17:02:39.000Z",
     "spotlight": false
   },
   {
@@ -30224,7 +29146,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHLYGXM3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:04:03.000Z",
+    "last_checked_at": "2026-08-12T17:03:00.000Z",
     "spotlight": false
   },
   {
@@ -30233,7 +29155,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/8160QjpuoOL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 214.99,
+    "price_current": 199.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -30269,7 +29191,7 @@ const PRODUCTS = [
       "Material": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:04:15.000Z",
+    "last_checked_at": "2026-08-12T17:03:08.000Z",
     "spotlight": false
   },
   {
@@ -30310,7 +29232,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Livre de parabenos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07MJZ74TS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:04:36.000Z",
+    "last_checked_at": "2026-08-12T17:03:29.000Z",
     "spotlight": false
   },
   {
@@ -30354,7 +29276,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:04:47.000Z",
+    "last_checked_at": "2026-08-12T17:03:38.000Z",
     "spotlight": false
   },
   {
@@ -30393,7 +29315,7 @@ const PRODUCTS = [
       "Característica Especial": "Cuidado com lã, Inverter"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:05:17.000Z",
+    "last_checked_at": "2026-08-12T17:04:07.000Z",
     "spotlight": false
   },
   {
@@ -30442,7 +29364,7 @@ const PRODUCTS = [
       "Dimensões do produto": "42,1P x 58,4L x 36,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZTCPRF5?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:05:36.000Z",
+    "last_checked_at": "2026-08-12T17:04:25.000Z",
     "spotlight": false
   },
   {
@@ -30451,7 +29373,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61SbBvInC-L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 35.9,
+    "price_current": 32.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -30483,7 +29405,7 @@ const PRODUCTS = [
       "Forma do produto": "Granulado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DM6WQ1CY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:05:47.000Z",
+    "last_checked_at": "2026-08-12T17:04:37.000Z",
     "spotlight": false
   },
   {
@@ -30531,7 +29453,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D2DTWCPY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:06:36.000Z",
+    "last_checked_at": "2026-08-12T17:05:28.000Z",
     "spotlight": false
   },
   {
@@ -30579,7 +29501,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086BWVXVN?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:06:45.000Z",
+    "last_checked_at": "2026-08-12T17:05:37.000Z",
     "spotlight": false
   },
   {
@@ -30617,7 +29539,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075X3G93W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:06:55.000Z",
+    "last_checked_at": "2026-08-12T17:05:46.000Z",
     "spotlight": false
   },
   {
@@ -30653,7 +29575,7 @@ const PRODUCTS = [
       "Tamanho da folha": "A4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WTDCC9Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:07:07.000Z",
+    "last_checked_at": "2026-08-12T17:05:57.000Z",
     "spotlight": false
   },
   {
@@ -30697,7 +29619,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "42 x 22,5 x 30 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09546WCVZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:07:16.000Z",
+    "last_checked_at": "2026-08-12T17:06:07.000Z",
     "spotlight": false
   },
   {
@@ -30741,7 +29663,7 @@ const PRODUCTS = [
       "Peso do produto": "1,08 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QWZJ6SG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:07:27.000Z",
+    "last_checked_at": "2026-08-12T17:06:16.000Z",
     "spotlight": false
   },
   {
@@ -30774,7 +29696,7 @@ const PRODUCTS = [
       "É elétrico": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPPXQ58T?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:07:58.000Z",
+    "last_checked_at": "2026-08-12T17:06:45.000Z",
     "spotlight": false
   },
   {
@@ -30806,7 +29728,7 @@ const PRODUCTS = [
       "Dimensões do produto": "26C x 8L x 29A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMYQN74L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:08:09.000Z",
+    "last_checked_at": "2026-08-12T17:06:54.000Z",
     "spotlight": false
   },
   {
@@ -30862,7 +29784,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGQLYST1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:08:29.000Z",
+    "last_checked_at": "2026-08-12T17:07:13.000Z",
     "spotlight": false
   },
   {
@@ -30908,7 +29830,7 @@ const PRODUCTS = [
       "Dimensões do produto": "20,5P x 35,5L x 25,6A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B097J19HZ3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:09:10.000Z",
+    "last_checked_at": "2026-08-12T17:07:53.000Z",
     "spotlight": false
   },
   {
@@ -30952,7 +29874,7 @@ const PRODUCTS = [
       "Capacidade": "20 litros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BS6YVRPH?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:09:20.000Z",
+    "last_checked_at": "2026-08-12T17:08:03.000Z",
     "spotlight": false
   },
   {
@@ -31000,7 +29922,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CLWB1FT7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:09:29.000Z",
+    "last_checked_at": "2026-08-12T17:08:14.000Z",
     "spotlight": false
   },
   {
@@ -31046,7 +29968,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B088P9L8GJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:09:49.000Z",
+    "last_checked_at": "2026-08-12T17:08:36.000Z",
     "spotlight": false
   },
   {
@@ -31093,7 +30015,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escola, passeios, atividades ao ar livre"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F3V4WWKQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:10:00.000Z",
+    "last_checked_at": "2026-08-12T17:08:46.000Z",
     "spotlight": false
   },
   {
@@ -31133,7 +30055,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DQ22Z88W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:10:48.000Z",
+    "last_checked_at": "2026-08-12T17:09:39.000Z",
     "spotlight": false
   },
   {
@@ -31171,7 +30093,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "5 março 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DZF6QWN2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:10:57.000Z",
+    "last_checked_at": "2026-08-12T17:09:50.000Z",
     "spotlight": false
   },
   {
@@ -31262,7 +30184,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8,9P x 71,7L x 43,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPBPPYBR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:11:17.000Z",
+    "last_checked_at": "2026-08-12T17:10:09.000Z",
     "spotlight": false
   },
   {
@@ -31337,7 +30259,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQXM1FXT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:11:28.000Z",
+    "last_checked_at": "2026-08-12T17:10:20.000Z",
     "spotlight": false
   },
   {
@@ -31371,7 +30293,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "24 outubro 2017"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076QBVLG6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:11:55.000Z",
+    "last_checked_at": "2026-08-12T17:10:52.000Z",
     "spotlight": false
   },
   {
@@ -31419,7 +30341,7 @@ const PRODUCTS = [
       "Marca": "Casal Garcia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DPL6H9X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:12:06.000Z",
+    "last_checked_at": "2026-08-12T17:11:02.000Z",
     "spotlight": false
   },
   {
@@ -31428,9 +30350,9 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71pl4ldVIqL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 129.9,
+    "price_current": 120.62,
     "price_original": null,
-    "discount_percentage": 5,
+    "discount_percentage": null,
     "tem_oferta": true,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1869,
@@ -31468,41 +30390,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DJTK79S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:12:40.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0G25PGPJG",
-    "title": "Bomba tira leite elétrica Bellababy vestível mãos-livres, bomba dupla sem fio atualizada com flange confortável, inserções de 17 mm, 19 mm e 21 mm, 4 modos e 9 níveis, bomba elétrica portátil, visor inteligente, 24 mm, pacote com 2 unidades",
-    "image": "https://m.media-amazon.com/images/I/61qpolgqrcL._AC_SL1499_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 511.29,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 5098,
-    "coupon_code": null,
-    "description": "Este kit de bomba elétrica Bellababy é uma oferta inesquecível para as mães que procuram maior flexibilidade e conforto ao extraírem leite. A bomba vem equipada com flanges extras, permitindo a troca de tamanhos facilmente, além de 4 modos e 9 níveis de sução para otimizar a produção de leite. O design compacto e leve permite que você extraia leite em qualquer lugar, sem precisar ficar presa a uma tomada. Além disso, o kit é prático e possui poucas peças para limpar, sendo muito conveniente para mães ocupadas com pouco tempo disponível. Com um preço de R$ 538.20 e uma avaliação média",
-    "informacoes_produto": {
-      "Nome da marca": "Bellababy",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "1 Conjunto",
-      "Fabricante": "Bellababy",
-      "País de origem": "China",
-      "Número do modelo": "BLA8040-02",
-      "Número da peça": "40-02",
-      "ASIN": "B0G25PGPJG",
-      "Fonte de energia": "DC",
-      "Tamanho": "dobro",
-      "Cor": "preto",
-      "Marca": "Bellababy",
-      "Fonte de alimentação": "DC",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0G25PGPJG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:12:49.000Z",
+    "last_checked_at": "2026-08-12T17:11:36.000Z",
     "spotlight": false
   },
   {
@@ -31552,7 +30440,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Revestido em pó"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SK926K?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:13:11.000Z",
+    "last_checked_at": "2026-08-12T17:12:17.000Z",
     "spotlight": false
   },
   {
@@ -31561,7 +30449,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41jXZmfuQoL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 2049.0,
+    "price_current": 2099,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -31605,7 +30493,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8VWZRG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:13:22.000Z",
+    "last_checked_at": "2026-08-12T17:12:27.000Z",
     "spotlight": false
   },
   {
@@ -31655,7 +30543,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0798XT2VK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:13:32.000Z",
+    "last_checked_at": "2026-08-12T17:12:36.000Z",
     "spotlight": false
   },
   {
@@ -31664,7 +30552,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41OTSrcA4dL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 426.62,
+    "price_current": 474.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -31704,7 +30592,7 @@ const PRODUCTS = [
       "Capacidade de fluxo de ar": "210 Metros cúbicos por hora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HZ5SX7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:13:42.000Z",
+    "last_checked_at": "2026-08-12T17:12:46.000Z",
     "spotlight": false
   },
   {
@@ -31751,7 +30639,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Energia elétrica, Gás"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B081DBCK53?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:13:51.000Z",
+    "last_checked_at": "2026-08-12T17:12:56.000Z",
     "spotlight": false
   },
   {
@@ -31804,45 +30692,7 @@ const PRODUCTS = [
       "Marca": "GATAO"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H51Q6BTB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:14:00.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GV1QBBN4",
-    "title": "Kit 15 Potes Herméticos para Armazenamento de Alimentos, BPA Free, Plástico PP, com Travas Laterais e Vedação em Silicone, Em",
-    "image": "https://m.media-amazon.com/images/I/7127qPhnmQL._AC_SL1254_.jpg",
-    "canonical": null,
-    "category": "cozinha",
-    "price_current": 79.98,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 107,
-    "coupon_code": null,
-    "description": "Este Kit de 15 Potes Herméticos BPA Free é uma excelente opção para armazenamento de alimentos, oferecendo segurança e conservação ideal graças às travas laterais e vedação em silicone. A organização na cozinha é facilitada pelo design empilhável da Linha Gourmet Premium, com dimensões de 25x25x20 centímetros por unidade. O kit inclui 15 potes herméticos, sendo ideal para armazenamento prático no dia a dia. Fabricados em plástico PP resistente e sem BPA, são reutilizáveis e seguros para micro-ondas e freezer. A marca RHEAD RED HIGH END STUDIOS garante qualidade e confiabilidade.",
-    "informacoes_produto": {
-      "Material": "Polipropileno",
-      "Características do material": "Sem BPA, Reutilizável",
-      "Instruções de cuidados com o produto": "Lave na máquina, seguro para micro-ondas e freezer. Não recomendado para uso no forno. Seque com um pano úmido ou seco após o uso.",
-      "Características especiais": "Hermético",
-      "Hermeticidade do Recipiente de Armazenamento de Alimentos": "Airtight",
-      "Dimensões do item C x L x A": "25C x 25L x 20A centímetros",
-      "Tamanho": "Kit de 15 unidades",
-      "Nome da marca": "RHEAD RED HIGH END STUDIOS",
-      "Usos recomendados do produto": "Arroz, Biscoitos, Cereal, Comida para animais, Especiarias, Feijão, Macarrão, Manteiga, Massa, Pão",
-      "Formato do item": "Contêineres herméticos com trava lateral",
-      "Fabricante": "Importado",
-      "País de origem": "China",
-      "Componentes incluídos": "15 potes hermeticos",
-      "ASIN": "B0GV1QBBN4",
-      "Marca": "RHEAD RED HIGH END STUDIOS",
-      "Característica do material": "Sem BPA, Reutilizável",
-      "Dimensões do produto": "25C x 25L x 20A centímetros",
-      "Adequação do controle por rádio": "Arroz, Biscoitos, Cereal, Comida para animais, Especiarias, Feijão, Macarrão, Manteiga, Massa, Pão"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GV1QBBN4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:14:20.000Z",
+    "last_checked_at": "2026-08-12T17:13:05.000Z",
     "spotlight": false
   },
   {
@@ -31851,7 +30701,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61x2HGF7CfL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 59.28,
+    "price_current": 60.89,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -31886,7 +30736,7 @@ const PRODUCTS = [
       "Instruções de Cuidados do Produto": "Pode ser lavado na máquina de lavar louça"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0789M146B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:14:30.000Z",
+    "last_checked_at": "2026-08-12T17:13:44.000Z",
     "spotlight": false
   },
   {
@@ -31895,7 +30745,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61WqzwY7Z6L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 439.85,
+    "price_current": 464.06,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -31935,7 +30785,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33,8P x 43,9L x 25,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FGZDPSXG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:14:41.000Z",
+    "last_checked_at": "2026-08-12T17:13:54.000Z",
     "spotlight": false
   },
   {
@@ -31944,7 +30794,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/815obUJiSQL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 158.0,
+    "price_current": 159,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -31984,7 +30834,7 @@ const PRODUCTS = [
       "Dimensões do produto": "19P x 19,5L x 27A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0764H7W59?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:15:20.000Z",
+    "last_checked_at": "2026-08-12T17:14:35.000Z",
     "spotlight": false
   },
   {
@@ -31993,7 +30843,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71kaXJINRyL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 131.0,
+    "price_current": 129.7,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32027,7 +30877,7 @@ const PRODUCTS = [
       "Instruções de Cuidados do Produto": "Lavar à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07ND48FF4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:15:51.000Z",
+    "last_checked_at": "2026-08-12T17:15:06.000Z",
     "spotlight": false
   },
   {
@@ -32036,7 +30886,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61PyijjtZbL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ferramentas e Materiais de Construção",
-    "price_current": 31.82,
+    "price_current": 40.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32065,7 +30915,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075X3G93W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:16:19.000Z",
+    "last_checked_at": "2026-08-12T17:15:37.000Z",
     "spotlight": false
   },
   {
@@ -32102,7 +30952,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Repetidor Sinal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F48HW5QJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:17:06.000Z",
+    "last_checked_at": "2026-08-12T17:16:23.000Z",
     "spotlight": false
   },
   {
@@ -32111,7 +30961,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51g5ObsHk-L._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 33.57,
+    "price_current": 38.39,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32138,7 +30988,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "19 abril 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C2ZGCCW7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:17:26.000Z",
+    "last_checked_at": "2026-08-12T17:16:41.000Z",
     "spotlight": false
   },
   {
@@ -32147,7 +30997,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61bsBAPQB7L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 32.54,
+    "price_current": 36.82,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32177,7 +31027,7 @@ const PRODUCTS = [
       "Volume líquido": "100 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07H113TPQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:17:38.000Z",
+    "last_checked_at": "2026-08-12T17:16:51.000Z",
     "spotlight": false
   },
   {
@@ -32227,7 +31077,7 @@ const PRODUCTS = [
       "Característica Especial": "Extura fluida, não oleosa, e de rápida absorção."
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07RK4HST7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:17:58.000Z",
+    "last_checked_at": "2026-08-12T17:17:15.000Z",
     "spotlight": false
   },
   {
@@ -32270,7 +31120,46 @@ const PRODUCTS = [
       "Vantagens do produto": "Volume"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G45KPX15?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:18:16.000Z",
+    "last_checked_at": "2026-08-12T17:17:34.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07SBXMSGB",
+    "title": "Argan Óleo Reparador 50ml , Lola Cosmetics",
+    "image": "https://m.media-amazon.com/images/I/41sfmT4opyL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "beleza",
+    "price_current": 20.62,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 46237,
+    "coupon_code": null,
+    "description": "O Argan Óleo Reparador de Lola Cosmetics é um produto de beleza que se destaca por reparar cabelos danificados, eliminar o frizz e conferir brilho intenso. Com uma formulação leve absorvida rapidamente, este óleo capilar de 50ml protege contra calor de secadores e pranchas, alinhando o cabelo com leveza e mantendo proteção contínua contra agressores externos. Este produto é ideal para uso diário na finalização dos fios, oferecendo um bom custo-benefício.",
+    "informacoes_produto": {
+      "Benefícios do produto": "Frizz",
+      "Tipo de cabelo": "Todos os tipos de cabelos",
+      "Aroma": "Floral amadeirada com toque cítrico e notas doces especiadas",
+      "Formato do item": "Óleo",
+      "Nome da marca": "Lola",
+      "Fabricante": "Lola Cosmetics",
+      "País de origem": "Brasil",
+      "Peso do item": "20 Gramas",
+      "Nome do Tipo de Produto": "Argan Oil novo 50 ml",
+      "ASIN": "B07SBXMSGB",
+      "Volume de líquido": "50 Mililitros",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "50 mililitro",
+      "Volume do item": "50 Mililitros",
+      "Livre de tipo de material": "Produto vegano",
+      "Vantagens do produto": "Frizz",
+      "Tipo de Cabelo": "Todos os tipos de cabelos",
+      "Tipo de material livre": "Produto vegano",
+      "Volume líquido": "50 Mililitros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:17:53.000Z",
     "spotlight": false
   },
   {
@@ -32279,7 +31168,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71fF+WE75FL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 34.98,
+    "price_current": 41.56,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32306,7 +31195,7 @@ const PRODUCTS = [
       "Volume líquido": "100 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3YGYW4Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:18:47.000Z",
+    "last_checked_at": "2026-08-12T17:18:04.000Z",
     "spotlight": false
   },
   {
@@ -32353,7 +31242,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00XDX9JJY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:18:57.000Z",
+    "last_checked_at": "2026-08-12T17:18:14.000Z",
     "spotlight": false
   },
   {
@@ -32362,7 +31251,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/4172WubM1kL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 39.61,
+    "price_current": 47.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32399,7 +31288,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "13.0 count"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08NVMP2YZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:19:26.000Z",
+    "last_checked_at": "2026-08-12T17:18:45.000Z",
     "spotlight": false
   },
   {
@@ -32408,7 +31297,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61vrINzJy-L._AC_SL1200_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 16.49,
+    "price_current": 17.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32444,7 +31333,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08XNTQNFB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:20:00.000Z",
+    "last_checked_at": "2026-08-12T17:19:16.000Z",
     "spotlight": false
   },
   {
@@ -32453,7 +31342,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ftpr2TpXL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 38.96,
+    "price_current": 49.31,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32491,7 +31380,7 @@ const PRODUCTS = [
       "Característica Especial": "Resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CB716LLZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:20:10.000Z",
+    "last_checked_at": "2026-08-12T17:19:26.000Z",
     "spotlight": false
   },
   {
@@ -32500,7 +31389,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51vDem8tXLL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 62.69,
+    "price_current": 65.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32533,7 +31422,45 @@ const PRODUCTS = [
       "Característica Especial": "Uma criação efervescente earomática."
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SSMCZ7Z?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:20:19.000Z",
+    "last_checked_at": "2026-08-12T17:19:36.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BLZVD5S5",
+    "title": "La Roche-Posay, Ultra Cover, Protetor Solar com Cor e Performance de Maquiagem, 12h de cobertura de base em uma única camada,",
+    "image": "https://m.media-amazon.com/images/I/41qWhEJxnaL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "beleza",
+    "price_current": 68.87,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 12804,
+    "coupon_code": null,
+    "description": "Este produto La Roche-Posay Ultra Cover oferece uma proteção solar de alta performance combinada com maquiagem, fornecendo 12 horas de cobertura em uma única camada. Ademais, é leve, não craqueja e possui um toque seco, sendo adequado para todos os tipos de pele. Além disso, conta com cinco cores especificamente desenvolvidas para pele brasileira. Com benefícios como proteção contra luz visível, hipoalergênico, ingredientes naturais e não testado em animais, o custo-benefício é uma ótima opção para quem procura uma maquiagem solar de alta qualidade.",
+    "informacoes_produto": {
+      "Aroma": "Fragrância Leve e Agradável",
+      "Benefícios do produto": "Protetor solar com performance de maquiagem, 12h de cobertura de base em uma única camada, não pesa, não craquelaProteção contra luz visível",
+      "Tipo de pele": "Normal, Oleosa, Seca, Sensível, Todos os tipos de pele",
+      "Formato do item": "Creme",
+      "Cor": "Cor 3.0",
+      "Additional Features": "Hipoalergênico, Ingredientes naturais, Não testado em animais, Orgânico",
+      "Peso do item": "40 Gramas",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "30.0 Mililitros",
+      "Dimensões do artigo": "20 x 30 x 140 milímetros",
+      "Nome da marca": "La Roche-Posay",
+      "Fabricante": "L'oréal DCA BR",
+      "País de origem": "Brasil",
+      "Número da peça": "027250",
+      "ASIN": "B0BLZVD5S5",
+      "Peso do produto": "40 Gramas",
+      "Número de itens": "1",
+      "Quantidade de Unidades": "30.0 Mililitros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BLZVD5S5?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:19:47.000Z",
     "spotlight": false
   },
   {
@@ -32542,7 +31469,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61duJU3Ug1L._AC_SL1200_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 36.71,
+    "price_current": 36.68,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32583,7 +31510,7 @@ const PRODUCTS = [
       "Característica Especial": "Hipoalergênico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FBDLYLSZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:20:37.000Z",
+    "last_checked_at": "2026-08-12T17:19:55.000Z",
     "spotlight": false
   },
   {
@@ -32592,7 +31519,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61c8REdcT0L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 26.9,
+    "price_current": 27.43,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32632,7 +31559,7 @@ const PRODUCTS = [
       "Tipo de Pele": "Seca, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07LFFGZ93?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:20:47.000Z",
+    "last_checked_at": "2026-08-12T17:20:05.000Z",
     "spotlight": false
   },
   {
@@ -32672,7 +31599,7 @@ const PRODUCTS = [
       "Volume líquido": "200 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08PPKQTFB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:21:07.000Z",
+    "last_checked_at": "2026-08-12T17:20:25.000Z",
     "spotlight": false
   },
   {
@@ -32709,7 +31636,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08VCP7GMD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:21:16.000Z",
+    "last_checked_at": "2026-08-12T17:20:35.000Z",
     "spotlight": false
   },
   {
@@ -32718,7 +31645,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61dJPM0QUyL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 61.99,
+    "price_current": 63.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32760,7 +31687,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZD6R4QK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:21:45.000Z",
+    "last_checked_at": "2026-08-12T17:21:04.000Z",
     "spotlight": false
   },
   {
@@ -32769,7 +31696,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ZmtBUaVEL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "beleza",
-    "price_current": 35.18,
+    "price_current": 34.94,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -32789,7 +31716,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "9 setembro 2024"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGMDDXL7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:21:56.000Z",
+    "last_checked_at": "2026-08-12T17:21:14.000Z",
     "spotlight": false
   },
   {
@@ -32863,7 +31790,7 @@ const PRODUCTS = [
       "Dimensões do produto": "7,6P x 96,6L x 56,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GC17K7K7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:22:07.000Z",
+    "last_checked_at": "2026-08-12T17:21:24.000Z",
     "spotlight": false
   },
   {
@@ -32888,7 +31815,7 @@ const PRODUCTS = [
       "Resolução": "2160 x 1080"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:22:37.000Z",
+    "last_checked_at": "2026-08-12T17:21:53.000Z",
     "spotlight": false
   },
   {
@@ -32963,7 +31890,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D5HN8B1F?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:22:47.000Z",
+    "last_checked_at": "2026-08-12T17:22:02.000Z",
     "spotlight": false
   },
   {
@@ -33029,7 +31956,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Metálico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2G9P6JD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:22:58.000Z",
+    "last_checked_at": "2026-08-12T17:22:12.000Z",
     "spotlight": false
   },
   {
@@ -33077,7 +32004,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33P x 33L x 33A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMDNT137?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:23:34.000Z",
+    "last_checked_at": "2026-08-12T17:22:46.000Z",
     "spotlight": false
   },
   {
@@ -33109,7 +32036,7 @@ const PRODUCTS = [
       "Quantidade de Unidades": "15 mililitro(s)"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMV4CYH6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:23:54.000Z",
+    "last_checked_at": "2026-08-12T17:23:08.000Z",
     "spotlight": false
   },
   {
@@ -33150,7 +32077,7 @@ const PRODUCTS = [
       "Dimensões do produto": "31,8P x 32,1L x 100,7A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07734SYSK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:24:14.000Z",
+    "last_checked_at": "2026-08-12T17:23:30.000Z",
     "spotlight": false
   },
   {
@@ -33159,7 +32086,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61UKDsyvpCL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 222.13,
+    "price_current": 189,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -33188,7 +32115,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40P x 21L x 23A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9ZX2DSL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:24:25.000Z",
+    "last_checked_at": "2026-08-12T17:23:38.000Z",
     "spotlight": false
   },
   {
@@ -33213,7 +32140,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,1 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GTRWMZWZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:24:55.000Z",
+    "last_checked_at": "2026-08-12T17:24:11.000Z",
     "spotlight": false
   },
   {
@@ -33265,7 +32192,7 @@ const PRODUCTS = [
       "Característica Especial": "À prova de vazamento"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00WJNITLS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:25:43.000Z",
+    "last_checked_at": "2026-08-12T17:25:01.000Z",
     "spotlight": false
   },
   {
@@ -33339,7 +32266,7 @@ const PRODUCTS = [
       "Característica Especial": "Visão noturna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0975WWR2C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:25:52.000Z",
+    "last_checked_at": "2026-08-12T17:25:09.000Z",
     "spotlight": false
   },
   {
@@ -33415,7 +32342,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "USB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CP6BG9QW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:26:40.000Z",
+    "last_checked_at": "2026-08-12T17:25:59.000Z",
     "spotlight": false
   },
   {
@@ -33438,7 +32365,7 @@ const PRODUCTS = [
       "Cor": "127V"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G5SMX5CC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:27:01.000Z",
+    "last_checked_at": "2026-08-12T17:26:17.000Z",
     "spotlight": false
   },
   {
@@ -33493,7 +32420,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Q437WXK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:27:12.000Z",
+    "last_checked_at": "2026-08-12T17:26:27.000Z",
     "spotlight": false
   },
   {
@@ -33533,7 +32460,7 @@ const PRODUCTS = [
       "Número de itens": "3"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08KL4GQZV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:27:44.000Z",
+    "last_checked_at": "2026-08-12T17:26:55.000Z",
     "spotlight": false
   },
   {
@@ -33542,7 +32469,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/613IpTE2o2L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 50.57,
+    "price_current": 50.55,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -33580,7 +32507,64 @@ const PRODUCTS = [
       "Característica Especial": "Com tampa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0788WRD5H?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:28:07.000Z",
+    "last_checked_at": "2026-08-12T17:27:17.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GVGN7JVJ",
+    "title": "Bolsa Térmica Lancheira com Alça de Ombro para Marmita - Academira, Trabalho, Escola, Faculdade e Passeios - Marmiteira Impermeável Resistente 7 Litros - Cor PRETA",
+    "image": "https://m.media-amazon.com/images/I/51VC8wiM3oL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 29.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 107,
+    "coupon_code": null,
+    "description": "Este bolsa térmica lancheira, com alça de ombro, é uma ótima escolha para transportar marmitas e alimentos durante trabalho, academia, escola ou passeios. A sua capacidade de 7 litros permite acomodar uma marmita, garrafa e lanches, mantendo tudo organizado e protegido durante o transporte. Além disso, a bolsa é impermeável e resistente, com revestimento interno isolante que conserva alimentos quentes ou frios por até 6 horas. Ademais, possui alça transversal ajustável e removível para maior conforto em qualquer rotina. Por fim, o zíper reforçado com abertura ampla facilita o acesso aos alimentos e aumenta a durabil",
+    "informacoes_produto": {
+      "Nome da marca": "Genérico",
+      "Usos recomendados do produto": "Transportar marmitas para trabalho, escola, academia e passeios",
+      "Componentes Incluídos": "Lancheira",
+      "País de origem": "China",
+      "Fabricante": "Importado",
+      "ASIN": "B0GVGN7JVJ",
+      "Características especiais": "Alça de ombro ajustável, Ideal para marmitas e alimentos, Isolado termicamente, Resistente a vazamentos",
+      "Tipo de fechamento": "Zíper",
+      "Cor": "Preto",
+      "Tema": "Moderno",
+      "Estampa": "Liso",
+      "Formato do item": "Saco",
+      "Capacidade": "7 litros",
+      "Quantidade de itens": "1",
+      "Material": "Oxford",
+      "Instruções de cuidados com o produto": "Lavar apenas à mão",
+      "Marca": "Genérico",
+      "Adequação do controle por rádio": "Transportar marmitas para trabalho, escola, academia e passeios"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GVGN7JVJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:27:27.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08Y3CV67L",
+    "title": "As extraordinárias viagens de Júlio Verne - Box com 6 livros",
+    "image": "https://m.media-amazon.com/images/I/71wgomAPTQS._SL1350_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 77.67,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 7775,
+    "coupon_code": null,
+    "description": "Este conjunto de seis romances de Júlio Verne oferece uma jornada literária maravilhosa, com histórias de aventuras e exploração que transportam leitores para lugares fantásticos. Ao preço de apenas R$ 67,52, este box representa um excelente investimento em horas de entretenimento e conhecimento. Com uma avaliação média de 4,8/5 baseada em 7775 avaliações, é claro que muitos tiveram uma experiência positiva com este produto.",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/dp/B08Y3CV67L?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:27:59.000Z",
     "spotlight": false
   },
   {
@@ -33589,7 +32573,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61l0-ZVRVEL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 67.57,
+    "price_current": 78.99,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -33618,7 +32602,7 @@ const PRODUCTS = [
       "Característica Especial": "Alça de transporte, Boca larga, Parede dupla, À prova de derramamento, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQF6CYMW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:29:39.000Z",
+    "last_checked_at": "2026-08-12T17:28:54.000Z",
     "spotlight": false
   },
   {
@@ -33627,7 +32611,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71sKm7sDWgL._AC_SL1254_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 29.9,
+    "price_current": 34.9,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -33651,7 +32635,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "base, manual"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H9BVBNZW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:29:49.000Z",
+    "last_checked_at": "2026-08-12T17:29:05.000Z",
     "spotlight": false
   },
   {
@@ -33660,7 +32644,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51wf1KpsmoL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Computadores e Informática",
-    "price_current": 17.8,
+    "price_current": 19.79,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -33700,7 +32684,40 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Proteção contra curto-circuito, Sem emaranhado, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G1546Q8L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:30:09.000Z",
+    "last_checked_at": "2026-08-12T17:29:24.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CYJ7DBQC",
+    "title": "NIVEA Desodorante Antitranspirante Stick Derma Protect Clinical 58g, Defesa Intensa 96h, Controle de Suor Extremo, Toque Suav",
+    "image": "https://m.media-amazon.com/images/I/61NTiLfdhGL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "beleza",
+    "price_current": 19.7,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 3615,
+    "coupon_code": null,
+    "description": "O NIVEA Desodorante Antitranspirante Stick Derma Protect Clinical oferece uma proteção intensa contra suor por 96 horas, sendo fácil de se aplicar e contendo tecnologia DermaDry para proteger a pele. Este produto é cientificamente comprovado e dermatologicamente testado, oferecendo um bom custo-benefício com preço de R$ 18,02.",
+    "informacoes_produto": {
+      "Formato do item": "Creme",
+      "Aroma": "Protect Clinical",
+      "Additional Features": "Tecnologia DermaDry",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "1.0 Unidade",
+      "Nome da marca": "NIVEA",
+      "Fabricante": "Beiersdorf",
+      "País de origem": "Brasil",
+      "ASIN": "B0CYJ7DBQC",
+      "Marca": "NIVEA",
+      "Forma do produto": "Creme",
+      "Característica Especial": "Tecnologia DermaDry",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CYJ7DBQC?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:29:32.000Z",
     "spotlight": false
   },
   {
@@ -33725,7 +32742,7 @@ const PRODUCTS = [
       "Resolução": "2556 x 1179"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFVKKWT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:30:48.000Z",
+    "last_checked_at": "2026-08-12T17:30:02.000Z",
     "spotlight": false
   },
   {
@@ -33790,7 +32807,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVT7QXF7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:30:57.000Z",
+    "last_checked_at": "2026-08-12T17:30:11.000Z",
     "spotlight": false
   },
   {
@@ -33815,7 +32832,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,1 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CP69NT2N?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:31:38.000Z",
+    "last_checked_at": "2026-08-12T17:30:48.000Z",
     "spotlight": false
   },
   {
@@ -33856,7 +32873,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Interior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GLR43HBC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:31:56.000Z",
+    "last_checked_at": "2026-08-12T17:31:07.000Z",
     "spotlight": false
   },
   {
@@ -33924,7 +32941,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVTMNF8P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:32:18.000Z",
+    "last_checked_at": "2026-08-12T17:31:27.000Z",
     "spotlight": false
   },
   {
@@ -33996,7 +33013,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,3 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQD9VK7X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:32:28.000Z",
+    "last_checked_at": "2026-08-12T17:31:37.000Z",
     "spotlight": false
   },
   {
@@ -34067,7 +33084,54 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "True Wireless"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:32:38.000Z",
+    "last_checked_at": "2026-08-12T17:31:47.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DDZWV876",
+    "title": "Brinox - Jogo de Panelas Ceramic Life 5 Peças Smart Plus com Fundo de Indução - Cinza Wooden",
+    "image": "https://m.media-amazon.com/images/I/51WSousXs5L._AC_SL1280_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 329,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2373,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {
+      "Nome da marca": "Brinox",
+      "Número de peças": "5",
+      "Componentes incluídos": "2 Panelas com tampa ; 2 Caçarolas com tampa e 1 Frigideira.",
+      "Com tampa": "Sim",
+      "Fabricante": "Grupo Brinox",
+      "Ano de fabricação": "2024",
+      "Nome do Conjunto": "Smart Plus",
+      "Quantidade de itens": "5",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Conjunto de Panelas",
+      "Número do modelo": "4774/503",
+      "Número da peça": "4774/503",
+      "ASIN": "B0DDZWV876",
+      "Material": "Alumínio, Cerâmica",
+      "Material do cabo": "Aço inoxidável, Alumínio, Silicone",
+      "Livre de tipo de material": "Sem ácido perfluorooctanóico (PFOA)",
+      "Compatibilidade do Conjunto de Utensílios de Cozinha": "True",
+      "Uso Pretendido": "residencial",
+      "Compatibilidade de Utensílios": "madeira, plástico, silicone",
+      "É Compatível com Indução": "Sim",
+      "Características especiais": "Antiaderente, Compatível com Fogão de Indução.",
+      "Tamanho": "16x8cm, 18x9cm, 20x9.5cm, 22x10.5cm, 22x4.5cm",
+      "Peso do item": "5,65 Quilogramas",
+      "Cor": "Cinza",
+      "O forno é seguro": "Sim",
+      "Marca": "Brinox",
+      "Material da Alça": "Aço inoxidável, Alumínio, Silicone"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DDZWV876?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:31:56.000Z",
     "spotlight": false
   },
   {
@@ -34107,52 +33171,7 @@ const PRODUCTS = [
       "Marca": "Eucerin"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DWXYWRQT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:33:27.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0B7KK9PZJ",
-    "title": "Lava e Seca Midea HealthGuard Smart 11kg Titanium 127V",
-    "image": "https://m.media-amazon.com/images/I/51lkDjQHPrL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 3080.79,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 36,
-    "coupon_code": null,
-    "description": "O Midea HealthGuard Smart 11kg Titanium oferece uma limpeza e esterilização profunda graças à tecnologia HealthGuard, além de controle por voz e conectividade via app. Com motor inverter Quattro, o aparelho é mais silencioso e eficiente energéticamente. Possui 14 programas e 9 funções diferentes, incluindo uma opção turbo para ciclos até 40% mais rápidos. Com um preço de R$ 3312,42 e avaliação média de 4.7/5, este secador de roupa oferece um excelente custo-benefício para quem procura uma limpeza profunda e eficiente em sua casa.",
-    "informacoes_produto": {
-      "Capacidade": "11 quilogramas",
-      "Características especiais": "Compacto",
-      "Opções de ciclo": "Algodão, Eco, Lã",
-      "Voltagem": "110 Volts",
-      "Tipo de controles": "Toque",
-      "Velocidade máxima de rotação": "1400 RPM",
-      "Local do acesso": "front_load",
-      "Número de Ciclos de Secagem": "1",
-      "Número de ciclos de lavagem": "4",
-      "Opções de dosador da máquina de lavar": "dual-compartment",
-      "Dimensões do item P x L x A": "56,5P x 59,5L x 85A centímetros",
-      "Peso do item": "68 Quilogramas",
-      "Nome da marca": "Midea",
-      "Número do modelo": "MF200D110WB/GK-01",
-      "Componentes incluídos": "Maquina de lavar, mangueira de entrada de água, tampões de fechamento, suporte para mangueira de saída de água, protetor para rato e manual do usuário.",
-      "Fabricante": "Midea",
-      "Nome do Tipo de Produto": "Lava e Seca",
-      "Número da peça": "MF200D110WB/GK-01",
-      "Descrição da garantia": "2 anos",
-      "ASIN": "B0B7KK9PZJ",
-      "Cor": "Titanium",
-      "Material do tambor do aparelho de lavagem de roupa": "Aço inoxidável",
-      "Marca": "Midea",
-      "Dimensões do produto": "56,5P x 59,5L x 85A centímetros",
-      "Característica Especial": "Compacto"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0B7KK9PZJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:33:36.000Z",
+    "last_checked_at": "2026-08-12T17:32:34.000Z",
     "spotlight": false
   },
   {
@@ -34236,7 +33255,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPL3ZXTV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:33:45.000Z",
+    "last_checked_at": "2026-08-12T17:32:54.000Z",
     "spotlight": false
   },
   {
@@ -34289,7 +33308,48 @@ const PRODUCTS = [
       "Resolução do visor": "3840 x 2160"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F6YJVZ5L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:33:55.000Z",
+    "last_checked_at": "2026-08-12T17:33:05.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B076C6B4J7",
+    "title": "Bebedouro Gelágua Esmaltec EGC35B Coluna Natural e Gelada Branco 220V",
+    "image": "https://m.media-amazon.com/images/I/41+A0RZbZ7L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 669.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 226,
+    "coupon_code": null,
+    "description": "O bebedouro Gelágua Esmaltec EGC35B é um produto de destaque, oferecendo uma coluna natural e gelada branca moderna com estilo elegante. Com capacidade de 1,1 litros, a potência de 97 watts e classificação de temperatura máxima de 82 graus Celsius, é ideal para aquecer águas quentes rapidamente. A marca Esmaltec é reconhecida por sua qualidade e confiabilidade, garantindo um bebedouro independente de instalação com fio elétrico. Com uma avaliação média de 4,6/5 em 226 avaliações, é claro que o custo-benefício deste produto é excelente.",
+    "informacoes_produto": {
+      "Potência": "97 watts",
+      "Tipo de instalação": "Independente",
+      "Classificação de temperatura máxima": "82 Graus Celsius",
+      "Fonte de energia": "Elétrico com fio",
+      "Capacidade": "1,1 litros",
+      "Dimensões do item P x L x A": "32P x 32L x 100A centímetros",
+      "Cor": "Branco",
+      "Estilo": "Moderno Branco com Aço Inoxidável",
+      "Material": "Aço inoxidável, Plástico",
+      "Nome da marca": "Esmaltec",
+      "Número do modelo": "12643-1-2",
+      "Contagem de unidades": "1 Unidade",
+      "Quantidade de itens": "1",
+      "Fabricante": "12643-1-2",
+      "País de origem": "Brasil",
+      "Peso do item": "11,58 Quilogramas",
+      "Nome do Tipo de Produto": "Bebedouro Coluna Garrafão",
+      "Número da peça": "12643-1-2",
+      "ASIN": "B076C6B4J7",
+      "Marca": "Esmaltec",
+      "Dimensões do produto": "32P x 32L x 100A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B076C6B4J7?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:34:24.000Z",
     "spotlight": false
   },
   {
@@ -34335,31 +33395,7 @@ const PRODUCTS = [
       "Peso do produto": "15 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FD2XSKL3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:35:11.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H2FY5BB7",
-    "title": "Kit 3 Cremes Pomadas de Assaduras Vit B5 com 200g cada, Total 600g - Bepantol Baby",
-    "image": "https://m.media-amazon.com/images/I/61xjAMg2QTL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 222.2,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 15,
-    "coupon_code": null,
-    "description": "O Kit de 3 Cremes Pomadas de Assaduras Vit B5 da marca Bepantol Baby, totalizando 600g, é um produto repleto de vantagens para a pele do bebê. Com uma avaliação de 4.8/5, este kit se destaca por sua proteção pura e delicada, hidratação da pele, além de ser livre de agentes irritantes, parabenos e conservantes. Além disso, possui Vitamina B5 e lanolina, oferecendo uma barreira transparente para a pele do bebê. Este kit é um excelente investimento para manter a saúde e a beleza da pele do seu bebê.",
-    "informacoes_produto": {
-      "Nome da marca": "Bepanthol",
-      "Contagem de unidades": "1.0 unidade",
-      "Fabricante": "Bayer",
-      "ASIN": "B0H2FY5BB7"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H2FY5BB7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:36:12.000Z",
+    "last_checked_at": "2026-08-12T17:34:33.000Z",
     "spotlight": false
   },
   {
@@ -34401,7 +33437,7 @@ const PRODUCTS = [
       "Característica Especial": "Alça de transporte, Parede dupla, À prova de derramamento, À prova de suor, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GXFNGQ96?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:36:21.000Z",
+    "last_checked_at": "2026-08-12T17:35:55.000Z",
     "spotlight": false
   },
   {
@@ -34465,7 +33501,7 @@ const PRODUCTS = [
       "Dimensões do produto": "49P x 48L x 103A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPZHH1KB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:36:51.000Z",
+    "last_checked_at": "2026-08-12T17:36:25.000Z",
     "spotlight": false
   },
   {
@@ -34474,7 +33510,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/419xPG-katL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 154.27,
+    "price_current": 165.21,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -34515,7 +33551,7 @@ const PRODUCTS = [
       "Característica Especial": "Tamanho para viagem"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0161ZC5GY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:37:31.000Z",
+    "last_checked_at": "2026-08-12T17:37:07.000Z",
     "spotlight": false
   },
   {
@@ -34556,7 +33592,7 @@ const PRODUCTS = [
       "Característica do material": "Perfumado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07N4GG161?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:37:42.000Z",
+    "last_checked_at": "2026-08-12T17:37:18.000Z",
     "spotlight": false
   },
   {
@@ -34607,7 +33643,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMMPL7SS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:38:10.000Z",
+    "last_checked_at": "2026-08-12T17:37:46.000Z",
     "spotlight": false
   },
   {
@@ -34656,7 +33692,7 @@ const PRODUCTS = [
       "Peso do produto": "19 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GCCBHL3L?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:38:34.000Z",
+    "last_checked_at": "2026-08-12T17:38:07.000Z",
     "spotlight": false
   },
   {
@@ -34665,7 +33701,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41H-kkhaLTL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 542.75,
+    "price_current": 525.96,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -34707,7 +33743,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D15331MK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:39:28.000Z",
+    "last_checked_at": "2026-08-12T17:38:59.000Z",
     "spotlight": false
   },
   {
@@ -34716,7 +33752,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51Nk12YsnLL._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 356.59,
+    "price_current": 399,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -34757,7 +33793,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "True Wireless"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHL7WWMQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:39:46.000Z",
+    "last_checked_at": "2026-08-12T17:39:19.000Z",
     "spotlight": false
   },
   {
@@ -34830,95 +33866,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DWZTFQXB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:40:04.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GFMYJYWS",
-    "title": "Brastoy Blocos de Montar Magnéticos Construção Infantil Brinquedo Educativo (120 Peças Tamanho Médio)",
-    "image": "https://m.media-amazon.com/images/I/71ZyN7lZfOL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 126.54,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 501,
-    "coupon_code": null,
-    "description": "",
-    "informacoes_produto": {
-      "Nome da marca": "Brastoy",
-      "Idade mínima segundo o fabricante (MESES)": "36.0",
-      "Descrição da faixa etária": "Criança",
-      "Manufacturer Maximum Age (MONTHS)": "360.0",
-      "Contagem de unidades": "120 contagem",
-      "Nome do Conjunto": "Brastoy Blocos de Montar Magnéticos",
-      "Público-alvo": "Criança",
-      "Número de Pacotes": "1",
-      "Componentes incluídos": "Manual de instruções",
-      "Fabricante": "Brastoy",
-      "Número da peça": "OTA-BM449-AU2",
-      "ASIN": "B0GFMYJYWS",
-      "Material": "Acrilonitrila butadieno estireno",
-      "Cor": "120 Peças Tamanho Médio",
-      "Tema": "Criatividade",
-      "Número de peças": "120",
-      "Dimensões do artigo": "17 x 6 x 25 centímetros",
-      "Peso do item": "1650 Gramas",
-      "Tamanho": "25 cm x 18 cm x 6 cm",
-      "Objetivo educacional": "Habilidades motoras, Pensamento criativo, Pensamento lógico, STEM",
-      "Características especiais": "Magnético",
-      "Tipo de bloco de construção de brinquedo": "Bloco de construção de brinquedo magnético",
-      "Descrição da bateria": "Não aplicável",
-      "Utilização interior, exterior": "Área interna",
-      "Exige montagem": "Não",
-      "Modo de operação": "Manual",
-      "Fonte de energia": "Não aplicável"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GFMYJYWS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:40:43.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B093XZ9TLW",
-    "title": "Lava Louças Midea 14 Serviços Preta (127)",
-    "image": "https://m.media-amazon.com/images/I/51MV8w-DQmS._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 2260,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 190,
-    "coupon_code": null,
-    "description": "",
-    "informacoes_produto": {
-      "Tipo de instalação": "Embutido",
-      "Características especiais": "Atraso do temporizador",
-      "Fator de forma": "Embutido",
-      "Voltagem": "127 Volts",
-      "Opções de ciclo": "Intensivo, Eco, Rápido, Vidro, Adiar início",
-      "Número de engastes": "7",
-      "Número de ciclos de opções": "7",
-      "Frequência de operação": "60 Hz",
-      "Dimensões do item P x L x A": "60P x 59,8L x 85A centímetros",
-      "Cor": "Preto",
-      "Nome da marca": "Midea",
-      "Usos recomendados do produto": "Louças do dia a dia, panelas e travessas, vidros e taças",
-      "Quantidade de Unidades": "1 unidade",
-      "Fabricante": "Midea",
-      "Quantidade de itens": "14",
-      "Número da peça": "7908198002925",
-      "ASIN": "B093XZ9TLW",
-      "Marca": "Midea",
-      "Tipo de Instalação": "Embutido",
-      "Dimensões do produto": "60P x 59,8L x 85A centímetros",
-      "Característica Especial": "Atraso do temporizador"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B093XZ9TLW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:42:05.000Z",
+    "last_checked_at": "2026-08-12T17:39:40.000Z",
     "spotlight": false
   },
   {
@@ -34954,7 +33902,7 @@ const PRODUCTS = [
       "Nível de torragem": "Torra média"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B087H3HDD9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:42:15.000Z",
+    "last_checked_at": "2026-08-12T17:42:03.000Z",
     "spotlight": false
   },
   {
@@ -34997,7 +33945,7 @@ const PRODUCTS = [
       "Comprimento da Lâmina": "20 Centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G5H4KL59?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:44:17.000Z",
+    "last_checked_at": "2026-08-12T17:43:57.000Z",
     "spotlight": false
   },
   {
@@ -35006,7 +33954,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61fdLdDRo1L._AC_SL1500_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 389.99,
+    "price_current": 389.98,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -35043,7 +33991,432 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Jogos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GC9LZPV4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-11T21:44:28.000Z",
+    "last_checked_at": "2026-08-12T17:44:08.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GVSY9479",
+    "title": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", Até 6 Atualizações de Android e Segurança (Azul Escuro) | 8GB RAM, Câmera Tripla até 50MP OIS, Selfie 12MP Video HDR, IP68, Tela Super AMOLED 6.7\"",
+    "image": "https://m.media-amazon.com/images/I/51G6kqI5BQL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 2298.6,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 285,
+    "coupon_code": null,
+    "description": "O Samsung Galaxy A57 5G oferece uma experiência de uso agradável, graças à sua tela Super AMOLED de 6,7 polegadas e processador Exynos 1680. Além disso, a câmera tripla de até 50MP OIS e selfie de 12MP com HDR adicionam qualidade às suas fotografias. Ainda, o Galaxy AI- Gemini Live & Circule facilita as pesquisas e o Samsung Wallet permite pagamentos seguros e confortáveis. Com uma capacidade de armazenamento de 256GB e duplo slot para cartão SIM, o custo-benefício é evidente neste modelo.",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "8 GB",
+      "Modelo da CPU": "Snapdragon",
+      "Velocidade da CPU": "2,4 GHz",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Azul Escuro",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Tamanho do cartão SIM": "Nano",
+      "Nível de resistência à água": "Resistente à água",
+      "Características especiais": "Até 6 atualizações de Android e até 6 anos de atualizações de segurança., Dual SIM, GPS integrado, NFC, Resistente à água e poeira (IP68).",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "12.0, 5.0, 50.0 MP",
+      "Descrição da câmera": "Frontal, Traseira",
+      "Flash da câmera": "LED",
+      "Número de câmaras traseiras": "3",
+      "Zoom digital": "10 x",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Potência da bateria": "5000.0",
+      "Resolução de captura de vídeo": "30fps",
+      "Taxa de quadros": "30fps",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "1080 x 2340",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2340x1080 Pixels",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "Cabo USB, Carregador, Ejetor da bandeja SIM, Manual do usuário",
+      "Descrição da garantia": "12 meses com o Fabricante",
+      "Fabricante": "Samsung",
+      "Usos específicos do produto": "Fotografia, Transações diárias",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 073162500953 / Modelo: SM-A576B/DS",
+      "ASIN": "B0GVSY9479",
+      "Peso do item": "179 Gramas",
+      "Dimensões do artigo": "16,1 x 7,7 x 0,7 centímetros",
+      "GPS": "GPS integrado",
+      "Marca": "Samsung",
+      "Sistema Operacional": "Android 16.0",
+      "Tamanho instalado da memória RAM": "8 GB",
+      "Velocidade do CPU": "2,4 GHz"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GVSY9479?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:45:11.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B00DCTI47M",
+    "title": "Máquina de Lavar Panasonic 15kg Titânio 127v NA-F150B1T",
+    "image": "https://m.media-amazon.com/images/I/61aihS5uIXL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 1848.98,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 285,
+    "coupon_code": null,
+    "description": "Este Panasonic 15kg Titânio Lavador de R$ 2054,44 oferece uma lavagem eficiente com o menor consumo de água na categoria, conforme certificado pelo Inmetro. Ademais, seu design moderno em titânio se adapta a diversos ambientes. O custo-benefício é evidente neste produto, oferecendo alta eficiência e opções de ciclo especiais.",
+    "informacoes_produto": {
+      "Capacidade": "15 quilogramas",
+      "Características especiais": "Alta eficiência",
+      "Local do acesso": "Carga frontal",
+      "Tipo de acabamento": "Titânio",
+      "Opções de ciclo": "Vanish, Vanish Branco mais Branco",
+      "Modo de operação": "Totalmente automático",
+      "Voltagem": "127 Volts",
+      "Tipo de instalação": "Independente",
+      "Dimensões do item P x L x A": "69P x 60L x 105A centímetros",
+      "Material do tambor do aparelho de lavagem de roupa": "Titanio",
+      "Cor": "Titânio",
+      "Nome da marca": "Panasonic",
+      "Componentes incluídos": "Mangueira de drenagem",
+      "Fabricante": "PANASONIC",
+      "Nome do Tipo de Produto": "MAQUINA DE LAVAR",
+      "Número do modelo": "NA-F150B1TA",
+      "Número da peça": "1",
+      "Descrição da garantia": "12 meses",
+      "ASIN": "B00DCTI47M",
+      "Dimensões do produto": "69P x 60L x 105A centímetros",
+      "Marca": "Panasonic",
+      "Característica Especial": "Alta eficiência",
+      "Local de acesso": "Carga frontal"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B00DCTI47M?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:45:38.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FR6N4WWH",
+    "title": "Bundle Nintendo Switch + Super Mario Bros. Wonder + 3 Meses de Assinatura Nintendo Switch Online",
+    "image": "https://m.media-amazon.com/images/I/61zaf8R7S7L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 1899.05,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 349,
+    "coupon_code": null,
+    "description": "Este Bundle Nintendo Switch + Super Mario Bros. Wonder oferece uma experiência de jogo revolucionária, permitindo que você jogue em casa ou em qualquer lugar com um único console. A diversão com o clássico Mario agora é fenomenal, com itens como canos ganhando vida e a possibilidade de se transformar em uma gigante bola de pedra com espinhos. Adicionalmente, com a assinatura do Nintendo Switch Online incluída, você pode compartilhar esta experiência online com jogadores ao redor do mundo, explorando mundos fantásticos e jogando multijogador em títulos como Splatoon 3. Além disso, o console é a casa de jogos clássicos como Mario Kart 8 Deluxe, Luigi’s Mansion 2 HD, Super",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FR6N4WWH?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:45:47.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BTYDLTM3",
+    "title": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
+    "image": "https://m.media-amazon.com/images/I/61ipp6r+idL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 148.17,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 111284,
+    "coupon_code": null,
+    "description": "O Soundcore P20i da Anker é uma oferta do dia interessante para quem procura fones de ouvido Bluetooth sem fio. Com drivers dinâmicos de 10mm, a tecnologia BassUp fornece graves potentes e som claro, equilibrado e envolvente. Além disso, oferece uma experiência de audição personalizada com o app soundcore e possibilidades de reprodução longa e carga rápida. Ademais, a resistência à água IPX5 e a clareza nas chamadas com IA tornam esse produto ideal para uso em academia ou durante atividades físicas. Com um preço competitivo de R$ 155.97 e avaliação média de 4.6/5, o Soundcore P20i",
+    "informacoes_produto": {
+      "Nome da marca": "Soundcore",
+      "Número do modelo": "A3949",
+      "Nome do modelo": "P20i",
+      "Componentes incluídos": "Cabo",
+      "Descrição da faixa etária": "Adulto",
+      "País de origem": "China",
+      "Descrição da garantia": "18.00",
+      "Tipo de embalagem": "Embalagem padrão",
+      "Quantidade de itens": "1",
+      "Número de série": "3949",
+      "UPC": "194644124649",
+      "Fabricante": "Anker",
+      "Certificação de teste externa": "/",
+      "É autografado": "Não",
+      "ASIN": "B0BTYDLTM3",
+      "Colocação de auscultadores na orelha": "Intra-auriculares",
+      "Formato dos fones de ouvido": "Intra-auricular",
+      "Forma do auricular": "Vara",
+      "Cor": "Azul",
+      "Estilo": "Clássico",
+      "Comprimento do estojo de transporte": "2,24 Polegadas",
+      "Largura do estojo de transporte": "2,05 Polegadas",
+      "Altura do estojo de transporte": "1,1 Polegadas",
+      "Peso do estojo de transporte": "1,6 Onças",
+      "Impedância": "16 Ohms",
+      "Controle de ruído": "Isolamento de som",
+      "Resposta de frequência": "20 Hz",
+      "Sensibilidade": "102 dB",
+      "Tipo de controlador de áudio": "Controlador dinâmico",
+      "Tamanho do controlador de áudio": "10 Milímetros",
+      "Material": "Policarbonato (PC)",
+      "Usos específicos do produto": "Escola",
+      "Usos recomendados do produto": "Chamada",
+      "Dispositivos compatíveis": "Celulares",
+      "Característica do cabo": "Destacável",
+      "Nível de resistência à água": "Resistente à água",
+      "Material do estojo de transporte": "Plástico",
+      "É alimentado por energia elétrica?": "Não",
+      "Total de portas USB 2.0": "1",
+      "Entrada de fone de ouvido": "Nenhum",
+      "Tecnologia de conectividade": "Sem fio",
+      "Tecnologia de comunicação sem fio": "Bluetooth",
+      "Alcance do Bluetooth": "15 Metros",
+      "Versão do Bluetooth": "5.3",
+      "Tipo de controle": "Toque",
+      "Método de controle": "Toque",
+      "Charging Time": "2 Horas",
+      "Duração da bateria": "30 Horas",
+      "Duração média da bateria do estojo de transporte": "20 Horas",
+      "Tempo de carregamento da bateria no estojo de transporte": "2 Horas",
+      "Capacidade da bateria do estojo de transporte": "350 Milliamp Hours",
+      "Marca": "Soundcore",
+      "Colocação na orelha": "Intra-auriculares",
+      "Fator de forma dos fones de ouvido": "Intra-auricular"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BTYDLTM3?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:46:05.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09JH4PD8Q",
+    "title": "Base De Carregamento Do Dualsense - PlayStation 5",
+    "image": "https://m.media-amazon.com/images/I/41y-G-g+dVL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 157.22,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 15705,
+    "coupon_code": null,
+    "description": "Este Base de Carregamento do Dualsense para PlayStation 5 é uma solução prática e rápida para carregar seus controles, permitindo que você seja preparado para suas próximas sessões de jogos sem precisar deixar as portas USB livres no console. A vantagem principal é a capacidade de carregamento sem fio, o que torna o processo rápido e fácil. Além disso, sua conexão é simples e compatível com consoles de jogos da PlayStation. O custo-benefício do produto é alto, considerando a qualidade e a velocidade de carregamento que oferece.",
+    "informacoes_produto": {
+      "Tipo de conector": "USB",
+      "Dispositivos compatíveis": "Consoles de jogos",
+      "Modelos de telefone compatíveis": "Playstatiton",
+      "Características Especiais": "Carregamento sem fio",
+      "Tensão de entrada": "5,1 Volts",
+      "Total de portas USB": "2",
+      "Corrente de saída": "15 Amperes",
+      "Tensão de saída": "5,1 Volts (CC)",
+      "Fonte de energia": "Elétrico com fio",
+      "Portátil": "Não",
+      "Conector": "No Plug",
+      "Corrente": "DC",
+      "Tipo de Plugue de Alimentação Compatível": "Type C",
+      "Tipo de Conector de Carregamento com Fio": "USB Type A",
+      "Tecnologia de conectividade": "USB",
+      "Cor": "Preto e Branco",
+      "Nome da marca": "PlayStation",
+      "Componentes incluídos": "Base De Carregamento Do Dualsense, conector",
+      "Número do modelo": "3006531",
+      "Número da peça": "3006531",
+      "Fabricante": "Sony",
+      "UPC": "711719547761",
+      "Certificação de teste externa": "Não aplicável",
+      "Nome do Tipo de Item": "Base de Carregamento do DualSense",
+      "Descrição da garantia": "12 meses",
+      "ASIN": "B09JH4PD8Q",
+      "Quantidade de itens": "1",
+      "Peso do item": "180 Gramas",
+      "Contagem de unidades": "1 Unidade",
+      "Marca": "PlayStation",
+      "Tipo de Conector": "USB",
+      "Dispositivos Compatíveis": "Consoles de jogos",
+      "Modelos de Telefone Compatíveis": "Playstatiton",
+      "Componentes Incluídos": "Base De Carregamento Do Dualsense, conector",
+      "Característica Especial": "Carregamento sem fio",
+      "Tensão de Entrada": "5,1 Volts",
+      "Total de Portas USB": "2",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B09JH4PD8Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:46:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B082481SDH",
+    "title": "Cápsulas de Café Original Nespresso Variados - 50 Cápsulas",
+    "image": "https://m.media-amazon.com/images/I/51BwrtdepjL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 149.38,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 488,
+    "coupon_code": null,
+    "description": "O produto Nespresso Variados oferece uma variedade de sabores equilibrados, com 50 cápsulas de Volluto, Ispirazione Genova Livanto, Ispirazione Ristretto Italiano, Ispirazione Roma e Firenze Arpeggio. A tecnologia de cápsula da Nespresso permite que você obtenha café fresco e suave em instantes, com sabor rico e luxuoso. Cada cápsula é individualmente embalada e pronta para uso em sua máquina, oferecendo café 100% original de origem responsável. A qualidade e sustentabilidade são prioridades, garantindo um sabor requintado em cada xícara.",
+    "informacoes_produto": {
+      "Nome da marca": "Nespresso",
+      "Formato do item": "Cápsula",
+      "Sabor": "Volluto, Ispirazione Genova Livanto, Ispirazione Ristretto Italiano, Ispirazione Roma e Firenze Arpeggio",
+      "Descrição do teor de cafeína": "Com cafeína",
+      "Níveis de torra do café": "Torra média",
+      "Tipo de recipiente": "Pacote",
+      "Tipo de dieta": "À base de plantas",
+      "Contagem de unidades": "50 Unidade",
+      "Quantidade de itens": "50",
+      "Ingredientes especiais": "‎Café torrado e moído 100% ARÁBICA:Volluto: Café com notas de biscoito doce e acidez frutada,Genova Livanto: Café equilibrado com harmonia entre cereal, caramelo e acidez, Ristretto Italiano: Café clássico intenso com notas torradas e frutado,Firenze Arpeggio: Café aveludado e cremoso com notas de cacau,Roma: Café balanceado e completo com notas doces, amadeiradas e de cereais",
+      "Especialidade": "Origem única",
+      "Tipo de Café": "Inserção de Máquina de Café",
+      "Variedade": "Variado",
+      "Teor de cafeína por porção": "55 Gramas",
+      "Número de peças": "50",
+      "ASIN": "B082481SDH",
+      "Dimensões do artigo": "50 x 50 x 150 milímetros",
+      "Marca": "Nespresso",
+      "Forma do produto": "Cápsula",
+      "Nível de torragem": "Torra média"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B082481SDH?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:46:45.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GV5WBNP2",
+    "title": "Massageador Pescoço Ombro Recarregável Maozinha Calmante Deep 4D com Aquecimento Infravermelho e 3 Velocidades para Alívio Muscular, Portátil e Ergonômico",
+    "image": "https://m.media-amazon.com/images/I/615tMcEmgGL._AC_SL1024_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 104.21,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 2,
+    "coupon_code": null,
+    "description": "Este Massageador Pescoço Ombro Recarregável Maozinha Calmante Deep 4D oferece uma massagem versátil e profunda, aliviando dores e tensões em várias partes do corpo. A função de aquecimento infravermelho promove relaxamento muscular profundo e melhora a circulação, enquanto o design sem fio permite uso flexível em qualquer ambiente. Com controle de 3 velocidades para personalizar a intensidade da massagem, este produto é confortável, eficaz e lembra a sensação de mãos humanas para uma experiência autêntica. Avaliado com 4.5/5, oferece um excelente custo-benefício.",
+    "informacoes_produto": {
+      "Fonte de energia": "Não aplicável",
+      "Dimensões do item C x L x A": "22C x 15L x 28A centímetros",
+      "Cor": "VERDE",
+      "Nome da marca": "Genérico",
+      "Contagem de unidades": "1 unidade",
+      "Fabricante": "BANPINSH",
+      "Número da peça": "maozinha18438575818394",
+      "ASIN": "B0GV5WBNP2",
+      "Fonte de alimentação": "Não aplicável",
+      "Marca": "Genérico",
+      "Dimensões do produto": "22C x 15L x 28A centímetros",
+      "Quantidade de Unidades": "1 unidade"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GV5WBNP2?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:46:56.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0C67LXZQY",
+    "title": "WOLFF - Conjunto Jarra com 6 Copos de Cristal Palm Tree Handpaint",
+    "image": "https://m.media-amazon.com/images/I/61kD9AqK1FL._AC_SL1081_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 96.9,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 400,
+    "coupon_code": null,
+    "description": "Este conjunto de jarra e copos de cristal da marca WOLFF, caracterizado por seu design exclusivo de palmeiras pintadas à mão, oferece uma combinação de estilo tropical e qualidade superior. Ao adquiri-lo, você recebe um produto fabricado com cristal de alta qualidade, que garante durabilidade e brilho excepcionais, ideal para ocasiões informais ou simplesmente para enriquecer sua rotina diária. Ao mesmo tempo, a jarra oferece capacidade generosa e os copos são perfeitos para porções individuais, proporcionando uma experiência de servir completa. Por fim, é importante lembrar que o cuidado adequado é fundamental para manter a beleza do produto, lavando-o com det",
+    "informacoes_produto": {
+      "Nome da marca": "WOLFF",
+      "Usos recomendados do produto": "Casa",
+      "Componentes Incluídos": "151",
+      "Descrição da faixa etária": "Adulto",
+      "País de origem": "China",
+      "Fabricante": "WOLFF",
+      "Nome do Conjunto": "Conjunto Jarra com 6 Copos de Cristal Palm Tree Handpaint",
+      "Nome do Tipo de Produto": "Jarra com Copos",
+      "Número do modelo": "29394",
+      "Número da peça": "29394",
+      "Descrição da garantia": "3 Meses Contra Defeito De Fabricação",
+      "ASIN": "B0C67LXZQY",
+      "Características especiais": "Conjunto jantar",
+      "Recurso de enfeite": "Design hand-painted Palm Tree",
+      "Cor": "PALM TREE",
+      "Estilo": "Palmeira",
+      "Estampa": "Palmeira",
+      "Ocasião": "Aniversário, Dia da Amizade",
+      "Material": "Cristal",
+      "Instruções de cuidados com o produto": "Lavar com detergente neutro, esponja macia e secar imediatamente. Não utilizar outros produtos químicos.",
+      "Reutilização": "Reutilizável",
+      "O item pode ser lavado na máquina de lavar louça?": "Não",
+      "Tipo de acabamento": "Liso e brilhante",
+      "Capacidade": "1200 ml",
+      "Contagem de unidades": "6 Unidade",
+      "Peso do item": "3,95 Quilogramas",
+      "Dimensões do item L x A": "16L x 25A centímetros",
+      "Quantidade de itens": "7",
+      "Tamanho": "1,2L/330ml",
+      "Marca": "WOLFF",
+      "Característica Especial": "Conjunto jantar"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0C67LXZQY?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:47:05.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FXY5946Y",
+    "title": "Kit Microsoft 365 Family + McAfee Premium Family",
+    "image": "https://m.media-amazon.com/images/I/6152hbwjw+L._AC_SL1080_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 396.15,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 170,
+    "coupon_code": null,
+    "description": "Este Kit Microsoft 365 Family + McAfee Premium Family oferece uma produtividade premium para toda a família, com acesso aos aplicativos premium do Microsoft 365 e 6 TB de armazenamento seguro no OneDrive. Além disso, inclui proteção cibernética ilimitada, compatibilidade multiplataforma e garantia de privacidade online. Com um preço de R$ 417,00, o custo-benefício é evidente.",
+    "informacoes_produto": {
+      "Capacidade de armazenamento digital": "6 TB",
+      "Interface do disco rígido": "Ethernet",
+      "Tecnologia de conectividade": "Wi-Fi",
+      "Características especiais": "Compatível com versões anteriores",
+      "Dispositivos compatíveis": "Desktop, Smartphone, Tablet",
+      "Usos específicos do produto": "Pessoal",
+      "Tamanho do disco rígido": "6 TB",
+      "Nome da marca": "Microsoft",
+      "Descrição do disco rígido": "Unidade de estado sólido",
+      "ASIN": "B0FXY5946Y",
+      "Capacidade de Armazenamento Digital": "6 TB",
+      "Interface do Disco Rígido": "Ethernet",
+      "Tecnologia de Conectividade": "Wi-Fi",
+      "Marca": "Microsoft",
+      "Característica Especial": "Compatível com versões anteriores",
+      "Descrição do Disco Rígido": "Unidade de estado sólido",
+      "Dispositivos Compatíveis": "Desktop, Smartphone, Tablet",
+      "Tamanho do Disco Rígido": "6 TB",
+      "Usos Específicos do Produto": "Pessoal"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FXY5946Y?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:47:36.000Z",
     "spotlight": false
   },
   {
@@ -35052,7 +34425,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51XtHBetEOL._AC_SL1000_.jpg",
     "canonical": null,
     "category": "Ofertas do dia",
-    "price_current": 4149.0,
+    "price_current": 3734.1,
     "price_original": null,
     "discount_percentage": null,
     "tem_oferta": true,
@@ -35093,7 +34466,61 @@ const PRODUCTS = [
       "Dimensões do produto": "0,7P x 2L x 1A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GND7R7Z8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-08-12T11:09:56.162461+00:00",
+    "last_checked_at": "2026-08-12T17:48:47.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DX2M1RCD",
+    "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (127V)",
+    "image": "https://m.media-amazon.com/images/I/41-eSvkKV3L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 2858.98,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 60,
+    "coupon_code": null,
+    "description": "Este refrigerador HQ Frost Free Side By Side de 460 litros em cinza oferece um design premium, com acabamento em aço inoxidável e tratamento antimarcas que combina sofisticação e praticidade. A tecnologia Frost Free dispensa descongelamentos manuais, trazendo mais praticidade para o dia-a-day. Além disso, o painel digital avançado oferece controle intuitivo com funções rápidas de resfriamento e congelamento, enquanto a eficiência energética A+++ garante economia no consumo de energia. Com um custo-benefício superior, este refrigerador entrega funcionalidades premium com valor acessível dentro da categoria.",
+    "informacoes_produto": {
+      "Número de portas": "2",
+      "Tipo de sistema de degelo": "Sem gelo",
+      "Voltagem": "127 Volts",
+      "Fator de forma": "Lado a lado",
+      "Método de resfriamento": "Compressor",
+      "Número de prateleiras": "8",
+      "Controle de temperatura ajustável": "Sim",
+      "Orientação de abertura da porta": "Central",
+      "Tem Congelador Conversível": "Sim",
+      "É alimentado por energia elétrica?": "Sim",
+      "Total de Prateleiras de Porta": "3",
+      "Fonte de energia": "Elétrico com fio",
+      "Cor": "Cinza",
+      "Dimensões do item P x L x A": "68P x 70L x 178,5A centímetros",
+      "Capacidade": "460 litros",
+      "Capacidade do freezer": "180 Litros",
+      "Peso do item": "78 Quilogramas",
+      "Consumo de energia anual": "420 Kilowatt Hours Per Year",
+      "Capacidade Líquida do Refrigerador": "460 Litros",
+      "Capacidade de comida fresca": "460 Litros",
+      "Tipo de instalação": "Independente",
+      "Avaliação por estrelas do BEE": "4 Estrelas",
+      "Nome da marca": "HQ Screen",
+      "Nome do modelo": "HQ-460SBSFF",
+      "Número do modelo": "HQ-460SBSFF",
+      "Componentes incluídos": "1 Geladeira",
+      "Nome do Tipo de Produto": "Geladeira",
+      "Fabricante": "HQ Screen",
+      "Número da peça": "CC-525WE",
+      "Descrição da garantia": "01 Ano (Sendo 3 meses de garantia legal e mais 9 meses de garantia para defeito de fabricação).",
+      "ASIN": "B0DX2M1RCD",
+      "Dimensões do produto": "68P x 70L x 178,5A centímetros",
+      "Marca": "HQ Screen",
+      "Tipo de Instalação": "Independente"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DX2M1RCD?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-08-12T17:48:58.000Z",
     "spotlight": false
   }
 ];
