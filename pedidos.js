@@ -76,7 +76,7 @@ window.PEDIDOS = [
     "asin": "B07DYHDXX8",
     "titulo": "OMO Lavagem Perfeita - Sabão Líquido 5L",
     "imagem": "https://m.media-amazon.com/images/I/71bXBFl912L._AC_SL1500_.jpg",
-    "preco": 52.46,
+    "preco": 47.99,
     "link": "https://www.amazon.com.br/dp/B07DYHDXX8?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "OMO Lavagem Perfeita deixa as suas roupas impecáveis, já que remove as manchas de primeira*. A fórmula do sabão líquido OMO possui perfume exclusivo que dura muito mais, isso tudo cuidando das cores e dos tecidos das suas roupas. O detergente OMO é imbatível na limpeza* e cuida do meio ambiente, pois sua fórmula contém ativos biodegradáveis. Este lava roupas cuida das cores e não deixa resíduos que danificam os tecidos, deixando suas roupas com cheirinho de limpeza. OMO Lavagem Perfeita cuida das cores sem danificar os tecidos e deixa suas roupas com cheirinho de limpeza"
   },
