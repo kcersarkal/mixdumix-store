@@ -3,22 +3,22 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store</title>
-<meta name="description" content="Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.">
+<title>Ofertas do Dia e Produtos Selecionados | Mix Du Mix</title>
+<meta name="description" content="Encontre ofertas do dia e produtos selecionados na Mix Du Mix. Compare preços e descubra oportunidades para economizar em suas compras.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://kcersarkal.github.io/mixdumix-store/">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Mix Du Mix Store">
-<meta property="og:title" content="Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store">
-<meta property="og:description" content="Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.">
+<meta property="og:title" content="Ofertas do Dia e Produtos Selecionados | Mix Du Mix">
+<meta property="og:description" content="Encontre ofertas do dia e produtos selecionados na Mix Du Mix. Compare preços e descubra oportunidades para economizar em suas compras.">
 <meta property="og:url" content="https://kcersarkal.github.io/mixdumix-store/">
 <meta property="og:image" content="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
 <meta property="og:locale" content="pt_BR">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store">
-<meta name="twitter:description" content="Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.">
+<meta name="twitter:title" content="Ofertas do Dia e Produtos Selecionados | Mix Du Mix">
+<meta name="twitter:description" content="Encontre ofertas do dia e produtos selecionados na Mix Du Mix. Compare preços e descubra oportunidades para economizar em suas compras.">
 <meta name="twitter:image" content="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
 
 <meta name="theme-color" content="#111111">
@@ -30,7 +30,7 @@
   "@type":"WebSite",
   "name":"Mix Du Mix Store",
   "url":"https://kcersarkal.github.io/mixdumix-store/",
-  "description":"Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.",
+  "description":"Encontre ofertas do dia e produtos selecionados na Mix Du Mix. Compare preços e descubra oportunidades para economizar em suas compras.",
   "inLanguage":"pt-BR",
   "potentialAction":{
     "@type":"SearchAction",
@@ -73,7 +73,6 @@
   --font-body: 'Inter', sans-serif;
   --radius-card: 18px;
   --shadow-card: 0 2px 4px rgba(17,17,17,0.04), 0 8px 24px rgba(17,17,17,0.06);
-  --shadow-spotlight: 0 4px 8px rgba(17,17,17,0.03), 0 20px 48px rgba(17,17,17,0.08);
   --shadow-card-hover: 0 6px 12px rgba(17,17,17,0.08), 0 16px 32px rgba(17,17,17,0.10);
 }
 * { box-sizing: border-box; }
@@ -108,68 +107,6 @@ a { text-decoration:none; color:inherit; }
 @media (min-width:641px) { .site-header { display:flex; align-items:center; } .site-header .container { flex:1; } .search-wrap { position:absolute; left:50%; transform:translateX(-50%); max-width:340px; width:100%; } }
 @media (max-width:640px) { .site-header { display:flex; flex-direction:column; } .site-header .container { padding:12px 5px !important; margin:0 !important; } .header-nav { display:none; } .hamburger { display:flex; } .mobile-menu { display:none; flex-direction:column; background:var(--black); padding:12px 16px; border-bottom:3px solid var(--orange); } .mobile-menu.open { display:flex; } .mobile-menu a { color:var(--white); font-size:14px; font-weight:600; padding:10px 0; border-bottom:1px solid #333; } .mobile-menu a:last-child { border-bottom:none; } .search-wrap { max-width:none; width:100%; margin:0; padding:8px 16px 12px; border-top:1px solid #333; } .search-input { font-size:13px; } .search-btn { padding:10px 12px; font-size:12px; } }
 
-.spotlight { margin:40px 0 48px; }
-.spotlight-label { font-family:var(--font-display); font-size:20px; color:var(--orange-dark); letter-spacing:1px; margin-bottom:16px; }
-.spotlight { overflow:hidden; }
-.spotlight-card { background:var(--white); border-radius:24px; border:1px solid var(--card-border); box-shadow:var(--shadow-spotlight); display:grid; grid-template-columns:45fr 55fr; height:380px; transition: transform 0.45s ease, opacity 0.45s ease; }
-.spotlight-card.slide-in-right { transform: scale(0.88); opacity: 0; }
-.spotlight-img { background:radial-gradient(circle, #FFFFFF 0%, #F3F1EC 100%); display:flex; align-items:center; justify-content:center; padding:24px; position:relative; height:100%; min-width:0; overflow:hidden; border-radius:24px 0 0 24px; }
-.spotlight-img img { max-width:100%; max-height:100%; width:auto; height:auto; object-fit:contain; }
-.spotlight-body { padding:36px 36px 36px 20px; display:flex; flex-direction:column; justify-content:flex-start; min-width:0; }
-.spotlight-title { font-size:22px; font-weight:800; line-height:1.25; margin:0 0 10px; min-height:3.75em; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
-.spotlight-body > .price-row { margin-top:24px; }
-.spotlight-body .discount-badge, .spotlight-body .price-original { display:none; }
-.spotlight-card .price-current { font-size:34px !important; }
-.spotlight-desc { color:var(--gray-text); font-size:15px; line-height:1.6; margin-bottom:24px; }
-.dots { display:flex; gap:8px; justify-content:center; margin-top:20px; }
-.dot-indicator { width:10px; height:10px; border-radius:50%; background:var(--card-border); border:none; cursor:pointer; transition:background .2s; padding:0; }
-.dot-indicator.active { background:var(--orange); }
-.spotlight { position:relative; }
-.carousel-arrow { position:absolute; top:50%; transform:translateY(-50%); width:44px; height:44px; border-radius:50%; background:var(--white); border:1px solid var(--card-border); box-shadow:var(--shadow-card); display:flex; align-items:center; justify-content:center; cursor:pointer; z-index:10; transition:opacity 0.2s ease; }
-@media (hover:hover) { .spotlight:hover .carousel-arrow { opacity:1; } }
-@media (hover:none) { .carousel-arrow { opacity:1; } }
-.carousel-arrow.prev { left:12px; }
-.carousel-arrow.next { right:12px; }
-.carousel-arrow svg { width:20px; height:20px; }
-
-/* ===== Hero: texto institucional + carrossel ===== */
-.hero { display:grid; grid-template-columns:0.85fr 1.35fr; gap:32px; align-items:center; margin:44px 0 56px; }
-.hero > * { min-width:0; }
-.hero-text { max-width:460px; }
-.hero-title { font-family:var(--font-display); font-size:clamp(30px, 3.6vw, 46px); line-height:1.12; margin:0 0 14px; color:var(--black); letter-spacing:0.2px; }
-.hero-subtitle { font-size:clamp(17px, 1.7vw, 21px); font-weight:700; color:var(--black); margin:0 0 12px; }
-.hero-tagline { font-size:15px; font-weight:600; color:var(--orange-dark); margin:0; }
-.hero .spotlight { margin:0; width:100%; }
-
-/* Hero: notebooks e telas intermediárias (redução proporcional) */
-@media (max-width:1200px) {
-  .hero { gap:40px; margin:36px 0 48px; }
-  .hero-title { font-size:34px; }
-  .hero-subtitle { font-size:18px; }
-  .spotlight-card { height:360px; }
-  .spotlight-title { font-size:20px; }
-  .spotlight-body { padding:28px 32px 28px 20px; }
-}
-
-/* Hero: tablet e celular (empilha: texto acima, carrossel abaixo) */
-@media (max-width:980px) {
-  .hero { grid-template-columns:1fr; gap:24px; margin:28px 0 44px; }
-  .hero-text { max-width:none; }
-  .hero-title { font-size:30px; }
-  .hero-subtitle { font-size:18px; }
-  .hero-tagline { font-size:14.5px; }
-  .spotlight-card { height:auto; }
-}
-
-/* Hero: celular */
-@media (max-width:640px) {
-  .hero { gap:18px; margin:20px 0 36px; }
-  .hero-title { font-size:25px; }
-  .hero-subtitle { font-size:16px; }
-  .hero-tagline { font-size:13.5px; }
-  .spotlight-card .price-current { font-size:28px !important; }
-}
-
 .discount-badge { position:relative; width:64px; height:64px; border-radius:50%; background:var(--black); color:var(--white); display:flex; align-items:center; justify-content:center; flex-direction:column; flex-shrink:0; }
 .discount-badge::before { content:''; position:absolute; inset:-5px; border-radius:50%; border:2px solid var(--orange); }
 .discount-badge .pct { font-family:var(--font-display); font-size:16px; line-height:1; }
@@ -186,7 +123,6 @@ a { text-decoration:none; color:inherit; }
 .price-current { font-family:var(--font-display); font-size:26px; color:var(--black); }
 .price-current small { font-size:14px; }
 .price-original { font-size:14px; color:var(--gray-text-light); text-decoration:line-through; }
-.coupon-pill { display:inline-flex; align-items:center; gap:6px; background:#EAF8EF; color:var(--green); font-size:12px; font-weight:700; padding:5px 12px; border-radius:999px; border:1px dashed var(--green); margin-top:8px; width:fit-content; cursor:pointer; }
 
 .btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; font-family:var(--font-body); font-weight:700; font-size:15px; padding:14px 26px; border-radius:12px; border:none; cursor:pointer; transition:transform .12s ease, background .15s ease; width:fit-content; }
 .btn-primary { background:var(--orange); color:var(--white); }
@@ -207,11 +143,6 @@ a { text-decoration:none; color:inherit; }
 .section-heading h2 { font-family:var(--font-display); font-size:20px; margin:0; }
 .section-heading .count { font-size:13px; color:var(--gray-text-light); }
 
-.filter-bar { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px; }
-.filter-chip { padding:8px 16px; border-radius:999px; border:1.5px solid var(--card-border); background:var(--white); font-size:13px; font-weight:600; color:var(--gray-text); cursor:pointer; transition:all .15s ease; }
-.filter-chip:hover { border-color:var(--orange); color:var(--orange-dark); }
-.filter-chip.active { background:var(--black); border-color:var(--black); color:var(--white); }
-
 .grid { display:grid; grid-template-columns:repeat(4,1fr); gap:22px; margin-bottom:60px; }
 .card { background:var(--white); border:1px solid var(--card-border); border-radius:var(--radius-card); overflow:hidden; display:flex; flex-direction:column; box-shadow:var(--shadow-card); transition:transform .15s ease, box-shadow .15s ease; cursor:pointer; }
 .card:hover { transform:translateY(-4px); box-shadow:var(--shadow-card-hover); }
@@ -223,20 +154,11 @@ a { text-decoration:none; color:inherit; }
 .card-body { padding:16px 16px 18px; display:flex; flex-direction:column; flex:1; }
 .card-category { font-size:11px; font-weight:700; color:var(--orange-dark); text-transform:uppercase; letter-spacing:.5px; margin-bottom:6px; }
 .card-title { font-size:14.5px; font-weight:600; line-height:1.4; margin:0 0 6px; color:var(--black); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; min-height:40px; }
-.card-rating { display:flex; align-items:center; gap:6px; margin-bottom:6px; font-size:12px; }
-.card-rating .stars { color:var(--orange); font-size:12px; letter-spacing:1px; }
-.card-rating .rating-num { color:var(--gray-text); font-weight:600; }
-.stars-wrap { position:relative; display:inline-block; font-size:12px; letter-spacing:1px; color:#DDD; }
-.stars-fill { position:absolute; top:0; left:0; overflow:hidden; white-space:nowrap; color:var(--orange); }
-.card-rating .reviews-count { color:var(--gray-text-light); font-weight:400; }
 .card-footer { margin-top:auto; }
-.sem-cupom { display:block; height:27px; }
 .card-cta { margin-top:12px; font-size:13px; font-weight:700; color:var(--orange); display:flex; align-items:center; gap:6px; }
 .card-cta svg { transition:transform .15s ease; }
 .card:hover .card-cta svg { transform:translateX(3px); }
 
-.breadcrumb { font-size:13px; color:var(--gray-text); margin:24px 0 20px; }
-.breadcrumb a, .breadcrumb span.link { color:var(--orange-dark); font-weight:600; cursor:pointer; }
   .back-button {
   display: inline-flex; align-items: center; gap: 8px;
   background: var(--white); border: 1.5px solid var(--card-border);
@@ -251,14 +173,10 @@ a { text-decoration:none; color:inherit; }
 .product-img .discount-badge { position:absolute; top:18px; right:18px; }
 .product-category { font-size:12px; font-weight:700; color:var(--orange-dark); text-transform:uppercase; letter-spacing:.6px; margin-bottom:10px; }
 .product-title { font-size:26px; font-weight:800; line-height:1.3; margin:0 0 14px; }
-.product-rating { display:flex; align-items:center; gap:8px; font-size:13px; color:var(--gray-text); margin-bottom:20px; }
-.product-rating .stars { color:var(--orange); font-size:14px; letter-spacing:1px; }
 .product-price-block { padding:20px 0; border-top:1px solid var(--card-border); border-bottom:1px solid var(--card-border); margin-bottom:22px; }
 .product-price-block .price-current { font-size:34px; }
 .product-desc { font-size:15px; line-height:1.7; color:var(--gray-text); margin-bottom:26px; }
 .product-desc h3 { font-size:14px; color:var(--black); margin-bottom:8px; }
-.product-summary { font-size:14px; line-height:1.6; color:var(--gray-text); margin-bottom:16px; padding:14px 16px; background:#FFFDF5; border-left:3px solid var(--orange); border-radius:0 10px 10px 0; }
-.product-rating-block { display:flex; align-items:center; gap:10px; margin-bottom:16px; }
 .freshness-note { display:flex; align-items:center; gap:8px; font-size:12px; color:var(--gray-text-light); margin-top:16px; }
 .freshness-note .dot { width:7px; height:7px; border-radius:50%; background:var(--green); }
 
@@ -294,19 +212,12 @@ a { text-decoration:none; color:inherit; }
 
 @media (max-width:980px) {
   .grid { grid-template-columns:repeat(3,1fr); }
-  .spotlight-card { grid-template-columns:1fr; min-height:380px; }
-  .spotlight-img { padding:24px; min-height:220px; }
-  .spotlight-title { display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
   .product-detail { grid-template-columns:1fr; padding:28px; }
   .footer-grid { grid-template-columns:1fr; }
 }
 @media (max-width:640px) {
   .grid { grid-template-columns:repeat(2,1fr); gap:14px; }
   .header-nav { display:none; }
-  .spotlight-body { padding:28px 24px; }
-  .spotlight-card { min-height:320px; }
-  .spotlight-img { padding:16px; min-height:180px; height:auto; }
-  .spotlight-title { font-size:20px; }
   .card-img { height:150px; }
   .card .price-current { font-size:17px; }
 }
@@ -352,24 +263,10 @@ a { text-decoration:none; color:inherit; }
 
   <!-- HOME -->
   <section data-view="home" class="active">
-    <div class="hero">
-      <div class="hero-text">
-        <h1 class="hero-title">Seu próximo desconto está aqui.</h1>
-        <p class="hero-subtitle">As ofertas que você procurava.</p>
-        <p class="hero-tagline">Economia com qualidade e confiança.</p>
-      </div>
-      <div class="spotlight" id="spotlight-slot"></div>
-    </div>
-
-    <div class="section-heading" style="margin-bottom:8px;">
-      <h2 style="font-size:14px;color:var(--gray-text-light);font-weight:500;font-family:var(--font-body);">Ofertas Atualizadas Diariamente</h2>
-    </div>
     <div class="section-heading">
-      <h2>Todas as ofertas</h2>
+      <h2>Ofertas do Dia</h2>
       <span class="count" id="product-count"></span>
     </div>
-
-    <div class="filter-bar" id="filter-bar"></div>
 
     <div class="grid" id="grid"></div>
 
@@ -409,8 +306,8 @@ a { text-decoration:none; color:inherit; }
   <section data-view="sobre">
     <div class="static-page">
       <h1>Sobre a Mix Du Mix Store</h1>
-      <p>A Mix Du Mix store nasceu para resolver um problema simples: encontrar boas ofertas na Amazon dá trabalho. Todos os dias, verificamos preços, descontos e cupons de produtos reais a venda na Amazon Brasil e reunimos tudo em um só lugar, com preços conferidos e atualizados ao longo do dia.</p>
-      <p>Não vendemos produtos diretamente, cada oferta listada aqui leva você direto para a Pagina do produto na Amazon, onde a compra é feita com toda a segurança na própria Amazon.</p>
+      <p>A Mix Du Mix store nasceu para resolver um problema simples: encontrar boas ofertas dá trabalho. Todos os dias, verificamos preços e descontos de produtos reais e reunimos tudo em um só lugar, com preços conferidos e atualizados ao longo do dia.</p>
+      <p>Não vendemos produtos diretamente, cada oferta listada aqui leva você direto para a página do produto, onde a compra é feita com toda a segurança.</p>
       <div class="disclosure">
         <strong>Aviso de afiliado:</strong> como Associado Amazon, a Mix Du Mix store ganha com compras qualificadas feitas através dos links deste site, sem custo adicional para você.
       </div>
@@ -461,7 +358,7 @@ a { text-decoration:none; color:inherit; }
           <img class="logo-mark" src="https://kcersarkal.github.io/mixdumix-store/assets/logo.png" alt="Mix Du Mix Ofertas" style="border-radius:50%;">
           <span>MIX DU MIX Store</span>
         </div>
-        <p>Ofertas da Amazon selecionadas e verificadas, atualizadas ao longo do dia.</p>
+        <p>Ofertas do dia selecionadas e verificadas, atualizadas ao longo do dia.</p>
         <p style="font-size:12px;color:#8A8783;margin-top:8px;">última atualização: <span id="last-update">—</span></p>
       </div>
       <div class="footer-col">
@@ -499,21 +396,14 @@ function fmtPrice(value) {
   const price = priceNumber(value);
   return price === null ? "Indisponível" : price.toLocaleString("pt-BR", { minimumFractionDigits:2, maximumFractionDigits:2 });
 }
-function discountPercent(p) {
-  const current = priceNumber(p.price_current);
-  const original = priceNumber(p.price_original);
-  return current !== null && original !== null && original > current
-    ? Math.round((1 - current / original) * 100)
-    : null;
-}
 function hoursSince(iso) { return (Date.now() - new Date(iso).getTime()) / 36e5; }
-function starRow(r) { const f = Math.round(r); return "★".repeat(f) + "★".repeat(5-f); }
 
 // Camada de segurança: nunca renderiza um link sem a tag correta.
 function ensureAffiliateTag(url) {
   try {
     const u = new URL(url);
     if (u.protocol !== "https:" && u.protocol !== "http:") return null;
+    u.searchParams.delete("ref_");
     if (u.searchParams.get("tag") !== AFFILIATE_TAG) u.searchParams.set("tag", AFFILIATE_TAG);
     return u.toString();
   } catch (e) {
@@ -521,8 +411,6 @@ function ensureAffiliateTag(url) {
     return null;
   }
 }
-
-
 
 function getActiveProducts() {
   return PRODUCTS
@@ -534,302 +422,46 @@ function getActiveProducts() {
     .filter(Boolean);
 }
 
-function discountBadge(pct, size) {
-  return `<div class="discount-badge ${size||''}"><span class="pct">-${pct}%</span><span class="off">OFF</span></div>`;
-}
-
-function pick(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
-
-function detectProductType(title) {
-  const t = title.toLowerCase();
-  if (t.includes("whisky") || t.includes("whiskey") || t.includes("jameson") || t.includes("bourbon") || t.includes("maker")) return "bebida";
-  if (t.includes("notebook") || t.includes("gamer") && (t.includes("lenovo") || t.includes("acer") || t.includes("dell"))) return "notebook";
-  if (t.includes("placa") && (t.includes("video") || t.includes("gpu") || t.includes("rx") || t.includes("rtx"))) return "placa_video";
-  if (t.includes("fone") || t.includes("headphone") || t.includes("ouvido")) return "fone";
-  if (t.includes("caixa") && (t.includes("som") || t.includes("jbl") || t.includes("partybox"))) return "caixa_som";
-  if (t.includes("tv") || t.includes("smart tv")) return "tv";
-  if (t.includes("smartwatch") || t.includes("galaxy fit")) return "smartwatch";
-  if (t.includes("streaming") || t.includes("roku")) return "streaming";
-  if (t.includes("ar condicionado") || t.includes("split")) return "ar_condicionado";
-  if (t.includes("lavadora") || t.includes("roupas") || t.includes("maquina") && t.includes("lavar")) return "eletro";
-  if (t.includes("sanduicheira") || t.includes("grill") || t.includes("panela") || t.includes("pressão")) return "cozinha";
-  if (t.includes("pote") || t.includes("vidro") || t.includes("tampa")) return "cozinha";
-  if (t.includes("garrafa") || t.includes("termica") || t.includes("stanley")) return "cozinha";
-  if (t.includes("cápsula") || t.includes("dolce gusto") || t.includes("nescafé")) return "cozinha";
-  if (t.includes("filtro") || t.includes("purificador") || t.includes("refil")) return "eletro";
-  if (t.includes("suporte") && t.includes("tv")) return "acessorio_tv";
-  if (t.includes("escadinha") || t.includes("degraus")) return "infantil";
-  if (t.includes("pilha") || t.includes("carregador") || t.includes("duracell") || t.includes("bateria")) return "pilha";
-  if (t.includes("máscara") || t.includes("shampoo") || t.includes("cabelo") || t.includes("rapunzel") || t.includes("lola")) return "beleza";
-  if (t.includes("saco") && t.includes("roupas")) return "casa";
-  return "generico";
-}
-
-function analysisForType(type, p, desconto, nota, reviews) {
-  const valor = fmtPrice(p.price_current);
-  const analyses = {
-    placa_video: [
-      `Para quem busca montar ou atualizar o PC gamer, essa placa de vídeo entrega desempenho sólido em 1080p e 1440p com tecnologias como ray tracing e AMD FSR. Ideal para jogos atuais e futuros,`,
-      `Uma placa de vídeo que equilibra bem custo e performance para jogos. Com 8GB de VRAM, aguenta títulos pesados sem gargalos. Perfeita para quem quer jogar no ultra sem estourar o orçamento,`
-    ],
-    notebook: [
-      `Notebook gamer com placa de vídeo dedicada que roda os principais jogos competitivos e AAA. Além de jogar, também serve para edição de vídeo e trabalho pesado graças ao processador de alta performance,`,
-      `Ideal para quem precisa de um notebook potente tanto para trabalho quanto para lazer. A combinação de processador rápido com GPU dedicada garante fluidez em multitarefas e games,`
-    ],
-    bebida: [
-      `Um clássico entre os destilados, perfeito para quem aprecia um bom drink ou quer presentear com estilo. De sabor marcante e finalização suave, agrada tanto iniciantes quanto conhecedores,`,
-      `Reconhecido mundialmente pela qualidade, esse whiskey entrega uma experiência de sabor única. Ótimo para degustar puro, com gelo ou em coquetéis. Uma excelente adição ao seu bar,`
-    ],
-    fone: [
-      `Fone de ouvido ideal para o dia a dia, com bateria de longa duração e som de qualidade. Confortável para usar por horas, seja no trabalho, nos estudos ou se exercitando,`,
-      `Perfeito para quem passa muito tempo em chamadas ou ouvindo música. O som é equilibrado com graves presentes, e o conforto permite uso prolongado sem cansar,`
-    ],
-    caixa_som: [
-      `Caixa de som portátil que transforma qualquer ambiente em festa. O som potente preenche o espaço com qualidade, e a bateria de longa duração acompanha o rolê do início ao fim,`,
-      `Ideal para festas e confraternizações, essa caixa de som entrega graves profundos e volume de sobra. A resistência a respingos permite usar em áreas externas sem preocupação,`
-    ],
-    tv: [
-      `Smart TV com qualidade de imagem 4K e recursos inteligentes que facilitam o dia a dia. O sistema operacional é rápido e oferece acesso a todos os principais aplicativos de streaming,`,
-      `Uma TV que entrega boa qualidade de imagem com 4K e HDR, ideal para assistir filmes, séries e jogar. O design sem bordas valoriza a decoração da sala,`
-    ],
-    smartwatch: [
-      `Smartwatch completo para monitorar sua saúde e atividades físicas sem gastar muito. A tela é nítida e os sensores ajudam a acompanhar seus treinos e qualidade do sono,`,
-      `Ideal para quem quer começar a monitorar a saúde de forma prática. Leve e confortável no pulso, acompanha seus passos, calorias e notificações do celular,`
-    ],
-    streaming: [
-      `Transforma qualquer TV antiga em uma smart TV completa. Acesso a Netflix, Prime Video, Globoplay e centenas de canais gratuitos. Instalação simples e controle remoto com comando de voz,`,
-      `O dispositivo de streaming mais prático para quem quer cortar a TV por assinatura. Plug and play, cabeça na entrada HDMI e pronto — sua TV vira smart na hora,`
-    ],
-    ar_condicionado: [
-      `Ar condicionado com tecnologia inverter que economiza energia sem abrir mão do conforto. A função WindFree evita o vento direto, ideal para quem tem bebês ou pessoas sensíveis em casa,`,
-      `Sistema de climatização inteligente que aprende sua rotina e ajusta a temperatura automaticamente. Silencioso e econômico, é a escolha certa para quem busca conforto térmico sem susto na conta de luz,`
-    ],
-    eletro: [
-      `Eletrodoméstico que facilita a rotina de casa com eficiência e praticidade. O design moderno e as funções inteligentes economizam tempo no dia a dia,`,
-      `Perfeito para quem busca praticidade nas tarefas domésticas. Com tecnologia atual, entrega bons resultados gastando menos energia e água,`
-    ],
-    cozinha: [
-      `Item essencial para quem ama cozinhar e quer praticidade na cozinha. O material de qualidade garante durabilidade e facilidade na hora de limpar,`,
-      `Ideal para preparar receitas do dia a dia com mais praticidade. O design funcional e os materiais de qualidade fazem diferença no resultado final,`
-    ],
-    acessorio_tv: [
-      `Suporte universal que se adapta a praticamente qualquer TV do mercado. Instalação simples e segura, libera espaço no móvel e deixa a sala com visual mais clean,`,
-      `Solução prática e segura para fixar sua TV na parede. Com capacidade para até 100kg, é compatível com a maioria dos modelos e vem com kit de instalação completo,`
-    ],
-    infantil: [
-      `Escadinha infantil que ajuda as crianças a alcançarem a pia e o vaso sanitário com segurança. Antiderrapante e estável, dá autonomia para os pequenos no dia a dia,`,
-      `Item prático para famílias com crianças pequenas. Ajuda na hora do banho, escovação dos dentes e criação de independência. A base larga garante estabilidade,`
-    ],
-    pilha: [
-      `Essencial para manter controles, brinquedos e dispositivos sempre funcionando. Boa durabilidade e ótimo custo-benefício para quem usa pilhas com frequência,`,
-      `Kit de pilhas com excelente relação entre preço e quantidade. Ideal para quem tem muitos aparelhos em casa e não quer ficar comprando pilha toda semana,`
-    ],
-    beleza: [
-      `Produto profissional para cuidar dos cabelos em casa com resultado de salão. A fórmula trata profundamente os fios danificados devolvendo brilho e maciez,`,
-      `Ideal para quem busca tratar os cabelos com produtos de qualidade profissional. A combinação de ativos nutritivos recupera a vitalidade dos fios,`
-    ],
-    casa: [
-      `Item prático que facilita a organização da casa. Funcional e reutilizável, ajuda a proteger suas roupas e prolongar a vida útil dos tecidos,`,
-      `Solução inteligente para o dia a dia. Prático de usar e fácil de limpar, resolve aquele problema chato e ainda é reutilizável,`
-    ],
-    generico: [
-      `Produto versátil que atende bem o que se propõe. Boa avaliação dos compradores mostra que entrega o que promete,`,
-      `Uma escolha acertada para quem busca o melhor custo-benefício. Avaliado positivamente por quem já comprou,`
-    ]
-  };
-  const typeAnalyses = analyses[type] || analyses.generico;
-  return pick(typeAnalyses);
-}
-
-function generateSummary(p) {
-  const desconto = discountPercent(p);
-  const nota = p.avaliacao || 0;
-  const reviews = p.qtd_avaliacoes || 0;
-  const type = detectProductType(p.title);
-
-  let txt = analysisForType(type, p, desconto, nota, reviews);
-
-  if (desconto && desconto >= 20) {
-    txt += ` com ${desconto}% de desconto —`;
-  } else if (desconto) {
-    txt += ` com preço especial —`;
-  } else {
-    txt += ` —`;
-  }
-
-  if (nota >= 4.5 && reviews >= 500) {
-    txt += ` e olha que não sou só eu que penso assim: ${nota}/5 de mais de ${(reviews/1000).toFixed(reviews >= 1000 ? 0 : 1)} mil compradores.`;
-  } else if (nota >= 4.0 && reviews >= 100) {
-    txt += ` e a reputação confirma: ${nota}/5 em ${reviews} avaliações na Amazon.`;
-  } else if (nota >= 4.5) {
-    txt += ` com nota ${nota}/5 de quem já comprou.`;
-  } else if (reviews >= 500) {
-    txt += ` já são mais de ${(reviews/1000).toFixed(0)} mil avaliações.`;
-  } else {
-    txt += ` vale a pena conferir.`;
-  }
-
-  return txt;
-}
-
-function couponMarkup(code) {
-  if (!code) return `<span class="sem-cupom"></span>`;
-  return `<button class="coupon-pill" onclick="copyCoupon(event,'${escapeHtml(code)}')">🎟️ ${escapeHtml(code)}</button>`;
-}
-
 function productCard(p) {
-  const original = priceNumber(p.price_original);
-  const current = priceNumber(p.price_current);
-  const showOriginal = original !== null && current !== null && original > current;
+  const safeUrl = ensureAffiliateTag(p.affiliate_url);
   return `
-    <article class="card" onclick="navigate('produto','${escapeHtml(p.asin)}')" role="link" tabindex="0" aria-label="Ver oferta: ${escapeHtml(p.title)}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();navigate('produto','${escapeHtml(p.asin)}');}">
-      <div class="card-link">
-        <div class="card-img">
-          <img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'">
+    <article class="card">
+      <div class="card-img">
+        <img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'">
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">${escapeHtml(p.title)}</h3>
+        <div class="price-row">
+          <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
         </div>
-        <div class="card-body">
-          <h3 class="card-title">${escapeHtml(p.title)}</h3>
-          <div class="card-rating">
-            <span class="stars-wrap">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%">★★★★★</span></span>
-            <span class="rating-num">${escapeHtml(p.avaliacao)}</span>
-            <span class="reviews-count">(${escapeHtml(p.qtd_avaliacoes)})</span>
-          </div>
-          <div class="price-row" style="flex-direction:column; align-items:flex-start; gap:2px;">
-            ${showOriginal ? `<span class="price-original">R$ ${fmtPrice(p.price_original)}</span>` : ''}
-            <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
-          </div>
-          <div class="card-footer">
-            <div class="card-cta">Ver produto
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
-            </div>
-          </div>
+        <div class="card-footer">
+          <a class="btn btn-primary btn-block" href="${escapeHtml(safeUrl)}" target="_blank" rel="nofollow sponsored noopener">Ver oferta</a>
         </div>
       </div>
     </article>`;
 }
 
-function spotlightMarkup(p) {
-  return `
-    <div class="spotlight-label">Produtos em destaque</div>
-    <div class="spotlight-card" onclick="navigate('produto','${escapeHtml(p.asin)}')" style="cursor:pointer;">
-      <div class="spotlight-img"><img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.parentElement.innerHTML='<div style=\'padding:40px;text-align:center;color:var(--gray-text-light)\'>Imagem indispon\u00edvel</div>'"></div>
-      <div class="spotlight-body">
-        <h2 class="spotlight-title">${escapeHtml(p.title)}</h2>
-        <div class="price-row">
-          ${p.price_original && p.price_original > p.price_current ? discountBadge(Math.round((1 - p.price_current/p.price_original) * 100), 'lg') : ''}
-          <div>
-            <div class="price-row" style="margin-bottom:2px;"><span class="price-current" style="font-size:40px;color:var(--orange);">R$ ${fmtPrice(p.price_current)}</span></div>
-            ${p.price_original && p.price_original > p.price_current ? `<span class="price-original">R$ ${fmtPrice(p.price_original)}</span>` : ''}
-          </div>
-        </div>
-      </div>
-    </div>`;
-}
-
-
-let carouselProducts = [];
-let carouselIndex = 0;
-let carouselTimer = null;
-
-function renderCarousel() {
-  const spotlightSlot = document.getElementById("spotlight-slot");
-  if (!carouselProducts.length) { spotlightSlot.innerHTML = ""; return; }
-  const existingCard = spotlightSlot.querySelector(".spotlight-card");
-  if (existingCard) {
-    existingCard.classList.add("slide-out-left");
-    setTimeout(desenharCarousel, 400);
-  } else {
-    desenharCarousel();
-  }
-}
-
-function desenharCarousel() {
-  const spotlightSlot = document.getElementById("spotlight-slot");
-  const p = carouselProducts[carouselIndex];
-  spotlightSlot.innerHTML = spotlightMarkup(p) + `
-    <div class="carousel-arrow prev" onclick="prevSlide()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 18l-6-6 6-6"/></svg></div>
-    <div class="carousel-arrow next" onclick="nextSlide()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg></div>
-    <div class="dots">
-      ${carouselProducts.map((_, i) => `<button class="dot-indicator ${i === carouselIndex ? 'active' : ''}" onclick="goToSlide(${i})"></button>`).join("")}
-    </div>`;
-  const newCard = spotlightSlot.querySelector(".spotlight-card");
-  newCard.classList.add("slide-in-right");
-  requestAnimationFrame(() => {
-    requestAnimationFrame(() => { newCard.classList.remove("slide-in-right"); });
-  });
-  clearInterval(carouselTimer);
-  carouselTimer = setInterval(nextSlide, 6000);
-}
-
-function nextSlide() {
-  carouselIndex = (carouselIndex + 1) % carouselProducts.length;
-  renderCarousel();
-}
-  function prevSlide() {
-  carouselIndex = (carouselIndex - 1 + carouselProducts.length) % carouselProducts.length;
-  renderCarousel();
-}
-
-function goToSlide(i) {
-  carouselIndex = i;
-  renderCarousel();
-}
-
-function getSpotlightProducts(products) {
-  const valiosos = products.filter(p => p.price_current != null && p.price_current >= 150);
-  const cats = [...new Set(valiosos.map(p => p.category).filter(Boolean))];
-  const resultados = [];
-  for (const cat of cats) {
-    const daCat = valiosos.filter(p => p.category === cat);
-    const menorPreco = daCat.reduce((a, b) => (a.price_current || Infinity) < (b.price_current || Infinity) ? a : b);
-    resultados.push(menorPreco);
-  }
-  resultados.sort((a, b) => (a.price_current || Infinity) - (b.price_current || Infinity));
-  return resultados.slice(0, 6);
-}
-  let activeCategory = "Todas";
 let searchQuery = "";
 
 function renderHome() {
   const grid = document.getElementById("grid");
-  const spotlightSlot = document.getElementById("spotlight-slot");
   const countEl = document.getElementById("product-count");
-  const filterBar = document.getElementById("filter-bar");
   const products = getActiveProducts();
 
   if (!products.length) {
     grid.innerHTML = "";
-    spotlightSlot.innerHTML = "";
-    filterBar.innerHTML = "";
     document.getElementById("empty-state").style.display = "block";
     return;
   }
   document.getElementById("empty-state").style.display = "none";
 
-  const rest = products;
-
-  const categories = ["Todas", ...new Set(products.map(p => p.category).filter(Boolean))];
-
-  filterBar.innerHTML = categories.map(cat => `
-    <button class="filter-chip ${cat === activeCategory ? 'active' : ''}" onclick="setCategory(this.dataset.cat)" data-cat="${escapeHtml(cat)}">${escapeHtml(cat)}</button>
-  `).join("");
-
-  carouselProducts = getSpotlightProducts(products);
-renderCarousel();
-
-  let searched = searchQuery ? rest.filter(p => p.title.toLowerCase().includes(searchQuery.toLowerCase())) : rest;
-  let filtered = activeCategory === "Todas" ? searched : searched.filter(p => p.category === activeCategory);
-
   const lastUpdate = products.reduce((latest, p) => new Date(p.last_checked_at) > new Date(latest) ? p.last_checked_at : latest, products[0].last_checked_at);
   document.getElementById("last-update").textContent = new Date(lastUpdate).toLocaleString("pt-BR");
 
-  countEl.textContent = searchQuery ? `${filtered.length} de ${products.length} ofertas` : `${products.length} ofertas ativas`;
-  grid.innerHTML = filtered.length ? filtered.map(productCard).join("") : `<p style="color:var(--gray-text); grid-column:1/-1;">Nenhuma oferta nesse filtro no momento.</p>`;
-}
+  const searched = searchQuery ? products.filter(p => p.title.toLowerCase().includes(searchQuery.toLowerCase())) : products;
 
-function setCategory(cat) {
-  activeCategory = cat;
-  renderHome();
+  countEl.textContent = searchQuery ? `${searched.length} de ${products.length} ofertas` : `${products.length} ofertas ativas`;
+  grid.innerHTML = searched.length ? searched.map(productCard).join("") : `<p style="color:var(--gray-text); grid-column:1/-1;">Nenhuma oferta encontrada.</p>`;
 }
 
 function onSearchInput(value) {
@@ -843,42 +475,25 @@ function injectProductLD(p) {
   const existing = document.getElementById("product-ld");
   if (existing) existing.remove();
   const current = priceNumber(p.price_current);
-  const marca = p.informacoes_produto?.Marca || p.informacoes_produto?.["Nome da marca"];
   const ld = {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": p.title,
-    "description": p.description || p.title,
+    "description": p.title,
     "sku": p.asin,
     "mpn": p.asin
   };
   if (validImageUrl(p.image)) {
     ld.image = p.image;
   }
-  if (marca) {
-    ld.brand = { "@type": "Brand", "name": marca };
-  }
   if (current !== null) {
     ld.offers = {
       "@type": "Offer",
       "url": p.affiliate_url,
       "priceCurrency": "BRL",
-      "price": current
+      "price": current,
+      "availability": "https://schema.org/InStock"
     };
-  }
-  const rating = priceNumber(p.avaliacao);
-  const reviews = priceNumber(p.qtd_avaliacoes);
-  if (rating !== null && reviews !== null && rating > 0 && rating <= 5 && reviews > 0) {
-    ld.aggregateRating = {
-      "@type": "AggregateRating",
-      "ratingValue": rating,
-      "reviewCount": reviews,
-      "bestRating": 5,
-      "worstRating": 1
-    };
-  }
-  if (p.category) {
-    ld.category = p.category;
   }
   const script = document.createElement("script");
   script.id = "product-ld";
@@ -892,18 +507,18 @@ function injectProductLD(p) {
    Open Graph e Twitter Card específicos por página
    =========================================================== */
 const HOME_SEO = {
-  title: "Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store",
-  description: "Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.",
+  title: "Ofertas do Dia em Produtos Selecionados | Mix Du Mix Store",
+  description: "Encontre ofertas do dia em produtos selecionados na Mix Du Mix Store. Descontos atualizados para você economizar em suas compras.",
   canonical: "https://kcersarkal.github.io/mixdumix-store/",
   ogType: "website",
-  ogTitle: "Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store",
-  ogDescription: "Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.",
+  ogTitle: "Ofertas do Dia em Produtos Selecionados | Mix Du Mix Store",
+  ogDescription: "Encontre ofertas do dia em produtos selecionados na Mix Du Mix Store. Descontos atualizados para você economizar em suas compras.",
   ogUrl: "https://kcersarkal.github.io/mixdumix-store/",
   ogImage: "https://kcersarkal.github.io/mixdumix-store/assets/logo.png",
   ogSiteName: "Mix Du Mix Store",
   twitterCard: "summary_large_image",
-  twitterTitle: "Ofertas Amazon e Produtos Selecionados | Mix Du Mix Store",
-  twitterDescription: "Encontre ofertas e produtos selecionados da Amazon na Mix Du Mix Store. Compare preços e descubra oportunidades para economizar em suas compras.",
+  twitterTitle: "Ofertas do Dia em Produtos Selecionados | Mix Du Mix Store",
+  twitterDescription: "Encontre ofertas do dia em produtos selecionados na Mix Du Mix Store. Descontos atualizados para você economizar em suas compras.",
   twitterImage: "https://kcersarkal.github.io/mixdumix-store/assets/logo.png"
 };
 
@@ -958,10 +573,7 @@ function productSeoTitle(p) {
   return truncateAt(p.title + " | Mix Du Mix Store", 65);
 }
 function productSeoDescription(p) {
-  if (p.description && String(p.description).trim()) {
-    return truncateAt(String(p.description), 160);
-  }
-  return truncateAt("Confira " + p.title + " na Mix Du Mix Store e acesse a oferta disponível na Amazon.", 160);
+  return truncateAt("Confira " + p.title + " na Mix Du Mix Store e acesse a oferta disponível para economizar hoje.", 160);
 }
 function productCanonicalUrl(asin) {
   return window.location.origin + window.location.pathname + "?produto=" + encodeURIComponent(asin);
@@ -1033,27 +645,15 @@ function renderProduct(asin) {
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>
       Voltar
     </button>
-      <div class="breadcrumb"><a href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">Início</a> / ${escapeHtml(p.category)} / ${escapeHtml(p.title)}</div>
     <div class="product-detail">
       <div class="product-img"><img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'"></div>
       <div class="product-info">
-        <span class="product-category">${escapeHtml(p.category)}</span>
         <h1 class="product-title">${escapeHtml(p.title)}</h1>
         <div class="product-price-block">
-          <div class="price-row">
-            <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
-            ${priceNumber(p.price_original) !== null ? `<span class="price-original">De R$ ${fmtPrice(p.price_original)}</span>` : ""}
-          </div>
-          ${p.coupon_code ? `<div style="margin-top:10px;">${couponMarkup(p.coupon_code)}</div>` : ""}
+          <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
         </div>
-        <div class="product-rating-block">
-          <span class="stars-wrap" style="font-size:16px;">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%;font-size:16px;">★★★★★</span></span>
-          <span style="font-weight:700;font-size:15px;">${escapeHtml(p.avaliacao)}</span>
-          <span style="color:var(--gray-text-light);font-size:13px;">(${escapeHtml(p.qtd_avaliacoes)} avaliações)</span>
-        </div>
-            <div class="product-summary">${escapeHtml(p.description || "Produto com bom custo-benefício e avaliação positiva na Amazon.")}</div>
         <div class="product-actions">
-          <a class="btn btn-primary btn-block" href="${escapeHtml(p.affiliate_url)}" target="_blank" rel="nofollow sponsored noopener">Ver na Amazon</a>
+          <a class="btn btn-primary btn-block" href="${escapeHtml(ensureAffiliateTag(p.affiliate_url))}" target="_blank" rel="nofollow sponsored noopener">Ver oferta</a>
           <div class="product-actions-row">
             <button class="btn btn-whatsapp" onclick="shareWhatsApp('${escapeHtml(p.asin)}')">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.44 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
@@ -1075,9 +675,7 @@ function shareWhatsApp(asin) {
   const p = getActiveProducts().find(item => item.asin === asin);
   if (!p) return;
   const productUrl = `${window.location.origin}${window.location.pathname}?produto=${p.asin}`;
-  const pct = discountPercent(p);
-  const discountTxt = pct ? ` (-${pct}%)` : "";
-  const text = `🔥 *${p.title}*\n\nDe R$ ${fmtPrice(p.price_original)} por *R$ ${fmtPrice(p.price_current)}*${discountTxt}${p.coupon_code ? `\n🎟️ Cupom: ${p.coupon_code}` : ""}\n\n${productUrl}`;
+  const text = `🔥 *${p.title}*\n\n*R$ ${fmtPrice(p.price_current)}*\n\n${productUrl}`;
   window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank");
 }
 
@@ -1103,7 +701,7 @@ function sharePedidoWhatsApp(id) {
   const pedidos = window.PEDIDOS || [];
   const p = pedidos.find(item => (item.id||item.asin) === id);
   if (!p) return;
-  const productUrl = p.link || `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
+  const productUrl = ensureAffiliateTag(p.link) || `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
   const text = `🛒 *${p.titulo}*${p.preco ? `\n\n*R$ ${fmtPrice(p.preco)}*` : ""}\n\n${productUrl}`;
   window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank");
 }
@@ -1112,7 +710,7 @@ function copyPedidoLink(id) {
   const pedidos = window.PEDIDOS || [];
   const p = pedidos.find(item => (item.id||item.asin) === id);
   if (!p) return;
-  const productUrl = p.link || `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
+  const productUrl = ensureAffiliateTag(p.link) || `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
   const btn = event.currentTarget;
   const original = btn.innerHTML;
   if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -1183,7 +781,7 @@ function renderPedido(id) {
           ${p.preco ? `<div class="product-price-block"><div class="price-row"><span class="price-current">R$ ${fmtPrice(p.preco)}</span></div></div>` : ""}
           ${p.descricao ? `<p class="product-desc" style="font-size:14px;line-height:1.6;color:var(--gray-text);margin-bottom:20px;">${escapeHtml(p.descricao)}</p>` : ""}
           <div class="product-actions">
-            <a class="btn btn-primary btn-block" href="${escapeHtml(safeHttpUrl(p.link, "#"))}" target="_blank" rel="nofollow sponsored noopener">Ver na loja</a>
+            <a class="btn btn-primary btn-block" href="${escapeHtml(ensureAffiliateTag(p.link) || "#")}" target="_blank" rel="nofollow sponsored noopener">Ver oferta</a>
             <div class="product-actions-row">
               <button class="btn btn-whatsapp" onclick="sharePedidoWhatsApp(this.dataset.pid)" data-pid="${escapeHtml(p.id||p.asin)}">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.44 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
@@ -1203,17 +801,6 @@ function renderPedido(id) {
 }
 
 function toggleMenu() { document.getElementById('mobile-menu').classList.toggle('open'); }
-
-function copyCoupon(event, code) {
-  event.preventDefault();
-  event.stopPropagation();
-  navigator.clipboard.writeText(code).then(() => {
-    const btn = event.currentTarget;
-    const original = btn.innerHTML;
-    btn.innerHTML = "✓ Copiado!";
-    setTimeout(() => { btn.innerHTML = original; }, 1800);
-  });
-}
 
 // Navegação SPA simples (sem recarregar pígina, sem precisar de servidor)
 let previousMainView = "home"; // guarda a última pígina visitada (não-produto)
