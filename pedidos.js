@@ -60,7 +60,7 @@ window.PEDIDOS = [
     "asin": "B09MZXLW51",
     "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
     "imagem": "https://m.media-amazon.com/images/I/61dN-GFMm8L._AC_SL1000_.jpg",
-    "preco": 48.75,
+    "preco": 35.08,
     "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=mixstore04b3-20"
   },
   {
