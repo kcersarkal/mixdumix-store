@@ -36,7 +36,7 @@ window.PEDIDOS = [
     "asin": "B083LGFDGJ",
     "titulo": "Notebook Acer Aspire 5 A515-45-R043 AMD Ryzen 5 Tela 15.6” 16 GB RAM 512 GB SSD Full HD LED IPS Windows 11 Home",
     "imagem": "https://m.media-amazon.com/images/I/61lLvuwZaKL._AC_SL1000_.jpg",
-    "preco": 3999.0,
+    "preco": 3999,
     "link": "https://www.amazon.com.br/dp/B083LGFDGJ?tag=mixstore04b3-20"
   },
   {
@@ -92,7 +92,7 @@ window.PEDIDOS = [
     "asin": "B07MC6RLN4",
     "titulo": "Havit Mouse Gamer MS1001S RGB Programável Macro, 7 Botões, 800-1600-2400-3200-4800-8000 DPI, USB, Design Ergonômico, Antiderrapante",
     "imagem": "https://m.media-amazon.com/images/I/41rHZ1VskiL._AC_SL1118_.jpg",
-    "preco": 60.0,
+    "preco": 60,
     "link": "https://www.amazon.com.br/dp/B07MC6RLN4?tag=mixstore04b3-20"
   },
   {
@@ -126,5 +126,14 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/61HZSC0pUiL._AC_SL1500_.jpg",
     "preco": 69.9,
     "link": "https://www.amazon.com.br/dp/B0GZL69P5V?tag=mixstore04b3-20"
+  },
+  {
+    "id": "B0DQY6G1TZ",
+    "asin": "B0DQY6G1TZ",
+    "titulo": "GameSir Nova Lite Controle Bluetooth e Sem Fio 2.4G para PC Windows, Celular Android iPhone, Nintendo Switch e Steam Deck, Gamepad com Hall Effect Anti-Drift, Turbo, Vibração, Dongle USB - Cinza",
+    "imagem": "https://m.media-amazon.com/images/I/41AqYogcPHL._AC_SL1000_.jpg",
+    "preco": 170.99,
+    "link": "https://www.amazon.com.br/dp/B0DQY6G1TZ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Controle Gamer Multiplataforma (PC, Celular e Console)：Compatível com PC Windows 10/11, Android, iPhone (iOS), Nintendo Switch e Steam Deck. Funciona como controle gamer para celular e computador, ideal para jogos como FPS, corrida e ação. Inclui adaptador USB 2.4G para conexão mais estável e sem delay.. Joystick Hall Effect Sem Drift e Alta Precisão：Equipado com analógicos magnéticos Hall Effect, evita drift e zona morta. Mais precisão e durabilidade para gamers exigentes que buscam desempenho competitivo em qualquer plataforma.. Gatilhos Lineares Responsivos (Estilo Console)：Gatilhos analógicos lineares proporcionam resposta rápida e controle preciso, perfeitos para jogos de corrida e tiro. Experiência semelhante a controles de nova geração.. 3 Modos de Conexão (Bluetooth, 2.4G e USB-C)：Use como controle Bluetooth, controle sem fio 2.4G com dongle ou via USB-C. Troque facilmente entre dispositivos como PC, celular e Switch sem complicações.. Função Turbo 20Hz para Melhor Performance：Controle com função Turbo ajustável (A/B/X/Y/LB/LT/RB/RT), ideal para jogos que exigem repetição rápida de comandos. Ative/desative facilmente pelo botão M.. Bateria Recarregável de Longa Duração：Bateria de 600mAh com até 10 horas de uso contínuo. Carregamento rápido em cerca de 2 horas para jogar sem interrupções.. Botão M Multifuncional Personalizável：Ajuste rapidamente vibração, layout ABXY e sensibilidade dos sticks com o botão M. Controle totalmente personalizável para diferentes estilos de jogo."
   }
 ];
