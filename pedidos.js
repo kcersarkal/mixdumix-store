@@ -12,7 +12,7 @@ window.PEDIDOS = [
     "asin": "B0F5X5CP4G",
     "titulo": "Samsung Vision AI TV 50&#34; QLED 4K Q7F 4K 2025",
     "imagem": "https://m.media-amazon.com/images/I/81JGZqS1yKL._AC_SL1500_.jpg",
-    "preco": 2410.99,
+    "preco": 2490.34,
     "link": "https://www.amazon.com.br/dp/B0F5X5CP4G?tag=mixstore04b3-20"
   },
   {
