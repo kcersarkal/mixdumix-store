@@ -68,7 +68,7 @@ window.PEDIDOS = [
     "asin": "B07DYHDXX8",
     "titulo": "OMO Lavagem Perfeita - Sabão Líquido 5L",
     "imagem": "https://m.media-amazon.com/images/I/71bXBFl912L._AC_SL1500_.jpg",
-    "preco": 47.99,
+    "preco": 49.98,
     "link": "https://www.amazon.com.br/dp/B07DYHDXX8?tag=mixstore04b3-20"
   },
   {
