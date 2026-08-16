@@ -153,5 +153,14 @@ window.PEDIDOS = [
     "preco": 24.99,
     "link": "https://www.amazon.com.br/dp/B07X41XJ87?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Com ingredientes de origem natural. Pele protegida e hidratada desde a primeira passada. Textura suave para a pele do bebê. Com óleo de amêndoa, óxido de zinco e vitamina E"
+  },
+  {
+    "id": "B097S11KYF",
+    "asin": "B097S11KYF",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper XG 60 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61v0SaOuJML._AC_SL1500_.jpg",
+    "preco": 48.71,
+    "link": "https://www.amazon.com.br/dp/B097S11KYF?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Orelhas elásticas, garantindo mais conforto e um ajuste perfeito na cinturinha do bebê. Até 12 horas de absorção, garantindo dias e noites tranquilas. Não pesa, não cai - Canal superabsorvente, que distribui o xixi mais rápido, evitando que a fralda pese e caia entre as perninhas do bebê. Loção hidratante com extratos naturais que auxiliam na prevenção da irritação da pele. Cada tamanho tem um bichinho exclusivo da Fauna Brasileira"
   }
 ];
