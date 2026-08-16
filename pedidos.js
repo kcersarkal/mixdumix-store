@@ -163,5 +163,14 @@ window.PEDIDOS = [
     "preco": 49.98,
     "link": "https://www.amazon.com.br/dp/B07DYHDXX8?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "OMO Lavagem Perfeita deixa as suas roupas impecáveis, já que remove as manchas de primeira*. A fórmula do sabão líquido OMO possui perfume exclusivo que dura muito mais, isso tudo cuidando das cores e dos tecidos das suas roupas. O detergente OMO é imbatível na limpeza* e cuida do meio ambiente, pois sua fórmula contém ativos biodegradáveis. Este lava roupas cuida das cores e não deixa resíduos que danificam os tecidos, deixando suas roupas com cheirinho de limpeza. OMO Lavagem Perfeita cuida das cores sem danificar os tecidos e deixa suas roupas com cheirinho de limpeza"
+  },
+  {
+    "id": "B07TTTH28T",
+    "asin": "B07TTTH28T",
+    "titulo": "Forth Defende, Pronto Uso, Inseticida, Óleo de Neem, Azadiractina, 500ml",
+    "imagem": "https://m.media-amazon.com/images/I/51vC6TX2aQL._AC_SL1000_.jpg",
+    "preco": 19.9,
+    "link": "https://www.amazon.com.br/dp/B07TTTH28T?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "PROTEÇÃO SEGURA: Fórmula à base de óleo de neem com azadiractina que combate eficazmente pulgões, cochonilhas, formigas e lagartas, oferecendo controle seguro de pragas em jardins."
   }
 ];
