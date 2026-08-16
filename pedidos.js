@@ -144,5 +144,14 @@ window.PEDIDOS = [
     "preco": 7.99,
     "link": "https://www.amazon.com.br/dp/B0H8TP4G7B?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "PROTEÇÃO CONTRA INSETOS: Repele mosquitos transmissores de Dengue, Zika, Chikungunya e Febre Amarela por até 6 horas.. SEGURANÇA PARA CRIANÇAS: Fórmula dermatologicamente testada, indicada para crianças a partir de 6 meses de idade e gestantes.. HIPOALERGÊNICO: Sem perfume, sem álcool e sem óleo, desenvolvido para minimizar o surgimento de alergias e irritações na pele.. FÓRMULA LEVE COM ALOE VERA: Loção cremosa de fácil aplicação, não oleosa, com extrato de Aloe Vera e ação hidratante.. PRÁTICO E EFICIENTE: Embalagem de 100ml fácil de usar, sem deixar resíduos, ideal para uso diário em família."
+  },
+  {
+    "id": "B07X41XJ87",
+    "asin": "B07X41XJ87",
+    "titulo": "Creme Preventivo de Assaduras Huggies Pele Protegida 80g",
+    "imagem": "https://m.media-amazon.com/images/I/51xC91ZOQBL._AC_SL1000_.jpg",
+    "preco": 24.99,
+    "link": "https://www.amazon.com.br/dp/B07X41XJ87?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Com ingredientes de origem natural. Pele protegida e hidratada desde a primeira passada. Textura suave para a pele do bebê. Com óleo de amêndoa, óxido de zinco e vitamina E"
   }
 ];
