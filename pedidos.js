@@ -172,5 +172,14 @@ window.PEDIDOS = [
     "preco": 19.9,
     "link": "https://www.amazon.com.br/dp/B07TTTH28T?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "PROTEÇÃO SEGURA: Fórmula à base de óleo de neem com azadiractina que combate eficazmente pulgões, cochonilhas, formigas e lagartas, oferecendo controle seguro de pragas em jardins."
+  },
+  {
+    "id": "B0DCPFF53P",
+    "asin": "B0DCPFF53P",
+    "titulo": "Tenis Fila Renno Classic Masculino",
+    "imagem": "https://m.media-amazon.com/images/I/51ikLLrLs-L._AC_SL1000_.jpg",
+    "preco": 196.84,
+    "link": "https://www.amazon.com.br/dp/B0DCPFF53P?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": ""
   }
 ];
