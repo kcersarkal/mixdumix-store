@@ -135,5 +135,14 @@ window.PEDIDOS = [
     "preco": 170.99,
     "link": "https://www.amazon.com.br/dp/B0DQY6G1TZ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Controle Gamer Multiplataforma (PC, Celular e Console)：Compatível com PC Windows 10/11, Android, iPhone (iOS), Nintendo Switch e Steam Deck. Funciona como controle gamer para celular e computador, ideal para jogos como FPS, corrida e ação. Inclui adaptador USB 2.4G para conexão mais estável e sem delay.. Joystick Hall Effect Sem Drift e Alta Precisão：Equipado com analógicos magnéticos Hall Effect, evita drift e zona morta. Mais precisão e durabilidade para gamers exigentes que buscam desempenho competitivo em qualquer plataforma.. Gatilhos Lineares Responsivos (Estilo Console)：Gatilhos analógicos lineares proporcionam resposta rápida e controle preciso, perfeitos para jogos de corrida e tiro. Experiência semelhante a controles de nova geração.. 3 Modos de Conexão (Bluetooth, 2.4G e USB-C)：Use como controle Bluetooth, controle sem fio 2.4G com dongle ou via USB-C. Troque facilmente entre dispositivos como PC, celular e Switch sem complicações.. Função Turbo 20Hz para Melhor Performance：Controle com função Turbo ajustável (A/B/X/Y/LB/LT/RB/RT), ideal para jogos que exigem repetição rápida de comandos. Ative/desative facilmente pelo botão M.. Bateria Recarregável de Longa Duração：Bateria de 600mAh com até 10 horas de uso contínuo. Carregamento rápido em cerca de 2 horas para jogar sem interrupções.. Botão M Multifuncional Personalizável：Ajuste rapidamente vibração, layout ABXY e sensibilidade dos sticks com o botão M. Controle totalmente personalizável para diferentes estilos de jogo."
+  },
+  {
+    "id": "B0H8TP4G7B",
+    "asin": "B0H8TP4G7B",
+    "titulo": "TAP Kids Repelente de Insetos Loção Cremosa 100ml | A partir de 6 meses, Sem álcool e perfume",
+    "imagem": "https://m.media-amazon.com/images/I/31ttWoiqFpL._AC_.jpg",
+    "preco": 7.99,
+    "link": "https://www.amazon.com.br/dp/B0H8TP4G7B?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "PROTEÇÃO CONTRA INSETOS: Repele mosquitos transmissores de Dengue, Zika, Chikungunya e Febre Amarela por até 6 horas.. SEGURANÇA PARA CRIANÇAS: Fórmula dermatologicamente testada, indicada para crianças a partir de 6 meses de idade e gestantes.. HIPOALERGÊNICO: Sem perfume, sem álcool e sem óleo, desenvolvido para minimizar o surgimento de alergias e irritações na pele.. FÓRMULA LEVE COM ALOE VERA: Loção cremosa de fácil aplicação, não oleosa, com extrato de Aloe Vera e ação hidratante.. PRÁTICO E EFICIENTE: Embalagem de 100ml fácil de usar, sem deixar resíduos, ideal para uso diário em família."
   }
 ];
