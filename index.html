@@ -151,9 +151,9 @@ a { text-decoration:none; color:inherit; }
 .card-img { background:#FBFAF8; height:190px; display:flex; align-items:center; justify-content:center; padding:20px; position:relative; border-bottom:1px solid var(--card-border); }
 .card-img img { max-height:100%; object-fit:contain; }
 .card-img .discount-badge { position:absolute; top:10px; right:10px; }
-.card-body { padding:16px 16px 18px; display:flex; flex-direction:column; flex:1; }
+.card-body { padding:20px 18px 18px; display:flex; flex-direction:column; flex:1; min-height:190px; }
 .card-category { font-size:11px; font-weight:700; color:var(--orange-dark); text-transform:uppercase; letter-spacing:.5px; margin-bottom:6px; }
-.card-title { font-size:14.5px; font-weight:600; line-height:1.4; margin:0 0 6px; color:var(--black); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; min-height:40px; }
+.card-title { font-size:15.5px; font-weight:700; line-height:1.45; margin:0 0 14px; color:var(--black); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; min-height:40px; }
 .card-footer { margin-top:auto; }
 .card-cta { margin-top:12px; font-size:13px; font-weight:700; color:var(--orange); display:flex; align-items:center; gap:6px; }
 .card-cta svg { transition:transform .15s ease; }
@@ -167,14 +167,9 @@ a { text-decoration:none; color:inherit; }
   margin-top: 24px; transition: all .15s ease;
 }
 .back-button:hover { border-color: var(--orange); color: var(--orange-dark); transform: translateX(-3px); }
-.product-detail { display:grid; grid-template-columns:1fr 1fr; gap:48px; background:var(--white); border:1px solid var(--card-border); border-radius:24px; padding:40px; box-shadow:var(--shadow-card); margin-bottom:40px; }
-.product-img { background:#FBFAF8; border-radius:16px; display:flex; align-items:center; justify-content:center; padding:30px; position:relative; min-height:380px; }
-.product-img img { max-height:380px; object-fit:contain; }
-.product-img .discount-badge { position:absolute; top:18px; right:18px; }
+.product-detail { display:grid; grid-template-columns:1fr; gap:24px; background:var(--white); border:1px solid var(--card-border); border-radius:24px; padding:40px; box-shadow:var(--shadow-card); margin-bottom:40px; }
 .product-category { font-size:12px; font-weight:700; color:var(--orange-dark); text-transform:uppercase; letter-spacing:.6px; margin-bottom:10px; }
 .product-title { font-size:26px; font-weight:800; line-height:1.3; margin:0 0 14px; }
-.product-price-block { padding:20px 0; border-top:1px solid var(--card-border); border-bottom:1px solid var(--card-border); margin-bottom:22px; }
-.product-price-block .price-current { font-size:34px; }
 .product-desc { font-size:15px; line-height:1.7; color:var(--gray-text); margin-bottom:26px; }
 .product-desc h3 { font-size:14px; color:var(--black); margin-bottom:8px; }
 .freshness-note { display:flex; align-items:center; gap:8px; font-size:12px; color:var(--gray-text-light); margin-top:16px; }
@@ -391,10 +386,6 @@ function priceNumber(value) {
   const parsed = Number(normalized);
   return Number.isFinite(parsed) ? parsed : null;
 }
-function fmtPrice(value) {
-  const price = priceNumber(value);
-  return price === null ? "Indisponível" : price.toLocaleString("pt-BR", { minimumFractionDigits:2, maximumFractionDigits:2 });
-}
 function hoursSince(iso) { return (Date.now() - new Date(iso).getTime()) / 36e5; }
 
 // Camada de segurança: nunca renderiza um link sem a tag correta.
@@ -423,11 +414,7 @@ function getActiveProducts() {
 function productCard(p) {
   const safeUrl = ensureAffiliateTag(p.affiliate_url);
   return `
-    <article class="card">
-      <div class="card-img">
-        <img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'">
-      </div>
-      <div class="card-body">
+    <article class="card"><div class="card-body">
         <h3 class="card-title">${escapeHtml(p.title)}</h3>
         <div class="card-footer">
           <div style="font-size:10px;color:var(--gray-text-light);margin-bottom:5px;">Publicidade</div>
@@ -478,9 +465,6 @@ function injectProductLD(p) {
     "sku": p.asin,
     "mpn": p.asin
   };
-  if (validImageUrl(p.image)) {
-    ld.image = p.image;
-  }
   const script = document.createElement("script");
   script.id = "product-ld";
   script.type = "application/ld+json";
@@ -590,7 +574,7 @@ function applyProductSeo(p) {
   const title = productSeoTitle(p);
   const description = productSeoDescription(p);
   const canonicalUrl = productCanonicalUrl(p.asin);
-  const image = validImageUrl(p.image) ? p.image : HOME_SEO.ogImage;
+  const image = HOME_SEO.ogImage;
   document.title = title;
   const desc = document.querySelector('meta[name="description"]');
   if (desc) desc.setAttribute("content", description);
@@ -632,7 +616,6 @@ function renderProduct(asin) {
       Voltar
     </button>
     <div class="product-detail">
-      <div class="product-img"><img src="${escapeHtml(validImageUrl(p.image) ? p.image : "")}" alt="${escapeHtml(p.title)}" loading="lazy" onerror="this.alt='Imagem indispon\u00edvel';this.style.display='none'"></div>
       <div class="product-info">
         <div style="font-size:11px;color:var(--gray-text-light);margin-bottom:6px;">Publicidade</div>
         <h1 class="product-title">${escapeHtml(p.title)}</h1>
@@ -712,9 +695,6 @@ function copyPedidoLink(id) {
 function pedidoCard(p) {
   return `<article class="card" onclick="navigate('pedido', this.dataset.pid)" role="link" tabindex="0" aria-label="${escapeHtml(p.titulo)}" data-pid="${escapeHtml(p.id||p.asin)}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();navigate('pedido', this.dataset.pid);}">
     <div class="card-link">
-      <div class="card-img">
-        <img src="${escapeHtml(validImageUrl(p.imagem) ? p.imagem : 'https://via.placeholder.com/200')}" alt="${escapeHtml(p.titulo)}" loading="lazy" onerror="this.src='https://via.placeholder.com/200'">
-      </div>
       <div class="card-body">
         <h3 class="card-title">${escapeHtml(p.titulo)}</h3>
         <div class="card-footer">
@@ -757,9 +737,6 @@ function renderPedido(id) {
         Voltar
       </button>
       <div class="product-detail">
-        <div class="product-img">
-          <img src="${escapeHtml(validImageUrl(p.imagem) ? p.imagem : 'https://via.placeholder.com/400')}" alt="${escapeHtml(p.titulo)}" loading="lazy" onerror="this.src='https://via.placeholder.com/400'">
-        </div>
         <div class="product-info">
           <div style="font-size:11px;color:var(--gray-text-light);margin-bottom:6px;">Publicidade</div>
           <h1 class="product-title">${escapeHtml(p.titulo)}</h1>
