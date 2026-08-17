@@ -190,5 +190,14 @@ window.PEDIDOS = [
     "preco": 170.99,
     "link": "https://www.amazon.com.br/dp/B0DQY3JWFH?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Tecnologia Hall Effect Anti-Drift nos joysticks, função Turbo e vibração para maior precisão e desempenho em PC, Android, iPhone, Nintendo Switch e Steam Deck. Design na cor Amarelo com conectividade sem fio Bluetooth e 2.4G, acompanha dongle USB para conexão estável e versátil em diferentes dispositivos. Gamepad versátil compatível com PC Windows, celular Android, iPhone, Nintendo Switch e Steam Deck, oferecendo experiência de jogo sem fio em diversas plataformas"
+  },
+  {
+    "id": "B0DY2W199X",
+    "asin": "B0DY2W199X",
+    "titulo": "Philips Walita Fritadeira Airfryer Digital 7,2L, Preta, 110V | Visor Transparente – acompanhe o cozimento dos alimentos com toda a praticidade (NA341/00)",
+    "imagem": "https://m.media-amazon.com/images/I/51Mus8N2gpL._AC_SX679_.jpg",
+    "preco": 631.83,
+    "link": "https://www.amazon.com.br/dp/B0DY2W199X?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Com 2 anos de garantia e tecnologia Rapid Air Plus, garante alimentos crocantes por fora e macios por dentro, além de um cozimento mais rápido e uniforme.. Possui 1800W de potência, visor e iluminação interna para o acompanhamento do preparo.. Com capacidade total de 7,2L e útil de 4,7L, é ideal para todas as famílias.. display digital com temperatura ajustável de 40 a 200 graus, timer de até 24 horas e um design inovador. Oferece 12 funções pré-definidas e 1 função para personalizar como quiser, desligamento automático, incluindo cesto antiaderente e removível, preparadas para a máquina de lavar, facilitando a limpeza.. App HomeID: Desbloqueie novas possibilidades na sua cozinha com o App HomeID, que oferece mais de 700 receitas incríveis para variar o cardápio todos os dias."
   }
 ];
