@@ -253,5 +253,14 @@ window.PEDIDOS = [
     "preco": 849,
     "link": "https://www.amazon.com.br/dp/B0DHWFBYVC?tag=mdm0a40-20",
     "descricao": "O 5G de entrada da Motorola é o mais poderoso do mercado brasileiro¹¹. Câmera com IA e vídeos em 4K, não perca os detalhes. A câmera de 50 MP utiliza inteligência artificial para capturar cliques perfeitos revelando detalhes e iluminação ideais. No modo Night Vision, ela revela imagens nítidas em ambientes escuros. Grave vídeos supernítidos em 4K. E com o Google Lens você pode fazer pesquisas ou traduzir textos de mais de 100 idiomas direto pela câmera.. A maior tela inteligente com superbrilho da categoria⁹ que responde ao toque, mesmo molhada¹⁰. A tela com taxa de atualização de 120 Hz entrega imagens fluidas e cores vibrantes, ajustadas automaticamente pela função Color Boost. Com o Corning Gorilla Glass 3, seu celular fica mais resistente a riscos e impactos. E ainda responde a cada toque, mesmo molhada com Smart Water Touch¹⁰.. Até 12 GB (4 GB RAM + 8 GB RAM Boost) Inteligente6. A RAM Boost Inteligente transforma automaticamente de forma temporária o armazenamento em RAM virtual para que você possa alternar entre vários apps abertos6 sem lags e esperas.. Superbateria de longa duração. Bateria de 5000 mAh para acompanhar o ritmo da sua rotina. Depois, o carregador TurboPower 20 dá conta do recado3.. Velocidade 5G. Conte com a velocidade 5G e o processador octa-core para ter uma experiência multitarefa sem complicações."
+  },
+  {
+    "id": "B0GRJV247C",
+    "asin": "B0GRJV247C",
+    "titulo": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+    "imagem": "https://m.media-amazon.com/images/I/514EAjs4c9L._AC_SL1000_.jpg",
+    "preco": 6462.57,
+    "link": "https://www.amazon.com.br/dp/B0GRJV247C?tag=mdm0a40-20",
+    "descricao": "DESEMPENHO AVANÇADO: Processador Intel Core 5 210H de 8 núcleos, até 4,8 GHz, aliado à GPU NVIDIA GeForce RTX 4050, garante alto desempenho, ray tracing e fluidez em jogos exigentes.. MEMÓRIA E ARMAZENAMENTO: 16 GB DDR5 a 5.600 MT/s (expansível a 32 GB) e SSD PCIe NVMe de 512 GB oferecem velocidade, multitarefa eficiente e carregamentos rápidos.. TELA IMERSIVA: Display IPS WQXGA de 16&#34; (2560×1600), 120 Hz, 300 nits, antirreflexo e ComfortView Plus para imagens nítidas e conforto visual prolongado.. CONECTIVIDADE COMPLETA: Wi-Fi 7, Bluetooth, USB-C, USB-A, HDMI 2.1 e RJ-45 em chassi leve (2,49 kg) com teclado retroiluminado.. SUPORTE CONFIÁVEL: 1 ano de atendimento no local após diagnóstico remoto garante segurança e suporte ao usuário."
   }
 ];
