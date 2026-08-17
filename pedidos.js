@@ -271,5 +271,14 @@ window.PEDIDOS = [
     "preco": 513.51,
     "link": "https://www.amazon.com.br/dp/B0FVYBC679?tag=mdm0a40-20",
     "descricao": "FAIXA ETÁRIA: Idade recomendada entre 8 e 10 anos.. CAPACIDADE: Suporta até 50 kg.. MATERIAL: Quadro em Aço.. MARCHAS: Não Possui Marchas.. FREIOS: V-Brake Nylon."
+  },
+  {
+    "id": "B0G8TGKRKY",
+    "asin": "B0G8TGKRKY",
+    "titulo": "Tênis de Corrida Puma Darter Pro 2",
+    "imagem": "https://m.media-amazon.com/images/I/71zj9iQ-VSL._AC_SL1500_.jpg",
+    "preco": 299.88,
+    "link": "https://www.amazon.com.br/dp/B0G8TGKRKY?tag=mdm0a40-20",
+    "descricao": ""
   }
 ];
