@@ -199,5 +199,14 @@ window.PEDIDOS = [
     "preco": 631.83,
     "link": "https://www.amazon.com.br/dp/B0DY2W199X?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "Com 2 anos de garantia e tecnologia Rapid Air Plus, garante alimentos crocantes por fora e macios por dentro, além de um cozimento mais rápido e uniforme.. Possui 1800W de potência, visor e iluminação interna para o acompanhamento do preparo.. Com capacidade total de 7,2L e útil de 4,7L, é ideal para todas as famílias.. display digital com temperatura ajustável de 40 a 200 graus, timer de até 24 horas e um design inovador. Oferece 12 funções pré-definidas e 1 função para personalizar como quiser, desligamento automático, incluindo cesto antiaderente e removível, preparadas para a máquina de lavar, facilitando a limpeza.. App HomeID: Desbloqueie novas possibilidades na sua cozinha com o App HomeID, que oferece mais de 700 receitas incríveis para variar o cardápio todos os dias."
+  },
+  {
+    "id": "B0H34RKBWQ",
+    "asin": "B0H34RKBWQ",
+    "titulo": "OSTER - Mixer Oster Omix500 127v",
+    "imagem": "https://m.media-amazon.com/images/I/61t2NZ2wGqL._AC_SL1500_.jpg",
+    "preco": 194.29,
+    "link": "https://www.amazon.com.br/dp/B0H34RKBWQ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Potencia. Praticidade. pequeno"
   }
 ];
