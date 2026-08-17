@@ -1,4 +1,4 @@
-﻿window.PEDIDOS = [
+window.PEDIDOS = [
   {
     "id": "B0FLGD78Z4",
     "asin": "B0FLGD78Z4",
@@ -181,5 +181,14 @@
     "preco": 196.84,
     "link": "https://www.amazon.com.br/dp/B0DCPFF53P?tag=mdm0a40-20&ref_=mixdumix_pedido",
     "descricao": ""
+  },
+  {
+    "id": "B0DQY3JWFH",
+    "asin": "B0DQY3JWFH",
+    "titulo": "GameSir Nova Lite Controle Bluetooth e Sem Fio 2.4G para PC Windows, Celular Android iPhone, Nintendo Switch e Steam Deck, Gamepad com Hall Effect Anti-Drift, Turbo, Vibração, Dongle USB - Amarelo",
+    "imagem": "https://m.media-amazon.com/images/I/41MvgI88f3L._AC_SL1000_.jpg",
+    "preco": 170.99,
+    "link": "https://www.amazon.com.br/dp/B0DQY3JWFH?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Tecnologia Hall Effect Anti-Drift nos joysticks, função Turbo e vibração para maior precisão e desempenho em PC, Android, iPhone, Nintendo Switch e Steam Deck. Design na cor Amarelo com conectividade sem fio Bluetooth e 2.4G, acompanha dongle USB para conexão estável e versátil em diferentes dispositivos. Gamepad versátil compatível com PC Windows, celular Android, iPhone, Nintendo Switch e Steam Deck, oferecendo experiência de jogo sem fio em diversas plataformas"
   }
 ];
