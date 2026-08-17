@@ -371,7 +371,9 @@ a { text-decoration:none; color:inherit; }
 </footer>
 
 <script src="produtos.js"></script>
-<script src="pedidos.js"></script>
+<script>
+document.write('<script src="pedidos.js?v=' + Date.now() + '"><\/script>');
+</script>
 <script>
 /* ===========================================================
    LÓGICA DO SITE
