@@ -262,5 +262,14 @@ window.PEDIDOS = [
     "preco": 6462.57,
     "link": "https://www.amazon.com.br/dp/B0GRJV247C?tag=mdm0a40-20",
     "descricao": "DESEMPENHO AVANÇADO: Processador Intel Core 5 210H de 8 núcleos, até 4,8 GHz, aliado à GPU NVIDIA GeForce RTX 4050, garante alto desempenho, ray tracing e fluidez em jogos exigentes.. MEMÓRIA E ARMAZENAMENTO: 16 GB DDR5 a 5.600 MT/s (expansível a 32 GB) e SSD PCIe NVMe de 512 GB oferecem velocidade, multitarefa eficiente e carregamentos rápidos.. TELA IMERSIVA: Display IPS WQXGA de 16&#34; (2560×1600), 120 Hz, 300 nits, antirreflexo e ComfortView Plus para imagens nítidas e conforto visual prolongado.. CONECTIVIDADE COMPLETA: Wi-Fi 7, Bluetooth, USB-C, USB-A, HDMI 2.1 e RJ-45 em chassi leve (2,49 kg) com teclado retroiluminado.. SUPORTE CONFIÁVEL: 1 ano de atendimento no local após diagnóstico remoto garante segurança e suporte ao usuário."
+  },
+  {
+    "id": "B0FVYBC679",
+    "asin": "B0FVYBC679",
+    "titulo": "TK3 Track Bicicleta Aro 20 Cindy BW",
+    "imagem": "https://m.media-amazon.com/images/I/716A7szf2FL._AC_SL1500_.jpg",
+    "preco": 513.51,
+    "link": "https://www.amazon.com.br/dp/B0FVYBC679?tag=mdm0a40-20",
+    "descricao": "FAIXA ETÁRIA: Idade recomendada entre 8 e 10 anos.. CAPACIDADE: Suporta até 50 kg.. MATERIAL: Quadro em Aço.. MARCHAS: Não Possui Marchas.. FREIOS: V-Brake Nylon."
   }
 ];
