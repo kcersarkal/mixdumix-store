@@ -316,5 +316,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0FVP6KRP4?tag=mdm0a40-20",
     "descricao": "A Geladeira. Electrolux. Frost. Duplex"
+  },
+  {
+    "id": "B0H51W1L8W",
+    "asin": "B0H51W1L8W",
+    "titulo": "Electrolux Ar-condicionado Split Electrolux MaxComfort Full Inverter Frio 12.000 BTUs (NI12F/NE12F) 220V",
+    "imagem": "https://m.media-amazon.com/images/I/41LJSdrWwML._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0H51W1L8W?tag=mdm0a40-20",
+    "descricao": "Arcondicionado. Split. Electrolux. MaxComfort"
   }
 ];
