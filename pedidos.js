@@ -298,5 +298,14 @@ window.PEDIDOS = [
     "preco": 108.41,
     "link": "https://www.amazon.com.br/dp/B0CHX3QBCH?tag=mdm0a40-20",
     "descricao": "Feita de uma combinação de policarbonato transparente e materiais flexíveis, ela se encaixa perfeitamente sobre os botões, facilitando o uso. Um revestimento resistente a arranhões foi aplicado à superfície, tanto na parte externa quanto na interna, e todos os materiais e coberturas são tratados para não amarelarem com o tempo.. A capa tem ímãs integrados que se alinham com perfeição ao iPhone 15 Plus. Com ela, a recarga sem fio fica mais rápida, e o encaixe parece mágica. E você pode manter a capa no iPhone o tempo todo, mesmo durante a recarga no carregador MagSafe ou padrão Qi.. Como todas as capas criadas pela Apple, ela passou por milhares de horas de testes durante o processo de design e fabricação. Ou seja: além de ser linda, protege seu iPhone contra quedas e arranhões."
+  },
+  {
+    "id": "B0DGMJJ76Y",
+    "asin": "B0DGMJJ76Y",
+    "titulo": "Apple iPhone 16 (128 GB) – Verde-Acizentado",
+    "imagem": "https://m.media-amazon.com/images/I/71kMdztVHLL._AC_SL1500_.jpg",
+    "preco": 4599.0,
+    "link": "https://www.amazon.com.br/dp/B0DGMJJ76Y?tag=mdm0a40-20",
+    "descricao": "O CONTROLE DA CÂMERA É SEU — O Controle da Câmera dá acesso mais fácil e rápido às ferramentas, como zoom ou profundidade de campo, para suas fotos e vídeos arrasarem também no quesito agilidade.. FOTOS QUE VÃO ALÉM E CHEGAM MAIS PERTO — A câmera ultra-angular com foco automático foi aprimorada para você fazer fotos e vídeos macro com detalhes nítidos e surpreendentes. Use a câmera Fusion de 48 MP e capture imagens em alta resolução de tirar o fôlego ou abuse do zoom com a qualidade óptica da teleobjetiva de 2x.. ESTILOS FOTOGRÁFICOS — A nova geração de Estilos Fotográficos dá mais flexibilidade do que nunca para criar e deixar cada foto ainda mais autoral. E você sempre tem a opção de reverter os estilos quando quiser.. CHIP A18 SUPERINTELIGENTE — O A18 está duas gerações à frente do chip A16 Bionic do iPhone 15. Ele é o grande responsável por recursos avançados para fotos e vídeos e faz seu aparelho praticamente virar um videogame. Tudo com eficiência excepcional no consumo de energia.. MAIOR DURAÇÃO DA BATERIA — O iPhone 16 trabalha em conjunto com o chip A18 e dá um grande salto na bateria, com até 22 horas de reprodução de vídeo. As recargas podem ser via USB-C ou com um carregador MagSafe, para recargas sem fio ainda mais rápidas.. FEITO PARA DURAR — O iPhone 16 tem design resistente em alumínio aeroespacial com tela Super Retina XDR de 6,1 polegadas. A parte frontal é em Ceramic Shield de última geração, duas vezes mais resistente que qualquer vidro de smartphone.. EXPERIMENTE O BOTÃO DE AÇÃO — Ele leva você direto ao seu recurso favorito. Mantenha pressionado para acender a lanterna, gravar um lembrete, ativar o modo Silencioso ou o que quiser."
   }
 ];
