@@ -289,5 +289,14 @@ window.PEDIDOS = [
     "preco": 71.01,
     "link": "https://www.amazon.com.br/dp/B09SJLLDSQ?tag=mdm0a40-20",
     "descricao": "Marca: Max titanium. Sabor: Napolitano. Peso do produto:492G. Porções por embalagem:12 Unidades"
+  },
+  {
+    "id": "B0CHX3QBCH",
+    "asin": "B0CHX3QBCH",
+    "titulo": "Apple Capa transparente com MagSafe para iPhone 15 Plus ​​​​​​​",
+    "imagem": "https://m.media-amazon.com/images/I/411aTMUWgPL._AC_SL1000_.jpg",
+    "preco": 108.41,
+    "link": "https://www.amazon.com.br/dp/B0CHX3QBCH?tag=mdm0a40-20",
+    "descricao": "Feita de uma combinação de policarbonato transparente e materiais flexíveis, ela se encaixa perfeitamente sobre os botões, facilitando o uso. Um revestimento resistente a arranhões foi aplicado à superfície, tanto na parte externa quanto na interna, e todos os materiais e coberturas são tratados para não amarelarem com o tempo.. A capa tem ímãs integrados que se alinham com perfeição ao iPhone 15 Plus. Com ela, a recarga sem fio fica mais rápida, e o encaixe parece mágica. E você pode manter a capa no iPhone o tempo todo, mesmo durante a recarga no carregador MagSafe ou padrão Qi.. Como todas as capas criadas pela Apple, ela passou por milhares de horas de testes durante o processo de design e fabricação. Ou seja: além de ser linda, protege seu iPhone contra quedas e arranhões."
   }
 ];
