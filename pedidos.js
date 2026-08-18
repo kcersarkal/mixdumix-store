@@ -280,5 +280,14 @@ window.PEDIDOS = [
     "preco": 299.88,
     "link": "https://www.amazon.com.br/dp/B0G8TGKRKY?tag=mdm0a40-20",
     "descricao": ""
+  },
+  {
+    "id": "B09SJLLDSQ",
+    "asin": "B09SJLLDSQ",
+    "titulo": "Max Titanium Power Protein Bar Caixa Com 12 Unidades (492G) - Napolitano",
+    "imagem": "https://m.media-amazon.com/images/I/61rXqjs14rL._AC_SL1200_.jpg",
+    "preco": 71.01,
+    "link": "https://www.amazon.com.br/dp/B09SJLLDSQ?tag=mdm0a40-20",
+    "descricao": "Marca: Max titanium. Sabor: Napolitano. Peso do produto:492G. Porções por embalagem:12 Unidades"
   }
 ];
