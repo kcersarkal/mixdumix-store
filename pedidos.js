@@ -307,5 +307,14 @@ window.PEDIDOS = [
     "preco": 4599.0,
     "link": "https://www.amazon.com.br/dp/B0DGMJJ76Y?tag=mdm0a40-20",
     "descricao": "O CONTROLE DA CÂMERA É SEU — O Controle da Câmera dá acesso mais fácil e rápido às ferramentas, como zoom ou profundidade de campo, para suas fotos e vídeos arrasarem também no quesito agilidade.. FOTOS QUE VÃO ALÉM E CHEGAM MAIS PERTO — A câmera ultra-angular com foco automático foi aprimorada para você fazer fotos e vídeos macro com detalhes nítidos e surpreendentes. Use a câmera Fusion de 48 MP e capture imagens em alta resolução de tirar o fôlego ou abuse do zoom com a qualidade óptica da teleobjetiva de 2x.. ESTILOS FOTOGRÁFICOS — A nova geração de Estilos Fotográficos dá mais flexibilidade do que nunca para criar e deixar cada foto ainda mais autoral. E você sempre tem a opção de reverter os estilos quando quiser.. CHIP A18 SUPERINTELIGENTE — O A18 está duas gerações à frente do chip A16 Bionic do iPhone 15. Ele é o grande responsável por recursos avançados para fotos e vídeos e faz seu aparelho praticamente virar um videogame. Tudo com eficiência excepcional no consumo de energia.. MAIOR DURAÇÃO DA BATERIA — O iPhone 16 trabalha em conjunto com o chip A18 e dá um grande salto na bateria, com até 22 horas de reprodução de vídeo. As recargas podem ser via USB-C ou com um carregador MagSafe, para recargas sem fio ainda mais rápidas.. FEITO PARA DURAR — O iPhone 16 tem design resistente em alumínio aeroespacial com tela Super Retina XDR de 6,1 polegadas. A parte frontal é em Ceramic Shield de última geração, duas vezes mais resistente que qualquer vidro de smartphone.. EXPERIMENTE O BOTÃO DE AÇÃO — Ele leva você direto ao seu recurso favorito. Mantenha pressionado para acender a lanterna, gravar um lembrete, ativar o modo Silencioso ou o que quiser."
+  },
+  {
+    "id": "B0FVP6KRP4",
+    "asin": "B0FVP6KRP4",
+    "titulo": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+    "imagem": "https://m.media-amazon.com/images/I/416nfzkCKsL._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0FVP6KRP4?tag=mdm0a40-20",
+    "descricao": "A Geladeira. Electrolux. Frost. Duplex"
   }
 ];
