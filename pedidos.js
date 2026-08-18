@@ -334,5 +334,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=mdm0a40-20",
     "descricao": "【Design ergonômico】 90°a 150° reclinável. O design da almofada segmentada fornece suporte altamente contornado quando e onde você mais precisa, esta cadeira ergonômica também possui um apoio para os pés expansível para posições reforçadas. Apoio de cabeça e lombar ajustáveis, bem como apoios de braços acolchoados, proporcionando conforto total.. 【Material Premium】 A cadeira de jogos é feita de material de alta qualidade - uma estrutura de metal durável, assento de borracha, couro PU macio, rolos lisos e assento de material de borracha, para que você tenha a melhor experiência de jogo.. 【Carga e dimensão máximas】 Suporta até 400lb (200 kg). Tamanho do encosto: 51*79 cm. Dimensões da almofada do assento: 51*49CM. Altura ajustável do assento: 44--54 cm. Altura do assento 109-119 cm. Atendendo todas as suas necessidades e posições.. 【Giro de 360 graus】 O recurso da cadeira de escritório é que você pode ajustar a altura da cadeira de acordo com suas próprias necessidades, proporcionando uma posição de giro de 360 graus e rodízios de rolamento suave, com boa estabilidade e mobilidade.. 【Adequada para várias ocasiões】É um assento ideal para trabalhar, estudar e jogar！"
+  },
+  {
+    "id": "B0FHHLZZVD",
+    "asin": "B0FHHLZZVD",
+    "titulo": "Basike Carregador Portátil, Power Bank 20000mAh com Cabos Integrados(Cinza) | Carregamento Rápido 22.5W(MAX), Compacto, Led Indicador de Bateria para iPhone/Samsung/Huawei/Xiaomi",
+    "imagem": "https://m.media-amazon.com/images/I/610pOa72wuL._AC_SL1500_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0FHHLZZVD?tag=mdm0a40-20",
+    "descricao": "【🔌 CABOS INTEGRADOS UNIVERSAIS】Cabo Lightning (12W para iPhone 15-16) + Cabo Tipo-C (22.5W) embutidos, elimina necessidade de cabos extras para Android e iOS.. 【⚡ CARREGAMENTO TURBO 22.5W】Porta USB-A com saída máxima de 22.5W para recarga ultrarrápida de smartphones compatíveis.. 【🔋 CAPACIDADE INDUSTRIAL 20000mAh】Armazena energia para 4-5 recargas completas (77Wh), com eficiência ≥80% garantida por chip inteligente.. 【🛡️ SEGURANÇA AVANÇADA】Proteção contra superaquecimento (≤55°C), sobrecarga e curto-circuito com materiais resistentes a impactos.. 【🌐 COMPATIBILIDADE TOTAL】Entrada/saída Tipo-C 18W + cabo Lightning integrado, ideal para viagens e uso diário sem adaptadores."
   }
 ];
