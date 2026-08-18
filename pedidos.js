@@ -325,5 +325,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0H51W1L8W?tag=mdm0a40-20",
     "descricao": "Arcondicionado. Split. Electrolux. MaxComfort"
+  },
+  {
+    "id": "B0CJV2WKQF",
+    "asin": "B0CJV2WKQF",
+    "titulo": "Cadeira Ergonomica Gamer Com Apoio Para Os Pés Branco",
+    "imagem": "https://m.media-amazon.com/images/I/613NfdEWPyL._AC_SL1200_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=mdm0a40-20",
+    "descricao": "【Design ergonômico】 90°a 150° reclinável. O design da almofada segmentada fornece suporte altamente contornado quando e onde você mais precisa, esta cadeira ergonômica também possui um apoio para os pés expansível para posições reforçadas. Apoio de cabeça e lombar ajustáveis, bem como apoios de braços acolchoados, proporcionando conforto total.. 【Material Premium】 A cadeira de jogos é feita de material de alta qualidade - uma estrutura de metal durável, assento de borracha, couro PU macio, rolos lisos e assento de material de borracha, para que você tenha a melhor experiência de jogo.. 【Carga e dimensão máximas】 Suporta até 400lb (200 kg). Tamanho do encosto: 51*79 cm. Dimensões da almofada do assento: 51*49CM. Altura ajustável do assento: 44--54 cm. Altura do assento 109-119 cm. Atendendo todas as suas necessidades e posições.. 【Giro de 360 graus】 O recurso da cadeira de escritório é que você pode ajustar a altura da cadeira de acordo com suas próprias necessidades, proporcionando uma posição de giro de 360 graus e rodízios de rolamento suave, com boa estabilidade e mobilidade.. 【Adequada para várias ocasiões】É um assento ideal para trabalhar, estudar e jogar！"
   }
 ];
