@@ -370,5 +370,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B07TM6SVL7?tag=mdm0a40-20",
     "descricao": "Aspirador 12V ideal para limpeza automotiva.. Acompanha bocal estreito e escova para estofados.. Reservatório 370ml fácil de esvaziar.. Aspirador de pó com filtro permanente lavável.. Cabo longo para alcançar todo o carro."
+  },
+  {
+    "id": "B0CLMFW2WT",
+    "asin": "B0CLMFW2WT",
+    "titulo": "Ar-condicionado Electrolux Color Adapt Wi-fi 12.000 BTUs Quente/Frio (YE12R) YE12R",
+    "imagem": "https://m.media-amazon.com/images/I/41jvq+TBeQL._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0CLMFW2WT?tag=mdm0a40-20",
+    "descricao": "Controle Wi-Fi e painel personalizável em várias cores para combinar com seu estilo. Economia de até 80% de energia com tecnologia Inverter eficiente.. Tripla filtragem elimina 99% de alérgenos, bactérias e fungos do ar."
   }
 ];
