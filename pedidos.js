@@ -361,5 +361,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0CW1NM6H7?tag=mdm0a40-20",
     "descricao": "🎮 Carregamento de 2,5 horas: Este carregador de controle do PlayStation 5 foi especialmente projetado, com design de encaixe igual ao do carregador original do PS5, e carrega dois controladores do PS5 ao mesmo tempo.. 🎮Com indicadores LED de carga: Luz vermelha para carregamento e luz azul para carga completa. Identifique facilmente o status da carga. Mantenha o controle do PS5 totalmente carregado e pronto para jogar.. 🎮Alimentado por USB Type-C, console PS5, PC ou fonte de alimentação de parede com DC5V/2A. Maneira fácil e rápida de carregar e armazenar seus controles PS5 com segurança.. 🎮Sem a necessidade de cabos complicados, basta ligar a energia e conectar o controle no suporte de carregamento para carregar. O cabo USB geral se encaixa nos adaptadores de parede USB mais comuns, no console PS5, no PC ou em qualquer outra porta de carregamento. Com o cabo de carregamento USB fornecido, você pode carregar o controle de várias fontes facilmente.. 🎮Design de encaixe - Encaixe seus controles sem fio Dual~Sense de forma rápida e fácil com o design de encaixe da estação de carregamento e deixe-os carregando quando quiser."
+  },
+  {
+    "id": "B07TM6SVL7",
+    "asin": "B07TM6SVL7",
+    "titulo": "BLACK+DECKER Aspirador de Pó Elétrico Portátil BDCV370 Ideal para Automóveis 12V",
+    "imagem": "https://m.media-amazon.com/images/I/41-EloZUCJL._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B07TM6SVL7?tag=mdm0a40-20",
+    "descricao": "Aspirador 12V ideal para limpeza automotiva.. Acompanha bocal estreito e escova para estofados.. Reservatório 370ml fácil de esvaziar.. Aspirador de pó com filtro permanente lavável.. Cabo longo para alcançar todo o carro."
   }
 ];
