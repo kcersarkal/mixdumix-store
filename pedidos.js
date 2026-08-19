@@ -352,5 +352,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B09CC72K1X?tag=mdm0a40-20",
     "descricao": "Capacidade para até 15 xícaras: Jarra de vidro com 600 ml, ideal para preparar várias porções de café.. Design Moderno em Aço Inox Escovado: Combina elegância e durabilidade para deixar sua cozinha mais bonita.. Filtro Lavável e Removível: Mais sustentável e econômico, dispensando o uso obrigatório de filtros de papel.. Função Manter Aquecido: Mantém o café quentinho por mais tempo após o preparo.. Sistema Corta-Pingos: Permite servir o café antes de terminar o processo sem causar sujeira."
+  },
+  {
+    "id": "B0CW1NM6H7",
+    "asin": "B0CW1NM6H7",
+    "titulo": "Base Caregamento PS5, Estação De Carregamento Base Dock P/ 2 Controles Sem Fio PS5,Con~sole Play~Stat-ion 5",
+    "imagem": "https://m.media-amazon.com/images/I/51UyvNDAuSL._AC_SL1200_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0CW1NM6H7?tag=mdm0a40-20",
+    "descricao": "🎮 Carregamento de 2,5 horas: Este carregador de controle do PlayStation 5 foi especialmente projetado, com design de encaixe igual ao do carregador original do PS5, e carrega dois controladores do PS5 ao mesmo tempo.. 🎮Com indicadores LED de carga: Luz vermelha para carregamento e luz azul para carga completa. Identifique facilmente o status da carga. Mantenha o controle do PS5 totalmente carregado e pronto para jogar.. 🎮Alimentado por USB Type-C, console PS5, PC ou fonte de alimentação de parede com DC5V/2A. Maneira fácil e rápida de carregar e armazenar seus controles PS5 com segurança.. 🎮Sem a necessidade de cabos complicados, basta ligar a energia e conectar o controle no suporte de carregamento para carregar. O cabo USB geral se encaixa nos adaptadores de parede USB mais comuns, no console PS5, no PC ou em qualquer outra porta de carregamento. Com o cabo de carregamento USB fornecido, você pode carregar o controle de várias fontes facilmente.. 🎮Design de encaixe - Encaixe seus controles sem fio Dual~Sense de forma rápida e fácil com o design de encaixe da estação de carregamento e deixe-os carregando quando quiser."
   }
 ];
