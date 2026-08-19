@@ -5,7 +5,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81QluJ4QXyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 13.88,
     "affiliate_url": "https://www.amazon.com.br/dp/6559801365?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0CBQPMJ56",
@@ -13,7 +13,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61Hq24mu5LL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 15.3,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CBQPMJ56?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B07W6B8LCZ",
@@ -21,23 +21,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61wj2Rc59YL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 15.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B07W6B8LCZ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "6550974267",
-    "title": "A metamorfose",
-    "image": "https://m.media-amazon.com/images/I/71neJqQwTjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 16.45,
-    "affiliate_url": "https://www.amazon.com.br/dp/6550974267?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GVZXW9N2",
-    "title": "Cabo USB-C para USB-C 2m 60W, Nylon Trançado Reforçado, Carga e Dados",
+    "title": "Cabo USB-C para USB-C 2m 60W, Nylon Trançado Reforçado, Carga e Dados | Compatível com iPhone 15/16, Samsung Galaxy, Xiaomi, iPad, MacBook, notebook e tablet; PD 3.0, USB 2.0 e até 480 Mbps.",
     "image": "https://m.media-amazon.com/images/I/61er28e49TL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 18.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVZXW9N2?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B074LTNDPQ",
@@ -45,7 +37,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/714XCIlHoNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 19.84,
     "affiliate_url": "https://www.amazon.com.br/dp/B074LTNDPQ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B09GHN14FP",
@@ -53,7 +45,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71AMqfOXdAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 19.93,
     "affiliate_url": "https://www.amazon.com.br/dp/B09GHN14FP?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GMXN4H9M",
@@ -61,15 +53,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51jTagQW4aL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 20.89,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMXN4H9M?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0DF88G9D8",
-    "title": "Máscara Volume Zero Forever Liss 150g",
-    "image": "https://m.media-amazon.com/images/I/51y8GL-AdQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 21.0,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DF88G9D8?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B07DPDT13Y",
@@ -77,7 +61,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41MaQ7Ajv3L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 21.58,
     "affiliate_url": "https://www.amazon.com.br/dp/B07DPDT13Y?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B09LD48ZZ4",
@@ -85,7 +69,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51wlcSTwZsL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 21.59,
     "affiliate_url": "https://www.amazon.com.br/dp/B09LD48ZZ4?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0CTN4ZMZY",
+    "title": "Cera Modeladora Hair Wax Stick",
+    "image": "https://m.media-amazon.com/images/I/61OHIJ3gmBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 21.8,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CTN4ZMZY?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B074LX2C86",
@@ -93,7 +85,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71sRs80kVLL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 21.84,
     "affiliate_url": "https://www.amazon.com.br/dp/B074LX2C86?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B07C62SYMJ",
+    "title": "Inoar, Cicatrifios, Shampoo Reconstrutor, Hidratação Profunda e Redução de Volume, Pantenol, Creatina Vegetal e Rejucomplex®, Vegano – Para Cabelos Danificados ou Quebradiços, 1L",
+    "image": "https://m.media-amazon.com/images/I/51sKfWhWh0L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 22.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B07C62SYMJ?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DJF28PY4",
@@ -101,7 +101,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/519MMH0EZQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 23.92,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJF28PY4?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FT5LC4XR",
@@ -109,7 +109,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51qWF1kopWL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 24.29,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FT5LC4XR?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B074LVYZDJ",
@@ -117,7 +117,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51omKxWOC3L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 24.85,
     "affiliate_url": "https://www.amazon.com.br/dp/B074LVYZDJ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B078BBVGHC",
@@ -125,7 +125,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61+2A9jxAwL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 24.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B078BBVGHC?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0CQ1QVJ3L",
@@ -133,7 +133,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/8193hRZ3ttL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 26.5,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQ1QVJ3L?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B074LQXGM7",
@@ -141,7 +141,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51yaUGrtIOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 26.72,
     "affiliate_url": "https://www.amazon.com.br/dp/B074LQXGM7?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0H12J7P5G",
+    "title": "Carregador Turbo 30w Usb-c Com Cabo Tipo C 1 Metro Trançado Branco Fonte De Carregamento Turbo, Alta Potência, Seguro E Compatível Com Iphone 15 16 17, Samsung Xiaomi Motorola LG",
+    "image": "https://m.media-amazon.com/images/I/615Fewv04mL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 26.88,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H12J7P5G?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0BYBFXFKH",
@@ -149,23 +157,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61688fq+JtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 26.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0BYBFXFKH?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0G1H722DN",
-    "title": "OralGos Escova de Dente Adulto 4 Unidades, Cerdas Macias 0,15mm, Limpeza Profunda, Pontas Arredondadas, Cabo Antiderrapante (Opção com Carvão Ativado)",
-    "image": "https://m.media-amazon.com/images/I/81BkEd11GWL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 27.92,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0G1H722DN?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0G45R3T26",
-    "title": "Taça Térmica A Vácuo 410Ml 2-Em-1 Inox Haste Rosqueável Removível Copo E Taça Parede Dupla Isolante Antiderrapante Ideal Para Gin Vinho Drinks Viagem E Churrasco (Branco)",
-    "image": "https://m.media-amazon.com/images/I/31ZfqpMCA4L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 28.4,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0G45R3T26?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0G619WNVL",
+    "title": "Taça Térmica A Vácuo 410Ml 2-Em-1 Inox Haste Rosqueável Removível Copo E Taça Parede Dupla Isolante Antiderrapante Ideal Para Gin Vinho Drinks Viagem E Churrasco (Preta)",
+    "image": "https://m.media-amazon.com/images/I/41uFGYjgWKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 26.91,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0G619WNVL?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B06X974F7H",
@@ -173,7 +173,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71VCd0T2G1L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 28.47,
     "affiliate_url": "https://www.amazon.com.br/dp/B06X974F7H?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B07SLGHB35",
@@ -181,7 +181,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61xqM0kKJjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 28.84,
     "affiliate_url": "https://www.amazon.com.br/dp/B07SLGHB35?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B09XFLHJ1S",
@@ -189,7 +189,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61C0iM4H-iL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 28.94,
     "affiliate_url": "https://www.amazon.com.br/dp/B09XFLHJ1S?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0CRZ4TPCM",
@@ -197,15 +197,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51IBKCZ1f+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 29.37,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CRZ4TPCM?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0GZW7NZC9",
-    "title": "BONI NATURAL - Desodorante Roll-On sem Alumínio, Natural, Vegetal e Vegano, Coco e Lavanda, 55ml, 2 unidades Leve Mais Pague Menos",
-    "image": "https://m.media-amazon.com/images/I/51o9kY6yQiL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 32.0,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GZW7NZC9?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GH7YVJ59",
@@ -213,23 +205,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51oJC0uKvXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 32.14,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GH7YVJ59?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B07CH3JLVG",
-    "title": "Marco Boni Escova Profissional Thermal Ceramic Yellow Basic 47 Mm 7332 Amarelo",
-    "image": "https://m.media-amazon.com/images/I/71NcUv0fJ5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 32.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B07CH3JLVG?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B07FLKGK54",
-    "title": "Tío Nacho Shampoo Engrossador Antiqueda para Cabelos Finos com Geleia Real e Capilgross – Mais Volume, Espessura e Fortalecimento Capilar 415ml",
-    "image": "https://m.media-amazon.com/images/I/61BsSrbW36L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 32.96,
-    "affiliate_url": "https://www.amazon.com.br/dp/B07FLKGK54?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FCJ1JZWG",
@@ -237,15 +213,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/6108qlBKLHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 33.2,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCJ1JZWG?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B087TQNGLV",
-    "title": "Anasol Protetor Solar Facial FPS 70-60g",
-    "image": "https://m.media-amazon.com/images/I/61Ng-kd2feL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 34.19,
-    "affiliate_url": "https://www.amazon.com.br/dp/B087TQNGLV?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0CGSPL87J",
+    "title": "Eudora Niina Secrets Batom Líquido Skinny Matte Vermelho Hibisco 5Ml",
+    "image": "https://m.media-amazon.com/images/I/51kQ9-stKjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 34.18,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CGSPL87J?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B08B5GFHZN",
@@ -253,7 +229,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51wZRC7vnPL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 34.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B08B5GFHZN?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GXLBG3DK",
@@ -261,15 +237,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/614F6kg7ScL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 37.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GXLBG3DK?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B09PS4F7PS",
-    "title": "Protetor Solar Cicatricure Antissinais Efeito Matte FPS 50 40g",
-    "image": "https://m.media-amazon.com/images/I/61-iDIvAH1L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 37.98,
-    "affiliate_url": "https://www.amazon.com.br/dp/B09PS4F7PS?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DKVJ1HWB",
@@ -277,7 +245,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71K-GAoX50L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 38.74,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKVJ1HWB?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FMFXH7RT",
@@ -285,15 +253,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ZzxtsCXmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 39.22,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMFXH7RT?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B09RFZ7DC7",
-    "title": "WOLFF - Copo Térmico de Aço Inox Parede Dupla Com Tampa 600ml Preto - Para Viagem - Mantém a Bebida na Temperatura Ideal",
-    "image": "https://m.media-amazon.com/images/I/51sB7HcOf5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 39.89,
-    "affiliate_url": "https://www.amazon.com.br/dp/B09RFZ7DC7?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B07XYH874V",
@@ -301,15 +261,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61d7pJypApL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 39.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B07XYH874V?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B09WGH35ZZ",
-    "title": "Nig Brinquedos Jogo Equilibra Filhotes Patrulha Canina",
-    "image": "https://m.media-amazon.com/images/I/91fR6EBtOjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 39.98,
-    "affiliate_url": "https://www.amazon.com.br/dp/B09WGH35ZZ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0C7C5ST5K",
@@ -317,7 +269,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61cqHsWOW7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 42.07,
     "affiliate_url": "https://www.amazon.com.br/dp/B0C7C5ST5K?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B077T442QN",
+    "title": "KNUT Hair Care Elixir Camelina E Ojon 35 Ml Knut Hair Care",
+    "image": "https://m.media-amazon.com/images/I/61JhKZNpnXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 42.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B077T442QN?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0C5P3F1NJ",
@@ -325,23 +285,23 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61kUVEABq2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 42.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0C5P3F1NJ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B07JWJG8CX",
-    "title": "Hidrofiltros - Torneira de Cozinha Parede Pop com Filtro Purificador de Água Preta Hidrofiltros",
-    "image": "https://m.media-amazon.com/images/I/71VI2aY7xrL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 43.63,
-    "affiliate_url": "https://www.amazon.com.br/dp/B07JWJG8CX?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0DD2FHQ3P",
+    "title": "Vitamina B12 Ativa (metilcobalamina) Longa Duração: 4 Meses de Uso, 120 Cápsulas,Fortalvit",
+    "image": "https://m.media-amazon.com/images/I/61-T11tf4dL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 44.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DD2FHQ3P?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B06WD8XX7P",
-    "title": "Tío Nacho Kit Shampoo + Condicionador Engrossador Antiqueda Natural com Geleia Real e Capilgross para Cabelos Finos – Volume, Espessura e Fortalecimento Capilar (Shampoo 415ml + Condicionador 200ml)",
-    "image": "https://m.media-amazon.com/images/I/71O-wnsHCHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 44.64,
-    "affiliate_url": "https://www.amazon.com.br/dp/B06WD8XX7P?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B09RQ4WRBV",
+    "title": "Siàge Máscara Capilar Cica-Therapy 250G",
+    "image": "https://m.media-amazon.com/images/I/51+LqJPOIyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 45.59,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09RQ4WRBV?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "8535944710",
@@ -349,23 +309,23 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/719o+9czKiL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 46.23,
     "affiliate_url": "https://www.amazon.com.br/dp/8535944710?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "8520469000",
-    "title": "Freud explica, eu traduzo: Psicanálise prática para transformar o seu dia a dia",
-    "image": "https://m.media-amazon.com/images/I/81MUd23JhFL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 49.12,
-    "affiliate_url": "https://www.amazon.com.br/dp/8520469000?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B09HW92VTZ",
+    "title": "Eudora Siàge Hair-Plastia Máscara Capilar 250g",
+    "image": "https://m.media-amazon.com/images/I/61WDdVwpX9L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 49.55,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09HW92VTZ?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0C1LLWBVS",
-    "title": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Palha)",
-    "image": "https://m.media-amazon.com/images/I/61yHPxKTcOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "asin": "B0C1LG111K",
+    "title": "Jogo Lençol Casal 3 Peças 400 Fios 100% Algodão Premium (Branco)",
+    "image": "https://m.media-amazon.com/images/I/61p9V-ttF4L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 49.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0C1LLWBVS?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0C1LG111K?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GHPGBPSR",
@@ -373,7 +333,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71ggER1mlqL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 56.81,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0GXWZG4NG",
+    "title": "Frigideira Grande 24cm Revestimento Antiaderente Cerâmica Cabo de Madeira Moderna Durável Elegante Saudável - Ideal Para Indução, Fogao A Gás Ou Elétrico - Frita Sem Usar Oleo - Acompanha Espátula",
+    "image": "https://m.media-amazon.com/images/I/610JKIPnFqL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 57.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GXWZG4NG?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GHP4NL1J",
@@ -381,7 +349,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41OcWO275YL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 58.45,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B08FVVH9BC",
@@ -389,7 +357,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/619A5eTbmwL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 59.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "6550477638",
@@ -397,15 +365,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71Islz8MOpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 62.9,
     "affiliate_url": "https://www.amazon.com.br/dp/6550477638?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0GSH8HVW7",
-    "title": "Kit Eudora Diva Fabulosa (3 Produtos)",
-    "image": "https://m.media-amazon.com/images/I/71LQVQe1djL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 62.95,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GSH8HVW7?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "6560001776",
@@ -413,7 +373,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81esC3zEBRL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 63.69,
     "affiliate_url": "https://www.amazon.com.br/dp/6560001776?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B074LWHJ2H",
@@ -421,7 +381,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/619Y5opifoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 63.84,
     "affiliate_url": "https://www.amazon.com.br/dp/B074LWHJ2H?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0G2682GZF",
@@ -429,7 +389,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61HHbHcWzlL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 64.03,
     "affiliate_url": "https://www.amazon.com.br/dp/B0G2682GZF?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H5TD19NQ",
@@ -437,7 +397,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71dl-5DxaeL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 66.24,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5TD19NQ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B077C3YBM3",
@@ -445,23 +405,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51ZJowgZ+YL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 66.43,
     "affiliate_url": "https://www.amazon.com.br/dp/B077C3YBM3?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B08N844668",
-    "title": "vonixx Shampoo Automotivo Concentrado 1:400 V-floc 3 Litros",
-    "image": "https://m.media-amazon.com/images/I/613IR7ZkFTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 66.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B08N844668?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0G1VD9N67",
-    "title": "Buddemeyer, Toalha De Banho Buddemeyer Fio Penteado Canelado 100% Algodão Ultrasoft Cor:Bege 3032",
-    "image": "https://m.media-amazon.com/images/I/512NvoSXO4L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 71.09,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0G1VD9N67?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B08WKRYQHN",
@@ -469,7 +413,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71O7EqV7aCL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 72.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B08WKRYQHN?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D9YT8FGP",
@@ -477,7 +421,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/616mEWIE+FL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 76.87,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9YT8FGP?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DLVH2WN4",
@@ -485,23 +429,31 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61XbBNvBG-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 76.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DLVH2WN4?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0GXLPJPCQ",
+    "title": "Kit 12 Pares Meia Lupo Sapatilha Soquete Invisível Original Unissex",
+    "image": "https://m.media-amazon.com/images/I/816Ugu9XRNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 78.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GXLPJPCQ?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0D9ZQD6LW",
+    "title": "LYOR - Lixeira Redonda De Metal Com Pedal e Tampa Em Bambu Branca 3L",
+    "image": "https://m.media-amazon.com/images/I/61tgvo-n6jL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 83.42,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0D9ZQD6LW?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B08CS1S553",
-    "title": "Capa Lenovo para Notebook - Urban Sleeve 15.6\" Cinza | Proteção reforçada com compartimento dedicado para acessórios",
+    "title": "Capa Lenovo para Notebook - Urban Sleeve 15.6\" Cinza",
     "image": "https://m.media-amazon.com/images/I/8114RTMYDoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 84.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B08CS1S553?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0GGV5V8PK",
-    "title": "Sandália Plataforma Feminina Vizzano – De Dedo, Leve, Confortável e Moderna para Uso Diário (Branco Off, BR, Adulto, Numérico, 39)",
-    "image": "https://m.media-amazon.com/images/I/51ey25ni4vL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 85.42,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GGV5V8PK?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0CZBM7728",
@@ -509,7 +461,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61exKmRRnDL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 89.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CZBM7728?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FMF4NMLY",
@@ -517,7 +469,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71HWhRJtW3L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 89.32,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMF4NMLY?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DSC8C4XH",
@@ -525,47 +477,39 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/719yVPNSxpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 89.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSC8C4XH?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0DZ37YX11",
-    "title": "The Perfect Top Feminino",
-    "image": "https://m.media-amazon.com/images/I/51nIvTCdUyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 89.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DZ37YX11?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0BFSYQHCX",
+    "asin": "B0BFSYDMMJ",
     "title": "Tech T-shirt Gola U Masculino",
-    "image": "https://m.media-amazon.com/images/I/51ML3MBfGGL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "image": "https://m.media-amazon.com/images/I/51p6HHzap5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 89.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BFSYQHCX?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BFSYDMMJ?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0DWM4SW42",
-    "title": "Bomba de Ar, Compressor Portátil Digital | Lanterna LED | Ideal P/Encher Pneus de Carro, Moto, Bike, Bicicleta, Bola e Piscina Inflável | Marca Layed®",
-    "image": "https://m.media-amazon.com/images/I/41pF7sKNYSL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 89.91,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DWM4SW42?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0DZ36BKWP",
+    "title": "The Perfect Top Feminino",
+    "image": "https://m.media-amazon.com/images/I/31WA7oaN4YL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 89.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DZ36BKWP?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0BS46C2B7",
-    "title": "Eudora Niina Secrets Bloom Desodorante Colônia 100ml",
-    "image": "https://m.media-amazon.com/images/I/51vzV1KkYmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 89.95,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BS46C2B7?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0GVGQHDWG",
+    "title": "Hub USB-C 3.0 Extensor Adaptador 6 em 1 - RJ45 Ethernet (Rede Lan), HDMI 4K, USB 3.0, USB 2.0, USB-C, PD 100W - Para Notebook, Macbook, Ipad, Dock Station, Dex, Raspberry - Compacto em Alumínio",
+    "image": "https://m.media-amazon.com/images/I/71WHy6sjHhL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 91.41,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GVGQHDWG?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B08CNJBTWF",
-    "title": "LUPO Kit 12 Pares Meia Sapatilha Soquete Invisível Original Masculina, 12 Branco, 45-48",
-    "image": "https://m.media-amazon.com/images/I/81u1Far6z2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 92.99,
-    "affiliate_url": "https://www.amazon.com.br/dp/B08CNJBTWF?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0FDW1LPX8",
+    "title": "Mochila Grande para Notebook 17.3 Masculina Feminina,Mochila Backpack Executiva Antifurto, Reforçada, Saídas USB,Impermeável, Escolar, Faculdade, Trabalho,Viagem,Presente (Preto)",
+    "image": "https://m.media-amazon.com/images/I/81d-fw0QFpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 94.03,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FDW1LPX8?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D9YTZ8CR",
@@ -573,7 +517,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61rcwreK7WL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 95.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9YTZ8CR?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0CQKM2VVC",
@@ -581,7 +525,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61zVRBe3oDL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 96.65,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQKM2VVC?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FMFVYV1R",
@@ -589,7 +533,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ZqK+1cPBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 98.98,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMFVYV1R?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0C3MZVWKB",
@@ -597,15 +541,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/718gJSw5V2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 99.17,
     "affiliate_url": "https://www.amazon.com.br/dp/B0C3MZVWKB?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0CKSQV6Q3",
-    "title": "Kit 4 Pacotes Café Especial em Grãos Coffee Mais Variedades: Cerrado Mineiro, Sul de Minas, Arara e Clássico - 100% Arábica (4x250g)",
-    "image": "https://m.media-amazon.com/images/I/71g1lZ0NdVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 99.17,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CKSQV6Q3?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DR45KLST",
@@ -613,7 +549,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51NJI69bhaL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 99.52,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DR45KLST?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FPT7HB8G",
@@ -621,7 +557,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/6163J3IhSwL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 101.89,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPT7HB8G?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B079VVRXZL",
@@ -629,7 +565,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ppzaUoQuL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 102.34,
     "affiliate_url": "https://www.amazon.com.br/dp/B079VVRXZL?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0FSRS4QWS",
+    "title": "Câmera de Segurança, Wifi 1080p 360° Full Hd Ip Prova D'áGua Infravermelho Ao Ar Livre Hd VisãO Noturna Pode DiáLogo HC0T256",
+    "image": "https://m.media-amazon.com/images/I/71YFlrKsKTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 104.49,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FSRS4QWS?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D9R7SVZ9",
@@ -637,15 +581,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51toXA5ux1L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 105.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9R7SVZ9?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0DKGCV4YW",
-    "title": "Step Aeróbico de Academia Ajustável 67 x 28 x 10-15 cm com Regulagem de Altura – Antiderrapante, Material Resistente e Design Portátil",
-    "image": "https://m.media-amazon.com/images/I/51zuHUHshQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 107.32,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DKGCV4YW?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0H7BXMKLX",
+    "title": "Airwit Ventilador de Teto E27 40 cm Bivolt Branco com Controle Remoto | LED 18W, 3 temperaturas de cor, 4 velocidades, instalação E27, quartos, cozinhas, salas pequenas",
+    "image": "https://m.media-amazon.com/images/I/61P5Cf3ssbL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 108.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H7BXMKLX?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DCNBFHNT",
@@ -653,15 +597,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71V4laqRziL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 108.28,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCNBFHNT?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0BFDPPW96",
-    "title": "Brastoy Blocos De Bastões Construção Brinquedo Educativo Infantil (128 Peças) (BM03)",
-    "image": "https://m.media-amazon.com/images/I/61B43j8Vw2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 109.0,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0BFDPPW96?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DWMZ9PPQ",
@@ -669,15 +605,23 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61lSXM4RsqL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 111.12,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DWMZ9PPQ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FDKTQ7RF",
-    "title": "IceSelect Mochila de Viagem Expansivel Grande Masculina Feminina,Mochila Avião para Notebook 17,Executiva,Antifurto,Reforçada,USB,Impermeável,Escolar,Faculdade,Trabalho,Presente",
-    "image": "https://m.media-amazon.com/images/I/81m822qsMcL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 111.13,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FDKTQ7RF?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0DMSM31ZQ",
+    "title": "Boneco Sonic 13cm Figura Articulada Filme Sonic 3 - Sunny",
+    "image": "https://m.media-amazon.com/images/I/61+xcySzjiL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 112.49,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DMSM31ZQ?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0GJS9BQ9B",
+    "title": "Basike Power Bank 20000mAh, Carregamento Rápido 22,5W, 2 Cabos Integrados | Carregador Portátil Universal, USB-A(até 22.5W)+USB-C(até PD20W), Led Indicador de Bateria para iPhone/Samsung/Xiaomi, Rosa",
+    "image": "https://m.media-amazon.com/images/I/71qta0Su27L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 114.95,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GJS9BQ9B?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0765LSCFY",
@@ -685,15 +629,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51Tk+CNmLnL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 115.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0765LSCFY?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0DP1WT9BQ",
-    "title": "Basike Power Bank, Carregador Portátil Universal 20000mAh, Rápido 22,5W | 2 Cabos Integrados (USB-C, Lightning) Rápido, USB-A(até 22.5W)+USB-C(até PD20W), Led Indicador de Bateria, Branco",
-    "image": "https://m.media-amazon.com/images/I/61D9g3EfnaL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 115.41,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DP1WT9BQ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "6558820250",
@@ -701,15 +637,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71KE7JJesyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 115.99,
     "affiliate_url": "https://www.amazon.com.br/dp/6558820250?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D1CBDFP3",
-    "title": "NIIMBOT Máquina de etiquetar, versão atualizada D110, para escola e casa | Impressora de adesivos, com 1 rolo de papel branco para iniciantes, impressora térmica de etiquetas, para escritório, casa",
+    "title": "NIIMBOT Máquina de etiquetar, versão atualizada D110, para escola e casa",
     "image": "https://m.media-amazon.com/images/I/51K2cuF9MtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 116.14,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D1CBDFP3?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FZPF88HP",
@@ -717,7 +653,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41Yo3g2RxCL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 116.91,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZPF88HP?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GXWTH7H7",
@@ -725,31 +661,23 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81hnvahWgdL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 116.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GXWTH7H7?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FDQHJQWK",
-    "title": "IceSelect Mochila de Viagem Expansivel Grande Masculina Feminina,Mochila Avião Notebook Bolsa de Sapato,Executiva,Antifurto,Reforçada,USB,Impermeável,Escolar,Faculdade,Trabalho,Presente",
-    "image": "https://m.media-amazon.com/images/I/612f603ruZL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 119.67,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FDQHJQWK?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "8582715153",
+    "title": "Princípios Básicos de Análise do Comportamento",
+    "image": "https://m.media-amazon.com/images/I/71vKqM13DiL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 120.64,
+    "affiliate_url": "https://www.amazon.com.br/dp/8582715153?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0H4VYRHRC",
-    "title": "Aspirador de Pó Portátil Sem Fio, 120W Alta Potência com Sucção Poderosa, Uso Seco/Úmido, Recarregável, para Carros e Casa, Filtro Lavável, Inclui 7 Acessórios (vermelho)",
-    "image": "https://m.media-amazon.com/images/I/61YwgbJfLwL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 126.65,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H4VYRHRC?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0CPSLRXB7",
-    "title": "Soprador de ar e aspirador de pó portáteis 2 em 1 Espanador de ar comprimido 6000mAh Espanador sem fio para limpeza de teclado de computador 55000rpm",
-    "image": "https://m.media-amazon.com/images/I/61M8FbfIHKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 128.34,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CPSLRXB7?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "6558821249",
+    "title": "Questionamento Socrático para Terapeutas: Aprenda a Pensar e a Intervir como um Terapeuta Cognitivo-comportamental",
+    "image": "https://m.media-amazon.com/images/I/71zGFQ26hJL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 121.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/6558821249?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "8539638517",
@@ -757,7 +685,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71+OlSCIeNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 129.67,
     "affiliate_url": "https://www.amazon.com.br/dp/8539638517?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D8R5M9FV",
@@ -765,23 +693,31 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/615UiMt41-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 132.33,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D8R5M9FV?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FW5FK24M",
-    "title": "Bettdow Smartwatch Relógio inteligente com Al integrada, atende/faz chamadas, relógio esportivo feminino e masculino de 1,28\" à prova d'água IP67, para celulares Android e iOS FB051 (Ouro Champanhe)",
-    "image": "https://m.media-amazon.com/images/I/61hLNtkn4WL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 134.45,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FW5FK24M?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0B3X8HF2Y",
+    "title": "Brastoy Blocos de Montar Magnéticos Infantil Construção Brinquedo (65 Peças)",
+    "image": "https://m.media-amazon.com/images/I/811ByrUELKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 133.2,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0B3X8HF2Y?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0F93DYN9D",
-    "title": "QBuen luminaria de mesa LED para escritório e casa, 5 cores de luz, 10 níveis de escurecimento, proteção para os olhos luminária de mesa, adequada para leitura, estudo, bancada de trabalho (preta)",
-    "image": "https://m.media-amazon.com/images/I/71RBxNQTJOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 143.99,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0F93DYN9D?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0FKZ2S4NC",
+    "title": "Torneira Cozinha Gourmet, LucZeng Misturador Monocomando Extensível com bico giratório de 3 modos de jato, pulverizador dobrável, alça única de arco alto extraível, Aço Escovado",
+    "image": "https://m.media-amazon.com/images/I/514B1GFUpgL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 134.8,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FKZ2S4NC?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B08GK9LCRW",
+    "title": "Caixa de som Redragon Anvil RGB Preto",
+    "image": "https://m.media-amazon.com/images/I/71UuyaUmkhL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 141.55,
+    "affiliate_url": "https://www.amazon.com.br/dp/B08GK9LCRW?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FNJ7T8HZ",
@@ -789,7 +725,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61CdjOizDjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 147.25,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FNJ7T8HZ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B097K16GKC",
@@ -797,7 +733,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71mpI-3AuZL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 151.19,
     "affiliate_url": "https://www.amazon.com.br/dp/B097K16GKC?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GQK6ZQ57",
@@ -805,15 +741,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/811qA21WPeL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 154.79,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQK6ZQ57?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0GRQGDXCB",
-    "title": "Kit 4 Toalhas De Banho 100% Algodão Premium 500g/m² – Toalhas Macias Alta Absorção Extra Macias e Felpudas (Branca)",
-    "image": "https://m.media-amazon.com/images/I/516TfpOwx-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 158.5,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GRQGDXCB?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0G8WWP8RT",
+    "title": "4 Toalhas De Banho Gigante Gramatura 500 G/m² Grossa Felpuda Eleganz (Branco)",
+    "image": "https://m.media-amazon.com/images/I/71IHi7WU-eL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 158.57,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0G8WWP8RT?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B07TM6SVL7",
@@ -821,7 +757,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41-EloZUCJL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 159.16,
     "affiliate_url": "https://www.amazon.com.br/dp/B07TM6SVL7?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0GTJXLZN6",
+    "title": "Kit 4 Toalhas De Banho 100% Algodão Premium 500g/m² – Toalhas Macias Alta Absorção Extra Macias e Felpudas (Multicolorido)",
+    "image": "https://m.media-amazon.com/images/I/71D7WtCHxXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 159.24,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GTJXLZN6?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0085HUOTW",
@@ -829,7 +773,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61jCY7NJOrL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 159.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0085HUOTW?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B07HR1MZQP",
@@ -837,15 +781,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41Gjg7-IkUL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 160.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B07HR1MZQP?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0G1Y8S1DR",
-    "title": "Bettdow SmartWatch Feminino 1.83\" Full Touch, Assistente de voz Alexa, IP68 à Prova d'Água, Ligações Bluetooth, 100+ Modos Esportivos, Notificações Inteligentes, Compatível com iOS/Android (Ouro rosê)",
-    "image": "https://m.media-amazon.com/images/I/61-lLy-dqhL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 160.69,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0G1Y8S1DR?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FHHLZZVD",
@@ -853,7 +789,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/610pOa72wuL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 163.77,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FHHLZZVD?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "6584004406",
@@ -861,39 +797,39 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/81HmyZ8mCzL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 164.9,
     "affiliate_url": "https://www.amazon.com.br/dp/6584004406?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "6559777545",
-    "title": "Manual da Reforma Tributária",
-    "image": "https://m.media-amazon.com/images/I/71s5pIWLX9L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 166.17,
-    "affiliate_url": "https://www.amazon.com.br/dp/6559777545?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0GQT5355J",
+    "title": "Basike Fone de Ouvido Bluetooth, Headphone com Cancelamento de Ruído ANC | BT 5.4, Som de Alta Fidelidade, Chamadas Claras, Carregamento USB-C, 40 Horas de Bateria (Azul)",
+    "image": "https://m.media-amazon.com/images/I/61IxUkR8hDL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 165.3,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GQT5355J?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0GQSXG7FJ",
-    "title": "Basike Fone de Ouvido Bluetooth, Headphone com Cancelamento de Ruído ANC | BT 5.4, Som de Alta Fidelidade, Microfone Integrado, Carregamento USB-C, 40H de Bateria (Rosa)",
-    "image": "https://m.media-amazon.com/images/I/61dnK5nVdvL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 166.5,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GQSXG7FJ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0H4S1L7YV",
+    "asin": "B0H4S1B1Y1",
     "title": "Calça Legging Lupo Fitness Feminina Esportiva Em Poliamida Texturizada a Ar Sem Costura",
     "image": "https://m.media-amazon.com/images/I/61-hQbBX-nL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 166.65,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H4S1L7YV?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H4S1B1Y1?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0H5RV959J",
-    "title": "Kit Lapis de Desenho Profissional 145 Peças com Estojo Portátil, Lapis de Cor e Grafite Profissional, Sketchbook, Borrachas, Estilete e Acessórios para Artistas e Estudantes Linha Super Premium",
-    "image": "https://m.media-amazon.com/images/I/711YpcuzoXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 179.98,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H5RV959J?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0CBSLM49N",
+    "title": "Kit Acessórios para Banheiro 4 Peças Inox [Q4C]",
+    "image": "https://m.media-amazon.com/images/I/61AzzP1O2OL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 169.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CBSLM49N?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0DG6PX7HM",
+    "title": "TECLADO MEMBRANA GAMER REDRAGON HARPE WIRELESS PRETO",
+    "image": "https://m.media-amazon.com/images/I/71lTY0XIO6L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 178.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DG6PX7HM?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D5BCR8KT",
@@ -901,7 +837,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51TYMb7-VhL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 179.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D5BCR8KT?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FS1RQRD9",
@@ -909,7 +845,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/613KLlLzT8L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 180.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FS1RQRD9?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B09DL8R142",
+    "title": "Chaleira Elétrica Oster Tea com Infusor de Chá 1,8L - 127V",
+    "image": "https://m.media-amazon.com/images/I/51LtG39jtjL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 180.4,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09DL8R142?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H34MKYBT",
@@ -917,7 +861,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61V0tm0Sm1L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 185.29,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H34MKYBT?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FQCK9YB4",
@@ -925,7 +869,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71R+VSEuT0L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 185.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQCK9YB4?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B07VPFC6RN",
@@ -933,7 +877,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61EW-1ytQ+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 187.04,
     "affiliate_url": "https://www.amazon.com.br/dp/B07VPFC6RN?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H5RJ5JBQ",
@@ -941,7 +885,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71On3GYLYIL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 188.52,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5RJ5JBQ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FM4D1HQG",
@@ -949,7 +893,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61Fs46kV2PL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 189.89,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FM4D1HQG?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0GCMGNXTD",
+    "title": "Tábua de Passar Roupa Dobrável com Duas Prateleiras, Tábua de Passar Roupa Reforçada com Rodas, Móvel e Prática para Quarto, Sala de Estar e Varanda",
+    "image": "https://m.media-amazon.com/images/I/81p0EYsvg6L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 189.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GCMGNXTD?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GRCKVGGN",
@@ -957,15 +909,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51DoSl7gByL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 197.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GRCKVGGN?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B09V39N65M",
-    "title": "Panela Elétrica Oster, para Fondue, 220V, Cinza, 1000W, OFND100",
-    "image": "https://m.media-amazon.com/images/I/51FMJp5eYOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 198.45,
-    "affiliate_url": "https://www.amazon.com.br/dp/B09V39N65M?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DGTSFP5Q",
@@ -973,7 +917,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51ansqiUO5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 198.66,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGTSFP5Q?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FMFVYFXC",
@@ -981,15 +925,47 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ARQT0CGHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 198.98,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMFVYFXC?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FGY1LVFK",
-    "title": "3m Portão Grade Retrátil de Proteção para Bebês e Cachorros, Portaozinho de Escada Instalação Sem Furos, Trava Dupla,Operação com uma mão,Portao Segurança Bebê Pet, Cercado para Cachorros",
-    "image": "https://m.media-amazon.com/images/I/816mAYjmrdL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "asin": "B09ZPK9S7B",
+    "title": "ISDIN Creme Anti-Idade para Pele Sensível Isdinceutics Hyaluronic Moisture Sensitive Skin - 50g",
+    "image": "https://m.media-amazon.com/images/I/61cgaqKT7qL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 199.35,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09ZPK9S7B?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0G92MZ5F5",
+    "title": "Basike Power Bank 65W, Carregador Portátil Universal 20000mAh (Prata) | USB-C + Cabo Type-C Integrado e Removível, Carregamento Rápido PD/PPS para Samsung Séries S26-S21 e iPhone Séries 17-14",
+    "image": "https://m.media-amazon.com/images/I/61YyyyDwhXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 212.03,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0G92MZ5F5?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0FH6YR2ZR",
+    "title": "3m Portão Grade Retrátil de Proteção para Bebês e Cachorros, Portaozinho de Escada Instalação Sem Furos, Trava Dupla,Operação com uma mão,Portao Segurança Bebê Pet, Cercado para Cachorros（preto）",
+    "image": "https://m.media-amazon.com/images/I/71LGcAAC4hL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 215.68,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FGY1LVFK?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FH6YR2ZR?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0H6B1RR35",
+    "title": "TURU HOME 6 em 1 mixer de mão, 1000W, 8 velocidades, Exibição digital LCD, Vem com um copo de 860 ml, Livre BPA,Triturador de 600 ml, Adequado para sopas, smoothies e purés(220V)",
+    "image": "https://m.media-amazon.com/images/I/61FnnecRGDL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 215.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H6B1RR35?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0DGXR6FRP",
+    "title": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT3509GY/00, Bluetooth, Com Cancelamento de Ruído Ativo ANC, Até 24 horas de bateria, Cinza",
+    "image": "https://m.media-amazon.com/images/I/51Exh1jSSqL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 219.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DGXR6FRP?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DPJ6BXTX",
@@ -997,7 +973,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51AHo0JKn9L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 222.83,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DPJ6BXTX?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B089Y3ZL8C",
@@ -1005,15 +981,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71bokwHcMKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 224.3,
     "affiliate_url": "https://www.amazon.com.br/dp/B089Y3ZL8C?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0GX51GMB4",
-    "title": "Babá Eletrônica com Tela de 3.5\", Câmera para Bebê com Visão Noturna Infravermelha 10M, Áudio Bidirecional, Detecção VOX, Monitoramento de Temperatura e Canções de Ninar",
-    "image": "https://m.media-amazon.com/images/I/61gzEvzd83L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 224.75,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GX51GMB4?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H11WS8C5",
@@ -1021,31 +989,31 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61ogqOM9UVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 224.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H11WS8C5?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FQK1TX76",
-    "title": "Bettdow SmartWatch, Relogio Smartwatch Feminino, 1.27\" Ecrã tátil, à prova d'água IP68, 100+ Modos Esportivos, chamada Bluetooth, Compatível com Android iOS, voz por IA (preto)",
-    "image": "https://m.media-amazon.com/images/I/61qOEBjlshL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 229.36,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FQK1TX76?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0FQK3V9QF",
+    "title": "Bettdow SmartWatch, Relogio Smartwatch Feminino, 1.27\" Ecrã tátil, à prova d'água IP68, 100+ Modos Esportivos, chamada Bluetooth, Compatível com Android iOS, voz por IA (Bege)",
+    "image": "https://m.media-amazon.com/images/I/61sC9cAm1tL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 229.37,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FQK3V9QF?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B089Y1MCL9",
-    "title": "Mesa para Escritório Office Estilo Industrial 0,90m Kuadra Snow/Est.Preta, Compace",
-    "image": "https://m.media-amazon.com/images/I/716UfX+o8PL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 229.98,
-    "affiliate_url": "https://www.amazon.com.br/dp/B089Y1MCL9?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0FY6H3HVR",
+    "title": "Bettdow Smartwatch GPS FB041, Relogio Smartwatch Feminino e Masculino,Tela HD de 1,85\", Alexa, 100 Esportes,3ATM à rova d'água, Chamada Bluetooth, Compatível com Android iOS(Preto)",
+    "image": "https://m.media-amazon.com/images/I/61HrHnK+98L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 230.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FY6H3HVR?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FFTTC71R",
+    "asin": "B0FFTSBVB6",
     "title": "Tênis Mizuno Virtue 2",
-    "image": "https://m.media-amazon.com/images/I/61UGmcfg8EL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 235.19,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FFTTC71R?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "image": "https://m.media-amazon.com/images/I/61MhSdOhFQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 239.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FFTSBVB6?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D98X56KL",
@@ -1053,7 +1021,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61aT-r0qhHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 249.73,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D98X56KL?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FGNFRPHJ",
@@ -1061,15 +1029,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61faUsmPkiL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 250.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FGNFRPHJ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0H9Q34FCB",
-    "title": "TURU HOME Mixer de mão 12 em 1, Kit com 12 Acessórios (Mixer, Fatiar, Picar, Misturar), Motor Potente de 1000W e 12 Velocidades(127V)",
-    "image": "https://m.media-amazon.com/images/I/61ah14uIP-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 251.99,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H9Q34FCB?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "6558820935",
@@ -1077,23 +1037,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61CmyiZfa8L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 252.0,
     "affiliate_url": "https://www.amazon.com.br/dp/6558820935?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "8502638610",
-    "title": "Elementos de Teoria Geral do Estado - 33ª Edição 2016",
-    "image": "https://m.media-amazon.com/images/I/81zHOMyu1+L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 257.84,
-    "affiliate_url": "https://www.amazon.com.br/dp/8502638610?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0DY1BD3T2",
-    "title": "UGREEN Revodok Pro Hub USB C 8 em 1 Adaptador Multiportas | HDMI 4K@60Hz, 2 USB-C 3.2, USB-A 3.2 e 2.0, SD/TF 170MB/s, PD 100W, Compatível com MacBook Pro/Air, iPad Pro, XPS e ThinkPad",
-    "image": "https://m.media-amazon.com/images/I/71n3EV8NMLL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 259.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DY1BD3T2?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0DTKS82JJ",
+    "title": "Tênis Mizuno Cool Ride 3",
+    "image": "https://m.media-amazon.com/images/I/61A0zP8LkPL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 254.91,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DTKS82JJ?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0G2XQ64K5",
@@ -1101,15 +1053,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71uRmPebmPL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 275.44,
     "affiliate_url": "https://www.amazon.com.br/dp/B0G2XQ64K5?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0CH5FKZ34",
-    "title": "WAP Chave de Impacto à Bateria 1/2\" 21V K21 CH01, com 4 Soquetes de Encaixe Quadrado, 350Nm 21VDC",
-    "image": "https://m.media-amazon.com/images/I/71nvmCJ2lML._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 276.45,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CH5FKZ34?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0F1FPFSNX",
@@ -1117,7 +1061,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51GClAd8yyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 279.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1FPFSNX?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B097HYQPJ1",
@@ -1125,31 +1069,55 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51BoILwnCJL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 282.26,
     "affiliate_url": "https://www.amazon.com.br/dp/B097HYQPJ1?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FVY7M936",
-    "title": "American Tourister Mala de Viagem Tesa 4.0 Preta Pequena",
-    "image": "https://m.media-amazon.com/images/I/41gDn2oh3NL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 299.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FVY7M936?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0FW3NGNQH",
+    "title": "Cadeira Ergonômica de Escritório Blackninja Presidente com Apoio de Cabeça e Lombar - Tela Mesh Respirável, Reclinável até 120°, Suporta 150kg",
+    "image": "https://m.media-amazon.com/images/I/71xbWa-USyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 284.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FW3NGNQH?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FQTHXQ1P",
-    "title": "QCY H3S Fones de Ouvido Bluetooth, Cancelamento de Ruído Ativo Híbrido, Headphone Sem Fio, Certificação Hi-Res Audio, LDAC, 86h de Bateria, Bluetooth 6.0, EQ App, Ultraleve e Ajuste Confortável, Cinza",
-    "image": "https://m.media-amazon.com/images/I/51qrPR+6ShL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 308.49,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FQTHXQ1P?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B09NCZ4TP4",
+    "title": "Aspirador de Pó Vertical Oster Sem Fio 3 em 1, Bateria, Azul, 90W, OASP630",
+    "image": "https://m.media-amazon.com/images/I/41qrfBunpgL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 299.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09NCZ4TP4?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0CTX74JJL",
-    "title": "Alimentador Automático para 2 Gatos, 5L Alimentador temporizado para animais de estimação,2.4G WiFi Tuya APP de Animais de Estimação",
-    "image": "https://m.media-amazon.com/images/I/61fQ4TWTHkL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 312.61,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CTX74JJL?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0GJD29WP2",
+    "title": "GOKOCO Secador de Cabelo Dobrável de Alta Velocidade,Bivolt,GD045 Motor Brushless 110.000 RPM,Íons Negativos,4 Temperaturas,3 Velocidades,com Difusor e Bicos Modeladores para Viagem,Preto",
+    "image": "https://m.media-amazon.com/images/I/61QThHd0LCL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 299.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GJD29WP2?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0F6L1X2Z8",
+    "title": "AstroAI B8 Auxiliar Partida Portátil Veicular 3000A | Carregador de Bateria 12V para Motores 7.0L Gasolina e 5.5L Diesel, com 3 Modos de Lanterna e Cabos",
+    "image": "https://m.media-amazon.com/images/I/81nyNDZMyJL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 314.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F6L1X2Z8?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0H4KZVLGZ",
+    "title": "Cadeira De Alimentação Bebe Multifuncional 6 Em 1 Para Bebês, Com Dobragem Com Um Único Toque, Bandeja E Encosto Ajustáveis Em 3 Alturas, Cinto De Segurança De 5 Pontos, Rodas Com Freio E Assento Removível Em PU Que Se Limpa Com Um Pano Úmido; Ideal Para Pais Ocupados Que Cuidam Dos Filhos Em Casa, Em Viagens Ou Na Casa Dos Avós (Azul escuro)",
+    "image": "https://m.media-amazon.com/images/I/71uOEtJeT-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 320.13,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H4KZVLGZ?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0F9T2DD2P",
+    "title": "Airwit Ventilador de Teto Preto 106,7 cm com Luz LED, 6 Velocidades",
+    "image": "https://m.media-amazon.com/images/I/61z7c5eTTwL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 323.1,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F9T2DD2P?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DG5JXLHB",
@@ -1157,7 +1125,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/613xr44D3aL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 324.88,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DG5JXLHB?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FZ9MV9CM",
@@ -1165,47 +1133,47 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51+tBAUfQXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 332.48,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZ9MV9CM?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B089Y3BZQR",
-    "title": "Mesa Escrivaninha Em L 2 Peças Trevalla Kuadra ML150 Carvalho",
-    "image": "https://m.media-amazon.com/images/I/71q2adAQMdL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 349.25,
-    "affiliate_url": "https://www.amazon.com.br/dp/B089Y3BZQR?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0D8JJRCJN",
+    "title": "GameSir G8 Plus Bluetooth Mobile Game Controller for Switch & iOS & Android & Tablets, Wireless Gamepad with Hall Effect Joysticks/Hall Trigger, Play Minecraft, Genshin Impact, Call of Duty Mobile",
+    "image": "https://m.media-amazon.com/images/I/717de+4D0kL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 339.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0D8JJRCJN?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0G2L1QF78",
-    "title": "VEDO Mesa de Som Ultrafina de 6 Canais com 99 Efeitos DSP, Bluetooth 5.0, USB/OTG, Alimentação Fantasma de 48V, EQ de 3 Bandas para Apresentações ao Vivo, Gravações, Reuniões e Estúdio Doméstico",
-    "image": "https://m.media-amazon.com/images/I/81iD4leRIXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 355.92,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0G2L1QF78?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0BQ3NT5JM",
+    "title": "Mesa Dynamica Diretor 180x60x75cm Branco Chess/Est.preta",
+    "image": "https://m.media-amazon.com/images/I/61VTDrykqmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 339.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BQ3NT5JM?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0CYZGCJYC",
-    "title": "Cadeira de jogos com encosto alto, apoios de braços fixos em quatro pontos, altura ajustável (Branco)",
-    "image": "https://m.media-amazon.com/images/I/71NLqgTHsoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 359.18,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CYZGCJYC?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B089Y4SNJZ",
+    "title": "Mesa de Escritório em L Estilo Industrial 1,50mX1,50m Kuadra, Compace, Preto Ônix/Est.Preta",
+    "image": "https://m.media-amazon.com/images/I/31RU-AWsqOL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 349.5,
+    "affiliate_url": "https://www.amazon.com.br/dp/B089Y4SNJZ?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0G3RFQQ48",
-    "title": "Liquidificador Portátil Sem Fio Blender Go Max Oster",
-    "image": "https://m.media-amazon.com/images/I/71t0liXX5AL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 360.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0G3RFQQ48?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0FVYB71RW",
+    "title": "American Tourister Mala de Viagem Tesa 4.0 Média",
+    "image": "https://m.media-amazon.com/images/I/51zQCYgjZ4L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 349.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FVYB71RW?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B09MWFYS9P",
-    "title": "Escrivaninha com Estante Baixa 2 Prateleiras 1,50m Dynamica",
-    "image": "https://m.media-amazon.com/images/I/51EoT+NcWQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 365.48,
-    "affiliate_url": "https://www.amazon.com.br/dp/B09MWFYS9P?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0FXRRJ3GH",
+    "title": "Monitor 21,5 Polegadas, Alto-falantes Integrados, Full HD 1920x1080, 100 Hz, 230cd/m², HDMI/VGA/3.55(110-240V)",
+    "image": "https://m.media-amazon.com/images/I/714DDtiPl4L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 357.19,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FXRRJ3GH?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "8582714327",
@@ -1213,7 +1181,31 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/91SaH52nWIL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 374.61,
     "affiliate_url": "https://www.amazon.com.br/dp/8582714327?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0H2LXQPSP",
+    "title": "Airwit Ventilador de Teto Bivolt 132 cm com Controle Remoto | Funcionamento silencioso, 6 velocidades, função reversa, luz 3 cores, quartos, salas, ambientes amplos",
+    "image": "https://m.media-amazon.com/images/I/51SxQt7J4sL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 378.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H2LXQPSP?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "8520467962",
+    "title": "Medicina de emergência: Abordagem Prática",
+    "image": "https://m.media-amazon.com/images/I/81i9bV+dcvL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 379.99,
+    "affiliate_url": "https://www.amazon.com.br/dp/8520467962?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0CXZ6KJ8Y",
+    "title": "GABINETE REDRAGON WIDELOAD PRO BRANCO CA-604W-PRO",
+    "image": "https://m.media-amazon.com/images/I/61EFNhsLQ7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 384.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CXZ6KJ8Y?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FSL3F3WP",
@@ -1221,23 +1213,31 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71BM5C1xvAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 385.03,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FSL3F3WP?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B09MSQRR9Z",
-    "title": "Escrivaninha com Estante Alta 4 Prateleiras 1,50m Dynamica",
-    "image": "https://m.media-amazon.com/images/I/61pkWEPIn7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 387.8,
-    "affiliate_url": "https://www.amazon.com.br/dp/B09MSQRR9Z?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0DSJ5ZH8F",
+    "title": "UGREEN Base e Suporte para Mac mini M4 com Caixa SSD NVMe",
+    "image": "https://m.media-amazon.com/images/I/51LErdjU+YL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 399.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DSJ5ZH8F?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0H8RVLPX8",
-    "title": "VireColor Cadeira de Escritório Ergonômica Presidente Mesh 200kg Giratória",
-    "image": "https://m.media-amazon.com/images/I/71woNhcYVtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "asin": "B0H8R6ZHM5",
+    "title": "VireColor Cadeira de Escritório Ergonômica Presidente Mesh 200kg Giratória | Preto, apoio lombar, apoio de cabeça 3D, pistão Classe 3 regulável 10cm, assento largo e malha respirável para home office",
+    "image": "https://m.media-amazon.com/images/I/71aXuj6+FEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 399.99,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H8RVLPX8?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H8R6ZHM5?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0C3BV19Q3",
+    "title": "Headset Gamer HyperX Cloud III – Compatível com PC, PS5, Xbox Series X|S, Drivers Angulados de 53mm, Áudio DTS, Microfone de 10 mm, USB-C, USB-A, Fio de 3,5 mm, Vermelho e Preto (727A9AA)",
+    "image": "https://m.media-amazon.com/images/I/71pz2njkNRL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 409.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0C3BV19Q3?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FXH6Y9G8",
@@ -1245,7 +1245,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51ougekSbcL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 410.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXH6Y9G8?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0CJV2WKQF",
@@ -1253,7 +1253,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/613NfdEWPyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 414.23,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D78TTV94",
@@ -1261,7 +1261,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/714s0-e1cmL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 414.67,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D78TTV94?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0DX7K4QP5",
+    "title": "BETTDOW Capa com Teclado e Trackpad para Samsung Galaxy Tab S10 Lite/S10 Fe/S9 Fe/S9/S8/S7 de 11 polegadas,Teclado com LCD Display",
+    "image": "https://m.media-amazon.com/images/I/71DMQPOFAoL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 417.05,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DX7K4QP5?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H4RZ8WNY",
@@ -1269,23 +1277,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71I4mPc0ofL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 432.91,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H4RZ8WNY?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B072MKB6X9",
-    "title": "Armações para óculos de grau Armação para Óculos Ray-Ban 0RX6375 Ray-Banmasculino",
-    "image": "https://m.media-amazon.com/images/I/51W7gF2LaAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 439.99,
-    "affiliate_url": "https://www.amazon.com.br/dp/B072MKB6X9?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0GN2KJY43",
-    "title": "Airwit Ventilador de Teto com Luz 106 cm, Pás Retráteis, 6 Velocidades | Motor Silencioso, Bivolt, Luz LED 3CCT, Controle Remoto, Uso Interno",
-    "image": "https://m.media-amazon.com/images/I/71gZgwmFtQL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 466.55,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GN2KJY43?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0BQ3LPGWP",
+    "title": "Mesa Kuadra Diretor 180X70X75cm",
+    "image": "https://m.media-amazon.com/images/I/31s3+SaW8eL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 446.41,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0BQ3LPGWP?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0BR51ZZY6",
@@ -1293,7 +1293,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/619dcpdoSrL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 484.49,
     "affiliate_url": "https://www.amazon.com.br/dp/B0BR51ZZY6?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GHFCKKV6",
@@ -1301,7 +1301,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71YZWi6ClAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 519.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHFCKKV6?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "6558040247",
@@ -1309,15 +1309,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/813geU8pmxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 521.09,
     "affiliate_url": "https://www.amazon.com.br/dp/6558040247?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0H61QWP3Y",
-    "title": "Cadeira Alta Dobrável Portátil Bebê 6M-5A, Altura e Encosto Ajustáveis até 25kg,7 alturas + 4 encostos + 3 bandejas ajustáveis,Dobrável compacta, fácil transporte para viagens",
-    "image": "https://m.media-amazon.com/images/I/61avDn9oCcL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 539.1,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H61QWP3Y?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FD41XC3P",
@@ -1325,7 +1317,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/719XHbmvmBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 579.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FD41XC3P?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FJ811D4C",
@@ -1333,23 +1325,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61IToccFirL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 603.76,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJ811D4C?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0FQV6VN38",
-    "title": "BETTDOW Capa com Teclado e Trackpad para Samsung Galaxy Tab S10 FE Plus 13.1 Inch 2025, Tab S10 FE+ de 13.1 polegadas SM-X620, SM-X626, SM-X626B,Teclado com LCD Display",
-    "image": "https://m.media-amazon.com/images/I/61LX225ozZL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 635.55,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FQV6VN38?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "8538812483",
-    "title": "Tratado de Cuidados Paliativos - ANCP",
-    "image": "https://m.media-amazon.com/images/I/71t0VNfVRFL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 637.38,
-    "affiliate_url": "https://www.amazon.com.br/dp/8538812483?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GKG887B1",
@@ -1357,23 +1333,23 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61nr6F3EJTL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 638.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GKG887B1?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0F3TDQX76",
-    "title": "Bettdow Projetor 4k [Netflix-Licensed], Projetores Portatil 14000 Lumens Full Hd 1080p Compatível Com Android 13, Design à prova de poeira, Retroprojetor WiFi 6 BT 5.2,Foco Automático (preto)",
-    "image": "https://m.media-amazon.com/images/I/51WMZ-K0L7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 664.04,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0F3TDQX76?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FFP2W7KZ",
-    "title": "Óculos de Sol Ray-Ban Wayfarer Puffer 0RB4940 601/87 Tam 47",
+    "title": "Óculos de Sol Ray-Ban Wayfarer Puffer 0RB4940 601/87 Tam 47 / Preto - Lentes Preto",
     "image": "https://m.media-amazon.com/images/I/51OY6scyHNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 669.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FFP2W7KZ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B08JY31RQF",
+    "title": "Depilador e Rejuvenescedor a Laser Permanente Luz Pulsada Lescolton T-009i",
+    "image": "https://m.media-amazon.com/images/I/61blZNksG5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 695.79,
+    "affiliate_url": "https://www.amazon.com.br/dp/B08JY31RQF?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B076C6B4J7",
@@ -1381,39 +1357,31 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41+A0RZbZ7L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 712.66,
     "affiliate_url": "https://www.amazon.com.br/dp/B076C6B4J7?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0F2Q2SCJ2",
-    "title": "Cadeira Escritório DT3 Dolly, Criss Cross Cosy Chair, Original, Assento Extra Grande e Largo, Leisure, Penteadeira, Escrivaninha. (PU, Cream)",
-    "image": "https://m.media-amazon.com/images/I/61yrvoHvzPL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 729.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0F2Q2SCJ2?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B01N4V94GX",
+    "title": "Samsonite Mala de Viagem Octolite Branca Pequena",
+    "image": "https://m.media-amazon.com/images/I/419an8Q88dL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 719.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B01N4V94GX?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0GC5HPQHX",
-    "title": "Cadeira de Escritório Ergonômica Testada conforme NR-17, Duplo Apoio Lombar, Assento Deslizante com Ajuste de Profundidade 5cm, Apoio para Pés Retrátil, Reclinável até 135° para Home Office (Preto)",
-    "image": "https://m.media-amazon.com/images/I/81GwvztsDBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 748.99,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GC5HPQHX?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0CZLBXZ56",
+    "title": "Cadeira de Escritório Ergonômica Python Fly em Malha - Testada conforme NR-17, Lombar Integrada Fixa, Assento Arejado, Braços 3D, Suporta até 150kg(preto)",
+    "image": "https://m.media-amazon.com/images/I/7184zXQJSpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 745.04,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CZLBXZ56?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0H1R6FM9L",
-    "title": "Smart TV 32 Polegadas, Whale 10.0, LED HD Ready, Wi-Fi e Bluetooth, Dolby Atmos, Netflix e YouTube, 3x HDMI",
-    "image": "https://m.media-amazon.com/images/I/71PtJPMgx4L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 779.0,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H1R6FM9L?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0DSCJ1C9S",
-    "title": "Samsonite Mala de Viagem Fiero 3.0",
-    "image": "https://m.media-amazon.com/images/I/417ak69+jxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 799.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DSCJ1C9S?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0FY3642C4",
+    "title": "VEDO Kit de Microfone Dinâmico para Bateria 7 Peças - Microfones para Bumbo, Tom/Caixa e Pratos - Conjunto Completo em Metal para Gravação Profissional e Performances ao Vivo com Alta",
+    "image": "https://m.media-amazon.com/images/I/71W1w3lg4lL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 747.17,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FY3642C4?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FF9NBGDR",
@@ -1421,23 +1389,23 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71Z4POBnNeL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 811.96,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FF9NBGDR?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FG4DT64K",
-    "title": "Espaldar De Madeira Barra De Ling Alongamento Arktus + Mini Band",
-    "image": "https://m.media-amazon.com/images/I/51NgX1Lg1AL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 816.05,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FG4DT64K?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0GWJYYDLX",
+    "title": "Cama Infantil Montessoriana Solteiro com Reversiteiro e Organizador Tamiê Carvalho Mel",
+    "image": "https://m.media-amazon.com/images/I/81UGLtWktVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 829.98,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0GWJYYDLX?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0H4RLZX5V",
-    "title": "NEWPET Caixa De Areia Autolimpante Com Tampa Aberta, Caixa De Areia Automática Com Sensores De Segurança, Proteção Anti-Esmagamento E Degrau De Fácil Acesso Para Gatos Idosos",
-    "image": "https://m.media-amazon.com/images/I/61-nviMYCXL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 854.02,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H4RLZX5V?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B086V1R21L",
+    "title": "Philips Cacheador Automático Prestige com Tecnologia MoistureProtect",
+    "image": "https://m.media-amazon.com/images/I/41Yu1QTOtHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 854.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B086V1R21L?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H4G895KZ",
@@ -1445,7 +1413,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71dO5D8UchL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 856.45,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H4G895KZ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D9W4778P",
@@ -1453,23 +1421,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71tOGhQUWxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 874.51,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9W4778P?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0GGCXM1CN",
-    "title": "Conjunto de Panelas em Ferro Fundido Esmaltado, 5 Peças, Jogo de Cozinha, com Tampas e 1 Suporte, 3 Panelas Caçarolas 1 Frigideira Forno Fogão a Gás Indução (VERMELHA)",
-    "image": "https://m.media-amazon.com/images/I/61gV-8rgpxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 899.1,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0GGCXM1CN?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "6558040204",
-    "title": "Medicina interna de harrison - 2 volumes, box de livro",
-    "image": "https://m.media-amazon.com/images/I/61lJDo0w-oL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 919.41,
-    "affiliate_url": "https://www.amazon.com.br/dp/6558040204?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0F8P8KKH1",
@@ -1477,31 +1429,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71ydB+Bt-cL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 919.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0F8P8KKH1?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0FH5149FL",
-    "title": "Tiny2 Lite 4K Webcams, com controle de voz PTZ, rastreamento AI multimodo e foco automático, câmera web com sensor de 1/1,5\", controle por gestos,1080P 60 FPS",
-    "image": "https://m.media-amazon.com/images/I/514sWP1JoHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 949.98,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FH5149FL?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0DSSBCLL3",
-    "title": "Bettdow Projetor 4k 22000 Lumens Full Hd 1080p Compatível Com Android 9, Smart Projetores Retroprojetor Portatil 650 ANSI WiFi 2.4G+5G BT 5.1, Eletronico Correção Trapezoidal, Foco manual",
-    "image": "https://m.media-amazon.com/images/I/71T5vCZXIML._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 1006.04,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DSSBCLL3?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
-  },
-  {
-    "asin": "B0C7H4X55D",
-    "title": "Forno De Embutir À Gás Stelar Napoli De 46 Litros Preto 127v",
-    "image": "https://m.media-amazon.com/images/I/61JaZbKzXtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 1048.92,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0C7H4X55D?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0C7H3P3C8",
@@ -1509,7 +1437,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51oUE+WfXVL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 1073.61,
     "affiliate_url": "https://www.amazon.com.br/dp/B0C7H3P3C8?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0F3ZTQF92",
+    "title": "Cadeira Ergométrica Escritório Ajuste Lombar Estudo Preto Encosto Comfy Reclinável Mesh Tecido Giratória Cadeiras 200kg Confortável Gamer Braço 6D",
+    "image": "https://m.media-amazon.com/images/I/61DBR67u0PL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 1098.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F3ZTQF92?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D1H1H8RZ",
@@ -1517,7 +1453,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51knV7aB8qL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 1109.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D1H1H8RZ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DNZKWSLX",
@@ -1525,7 +1461,23 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71A7RgIk8QL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 1169.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DNZKWSLX?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0CLHFQ8D1",
+    "title": "Mesa para Escritório Diretor em L 3 Gavetas 1 Porta Spring Itapuã/Branco",
+    "image": "https://m.media-amazon.com/images/I/61f13F5QSpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 1170.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CLHFQ8D1?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0DWJ5CLB5",
+    "title": "Tratado de Medicina Intensiva: AMIB e SPCI",
+    "image": "https://m.media-amazon.com/images/I/71YSUCpRhZL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 1269.72,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DWJ5CLB5?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0BBMRF9ZX",
@@ -1533,7 +1485,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51UHc8hyIDL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 1314.89,
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBMRF9ZX?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0D166KMVC",
@@ -1541,7 +1493,31 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51EXUy1SerL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 1534.86,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D166KMVC?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0CFG6XP6T",
+    "title": "Cadeira Escritório Ergonomica DT3 Alera+, em Mesh Vidartex™, apoio de cabeça 2D, braços 3D, apoio lombar AWS+ajuste na altura do encosto, Assento deslizante,Certificada.(Black)",
+    "image": "https://m.media-amazon.com/images/I/81v8kpjxmNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 1799.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CFG6XP6T?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0D4V3JMGB",
+    "title": "Câmera 4K NDI PTZ 20X, saídas HDMI USB LAN, câmera de videoconferência, webcam para cultos religiosos/eventos/serviços educacionais, compatível com Zoom, Skype, OBS (enviada do Brasil)",
+    "image": "https://m.media-amazon.com/images/I/61DeG0-vznL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 1979.09,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0D4V3JMGB?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B09LHW62H7",
+    "title": "Coifa de Ilha Oster Inox Touch Control, 90cm, 110v, OCFA590",
+    "image": "https://m.media-amazon.com/images/I/419jwVCZRzL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 1994.02,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09LHW62H7?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H51W1L8W",
@@ -1549,7 +1525,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41LJSdrWwML._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 1999.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H51W1L8W?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0DJ3P76ZC",
+    "title": "Quarto Modulado Casal Completo 4 Peças 5 Portas 4 Gavetas Com Maleiro Smart Plus Cinamomo",
+    "image": "https://m.media-amazon.com/images/I/71mLMXf64LL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 2149.97,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3P76ZC?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FVMFSWGV",
@@ -1557,7 +1541,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/319xY36QjcL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 2299.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVMFSWGV?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H6F7GYCX",
@@ -1565,15 +1549,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/618AE719bfL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 2699.09,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H6F7GYCX?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0DNR9SQXL",
-    "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Branca (TF70) 220V",
+    "asin": "B0DNR7TBTW",
+    "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Branca (TF70) 127V",
     "image": "https://m.media-amazon.com/images/I/416e19mr7qL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 2899.0,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0DNR9SQXL?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DNR7TBTW?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0FVPLDKKG",
@@ -1581,7 +1565,23 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/31K+KWPwGeL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 3899.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVPLDKKG?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0DGM1PJMK",
+    "title": "Apple iPhone 16 (128 GB) – Branco",
+    "image": "https://m.media-amazon.com/images/I/61ctYsUobKL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 5110.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DGM1PJMK?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
+  },
+  {
+    "asin": "B0H37DL2F1",
+    "title": "Notebook Dell 15 I DC15-i71355U-U90 15.6\" Full HD 13ª Gen Intel Core i7 16GB 512GB SSD Ubuntu Linux Preto Carbono",
+    "image": "https://m.media-amazon.com/images/I/5152rTpvy5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 5199.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0H37DL2F1?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0H37H5PCJ",
@@ -1589,7 +1589,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/5152rTpvy5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 5499.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0H37H5PCJ?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0DJFS7GXV",
@@ -1597,15 +1597,15 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41uUYcqfLxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 5799.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
-    "asin": "B0FDQHQY7H",
-    "title": "Notebook i7 13 13620H 32GB RAM 1TB SSD MX550 Windows 11 16in",
-    "image": "https://m.media-amazon.com/images/I/61xgfHiyNzL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 5948.0,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FDQHQY7H?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "asin": "B0DGM22BZK",
+    "title": "Apple iPhone 16 (512 GB) – Preto",
+    "image": "https://m.media-amazon.com/images/I/41uUYcqfLxL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 5799.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DGM22BZK?tag=mdm0a40-20",
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   },
   {
     "asin": "B0GRJNQWHW",
@@ -1613,6 +1613,6 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/514EAjs4c9L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
     "price_current": 7249.0,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GRJNQWHW?tag=mdm0a40-20",
-    "last_checked_at": "2026-08-19T14:52:01.000Z"
+    "last_checked_at": "2026-08-19T17:02:43.000Z"
   }
 ];
