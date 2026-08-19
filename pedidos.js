@@ -379,5 +379,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0CLMFW2WT?tag=mdm0a40-20",
     "descricao": "Controle Wi-Fi e painel personalizável em várias cores para combinar com seu estilo. Economia de até 80% de energia com tecnologia Inverter eficiente.. Tripla filtragem elimina 99% de alérgenos, bactérias e fungos do ar."
+  },
+  {
+    "id": "B0GHP4NL1J",
+    "asin": "B0GHP4NL1J",
+    "titulo": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+    "imagem": "https://m.media-amazon.com/images/I/41OcWO275YL._AC_.jpg",
+    "preco": 52.6,
+    "link": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=mdm0a40-20",
+    "descricao": "Estimula o crescimento capilar, reduz a queda dos fios e nutre o couro cabeludo com fórmula vegana, cruelty-free e livre de sulfatos e silicones.. Kit composto por Shampoo, Tônico e Milk Spray com embalagens multicoloridas, da linha Rapunzel da marca Lola From Rio.. Fórmula leve e não oleosa indicada para uso diário, sem pesar os fios, mantendo a hidratação e o equilíbrio natural do couro cabeludo."
   }
 ];
