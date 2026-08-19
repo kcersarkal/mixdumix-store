@@ -394,7 +394,7 @@ window.PEDIDOS = [
     "asin": "B0GL4CM4DK",
     "titulo": "Copo Térmico Everyday Tumbler Stanley Ash 473ml",
     "imagem": "https://m.media-amazon.com/images/I/413x03YZI4L._AC_SL1500_.jpg",
-    "preco": null,
+    "preco": 162.35,
     "link": "https://www.amazon.com.br/dp/B0GL4CM4DK?tag=mdm0a40-20",
     "descricao": "BEBIDA SEMPRE GELADA - Graças ao isolamento de parede dupla, o copo térmico Stanley mantém as bebidas geladas por até 4 horas e com gelo por até 17 horas, mantendo o exterior sem suor. Ele também conserva o calor por 1 hora, ideal para levar café para onde você for.. NÃO APENAS PARA CERVEJA - Seja para sua cerveja favorita, refrigerante ou café gelado, você pode beber com tranquilidade neste copo térmico de aço inoxidável, sabendo que é feito com materiais livres de BPA.. SEGURO NA MÁQUINA DE LAVAR LOUÇA - Limpar o seu copo de bebida não podia ser mais fácil: basta colocá-lo na máquina de lavar louça. O aço inoxidável de alta qualidade mantém o seu copo de cerveja sem odores após cada limpeza.. STANLEY - Com uma rica história de 100 anos, a marca Stanley nos trouxe o isolamento a vácuo e revolucionou a maneira como consumimos bebidas. Do quente ao frio, os produtos Stanley são icônicos, duráveis e feitos para as aventuras modernas. Prepare-se para começar a sua."
   }
