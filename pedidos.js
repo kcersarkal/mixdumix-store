@@ -343,5 +343,14 @@ window.PEDIDOS = [
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0FHHLZZVD?tag=mdm0a40-20",
     "descricao": "【🔌 CABOS INTEGRADOS UNIVERSAIS】Cabo Lightning (12W para iPhone 15-16) + Cabo Tipo-C (22.5W) embutidos, elimina necessidade de cabos extras para Android e iOS.. 【⚡ CARREGAMENTO TURBO 22.5W】Porta USB-A com saída máxima de 22.5W para recarga ultrarrápida de smartphones compatíveis.. 【🔋 CAPACIDADE INDUSTRIAL 20000mAh】Armazena energia para 4-5 recargas completas (77Wh), com eficiência ≥80% garantida por chip inteligente.. 【🛡️ SEGURANÇA AVANÇADA】Proteção contra superaquecimento (≤55°C), sobrecarga e curto-circuito com materiais resistentes a impactos.. 【🌐 COMPATIBILIDADE TOTAL】Entrada/saída Tipo-C 18W + cabo Lightning integrado, ideal para viagens e uso diário sem adaptadores."
+  },
+  {
+    "id": "B09CC72K1X",
+    "asin": "B09CC72K1X",
+    "titulo": "Electrolux Cafeteira Elétrica Inox filtro permanente removivel corta pingos capacidade 600ml 15 xicaras função manter aquecido sistema ECM10 127v",
+    "imagem": "https://m.media-amazon.com/images/I/71cM7xwJqXL._AC_SL1500_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B09CC72K1X?tag=mdm0a40-20",
+    "descricao": "Capacidade para até 15 xícaras: Jarra de vidro com 600 ml, ideal para preparar várias porções de café.. Design Moderno em Aço Inox Escovado: Combina elegância e durabilidade para deixar sua cozinha mais bonita.. Filtro Lavável e Removível: Mais sustentável e econômico, dispensando o uso obrigatório de filtros de papel.. Função Manter Aquecido: Mantém o café quentinho por mais tempo após o preparo.. Sistema Corta-Pingos: Permite servir o café antes de terminar o processo sem causar sujeira."
   }
 ];
