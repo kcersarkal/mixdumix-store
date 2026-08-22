@@ -25,5 +25,14 @@ window.PEDIDOS = [
     "preco": 125.9,
     "link": "https://www.amazon.com.br/dp/B0FJMHMCBZ?tag=mdm0a40-20",
     "descricao": "MODO EXTRA BASS. Sinta toda a potência das suas músicas favoritas com o modo Extra Bass, que você ativa facilmente pressionando duas vezes o botão no fone. O isolamento passivo eficiente bloqueia ruídos externos, permitindo curtir cada batida com máxima intensidade.. 55 HORAS DE BATERIA. Curta por até 55 horas suas playlists completas sem precisar recarregar. E quando precisar, basta usar o cabo USB-C para recarregar e em apenas 2 horas você já tem a carga completa para curtir mais uma maratona musical.. SOM POTENTE COM ASSINATURA PHILIPS. Drivers grandes e especialmente ajustados oferecem áudio detalhado, graves profundos e equilíbrio sonoro, garantindo qualidade superior e a assinatura exclusiva Philips para uma experiência musical única e envolvente.. FÁCIL DE TRANSPORTAR. Leve seu headphone Philips para qualquer lugar com facilidade. O design dobrável deixa as conchas planas, facilitando o armazenamento em bolsas ou mochilas.. CONFORTO PROLONGADO COM DESIGN OVER-EAR. Com arco acolchoado, conchas ajustáveis e formato over-ear, o headphone garante maciez, ergonomia e isolamento acústico passivo, oferecendo conforto duradouro e redução natural de ruídos externos."
+  },
+  {
+    "id": "B0FPT7HB8G",
+    "asin": "B0FPT7HB8G",
+    "titulo": "Carrinho Organizador Multiuso 3 Prateleiras Com Rodinhas 360° (Preto)",
+    "imagem": "https://m.media-amazon.com/images/I/6163J3IhSwL._AC_SL1200_.jpg",
+    "preco": 96.79,
+    "link": "https://www.amazon.com.br/dp/B0FPT7HB8G?tag=mdm0a40-20",
+    "descricao": "O Carrinho Organizador Multiuso 3 Prateleiras da Brinqlar chegou para transformar a forma como você organiza seus espaços.. Seja na cozinha, no escritório, no banheiro ou até mesmo no seu ateliê, esse carrinho oferece praticidade e elegância em qualquer ambiente.. Dimensões aproximadas (AxLxC): 86cm x 36cm x 43cm.. Capacidade: Cada cesto suporta até 5kg.. Base: Equipada com 4 Rodas Resistentes"
   }
 ];
