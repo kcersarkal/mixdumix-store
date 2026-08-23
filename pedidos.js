@@ -34,5 +34,14 @@ window.PEDIDOS = [
     "preco": 96.79,
     "link": "https://www.amazon.com.br/dp/B0FPT7HB8G?tag=mdm0a40-20",
     "descricao": "O Carrinho Organizador Multiuso 3 Prateleiras da Brinqlar chegou para transformar a forma como você organiza seus espaços.. Seja na cozinha, no escritório, no banheiro ou até mesmo no seu ateliê, esse carrinho oferece praticidade e elegância em qualquer ambiente.. Dimensões aproximadas (AxLxC): 86cm x 36cm x 43cm.. Capacidade: Cada cesto suporta até 5kg.. Base: Equipada com 4 Rodas Resistentes"
+  },
+  {
+    "id": "B0DVMQVVDY",
+    "asin": "B0DVMQVVDY",
+    "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
+    "imagem": "https://m.media-amazon.com/images/I/519bjoeFBTL._AC_SL1000_.jpg",
+    "preco": 99.99,
+    "link": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=mdm0a40-20",
+    "descricao": "CONEXÃO BLUETOOTH ESTÁVEL. Tecnologia avançada que garante transmissão contínua sem interrupções. Perfeita para músicas e podcasts com qualidade de áudio superior.. DURAÇÃO DE ATÉ 24 HORAS. Aproveite até 6h de reprodução nos fones e 18h extras no estojo power bank. Carregamento rápido USB-C: 15 minutos para 1 hora extra de uso, mantendo suas músicas sempre com você.. RESISTÊNCIA IPX4 E DESIGN COMPACTO. Resistente a suor, respingos e chuva. Estojo compacto para carregamento e proteção. Ideal para treinos e atividades ao ar livre.. CHAMADAS MAIS NÍTIDAS. Microfone dedicado com tecnologia de redução de ruído elimina interferências, garantindo comunicações claras em qualquer tipo de ambiente.. SOM DE ALTA QUALIDADE COM GRAVES PROFUNDOS. Drivers de 10mm com graves potentes e som equilibrado, garantindo a assinatura sonora Philips em todos os seus conteúdos."
   }
 ];
