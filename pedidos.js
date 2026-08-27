@@ -43,5 +43,14 @@ window.PEDIDOS = [
     "preco": 99.99,
     "link": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=mdm0a40-20",
     "descricao": "CONEXÃO BLUETOOTH ESTÁVEL. Tecnologia avançada que garante transmissão contínua sem interrupções. Perfeita para músicas e podcasts com qualidade de áudio superior.. DURAÇÃO DE ATÉ 24 HORAS. Aproveite até 6h de reprodução nos fones e 18h extras no estojo power bank. Carregamento rápido USB-C: 15 minutos para 1 hora extra de uso, mantendo suas músicas sempre com você.. RESISTÊNCIA IPX4 E DESIGN COMPACTO. Resistente a suor, respingos e chuva. Estojo compacto para carregamento e proteção. Ideal para treinos e atividades ao ar livre.. CHAMADAS MAIS NÍTIDAS. Microfone dedicado com tecnologia de redução de ruído elimina interferências, garantindo comunicações claras em qualquer tipo de ambiente.. SOM DE ALTA QUALIDADE COM GRAVES PROFUNDOS. Drivers de 10mm com graves potentes e som equilibrado, garantindo a assinatura sonora Philips em todos os seus conteúdos."
+  },
+  {
+    "id": "B0FQFH5PJS",
+    "asin": "B0FQFH5PJS",
+    "titulo": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
+    "imagem": "https://m.media-amazon.com/images/I/41H4AoY5xbL._AC_SL1000_.jpg",
+    "preco": 2399.0,
+    "link": "https://www.amazon.com.br/dp/B0FQFH5PJS?tag=mdm0a40-20",
+    "descricao": "RECURSOS ESSENCIAIS PARA A SAÚDE — A medição de temperatura mostra informações mais detalhadas no app Sinais Vitais e estimativas de ovulações anteriores. Você também recebe uma pontuação diária da Qualidade de Sono, notificações de apneia do sono e alertas de frequência cardíaca alta ou baixa e de ritmo cardíaco irregular.. BATERIA QUE DURA — Aproveite mais o dia com a bateria de 18 horas de duração. Depois, recarregue até duas vezes mais rápido que no SE 2 e tenha até oito horas de bateria em apenas 15 minutos.. TELA SEMPRE ATIVA — Agora você pode ver as horas e informações úteis sem precisar levantar o pulso.. UM GRANDE PARCEIRO NOS SEUS TREINOS — O SE 3 tem várias maneiras de registrar seus exercícios. Com métricas em tempo real, suar nunca foi tão fácil.. MANTENHA A CONEXÃO — Envie mensagens, atenda chamadas, ouça música e podcasts, use a Siri e receba notificações. O SE 3 (GPS) usa seu iPhone ou Wi-Fi para manter a conexão em qualquer lugar.. RECURSOS DE SEGURANÇA — O SE 3 é capaz de identificar uma queda ou acidente grave de carro, ligar automaticamente para os serviços de resgate e alertar seus contatos de emergência. E o recurso Chegou Bem envia uma notificação automática avisando pessoas próximas ou da família da sua chegada ao destino.. SEU RELÓGIO, DO SEU JEITO — Esbanje personalidade com dezenas de mostradores personalizáveis e uma infinidade de pulseiras em cores, estilos e materiais diferentes."
   }
 ];
