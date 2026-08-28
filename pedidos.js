@@ -49,8 +49,17 @@ window.PEDIDOS = [
     "asin": "B0FQFH5PJS",
     "titulo": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
     "imagem": "https://m.media-amazon.com/images/I/41H4AoY5xbL._AC_SL1000_.jpg",
-    "preco": 2399.0,
+    "preco": 2399,
     "link": "https://www.amazon.com.br/dp/B0FQFH5PJS?tag=mdm0a40-20",
     "descricao": "RECURSOS ESSENCIAIS PARA A SAÚDE — A medição de temperatura mostra informações mais detalhadas no app Sinais Vitais e estimativas de ovulações anteriores. Você também recebe uma pontuação diária da Qualidade de Sono, notificações de apneia do sono e alertas de frequência cardíaca alta ou baixa e de ritmo cardíaco irregular.. BATERIA QUE DURA — Aproveite mais o dia com a bateria de 18 horas de duração. Depois, recarregue até duas vezes mais rápido que no SE 2 e tenha até oito horas de bateria em apenas 15 minutos.. TELA SEMPRE ATIVA — Agora você pode ver as horas e informações úteis sem precisar levantar o pulso.. UM GRANDE PARCEIRO NOS SEUS TREINOS — O SE 3 tem várias maneiras de registrar seus exercícios. Com métricas em tempo real, suar nunca foi tão fácil.. MANTENHA A CONEXÃO — Envie mensagens, atenda chamadas, ouça música e podcasts, use a Siri e receba notificações. O SE 3 (GPS) usa seu iPhone ou Wi-Fi para manter a conexão em qualquer lugar.. RECURSOS DE SEGURANÇA — O SE 3 é capaz de identificar uma queda ou acidente grave de carro, ligar automaticamente para os serviços de resgate e alertar seus contatos de emergência. E o recurso Chegou Bem envia uma notificação automática avisando pessoas próximas ou da família da sua chegada ao destino.. SEU RELÓGIO, DO SEU JEITO — Esbanje personalidade com dezenas de mostradores personalizáveis e uma infinidade de pulseiras em cores, estilos e materiais diferentes."
+  },
+  {
+    "id": "B0755PV4H7",
+    "asin": "B0755PV4H7",
+    "titulo": "Repetidor Wi-Fi TP-Link RE200 Mesh AC750",
+    "imagem": "https://m.media-amazon.com/images/I/41YW+ZyUJoL._AC_SL1000_.jpg",
+    "preco": 170.91,
+    "link": "https://www.amazon.com.br/dp/B0755PV4H7?tag=mdm0a40-20",
+    "descricao": "Aumenta o sinal sem fio para áreas previamente inacessíveis ou difíceis de cabear. Cria uma rede Mesh conectando-se a um roteador OneMeshTM para uma cobertura perfeita para toda a residência. Compatível com dispositivos Wi-Fi 802.11 b/g/n e 802.11ac. Velocidades dual band de até 750 Mbps. O tamanho reduzido e o design de encaixe na parede tornam mais fácil instalar ou mover o produto. A porta Ethernet permite que o Repetidor funcione como um adaptador sem fio para conectar dispositivos com fio. Em caso de dúvidas contate o Suporte técnico TP-Link: suporte.br@tp-link.com (Dúvidas Técnicas) rma.br@tp-link.com (Dúvidas sobre garantia) sac.br@tp-link.com (Críticas e sugestões). Telefone: 4007-2172 (Capitais e regiões metropolitanas), 0800-608-9799 (Demais localidades), 11 2222-1245 (SP) 21 3180-0092 (RJ)."
   }
 ];
