@@ -382,24 +382,33 @@ const AFFILIATE_TAG = "mdm0a40-20";
 
 /* Registro de clique em "Ver oferta" (n8n webhook) */
 function registrarCliqueOferta(asin, pagina) {
-  var payload = JSON.stringify({
+  const dados = new URLSearchParams({
     evento: "ver_oferta",
-    asin: asin,
-    pagina: pagina,
+    asin: asin || "",
+    pagina: pagina || "",
     origem: document.referrer || "direto",
     url_atual: window.location.href,
     data_hora: new Date().toISOString()
   });
-  var blob = new Blob([payload], { type: "application/json" });
+
+  const webhook = "https://adelyn-unmiserly-edison.ngrok-free.dev/webhook/clique-site";
+
   try {
-    navigator.sendBeacon("https://adelyn-unmiserly-edison.ngrok-free.dev/webhook/clique-site", blob);
+    const enviado = navigator.sendBeacon(webhook, dados);
+
+    if (!enviado) {
+      fetch(webhook, {
+        method: "POST",
+        body: dados,
+        keepalive: true
+      }).catch(() => {});
+    }
   } catch (e) {
-    fetch("https://adelyn-unmiserly-edison.ngrok-free.dev/webhook/clique-site", {
+    fetch(webhook, {
       method: "POST",
-      body: payload,
-      headers: { "Content-Type": "application/json" },
+      body: dados,
       keepalive: true
-    }).catch(function() {});
+    }).catch(() => {});
   }
 }
 
