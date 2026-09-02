@@ -39,8 +39,9 @@
 
 - O evento de clique continua funcionando e agora carrega também o link afiliado correspondente ao `href`
 - Nenhum outro comportamento do `index.html` foi alterado intencionalmente
-- Commit e push serão executados após esta validação final, conforme autorização do usuário
+- Commit criado: `4c9b98a Corrige rastreamento do link afiliado`
+- Push concluído com sucesso para `origin/main`
 
 ### Último Ponto Concluído
 
-✅ Alteração de rastreamento aplicada, validada e documentada. Validação final concluída; commit e push autorizados pelo usuário.
+✅ Alteração de rastreamento aplicada, validada, commitada e publicada no GitHub. Último ponto concluído: push de `origin/main` realizado com sucesso.
