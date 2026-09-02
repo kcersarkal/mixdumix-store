@@ -61,5 +61,14 @@ window.PEDIDOS = [
     "preco": 170.91,
     "link": "https://www.amazon.com.br/dp/B0755PV4H7?tag=mdm0a40-20",
     "descricao": "Aumenta o sinal sem fio para áreas previamente inacessíveis ou difíceis de cabear. Cria uma rede Mesh conectando-se a um roteador OneMeshTM para uma cobertura perfeita para toda a residência. Compatível com dispositivos Wi-Fi 802.11 b/g/n e 802.11ac. Velocidades dual band de até 750 Mbps. O tamanho reduzido e o design de encaixe na parede tornam mais fácil instalar ou mover o produto. A porta Ethernet permite que o Repetidor funcione como um adaptador sem fio para conectar dispositivos com fio. Em caso de dúvidas contate o Suporte técnico TP-Link: suporte.br@tp-link.com (Dúvidas Técnicas) rma.br@tp-link.com (Dúvidas sobre garantia) sac.br@tp-link.com (Críticas e sugestões). Telefone: 4007-2172 (Capitais e regiões metropolitanas), 0800-608-9799 (Demais localidades), 11 2222-1245 (SP) 21 3180-0092 (RJ)."
+  },
+  {
+    "id": "B0FRJV1B75",
+    "asin": "B0FRJV1B75",
+    "titulo": "Smart TV 43&#39; LG 43AU801C0SA 4K",
+    "imagem": "https://m.media-amazon.com/images/I/61Q7ZAJGLPL._AC_SL1200_.jpg",
+    "preco": 1604.55,
+    "link": "https://www.amazon.com.br/dp/B0FRJV1B75?tag=mdm0a40-20",
+    "descricao": "Frequencia: 60Hz Nativo. Processador α7 AI Processor 4K Gen8. HDR (High Dynamic Range) HDR10 / HLG. AI Sound α7 AI Sound Pro (Upmixagem Virtual 9.1.2)"
   }
 ];
