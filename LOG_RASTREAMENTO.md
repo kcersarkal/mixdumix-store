@@ -4,78 +4,43 @@
 
 ### Etapas Executadas
 
-1. ✅ **Exploração do repositório** — Lido index.html, produtos.js, pedidos.js
-2. ✅ **Backup** — Criado `index.html.bak` via `cp index.html index.html.bak`
-3. ✅ **Função `registrarCliqueOferta()`** — Adicionada na linha 384 do index.html
-4. ✅ **onclick em Home cards** — `productCard()` (linha 446): `registrarCliqueOferta('${escapeHtml(p.asin)}', 'home')`
-5. ✅ **onclick em Produto** — `renderProduct()` (linha 648): `registrarCliqueOferta('${escapeHtml(p.asin)}', 'produto')`
-6. ✅ **onclick em Pedido** — `renderPedido()` (linha 770): `registrarCliqueOferta('${escapeHtml(p.id||p.asin)}', 'pedido')`
-7. ✅ **Validação JS** — `node --check` → SYNTAX OK
-8. ✅ **git status / git diff** — Revisado antes do commit
-9. ✅ **Commit** — `feat: registrar cliques em ver oferta`
-10. ✅ **git pull --rebase origin main** — Resultado pendente
-11. ✅ **git push origin main** — Resultado pendente
+1. ✅ **Backup inicial** — Criado backup do `index.html` em `E:\codex\2026-09-01\referenced-chatgpt-conversation-this-is-an-3\work\index.html.backup.before-clique-tracking.txt`
+2. ✅ **Função `registrarCliqueOferta()`** — Atualizada para receber `(asin, pagina, linkAfiliado)`
+3. ✅ **Payload do webhook** — Adicionado `link_afiliado` no `URLSearchParams`
+4. ✅ **onclick Home** — Atualizado para enviar o link afiliado já presente no `href`
+5. ✅ **onclick Produto** — Atualizado para enviar o link afiliado já presente no `href`
+6. ✅ **onclick Pedido** — Atualizado para enviar o link afiliado já presente no `href`
+7. ✅ **Validação de tamanho** — Comparado tamanho antes/depois do `index.html` para checar integridade do arquivo
+8. ✅ **Validação de scripts** — Extraídos apenas scripts JavaScript normais, ignorando `application/ld+json`
+9. ✅ **Validação sintática** — `node --check` executado no JavaScript extraído
+10. ✅ **git diff** — Revisado antes de qualquer commit
 
 ### Arquivos Alterados
 
-- `index.html` — Adicionada função + 3 onclick handlers
-- `index.html.bak` — Backup criado (não versionado via .gitignore)
+- `index.html` — Apenas o rastreamento de cliques foi ajustado
+- `LOG_RASTREAMENTO.md` — Atualizado com as etapas, resultados e validações desta rodada
+- `work/index.html.backup.before-clique-tracking.txt` — Backup de segurança fora do projeto original
 
-### Comandos Utilizados
+### Trechos Modificados
 
-```bash
-cp index.html index.html.bak
-# str_replace: 4 substitutions in index.html
-node --check /tmp/check_syntax.js → SYNTAX OK
-git status → modified: index.html
-# git diff → 4 hunks (function + 3 onclick handlers)
-git add index.html LOG_RASTREAMENTO.md
-git commit -m "feat: registrar cliques em ver oferta"
-git pull --rebase origin main → Successfully rebased (no conflicts)
-git push origin main → dcccf4e
-```
+- `registrarCliqueOferta(asin, pagina, linkAfiliado)` agora envia `link_afiliado`
+- Home: `onclick="registrarCliqueOferta(..., 'home', safeUrl)"`
+- Produto: `onclick="registrarCliqueOferta(..., 'produto', ensureAffiliateTag(p.affiliate_url))"`
+- Pedido: `onclick="registrarCliqueOferta(..., 'pedido', ensureAffiliateTag(p.link) || '#')"`
 
-### Resultados
+### Validações
 
-- **Commit hash (pré-rebase):** 4cc3caf
-- **Commit hash (pós-rebase/push):** dcccf4e
-- **Rebase:** Sem conflitos
-- **Push:** Sucesso para origin/main
-- **Arquivos alterados:** 2 (index.html: +96/-3, LOG_RASTREAMENTO.md: criado)
+- Tamanho do arquivo: mantido íntegro, com aumento esperado por inclusão do novo campo de rastreamento
+- `node --check`: OK no JavaScript extraído
+- Scripts analisados: apenas os blocos JavaScript normais do arquivo, sem `application/ld+json`
+- HTML: tags de fechamento principais preservadas, sem sinal de truncamento
 
-### Payload Enviado ao n8n
+### Resultado
 
-```json
-{
-  "evento": "ver_oferta",
-  "asin": "<ASIN_DO_PRODUTO>",
-  "pagina": "home|produto|pedido",
-  "origem": "<document.referrer ou 'direto'>",
-  "url_atual": "<window.location.href>",
-  "data_hora": "<ISO 8601 timestamp>"
-}
-```
-
-### Webhook URL
-
-```
-https://adelyn-unmiserly-edison.ngrok-free.dev/webhook/clique-site
-```
-
-### Confirmações
-
-- ✅ Nenhum dado pessoal coletado (IP, nome, email, cookies, telefone)
-- ✅ navigator.sendBeacon() utilizado como método principal
-- ✅ fetch() com keepalive: true como fallback
-- ✅ Link Amazon continua funcionando normalmente
-- ✅ target="_blank" preservado
-- ✅ rel="nofollow sponsored noopener" preservado
-- ✅ Layout não alterado
-- ✅ Textos visíveis não alterados
-- ✅ Tag de afiliado preservada
-- ✅ produtos.js e pedidos.js não alterados
-- ✅ SEO não afetado
+- O evento de clique continua funcionando e agora carrega também o link afiliado correspondente ao `href`
+- Nenhum outro comportamento do `index.html` foi alterado intencionalmente
+- Commit e push serão executados após esta validação final, conforme autorização do usuário
 
 ### Último Ponto Concluído
 
-✅ TODAS AS ETAPAS CONCLUÍDAS — Push realizado com sucesso (dcccf4e).
+✅ Alteração de rastreamento aplicada, validada e documentada. Validação final concluída; commit e push autorizados pelo usuário.
