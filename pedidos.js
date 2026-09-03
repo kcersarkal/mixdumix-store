@@ -70,5 +70,14 @@ window.PEDIDOS = [
     "preco": 1604.55,
     "link": "https://www.amazon.com.br/dp/B0FRJV1B75?tag=mdm0a40-20",
     "descricao": "Frequencia: 60Hz Nativo. Processador α7 AI Processor 4K Gen8. HDR (High Dynamic Range) HDR10 / HLG. AI Sound α7 AI Sound Pro (Upmixagem Virtual 9.1.2)"
+  },
+  {
+    "id": "B0BL5CSRBM",
+    "asin": "B0BL5CSRBM",
+    "titulo": "Creatina Monohidratada 1Kg - 100% Pura Importada - Soldiers Nutrition",
+    "imagem": "https://m.media-amazon.com/images/I/71uAR2j20vL._AC_SL1500_.jpg",
+    "preco": 68.89,
+    "link": "https://www.amazon.com.br/dp/B0BL5CSRBM?tag=mdm0a40-20",
+    "descricao": "CREATINA MONOHIDRATADA PURA: 5g de creatina por porção, sem excipientes, sem aromatizantes. A forma mais estudada e validada para auxílio no desempenho em exercícios de alta intensidade.. DISSOLUÇÃO RÁPIDA E SEM SABOR RESIDUAL: pó de fina granulação que dissolve em segundos em água, suco ou shake, sem alterar o sabor da bebida. Mistura com qualquer suplemento.. FÓRMULA LIMPA POR DOSE: ingrediente único — creatina monohidratada. Não contém glúten, lactose, açúcar adicionado nem corantes.. MODO DE USO PRÁTICO: misture 1 dosador (5g) em 200-300ml de líquido e consuma 1 vez ao dia. Compatível com protocolo de manutenção ou saturação. Dosador incluso.. QUALIDADE SOLDIERS NUTRITION: fabricado em planta GMP. Tabela nutricional auditada. Suplemento alimentar regularizado conforme normas da Anvisa."
   }
 ];
