@@ -134,6 +134,8 @@ a { text-decoration:none; color:inherit; }
 .btn-whatsapp:hover { background:#1EBE57; transform:translateY(-1px); }
 .btn-copy { background:#1A73E8; color:var(--white); border:none; }
 .btn-copy:hover { background:#1557B0; transform:translateY(-1px); }
+.btn-share { background:var(--white); color:var(--gray-text); border:1.5px solid var(--card-border); font-size:13px; font-weight:600; padding:10px 12px; border-radius:10px; margin-top:8px; }
+.btn-share:hover { border-color:var(--orange); color:var(--orange-dark); transform:translateY(-1px); }
 .product-actions { display:flex; flex-direction:column; gap:10px; margin-bottom:6px; }
 .product-actions-row { display:flex; gap:10px; }
 .product-actions-row .btn { flex:1; }
@@ -172,6 +174,8 @@ a { text-decoration:none; color:inherit; }
 .product-title { font-size:26px; font-weight:800; line-height:1.3; margin:0 0 14px; }
 .product-desc { font-size:15px; line-height:1.7; color:var(--gray-text); margin-bottom:26px; }
 .product-desc h3 { font-size:14px; color:var(--black); margin-bottom:8px; }
+.product-image { background:#FBFAF8; border:1px solid var(--card-border); border-radius:16px; padding:24px; display:flex; align-items:center; justify-content:center; }
+.product-image img { max-height:420px; width:auto; max-width:100%; object-fit:contain; }
 .freshness-note { display:flex; align-items:center; gap:8px; font-size:12px; color:var(--gray-text-light); margin-top:16px; }
 .freshness-note .dot { width:7px; height:7px; border-radius:50%; background:var(--green); }
 
@@ -214,6 +218,7 @@ a { text-decoration:none; color:inherit; }
   .grid { grid-template-columns:repeat(2,1fr); gap:14px; }
   .header-nav { display:none; }
   .card-img { height:150px; }
+  .product-image img { max-height:260px; }
   .card .price-current { font-size:17px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition:none !important; } }
@@ -269,11 +274,6 @@ a { text-decoration:none; color:inherit; }
       <h2>Nenhuma oferta ativa no momento</h2>
       <p>Estamos atualizando nossas ofertas. Volte em breve!</p>
     </div>
-  </section>
-
-  <!-- PRODUTO -->
-  <section data-view="produto">
-    <div id="product-container"></div>
   </section>
 
   <!-- PEDIDOS -->
@@ -423,6 +423,12 @@ function priceNumber(value) {
 }
 function hoursSince(iso) { return (Date.now() - new Date(iso).getTime()) / 36e5; }
 
+function formatPrice(value) {
+  const num = priceNumber(value);
+  if (num === null) return null;
+  return num.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+}
+
 // Camada de segurança: nunca renderiza um link sem a tag correta.
 function ensureAffiliateTag(url) {
   try {
@@ -449,11 +455,13 @@ function getActiveProducts() {
 function productCard(p) {
   const safeUrl = ensureAffiliateTag(p.affiliate_url);
   return `
-    <article class="card"><div class="card-body">
+    <article class="card">
+      <div class="card-body">
         <h3 class="card-title">${escapeHtml(p.title)}</h3>
         <div class="card-footer">
-          <div style="font-size:10px;color:var(--gray-text-light);margin-bottom:5px;">Publicidade</div>
+          <div style="font-size:10px;color:var(--gray-text-light);margin-bottom:8px;">Publicidade</div>
           <a class="btn btn-primary btn-block" href="${escapeHtml(safeUrl)}" target="_blank" rel="nofollow sponsored noopener" onclick="registrarCliqueOferta('${escapeHtml(p.asin)}', 'home', '${escapeHtml(safeUrl)}')">Ver oferta</a>
+          <button type="button" class="btn btn-share btn-block" onclick="compartilharOferta('${escapeHtml(p.asin)}', this)">Compartilhar</button>
         </div>
       </div>
     </article>`;
@@ -489,24 +497,6 @@ function onSearchInput(value) {
   }
 }
 
-function injectProductLD(p) {
-  const existing = document.getElementById("product-ld");
-  if (existing) existing.remove();
-  const ld = {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": p.title,
-    "description": p.title,
-    "sku": p.asin,
-    "mpn": p.asin
-  };
-  const script = document.createElement("script");
-  script.id = "product-ld";
-  script.type = "application/ld+json";
-  script.textContent = JSON.stringify(ld, null, 2);
-  document.head.appendChild(script);
-}
-
 /* ===========================================================
    SEO DINÂMICO (PASSO 3.2) — title, meta description, canonical,
    Open Graph e Twitter Card específicos por página
@@ -535,11 +525,6 @@ function setCanonical(href) {
   const link = document.querySelector('link[rel="canonical"]');
   if (link) link.setAttribute("href", href);
 }
-function removeProductLd() {
-  const el = document.getElementById("product-ld");
-  if (el) el.remove();
-}
-
 // Restaura todas as meta tags da Home (sem tocar no document.title).
 function applyHomeMetas() {
   const desc = document.querySelector('meta[name="description"]');
@@ -555,36 +540,6 @@ function applyHomeMetas() {
   setMetaContent("name", "twitter:title", HOME_SEO.twitterTitle);
   setMetaContent("name", "twitter:description", HOME_SEO.twitterDescription);
   setMetaContent("name", "twitter:image", HOME_SEO.twitterImage);
-  removeProductLd();
-}
-
-// Restaura a Home completa (metas + document.title).
-function applyHomeSeo() {
-  document.title = HOME_SEO.title;
-  applyHomeMetas();
-}
-
-// Truncamento seguro, sem cortar palavra ao meio quando possível.
-function truncateAt(text, max) {
-  const t = String(text).trim().replace(/\s+/g, " ");
-  if (t.length <= max) return t;
-  let cut = t.slice(0, max);
-  const lastSpace = cut.lastIndexOf(" ");
-  if (lastSpace > max * 0.6) cut = cut.slice(0, lastSpace);
-  return cut.replace(/[\s,.;:!?–—-]+$/, "") + "…";
-}
-
-function productSeoTitle(p) {
-  return truncateAt(p.title + " | Mix Du Mix Store", 65);
-}
-function productSeoDescription(p) {
-  return truncateAt("Confira " + p.title + " na Mix Du Mix Store e acesse a oferta disponível para economizar hoje.", 160);
-}
-function productCanonicalUrl(asin) {
-  return window.location.origin + window.location.pathname + "?produto=" + encodeURIComponent(asin);
-}
-function validImageUrl(url) {
-  return typeof url === "string" && /^https?:\/\//i.test(url);
 }
 
 // Escapa texto externo antes de inserir em HTML (anti-XSS).
@@ -604,104 +559,47 @@ function safeHttpUrl(url, fallback) {
   return validImageUrl(url) ? url : (fallback || "");
 }
 
-// Aplica o SEO próprio do produto (title, description, canonical, OG, Twitter).
-function applyProductSeo(p) {
-  const title = productSeoTitle(p);
-  const description = productSeoDescription(p);
-  const canonicalUrl = productCanonicalUrl(p.asin);
-  const image = HOME_SEO.ogImage;
-  document.title = title;
-  const desc = document.querySelector('meta[name="description"]');
-  if (desc) desc.setAttribute("content", description);
-  setCanonical(canonicalUrl);
-  setMetaContent("property", "og:type", "product");
-  setMetaContent("property", "og:title", title);
-  setMetaContent("property", "og:description", description);
-  setMetaContent("property", "og:url", canonicalUrl);
-  setMetaContent("property", "og:image", image);
-  setMetaContent("name", "twitter:card", "summary_large_image");
-  setMetaContent("name", "twitter:title", title);
-  setMetaContent("name", "twitter:description", description);
-  setMetaContent("name", "twitter:image", image);
+function validImageUrl(url) {
+  return typeof url === "string" && /^https?:\/\//i.test(url);
 }
 
-function renderProduct(asin) {
-  const container = document.getElementById("product-container");
-  const products = getActiveProducts();
-  const p = products.find(item => item.asin === asin);
+function compartilharOferta(asin, botao) {
+  const p = getActiveProducts().find(item => item.asin === asin);
+  if (!p) return;
+  const link = ensureAffiliateTag(p.affiliate_url);
+  if (!link) return;
+  abrirCompartilhamento(p.title, link, botao);
+}
 
-  if (!p) {
-    container.innerHTML = `
-      <div class="empty-state">
-        <h2>Essa oferta n\u00e3o est\u00e1 mais dispon\u00edvel</h2>
-        <p>Ela pode ter expirado ou o estoque acabou. Volte para a home e confira outras ofertas ativas.</p>
-        <button class="btn btn-primary" style="margin-top:16px;" onclick="navigate('home')">Ver todas as ofertas</button>
-      </div>`;
-    applyHomeSeo();
+function abrirCompartilhamento(titulo, link, botao) {
+  const texto = titulo + "\n\n" + link;
+  if (navigator.share) {
+    navigator.share({ title: "Mix Du Mix Store", text: texto }).catch(() => {});
     return;
   }
-
-  applyProductSeo(p);
-
-  injectProductLD(p);
-
-  container.innerHTML = `
-    <button class="back-button" onclick="goBack()" aria-label="Voltar">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>
-      Voltar
-    </button>
-    <div class="product-detail">
-      <div class="product-info">
-        <div style="font-size:11px;color:var(--gray-text-light);margin-bottom:6px;">Publicidade</div>
-        <h1 class="product-title">${escapeHtml(p.title)}</h1>
-        <div class="product-actions">
-          <a class="btn btn-primary btn-block" href="${escapeHtml(ensureAffiliateTag(p.affiliate_url))}" target="_blank" rel="nofollow sponsored noopener" onclick="registrarCliqueOferta('${escapeHtml(p.asin)}', 'produto', '${escapeHtml(ensureAffiliateTag(p.affiliate_url))}')">Ver oferta</a>
-          <div class="product-actions-row">
-            <button class="btn btn-whatsapp" onclick="shareWhatsApp('${escapeHtml(p.asin)}')">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.44 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
-              WhatsApp
-            </button>
-            <button class="btn btn-copy" onclick="copyProductLink('${escapeHtml(p.asin)}')">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
-              Copiar link
-            </button>
-          </div>
-        </div>
-        <div class="freshness-note"><span class="dot"></span>Disponibilidade dos produtos pode sofrer alterações a qualquer momento</div>
-        <div class="disclosure" style="margin-top:16px;margin-bottom:0;font-size:12px;"><strong>Links de afiliado:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.</div>
-      </div>
-    </div>`;
+  copiarLinkCompartilhamento(botao, link);
 }
 
-function shareWhatsApp(asin) {
-  const p = getActiveProducts().find(item => item.asin === asin);
-  if (!p) return;
-  const productUrl = `${window.location.origin}${window.location.pathname}?produto=${p.asin}`;
-  const text = `🔥 *${p.title}*\n\n${productUrl}`;
-  window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank");
-}
-
-function copyProductLink(asin) {
-  const p = getActiveProducts().find(item => item.asin === asin);
-  if (!p) return;
-  const productUrl = `${window.location.origin}${window.location.pathname}?produto=${p.asin}`;
-  const btn = event.currentTarget;
-  const original = btn.innerHTML;
+// Fallback para navegadores sem Web Share API: copia o link afiliado e confirma.
+function copiarLinkCompartilhamento(botao, link) {
+  const original = botao ? botao.textContent : "";
+  const confirmar = () => {
+    if (!botao) return;
+    botao.textContent = "✓ Link copiado!";
+    setTimeout(() => { botao.textContent = original; }, 1800);
+  };
   if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(productUrl).then(() => {
-      btn.innerHTML = "✓ Link copiado!";
-      setTimeout(() => { btn.innerHTML = original; }, 1800);
-    }).catch(() => {
-      window.prompt("Copie o link:", productUrl);
+    navigator.clipboard.writeText(link).then(confirmar).catch(() => {
+      window.prompt("Copie o link:", link);
     });
   } else {
-    window.prompt("Copie o link:", productUrl);
+    window.prompt("Copie o link:", link);
   }
 }
 
 function sharePedidoWhatsApp(id) {
   const pedidos = window.PEDIDOS || [];
-  const p = pedidos.find(item => (item.id||item.asin) === id);
+  const p = pedidos.find(item => item.id === id || item.asin === id);
   if (!p) return;
   const productUrl = `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
   const text = `🛒 *${p.titulo}*\n\n${productUrl}`;
@@ -710,7 +608,7 @@ function sharePedidoWhatsApp(id) {
 
 function copyPedidoLink(id) {
   const pedidos = window.PEDIDOS || [];
-  const p = pedidos.find(item => (item.id||item.asin) === id);
+  const p = pedidos.find(item => item.id === id || item.asin === id);
   if (!p) return;
   const productUrl = `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
   const btn = event.currentTarget;
@@ -760,11 +658,14 @@ function renderPedidos() {
 function renderPedido(id) {
   const container = document.getElementById("pedido-container");
   const pedidos = window.PEDIDOS || [];
-  const p = pedidos.find(item => (item.id||item.asin) === id);
+  const p = pedidos.find(item => item.id === id || item.asin === id);
   if (!p) {
     container.innerHTML = `<div class="container" style="padding-top:40px;"><div class="empty-state"><h2>Pedido n\u00e3o encontrado</h2><button class="btn btn-primary" onclick="navigate('pedidos')">Voltar</button></div></div>`;
     return;
   }
+  const preco = formatPrice(p.preco);
+  const linkOferta = ensureAffiliateTag(p.link) || "#";
+  const pid = p.id || p.asin;
   container.innerHTML = `
     <div class="container" style="padding-top:24px;padding-bottom:60px;">
       <button class="back-button" onclick="navigate('pedidos')">
@@ -775,15 +676,16 @@ function renderPedido(id) {
         <div class="product-info">
           <div style="font-size:11px;color:var(--gray-text-light);margin-bottom:6px;">Publicidade</div>
           <h1 class="product-title">${escapeHtml(p.titulo)}</h1>
+          ${preco !== null ? `<div class="price-row" style="margin-bottom:16px;"><span class="price-current">${preco}</span></div>` : ""}
           ${p.descricao ? `<p class="product-desc" style="font-size:14px;line-height:1.6;color:var(--gray-text);margin-bottom:20px;">${escapeHtml(p.descricao)}</p>` : ""}
           <div class="product-actions">
-            <a class="btn btn-primary btn-block" href="${escapeHtml(ensureAffiliateTag(p.link) || "#")}" target="_blank" rel="nofollow sponsored noopener" onclick="registrarCliqueOferta('${escapeHtml(p.id||p.asin)}', 'pedido', '${escapeHtml(ensureAffiliateTag(p.link) || "#")}')">Ver oferta</a>
+            <a class="btn btn-primary btn-block" href="${escapeHtml(linkOferta)}" target="_blank" rel="nofollow sponsored noopener" onclick="registrarCliqueOferta('${escapeHtml(pid)}', 'pedido', '${escapeHtml(linkOferta)}')">Ver oferta</a>
             <div class="product-actions-row">
-              <button class="btn btn-whatsapp" onclick="sharePedidoWhatsApp(this.dataset.pid)" data-pid="${escapeHtml(p.id||p.asin)}">
+              <button class="btn btn-whatsapp" onclick="sharePedidoWhatsApp(this.dataset.pid)" data-pid="${escapeHtml(pid)}">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.44 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 WhatsApp
               </button>
-              <button class="btn btn-copy" onclick="copyPedidoLink(this.dataset.pid)" data-pid="${escapeHtml(p.id||p.asin)}">
+              <button class="btn btn-copy" onclick="copyPedidoLink(this.dataset.pid)" data-pid="${escapeHtml(pid)}">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
                 Copiar link
               </button>
@@ -798,37 +700,26 @@ function renderPedido(id) {
 
 function toggleMenu() { document.getElementById('mobile-menu').classList.toggle('open'); }
 
-// Navegação SPA simples (sem recarregar pígina, sem precisar de servidor)
-let previousMainView = "home"; // guarda a última pígina visitada (não-produto)
+// Navegação SPA simples (sem recarregar a página, sem precisar de servidor)
+// Rotas: ?pedido=ID (página individual do Pedido) e ?view=... (views estáticas).
 
-function goBack() {
-  navigate(previousMainView);
-}
-      
-// Destino normalizado da URL atual (mesma lógica do roteador: produto > pedido > view > home).
+// Destino normalizado da URL atual (mesma lógica do roteador: pedido > view > home).
 function currentRoute() {
   const params = new URLSearchParams(window.location.search);
-  const produtoAsin = params.get("produto");
-  if (produtoAsin) return { view: "produto", id: produtoAsin };
   const pedidoId = params.get("pedido");
   if (pedidoId) return { view: "pedido", id: pedidoId };
   const view = params.get("view");
   if (view && STATIC_VIEWS.includes(view)) return { view: view };
   return { view: "home" };
 }
-      function navigate(view, id, replace) {
-  if (view !== "produto" && view !== "pedido") {
-    previousMainView = view;
-  }
+
+function navigate(view, id, replace) {
   let url;
   let state = { view: view };
-  if (view === "produto" && id) {
-    url = "?produto=" + id;
-    state = { view: "produto", asin: id };
-  } else if (view === "pedido" && id) {
+  if (view === "pedido" && id) {
     url = "?pedido=" + id;
     state = { view: "pedido", id: id };
-  } else if (view === "home" || view === "produto" || view === "pedido") {
+  } else if (view === "home" || view === "pedido") {
     url = window.location.pathname;
   } else {
     url = "?view=" + view;
@@ -847,30 +738,27 @@ function currentRoute() {
 
 function showView(view, id) {
   document.querySelectorAll("[data-view]").forEach(el => el.classList.remove("active"));
-  document.querySelector(`[data-view="${view}"]`).classList.add("active");
+  const target = document.querySelector(`[data-view="${view}"]`);
+  if (target) target.classList.add("active");
   document.querySelectorAll(".header-nav a").forEach(a => a.classList.remove("current"));
   let navMatch = view;
-  if (view === "produto") navMatch = "home";
-  else if (view === "pedido") navMatch = "pedidos";
+  if (view === "pedido") navMatch = "pedidos";
   const navEl = document.querySelector(`.header-nav a[data-nav-view="${navMatch}"]`);
   if (navEl) navEl.classList.add("current");
-  if (view === "produto") {
-    renderProduct(id);
+  if (view === "pedido") {
+    renderPedido(id);
+    document.title = "Pedido - Mix Du Mix Store";
+  } else if (view === "pedidos") {
+    renderPedidos();
+    document.title = "Pedidos - Mix Du Mix Store";
   } else {
-    if (view === "pedido") {
-      renderPedido(id);
-      document.title = "Pedido - Mix Du Mix Store";
-    } else if (view === "pedidos") {
-      renderPedidos();
-      document.title = "Pedidos - Mix Du Mix Store";
-    } else {
-      document.title = view === "home" ? HOME_SEO.title : `${view[0].toUpperCase()+view.slice(1)} - Mix Du Mix Store`;
-    }
-    applyHomeMetas();
-    // Views institucionais indexaveis (presentes no sitemap): canonical proprio.
-    if (view === "sobre" || view === "contato" || view === "privacidade") {
-      setCanonical(window.location.origin + window.location.pathname + "?view=" + view);
-    }
+    if (view === "home") renderHome();
+    document.title = view === "home" ? HOME_SEO.title : view[0].toUpperCase() + view.slice(1) + " - Mix Du Mix Store";
+  }
+  applyHomeMetas();
+  // Views institucionais indexáveis (presentes no sitemap): canonical próprio.
+  if (view === "sobre" || view === "contato" || view === "privacidade") {
+    setCanonical(window.location.origin + window.location.pathname + "?view=" + view);
   }
   window.scrollTo({ top: 0, behavior: "instant" });
 }
@@ -880,8 +768,6 @@ const STATIC_VIEWS = ["home", "sobre", "contato", "privacidade", "pedidos"];
 
 function routeFromInitialUrl(replace) {
   const params = new URLSearchParams(window.location.search);
-  const produtoAsin = params.get("produto");
-  if (produtoAsin) { navigate("produto", produtoAsin, replace); return; }
   const pedidoId = params.get("pedido");
   if (pedidoId) { navigate("pedido", pedidoId, replace); return; }
   const view = params.get("view");
