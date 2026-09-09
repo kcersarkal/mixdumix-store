@@ -79,5 +79,14 @@ window.PEDIDOS = [
     "preco": 68.89,
     "link": "https://www.amazon.com.br/dp/B0BL5CSRBM?tag=mdm0a40-20",
     "descricao": "CREATINA MONOHIDRATADA PURA: 5g de creatina por porção, sem excipientes, sem aromatizantes. A forma mais estudada e validada para auxílio no desempenho em exercícios de alta intensidade.. DISSOLUÇÃO RÁPIDA E SEM SABOR RESIDUAL: pó de fina granulação que dissolve em segundos em água, suco ou shake, sem alterar o sabor da bebida. Mistura com qualquer suplemento.. FÓRMULA LIMPA POR DOSE: ingrediente único — creatina monohidratada. Não contém glúten, lactose, açúcar adicionado nem corantes.. MODO DE USO PRÁTICO: misture 1 dosador (5g) em 200-300ml de líquido e consuma 1 vez ao dia. Compatível com protocolo de manutenção ou saturação. Dosador incluso.. QUALIDADE SOLDIERS NUTRITION: fabricado em planta GMP. Tabela nutricional auditada. Suplemento alimentar regularizado conforme normas da Anvisa."
+  },
+  {
+    "id": "B0DCM31SDG",
+    "asin": "B0DCM31SDG",
+    "titulo": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110V",
+    "imagem": "https://m.media-amazon.com/images/I/41z7d-LlVEL._AC_SL1000_.jpg",
+    "preco": null,
+    "link": "https://www.amazon.com.br/dp/B0DCM31SDG?tag=mdm0a40-20",
+    "descricao": "Compacto e versátil: para usar em qualquer lugar. 2000 Watts de potência no total. 5 ajustes de temperatura. Compatível com todos os tipos de panela. Chapa em ferro fundido: aquece mais rápido e mantém a temperatura"
   }
 ];
