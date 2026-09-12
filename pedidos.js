@@ -6,8 +6,11 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/416nfzkCKsL._AC_SL1000_.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0FVP6KRP4?tag=mdm0a40-20",
-    "descricao": "A Geladeira. Electrolux. Frost. Duplex",
-    "source_url": "https://www.amazon.com.br/dp/B0FVP6KRP4"
+    "descricao": "A Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V traz a exclusiva Gaveta HortiFruti, ideal para organizar e manter frutas e legumes frescos por mais tempo. Seu design robusto oferece a função Turbo Freezer para resfriamento rápido, além de iluminação interna de LED que proporciona visão clara do interior e economia de energia. Para maior conveniência no dia a dia, o modelo conta ainda com bandeja para até 12 ovos e forma de gelo com capacidade para 30 cubos.",
+    "source_url": "https://www.amazon.com.br/dp/B0FVP6KRP4",
+    "descricao_original": "A Geladeira. Electrolux. Frost. Duplex",
+    "descricao_profissional": "A Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V traz a exclusiva Gaveta HortiFruti, ideal para organizar e manter frutas e legumes frescos por mais tempo. Seu design robusto oferece a função Turbo Freezer para resfriamento rápido, além de iluminação interna de LED que proporciona visão clara do interior e economia de energia. Para maior conveniência no dia a dia, o modelo conta ainda com bandeja para até 12 ovos e forma de gelo com capacidade para 30 cubos.",
+    "descricao_gerada_em": "2026-09-12T03:43:01.333214+00:00"
   },
   {
     "id": "B0GYGFRXSY",
