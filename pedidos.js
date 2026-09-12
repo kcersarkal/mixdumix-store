@@ -6,7 +6,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/416nfzkCKsL._AC_SL1000_.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0FVP6KRP4?tag=mdm0a40-20",
-    "descricao": "A Geladeira. Electrolux. Frost. Duplex"
+    "descricao": "A Geladeira. Electrolux. Frost. Duplex",
+    "source_url": "https://www.amazon.com.br/dp/B0FVP6KRP4"
   },
   {
     "id": "B0GYGFRXSY",
@@ -15,7 +16,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/4186msR6oaL._AC_SL1000_.jpg",
     "preco": 279.91,
     "link": "https://www.amazon.com.br/dp/B0GYGFRXSY?tag=mdm0a40-20",
-    "descricao": "Capacidade de 8L. Se sua família é grande, sua Air Fryer também precisa ser.. A Octo Fry da Elgin chega para transformar sua rotina na cozinha, garantindo porções generosas para todos, seja nos almoços em família ou nos encontros com os amigos.. Com capacidade total de 8 litros e 1.800W de potência, é prática e econômica.. Sua tecnologia exclusiva, Air Circuit 360º, permite que o ar quente seja distribuído em espiral, resultando em refeições mais saudáveis, com até 80% menos gordura."
+    "descricao": "Capacidade de 8L. Se sua família é grande, sua Air Fryer também precisa ser.. A Octo Fry da Elgin chega para transformar sua rotina na cozinha, garantindo porções generosas para todos, seja nos almoços em família ou nos encontros com os amigos.. Com capacidade total de 8 litros e 1.800W de potência, é prática e econômica.. Sua tecnologia exclusiva, Air Circuit 360º, permite que o ar quente seja distribuído em espiral, resultando em refeições mais saudáveis, com até 80% menos gordura.",
+    "source_url": "https://www.amazon.com.br/dp/B0GYGFRXSY"
   },
   {
     "id": "B0FJMHMCBZ",
@@ -24,7 +26,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/51BmQ8K9sML._AC_SL1000_.jpg",
     "preco": 125.9,
     "link": "https://www.amazon.com.br/dp/B0FJMHMCBZ?tag=mdm0a40-20",
-    "descricao": "MODO EXTRA BASS. Sinta toda a potência das suas músicas favoritas com o modo Extra Bass, que você ativa facilmente pressionando duas vezes o botão no fone. O isolamento passivo eficiente bloqueia ruídos externos, permitindo curtir cada batida com máxima intensidade.. 55 HORAS DE BATERIA. Curta por até 55 horas suas playlists completas sem precisar recarregar. E quando precisar, basta usar o cabo USB-C para recarregar e em apenas 2 horas você já tem a carga completa para curtir mais uma maratona musical.. SOM POTENTE COM ASSINATURA PHILIPS. Drivers grandes e especialmente ajustados oferecem áudio detalhado, graves profundos e equilíbrio sonoro, garantindo qualidade superior e a assinatura exclusiva Philips para uma experiência musical única e envolvente.. FÁCIL DE TRANSPORTAR. Leve seu headphone Philips para qualquer lugar com facilidade. O design dobrável deixa as conchas planas, facilitando o armazenamento em bolsas ou mochilas.. CONFORTO PROLONGADO COM DESIGN OVER-EAR. Com arco acolchoado, conchas ajustáveis e formato over-ear, o headphone garante maciez, ergonomia e isolamento acústico passivo, oferecendo conforto duradouro e redução natural de ruídos externos."
+    "descricao": "MODO EXTRA BASS. Sinta toda a potência das suas músicas favoritas com o modo Extra Bass, que você ativa facilmente pressionando duas vezes o botão no fone. O isolamento passivo eficiente bloqueia ruídos externos, permitindo curtir cada batida com máxima intensidade.. 55 HORAS DE BATERIA. Curta por até 55 horas suas playlists completas sem precisar recarregar. E quando precisar, basta usar o cabo USB-C para recarregar e em apenas 2 horas você já tem a carga completa para curtir mais uma maratona musical.. SOM POTENTE COM ASSINATURA PHILIPS. Drivers grandes e especialmente ajustados oferecem áudio detalhado, graves profundos e equilíbrio sonoro, garantindo qualidade superior e a assinatura exclusiva Philips para uma experiência musical única e envolvente.. FÁCIL DE TRANSPORTAR. Leve seu headphone Philips para qualquer lugar com facilidade. O design dobrável deixa as conchas planas, facilitando o armazenamento em bolsas ou mochilas.. CONFORTO PROLONGADO COM DESIGN OVER-EAR. Com arco acolchoado, conchas ajustáveis e formato over-ear, o headphone garante maciez, ergonomia e isolamento acústico passivo, oferecendo conforto duradouro e redução natural de ruídos externos.",
+    "source_url": "https://www.amazon.com.br/dp/B0FJMHMCBZ"
   },
   {
     "id": "B0FPT7HB8G",
@@ -33,7 +36,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/6163J3IhSwL._AC_SL1200_.jpg",
     "preco": 96.79,
     "link": "https://www.amazon.com.br/dp/B0FPT7HB8G?tag=mdm0a40-20",
-    "descricao": "O Carrinho Organizador Multiuso 3 Prateleiras da Brinqlar chegou para transformar a forma como você organiza seus espaços.. Seja na cozinha, no escritório, no banheiro ou até mesmo no seu ateliê, esse carrinho oferece praticidade e elegância em qualquer ambiente.. Dimensões aproximadas (AxLxC): 86cm x 36cm x 43cm.. Capacidade: Cada cesto suporta até 5kg.. Base: Equipada com 4 Rodas Resistentes"
+    "descricao": "O Carrinho Organizador Multiuso 3 Prateleiras da Brinqlar chegou para transformar a forma como você organiza seus espaços.. Seja na cozinha, no escritório, no banheiro ou até mesmo no seu ateliê, esse carrinho oferece praticidade e elegância em qualquer ambiente.. Dimensões aproximadas (AxLxC): 86cm x 36cm x 43cm.. Capacidade: Cada cesto suporta até 5kg.. Base: Equipada com 4 Rodas Resistentes",
+    "source_url": "https://www.amazon.com.br/dp/B0FPT7HB8G"
   },
   {
     "id": "B0DVMQVVDY",
@@ -42,7 +46,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/519bjoeFBTL._AC_SL1000_.jpg",
     "preco": 99.99,
     "link": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=mdm0a40-20",
-    "descricao": "CONEXÃO BLUETOOTH ESTÁVEL. Tecnologia avançada que garante transmissão contínua sem interrupções. Perfeita para músicas e podcasts com qualidade de áudio superior.. DURAÇÃO DE ATÉ 24 HORAS. Aproveite até 6h de reprodução nos fones e 18h extras no estojo power bank. Carregamento rápido USB-C: 15 minutos para 1 hora extra de uso, mantendo suas músicas sempre com você.. RESISTÊNCIA IPX4 E DESIGN COMPACTO. Resistente a suor, respingos e chuva. Estojo compacto para carregamento e proteção. Ideal para treinos e atividades ao ar livre.. CHAMADAS MAIS NÍTIDAS. Microfone dedicado com tecnologia de redução de ruído elimina interferências, garantindo comunicações claras em qualquer tipo de ambiente.. SOM DE ALTA QUALIDADE COM GRAVES PROFUNDOS. Drivers de 10mm com graves potentes e som equilibrado, garantindo a assinatura sonora Philips em todos os seus conteúdos."
+    "descricao": "CONEXÃO BLUETOOTH ESTÁVEL. Tecnologia avançada que garante transmissão contínua sem interrupções. Perfeita para músicas e podcasts com qualidade de áudio superior.. DURAÇÃO DE ATÉ 24 HORAS. Aproveite até 6h de reprodução nos fones e 18h extras no estojo power bank. Carregamento rápido USB-C: 15 minutos para 1 hora extra de uso, mantendo suas músicas sempre com você.. RESISTÊNCIA IPX4 E DESIGN COMPACTO. Resistente a suor, respingos e chuva. Estojo compacto para carregamento e proteção. Ideal para treinos e atividades ao ar livre.. CHAMADAS MAIS NÍTIDAS. Microfone dedicado com tecnologia de redução de ruído elimina interferências, garantindo comunicações claras em qualquer tipo de ambiente.. SOM DE ALTA QUALIDADE COM GRAVES PROFUNDOS. Drivers de 10mm com graves potentes e som equilibrado, garantindo a assinatura sonora Philips em todos os seus conteúdos.",
+    "source_url": "https://www.amazon.com.br/dp/B0DVMQVVDY"
   },
   {
     "id": "B0FQFH5PJS",
@@ -51,7 +56,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/41H4AoY5xbL._AC_SL1000_.jpg",
     "preco": 2399,
     "link": "https://www.amazon.com.br/dp/B0FQFH5PJS?tag=mdm0a40-20",
-    "descricao": "RECURSOS ESSENCIAIS PARA A SAÚDE — A medição de temperatura mostra informações mais detalhadas no app Sinais Vitais e estimativas de ovulações anteriores. Você também recebe uma pontuação diária da Qualidade de Sono, notificações de apneia do sono e alertas de frequência cardíaca alta ou baixa e de ritmo cardíaco irregular.. BATERIA QUE DURA — Aproveite mais o dia com a bateria de 18 horas de duração. Depois, recarregue até duas vezes mais rápido que no SE 2 e tenha até oito horas de bateria em apenas 15 minutos.. TELA SEMPRE ATIVA — Agora você pode ver as horas e informações úteis sem precisar levantar o pulso.. UM GRANDE PARCEIRO NOS SEUS TREINOS — O SE 3 tem várias maneiras de registrar seus exercícios. Com métricas em tempo real, suar nunca foi tão fácil.. MANTENHA A CONEXÃO — Envie mensagens, atenda chamadas, ouça música e podcasts, use a Siri e receba notificações. O SE 3 (GPS) usa seu iPhone ou Wi-Fi para manter a conexão em qualquer lugar.. RECURSOS DE SEGURANÇA — O SE 3 é capaz de identificar uma queda ou acidente grave de carro, ligar automaticamente para os serviços de resgate e alertar seus contatos de emergência. E o recurso Chegou Bem envia uma notificação automática avisando pessoas próximas ou da família da sua chegada ao destino.. SEU RELÓGIO, DO SEU JEITO — Esbanje personalidade com dezenas de mostradores personalizáveis e uma infinidade de pulseiras em cores, estilos e materiais diferentes."
+    "descricao": "RECURSOS ESSENCIAIS PARA A SAÚDE — A medição de temperatura mostra informações mais detalhadas no app Sinais Vitais e estimativas de ovulações anteriores. Você também recebe uma pontuação diária da Qualidade de Sono, notificações de apneia do sono e alertas de frequência cardíaca alta ou baixa e de ritmo cardíaco irregular.. BATERIA QUE DURA — Aproveite mais o dia com a bateria de 18 horas de duração. Depois, recarregue até duas vezes mais rápido que no SE 2 e tenha até oito horas de bateria em apenas 15 minutos.. TELA SEMPRE ATIVA — Agora você pode ver as horas e informações úteis sem precisar levantar o pulso.. UM GRANDE PARCEIRO NOS SEUS TREINOS — O SE 3 tem várias maneiras de registrar seus exercícios. Com métricas em tempo real, suar nunca foi tão fácil.. MANTENHA A CONEXÃO — Envie mensagens, atenda chamadas, ouça música e podcasts, use a Siri e receba notificações. O SE 3 (GPS) usa seu iPhone ou Wi-Fi para manter a conexão em qualquer lugar.. RECURSOS DE SEGURANÇA — O SE 3 é capaz de identificar uma queda ou acidente grave de carro, ligar automaticamente para os serviços de resgate e alertar seus contatos de emergência. E o recurso Chegou Bem envia uma notificação automática avisando pessoas próximas ou da família da sua chegada ao destino.. SEU RELÓGIO, DO SEU JEITO — Esbanje personalidade com dezenas de mostradores personalizáveis e uma infinidade de pulseiras em cores, estilos e materiais diferentes.",
+    "source_url": "https://www.amazon.com.br/dp/B0FQFH5PJS"
   },
   {
     "id": "B0755PV4H7",
@@ -60,7 +66,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/41YW+ZyUJoL._AC_SL1000_.jpg",
     "preco": 170.91,
     "link": "https://www.amazon.com.br/dp/B0755PV4H7?tag=mdm0a40-20",
-    "descricao": "Aumenta o sinal sem fio para áreas previamente inacessíveis ou difíceis de cabear. Cria uma rede Mesh conectando-se a um roteador OneMeshTM para uma cobertura perfeita para toda a residência. Compatível com dispositivos Wi-Fi 802.11 b/g/n e 802.11ac. Velocidades dual band de até 750 Mbps. O tamanho reduzido e o design de encaixe na parede tornam mais fácil instalar ou mover o produto. A porta Ethernet permite que o Repetidor funcione como um adaptador sem fio para conectar dispositivos com fio. Em caso de dúvidas contate o Suporte técnico TP-Link: suporte.br@tp-link.com (Dúvidas Técnicas) rma.br@tp-link.com (Dúvidas sobre garantia) sac.br@tp-link.com (Críticas e sugestões). Telefone: 4007-2172 (Capitais e regiões metropolitanas), 0800-608-9799 (Demais localidades), 11 2222-1245 (SP) 21 3180-0092 (RJ)."
+    "descricao": "Aumenta o sinal sem fio para áreas previamente inacessíveis ou difíceis de cabear. Cria uma rede Mesh conectando-se a um roteador OneMeshTM para uma cobertura perfeita para toda a residência. Compatível com dispositivos Wi-Fi 802.11 b/g/n e 802.11ac. Velocidades dual band de até 750 Mbps. O tamanho reduzido e o design de encaixe na parede tornam mais fácil instalar ou mover o produto. A porta Ethernet permite que o Repetidor funcione como um adaptador sem fio para conectar dispositivos com fio. Em caso de dúvidas contate o Suporte técnico TP-Link: suporte.br@tp-link.com (Dúvidas Técnicas) rma.br@tp-link.com (Dúvidas sobre garantia) sac.br@tp-link.com (Críticas e sugestões). Telefone: 4007-2172 (Capitais e regiões metropolitanas), 0800-608-9799 (Demais localidades), 11 2222-1245 (SP) 21 3180-0092 (RJ).",
+    "source_url": "https://www.amazon.com.br/dp/B0755PV4H7"
   },
   {
     "id": "B0FRJV1B75",
@@ -69,7 +76,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/61Q7ZAJGLPL._AC_SL1200_.jpg",
     "preco": 1604.55,
     "link": "https://www.amazon.com.br/dp/B0FRJV1B75?tag=mdm0a40-20",
-    "descricao": "Frequencia: 60Hz Nativo. Processador α7 AI Processor 4K Gen8. HDR (High Dynamic Range) HDR10 / HLG. AI Sound α7 AI Sound Pro (Upmixagem Virtual 9.1.2)"
+    "descricao": "Frequencia: 60Hz Nativo. Processador α7 AI Processor 4K Gen8. HDR (High Dynamic Range) HDR10 / HLG. AI Sound α7 AI Sound Pro (Upmixagem Virtual 9.1.2)",
+    "source_url": "https://www.amazon.com.br/dp/B0FRJV1B75"
   },
   {
     "id": "B0BL5CSRBM",
@@ -78,7 +86,8 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/71uAR2j20vL._AC_SL1500_.jpg",
     "preco": 68.89,
     "link": "https://www.amazon.com.br/dp/B0BL5CSRBM?tag=mdm0a40-20",
-    "descricao": "CREATINA MONOHIDRATADA PURA: 5g de creatina por porção, sem excipientes, sem aromatizantes. A forma mais estudada e validada para auxílio no desempenho em exercícios de alta intensidade.. DISSOLUÇÃO RÁPIDA E SEM SABOR RESIDUAL: pó de fina granulação que dissolve em segundos em água, suco ou shake, sem alterar o sabor da bebida. Mistura com qualquer suplemento.. FÓRMULA LIMPA POR DOSE: ingrediente único — creatina monohidratada. Não contém glúten, lactose, açúcar adicionado nem corantes.. MODO DE USO PRÁTICO: misture 1 dosador (5g) em 200-300ml de líquido e consuma 1 vez ao dia. Compatível com protocolo de manutenção ou saturação. Dosador incluso.. QUALIDADE SOLDIERS NUTRITION: fabricado em planta GMP. Tabela nutricional auditada. Suplemento alimentar regularizado conforme normas da Anvisa."
+    "descricao": "CREATINA MONOHIDRATADA PURA: 5g de creatina por porção, sem excipientes, sem aromatizantes. A forma mais estudada e validada para auxílio no desempenho em exercícios de alta intensidade.. DISSOLUÇÃO RÁPIDA E SEM SABOR RESIDUAL: pó de fina granulação que dissolve em segundos em água, suco ou shake, sem alterar o sabor da bebida. Mistura com qualquer suplemento.. FÓRMULA LIMPA POR DOSE: ingrediente único — creatina monohidratada. Não contém glúten, lactose, açúcar adicionado nem corantes.. MODO DE USO PRÁTICO: misture 1 dosador (5g) em 200-300ml de líquido e consuma 1 vez ao dia. Compatível com protocolo de manutenção ou saturação. Dosador incluso.. QUALIDADE SOLDIERS NUTRITION: fabricado em planta GMP. Tabela nutricional auditada. Suplemento alimentar regularizado conforme normas da Anvisa.",
+    "source_url": "https://www.amazon.com.br/dp/B0BL5CSRBM"
   },
   {
     "id": "B0DCM31SDG",
@@ -87,6 +96,7 @@ window.PEDIDOS = [
     "imagem": "https://m.media-amazon.com/images/I/41z7d-LlVEL._AC_SL1000_.jpg",
     "preco": null,
     "link": "https://www.amazon.com.br/dp/B0DCM31SDG?tag=mdm0a40-20",
-    "descricao": "Compacto e versátil: para usar em qualquer lugar. 2000 Watts de potência no total. 5 ajustes de temperatura. Compatível com todos os tipos de panela. Chapa em ferro fundido: aquece mais rápido e mantém a temperatura"
+    "descricao": "Compacto e versátil: para usar em qualquer lugar. 2000 Watts de potência no total. 5 ajustes de temperatura. Compatível com todos os tipos de panela. Chapa em ferro fundido: aquece mais rápido e mantém a temperatura",
+    "source_url": "https://www.amazon.com.br/dp/B0DCM31SDG"
   }
 ];
