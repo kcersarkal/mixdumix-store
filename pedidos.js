@@ -101,5 +101,14 @@ window.PEDIDOS = [
     "link": "https://www.amazon.com.br/dp/B0DCM31SDG?tag=mdm0a40-20",
     "descricao": "Compacto e versátil: para usar em qualquer lugar. 2000 Watts de potência no total. 5 ajustes de temperatura. Compatível com todos os tipos de panela. Chapa em ferro fundido: aquece mais rápido e mantém a temperatura",
     "source_url": "https://www.amazon.com.br/dp/B0DCM31SDG"
+  },
+  {
+    "id": "B0GLTJ4MYM",
+    "asin": "B0GLTJ4MYM",
+    "titulo": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
+    "imagem": "https://m.media-amazon.com/images/I/615ojDU7zSL._AC_SL1200_.jpg",
+    "preco": 2249.1,
+    "link": "https://www.amazon.com.br/dp/B0GLTJ4MYM?tag=mdm0a40-20",
+    "descricao": "O smartphone mais fino e ultrarresistente da categoria*. Com apenas 5,99 mm e 159g, o Edge 70 combina leveza e sofisticação com estrutura em alumínio aeroespacial.. A proteção Gorilla Glass 7i oferece 2x mais resistência a quedas e arranhões, enquanto IP68/IP69 e MIL-STD-810H* garantem mais resistência sua rotina.. Registre seus melhores momentos com três câmeras de 50 MP, incluindo câmera principal com OIS e tecnologia Ultra Pixel. Capture fotos mais vibrantes e estáveis e grave vídeos em 4K.. A bateria de 4.800 mAh com tecnologia Silício-Carbono oferece grande autonomia em um design ultrafino. Com TurboPower 68w, você garante bateria para o dia todo em apenas 15 minutos* e ainda conta com carregamento sem fio de até 15 W.. A tela Extreme AMOLED de 6,7” 1.5K Super HD, com até 4.500 nits, 120 Hz e Pantone Validated, entrega cores fiéis e movimentos fluidos.. O processador Snapdragon 7 Gen 4 com 256 GB de armazenamento, garante agilidade para apps, jogos e multitarefas."
   }
 ];
