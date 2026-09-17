@@ -119,5 +119,14 @@ window.PEDIDOS = [
     "preco": 26.5,
     "link": "https://www.amazon.com.br/dp/B0CVSJFMFN?tag=mdm0a40-20",
     "descricao": "Sabor tradicional brasileiro com amendoim de qualidade: Paçoca rolha produzida com amendoim torrado e moído, oferecendo sabor marcante, textura macia e aquele gostinho clássico das festas juninas que agrada todas as idades.. Embaladas individualmente para maior praticidade: Contém 100 unidades de 15g embaladas individualmente, ideal para consumo diário, compartilhar, montar kits, lembrancinhas e facilitar a revenda.. Ideal para festas, eventos e revenda: Perfeita para mesas de doces, festas juninas, escolas, comércios, padarias, restaurantes, lanchonetes e lojas de conveniência.. Produto fresco direto da fábrica: A Doces Ricco trabalha com mercadorias frescas e produção constante, garantindo mais qualidade, sabor e excelente experiência ao consumidor.. Marca reconhecida pela tradição e qualidade: A Doces Ricco é referência no mercado de doces tradicionais, oferecendo produtos com excelente padrão de qualidade e sabor autêntico brasileiro."
+  },
+  {
+    "id": "B0GS79683R",
+    "asin": "B0GS79683R",
+    "titulo": "Kit Doces Aniversário Sacolinha Surpresa para aprox. 25 Crianças - KIT distribuidora pão de mel",
+    "imagem": "https://m.media-amazon.com/images/I/81fjoB4xMUL._AC_SL1254_.jpg",
+    "preco": 89.99,
+    "link": "https://www.amazon.com.br/dp/B0GS79683R?tag=mdm0a40-20",
+    "descricao": "Produtos de Qualidade: Doces de marcas conhecidas e de alta aceitação no mercado. Armazenamento Adequado: Estoque sempre fresco e bem armazenado para garantir a qualidade dos produtos. Variedade de Sabores: Mix variado de doces populares que agradam crianças e adultos. Dipnlik Incluído: 1 caixa de Dipnlik com 25 unidades para distribuição. Pirulitos Decorativos: 1 pacote de Pirulito Baby Coração Mini com aproximadamente 50 unidades. Pingo de Leite: 1 pote de Pingo de Leite biba com aproximadamente 50 unidades. Balas Sortidas: 1 pacote de Bala de Frutas Sortidas Trink com aproximadamente 90 unidades. Composição do Kit: O kit é composto apenas pelos doces descritos na listagem do produto"
   }
 ];
