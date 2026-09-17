@@ -110,5 +110,14 @@ window.PEDIDOS = [
     "preco": 2249.1,
     "link": "https://www.amazon.com.br/dp/B0GLTJ4MYM?tag=mdm0a40-20",
     "descricao": "O smartphone mais fino e ultrarresistente da categoria*. Com apenas 5,99 mm e 159g, o Edge 70 combina leveza e sofisticação com estrutura em alumínio aeroespacial.. A proteção Gorilla Glass 7i oferece 2x mais resistência a quedas e arranhões, enquanto IP68/IP69 e MIL-STD-810H* garantem mais resistência sua rotina.. Registre seus melhores momentos com três câmeras de 50 MP, incluindo câmera principal com OIS e tecnologia Ultra Pixel. Capture fotos mais vibrantes e estáveis e grave vídeos em 4K.. A bateria de 4.800 mAh com tecnologia Silício-Carbono oferece grande autonomia em um design ultrafino. Com TurboPower 68w, você garante bateria para o dia todo em apenas 15 minutos* e ainda conta com carregamento sem fio de até 15 W.. A tela Extreme AMOLED de 6,7” 1.5K Super HD, com até 4.500 nits, 120 Hz e Pantone Validated, entrega cores fiéis e movimentos fluidos.. O processador Snapdragon 7 Gen 4 com 256 GB de armazenamento, garante agilidade para apps, jogos e multitarefas."
+  },
+  {
+    "id": "B0CVSJFMFN",
+    "asin": "B0CVSJFMFN",
+    "titulo": "Paçoca Rolha Riquita Ricco 1,5kg com 100 Unidades de 15g",
+    "imagem": "https://m.media-amazon.com/images/I/610SBxnw1SL._AC_SL1500_.jpg",
+    "preco": 26.5,
+    "link": "https://www.amazon.com.br/dp/B0CVSJFMFN?tag=mdm0a40-20",
+    "descricao": "Sabor tradicional brasileiro com amendoim de qualidade: Paçoca rolha produzida com amendoim torrado e moído, oferecendo sabor marcante, textura macia e aquele gostinho clássico das festas juninas que agrada todas as idades.. Embaladas individualmente para maior praticidade: Contém 100 unidades de 15g embaladas individualmente, ideal para consumo diário, compartilhar, montar kits, lembrancinhas e facilitar a revenda.. Ideal para festas, eventos e revenda: Perfeita para mesas de doces, festas juninas, escolas, comércios, padarias, restaurantes, lanchonetes e lojas de conveniência.. Produto fresco direto da fábrica: A Doces Ricco trabalha com mercadorias frescas e produção constante, garantindo mais qualidade, sabor e excelente experiência ao consumidor.. Marca reconhecida pela tradição e qualidade: A Doces Ricco é referência no mercado de doces tradicionais, oferecendo produtos com excelente padrão de qualidade e sabor autêntico brasileiro."
   }
 ];
