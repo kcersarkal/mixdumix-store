@@ -146,5 +146,14 @@ window.PEDIDOS = [
     "preco": 93.9,
     "link": "https://www.amazon.com.br/dp/B096YGN1QF?tag=mdm0a40-20",
     "descricao": "+9 anos. Fácil de transportar. Em MDF. Acompanha 2 bolas. Para brincar com a família e amigos"
+  },
+  {
+    "id": "B0GX57BFD1",
+    "asin": "B0GX57BFD1",
+    "titulo": "Garrafa Térmica 750ml – 24h Gelada, Alça Paracord, Base Antiderrapante",
+    "imagem": "https://m.media-amazon.com/images/I/61ikSMaXk-L._AC_SL1200_.jpg",
+    "preco": 39.9,
+    "link": "https://www.amazon.com.br/dp/B0GX57BFD1?tag=mdm0a40-20",
+    "descricao": "Cores Vibrantes e Cheias de Estilo: Com um design marcante e combinações de cores criativas, esta garrafa chama a atenção por onde passa. Perfeita para quem ama cores vibrantes e quer mostrar sua personalidade com muito estilo.. Alça paracord estilosa e prática: Alça de corda resistente, dá pra pendurar na mochila ou levar na mão. Charmosa e funcional.. Base de silicone que não escorrega: Base removível, antiderrapante e macia. Protege a garrafa de quedas e arranhões.. Não vaza – pode sacudir à vontade: Tampa antivazamento. Pode jogar na bolsa sem medo de molhar nada.. Saudável, sustentável e fácil de lavar: Aço inox 18/8, sem BPA. Boca larga pra colocar gelo e lavar bem. Linda por dentro e por fora."
   }
 ];
