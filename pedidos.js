@@ -128,5 +128,14 @@ window.PEDIDOS = [
     "preco": 89.99,
     "link": "https://www.amazon.com.br/dp/B0GS79683R?tag=mdm0a40-20",
     "descricao": "Produtos de Qualidade: Doces de marcas conhecidas e de alta aceitação no mercado. Armazenamento Adequado: Estoque sempre fresco e bem armazenado para garantir a qualidade dos produtos. Variedade de Sabores: Mix variado de doces populares que agradam crianças e adultos. Dipnlik Incluído: 1 caixa de Dipnlik com 25 unidades para distribuição. Pirulitos Decorativos: 1 pacote de Pirulito Baby Coração Mini com aproximadamente 50 unidades. Pingo de Leite: 1 pote de Pingo de Leite biba com aproximadamente 50 unidades. Balas Sortidas: 1 pacote de Bala de Frutas Sortidas Trink com aproximadamente 90 unidades. Composição do Kit: O kit é composto apenas pelos doces descritos na listagem do produto"
+  },
+  {
+    "id": "B0H7FLPHPQ",
+    "asin": "B0H7FLPHPQ",
+    "titulo": "Kit Elástico Rabicó De Cabelo Infantil Criança Menina Xuxinha Tic Tac Presilhas Mini Piranhas Acessórios Para Penteado Combo Pregador Colorido Qualidade Presente 875 peças",
+    "imagem": "https://m.media-amazon.com/images/I/6189dMAaO4L._AC_SL1200_.jpg",
+    "preco": 37.9,
+    "link": "https://www.amazon.com.br/dp/B0H7FLPHPQ?tag=mdm0a40-20",
+    "descricao": "Caixa de Presente com 875 unidades variadas. Sendo Elástico Silicone – Rabicós Estilo Meia – Rabicós Estilo Elástico – Mini Estrelas Tic Tac – Mini Piranhas Coloridas - Vide Modelo e Quantidades de cada item nas fotos.. Excelente opção de Presente para sua filha, neta, sobrinha – Ela vai Amar!! Presente útil, divertido e seguro. Muito utilizado no dia a dia na escola e em passeios e festas.. Indicado para criança a partir de 2 anos. Tamanhos variam entre 2,5 a 3cm - Criança adora cores e acessórios de embelezar! Faça penteados diferenciados e alegres. Este kit é uma ótima opção para presentear, diferente e moderno. Última tendência da moda 2026. As cores predominantes são rosa, lilás e amarela e vermelho."
   }
 ];
