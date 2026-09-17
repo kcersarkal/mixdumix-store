@@ -137,5 +137,14 @@ window.PEDIDOS = [
     "preco": 37.9,
     "link": "https://www.amazon.com.br/dp/B0H7FLPHPQ?tag=mdm0a40-20",
     "descricao": "Caixa de Presente com 875 unidades variadas. Sendo Elástico Silicone – Rabicós Estilo Meia – Rabicós Estilo Elástico – Mini Estrelas Tic Tac – Mini Piranhas Coloridas - Vide Modelo e Quantidades de cada item nas fotos.. Excelente opção de Presente para sua filha, neta, sobrinha – Ela vai Amar!! Presente útil, divertido e seguro. Muito utilizado no dia a dia na escola e em passeios e festas.. Indicado para criança a partir de 2 anos. Tamanhos variam entre 2,5 a 3cm - Criança adora cores e acessórios de embelezar! Faça penteados diferenciados e alegres. Este kit é uma ótima opção para presentear, diferente e moderno. Última tendência da moda 2026. As cores predominantes são rosa, lilás e amarela e vermelho."
+  },
+  {
+    "id": "B096YGN1QF",
+    "asin": "B096YGN1QF",
+    "titulo": "Jogo Toto Super Craque Junior 40,5Cmx22Cmx7Cm, DM Toys",
+    "imagem": "https://m.media-amazon.com/images/I/61CVkpAcE8L._AC_SL1200_.jpg",
+    "preco": 93.9,
+    "link": "https://www.amazon.com.br/dp/B096YGN1QF?tag=mdm0a40-20",
+    "descricao": "+9 anos. Fácil de transportar. Em MDF. Acompanha 2 bolas. Para brincar com a família e amigos"
   }
 ];
