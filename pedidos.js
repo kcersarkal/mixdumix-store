@@ -101,5 +101,59 @@ window.PEDIDOS = [
     "link": "https://www.amazon.com.br/dp/B0DCM31SDG?tag=mdm0a40-20",
     "descricao": "Compacto e versátil: para usar em qualquer lugar. 2000 Watts de potência no total. 5 ajustes de temperatura. Compatível com todos os tipos de panela. Chapa em ferro fundido: aquece mais rápido e mantém a temperatura",
     "source_url": "https://www.amazon.com.br/dp/B0DCM31SDG"
+  },
+  {
+    "id": "B0GLTJ4MYM",
+    "asin": "B0GLTJ4MYM",
+    "titulo": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
+    "imagem": "https://m.media-amazon.com/images/I/615ojDU7zSL._AC_SL1200_.jpg",
+    "preco": 2249.1,
+    "link": "https://www.amazon.com.br/dp/B0GLTJ4MYM?tag=mdm0a40-20",
+    "descricao": "O smartphone mais fino e ultrarresistente da categoria*. Com apenas 5,99 mm e 159g, o Edge 70 combina leveza e sofisticação com estrutura em alumínio aeroespacial.. A proteção Gorilla Glass 7i oferece 2x mais resistência a quedas e arranhões, enquanto IP68/IP69 e MIL-STD-810H* garantem mais resistência sua rotina.. Registre seus melhores momentos com três câmeras de 50 MP, incluindo câmera principal com OIS e tecnologia Ultra Pixel. Capture fotos mais vibrantes e estáveis e grave vídeos em 4K.. A bateria de 4.800 mAh com tecnologia Silício-Carbono oferece grande autonomia em um design ultrafino. Com TurboPower 68w, você garante bateria para o dia todo em apenas 15 minutos* e ainda conta com carregamento sem fio de até 15 W.. A tela Extreme AMOLED de 6,7” 1.5K Super HD, com até 4.500 nits, 120 Hz e Pantone Validated, entrega cores fiéis e movimentos fluidos.. O processador Snapdragon 7 Gen 4 com 256 GB de armazenamento, garante agilidade para apps, jogos e multitarefas."
+  },
+  {
+    "id": "B0CVSJFMFN",
+    "asin": "B0CVSJFMFN",
+    "titulo": "Paçoca Rolha Riquita Ricco 1,5kg com 100 Unidades de 15g",
+    "imagem": "https://m.media-amazon.com/images/I/610SBxnw1SL._AC_SL1500_.jpg",
+    "preco": 26.5,
+    "link": "https://www.amazon.com.br/dp/B0CVSJFMFN?tag=mdm0a40-20",
+    "descricao": "Sabor tradicional brasileiro com amendoim de qualidade: Paçoca rolha produzida com amendoim torrado e moído, oferecendo sabor marcante, textura macia e aquele gostinho clássico das festas juninas que agrada todas as idades.. Embaladas individualmente para maior praticidade: Contém 100 unidades de 15g embaladas individualmente, ideal para consumo diário, compartilhar, montar kits, lembrancinhas e facilitar a revenda.. Ideal para festas, eventos e revenda: Perfeita para mesas de doces, festas juninas, escolas, comércios, padarias, restaurantes, lanchonetes e lojas de conveniência.. Produto fresco direto da fábrica: A Doces Ricco trabalha com mercadorias frescas e produção constante, garantindo mais qualidade, sabor e excelente experiência ao consumidor.. Marca reconhecida pela tradição e qualidade: A Doces Ricco é referência no mercado de doces tradicionais, oferecendo produtos com excelente padrão de qualidade e sabor autêntico brasileiro."
+  },
+  {
+    "id": "B0GS79683R",
+    "asin": "B0GS79683R",
+    "titulo": "Kit Doces Aniversário Sacolinha Surpresa para aprox. 25 Crianças - KIT distribuidora pão de mel",
+    "imagem": "https://m.media-amazon.com/images/I/81fjoB4xMUL._AC_SL1254_.jpg",
+    "preco": 89.99,
+    "link": "https://www.amazon.com.br/dp/B0GS79683R?tag=mdm0a40-20",
+    "descricao": "Produtos de Qualidade: Doces de marcas conhecidas e de alta aceitação no mercado. Armazenamento Adequado: Estoque sempre fresco e bem armazenado para garantir a qualidade dos produtos. Variedade de Sabores: Mix variado de doces populares que agradam crianças e adultos. Dipnlik Incluído: 1 caixa de Dipnlik com 25 unidades para distribuição. Pirulitos Decorativos: 1 pacote de Pirulito Baby Coração Mini com aproximadamente 50 unidades. Pingo de Leite: 1 pote de Pingo de Leite biba com aproximadamente 50 unidades. Balas Sortidas: 1 pacote de Bala de Frutas Sortidas Trink com aproximadamente 90 unidades. Composição do Kit: O kit é composto apenas pelos doces descritos na listagem do produto"
+  },
+  {
+    "id": "B0H7FLPHPQ",
+    "asin": "B0H7FLPHPQ",
+    "titulo": "Kit Elástico Rabicó De Cabelo Infantil Criança Menina Xuxinha Tic Tac Presilhas Mini Piranhas Acessórios Para Penteado Combo Pregador Colorido Qualidade Presente 875 peças",
+    "imagem": "https://m.media-amazon.com/images/I/6189dMAaO4L._AC_SL1200_.jpg",
+    "preco": 37.9,
+    "link": "https://www.amazon.com.br/dp/B0H7FLPHPQ?tag=mdm0a40-20",
+    "descricao": "Caixa de Presente com 875 unidades variadas. Sendo Elástico Silicone – Rabicós Estilo Meia – Rabicós Estilo Elástico – Mini Estrelas Tic Tac – Mini Piranhas Coloridas - Vide Modelo e Quantidades de cada item nas fotos.. Excelente opção de Presente para sua filha, neta, sobrinha – Ela vai Amar!! Presente útil, divertido e seguro. Muito utilizado no dia a dia na escola e em passeios e festas.. Indicado para criança a partir de 2 anos. Tamanhos variam entre 2,5 a 3cm - Criança adora cores e acessórios de embelezar! Faça penteados diferenciados e alegres. Este kit é uma ótima opção para presentear, diferente e moderno. Última tendência da moda 2026. As cores predominantes são rosa, lilás e amarela e vermelho."
+  },
+  {
+    "id": "B096YGN1QF",
+    "asin": "B096YGN1QF",
+    "titulo": "Jogo Toto Super Craque Junior 40,5Cmx22Cmx7Cm, DM Toys",
+    "imagem": "https://m.media-amazon.com/images/I/61CVkpAcE8L._AC_SL1200_.jpg",
+    "preco": 93.9,
+    "link": "https://www.amazon.com.br/dp/B096YGN1QF?tag=mdm0a40-20",
+    "descricao": "+9 anos. Fácil de transportar. Em MDF. Acompanha 2 bolas. Para brincar com a família e amigos"
+  },
+  {
+    "id": "B0GX57BFD1",
+    "asin": "B0GX57BFD1",
+    "titulo": "Garrafa Térmica 750ml – 24h Gelada, Alça Paracord, Base Antiderrapante",
+    "imagem": "https://m.media-amazon.com/images/I/61ikSMaXk-L._AC_SL1200_.jpg",
+    "preco": 39.9,
+    "link": "https://www.amazon.com.br/dp/B0GX57BFD1?tag=mdm0a40-20",
+    "descricao": "Cores Vibrantes e Cheias de Estilo: Com um design marcante e combinações de cores criativas, esta garrafa chama a atenção por onde passa. Perfeita para quem ama cores vibrantes e quer mostrar sua personalidade com muito estilo.. Alça paracord estilosa e prática: Alça de corda resistente, dá pra pendurar na mochila ou levar na mão. Charmosa e funcional.. Base de silicone que não escorrega: Base removível, antiderrapante e macia. Protege a garrafa de quedas e arranhões.. Não vaza – pode sacudir à vontade: Tampa antivazamento. Pode jogar na bolsa sem medo de molhar nada.. Saudável, sustentável e fácil de lavar: Aço inox 18/8, sem BPA. Boca larga pra colocar gelo e lavar bem. Linda por dentro e por fora."
   }
 ];

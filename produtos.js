@@ -159,7 +159,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/6108qlBKLHL._AC_SL800_.jpg",
     "price_current": 29,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCJ1JZWG?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B01JSX09A0",
@@ -230,8 +230,8 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B0FMZZRSPY",
     "image": "https://m.media-amazon.com/images/I/51oWty44UuL._AC_SL800_.jpg",
     "price_current": 44.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0FMZZRSPY?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B07FPYWGSR?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B08NVNRH6H",
@@ -257,8 +257,8 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B0CS7XK3DX",
     "image": "https://m.media-amazon.com/images/I/61WRk0Y11BL._AC_SL800_.jpg",
     "price_current": 47.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CS7XK3DX?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/6555327073?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0CF6PJNCL",
@@ -348,7 +348,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51rRxbJnGeL._AC_SL800_.jpg",
     "price_current": 64.95,
     "affiliate_url": "https://www.amazon.com.br/dp/B0D8V3QLDD?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0B8Q6VLRB",
@@ -392,8 +392,62 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B0CF6NCJGD",
     "image": "https://m.media-amazon.com/images/I/61iXcdtY3kL._AC_SL800_.jpg",
     "price_current": 69.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0CF6NCJGD?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0HFYP1X31?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
+  },
+  {
+    "asin": "B0DZ34QV33",
+    "title": "Tech T-shirt Gola U Feminino",
+    "source_url": "https://www.amazon.com.br/dp/B0DZ34QV33",
+    "image": "https://m.media-amazon.com/images/I/31Ac05CHFLL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 69.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DZ34QV33?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
+  },
+  {
+    "asin": "B0CJMV9ZQG",
+    "title": "Roupa Íntima Bigfral Derma Plus P/M 24 Unidades",
+    "source_url": "https://www.amazon.com.br/dp/B0CJMV9ZQG",
+    "image": "https://m.media-amazon.com/images/I/71fCLETIrtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 70.55,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CJMV9ZQG?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
+  },
+  {
+    "asin": "B0FQ6VY7S2",
+    "title": "Kit 3 Pacotes Café Especial em Grãos Coffee Mais Variedades: Caparaó, Intenso e Solos Vulcânicos - 100% Arábica (3x250g)",
+    "source_url": "https://www.amazon.com.br/dp/B0FQ6VY7S2",
+    "image": "https://m.media-amazon.com/images/I/61f5fOGM32L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 70.71,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FQ6VY7S2?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
+  },
+  {
+    "asin": "B0DLVH2WN4",
+    "title": "NAC 600mg 120 Cápsulas 4 Meses de Uso, Longa Duração 2x Mais, com Molibdênio e Selênio, Fortalvit",
+    "source_url": "https://www.amazon.com.br/dp/B0DLVH2WN4",
+    "image": "https://m.media-amazon.com/images/I/61XbBNvBG-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 73.05,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DLVH2WN4?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
+  },
+  {
+    "asin": "B0985RJT3K",
+    "title": "Philco Ferro a Vapor Travel Ceramic Bivolt Base em Cerâmica",
+    "source_url": "https://www.amazon.com.br/dp/B0985RJT3K",
+    "image": "https://m.media-amazon.com/images/I/51cMAvfwILL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 74.9,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0985RJT3K?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
+  },
+  {
+    "asin": "B0F4SPQ2W6",
+    "title": "Lixeira com Pedal Tramontina Loop em Aço Inox com Acabamento Polido e Balde Interno 5 L",
+    "source_url": "https://www.amazon.com.br/dp/B0F4SPQ2W6",
+    "image": "https://m.media-amazon.com/images/I/5168lvuU82L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 74.97,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F4SPQ2W6?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B09H8P5L6J",
@@ -402,7 +456,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51CqsKH0b9L._AC_SL800_.jpg",
     "price_current": 76.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B09H8P5L6J?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0B7SDZGBN",
@@ -438,7 +492,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61JHE7YsN3L._AC_SL800_.jpg",
     "price_current": 89.7,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B07DP2S4PC",
@@ -446,8 +500,8 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B07DP2S4PC",
     "image": "https://m.media-amazon.com/images/I/61H70XOtzkL._AC_SL800_.jpg",
     "price_current": 89.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B07DP2S4PC?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0010ED5FC?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B08L6YHZ75",
@@ -545,8 +599,8 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B0C7N2B3PP",
     "image": "https://m.media-amazon.com/images/I/413HLnRMG9L._AC_SL800_.jpg",
     "price_current": 131.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0C7N2B3PP?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0C4476NM8?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0FN5DD149",
@@ -789,7 +843,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51o-AcAQWgL._AC_SL800_.jpg",
     "price_current": 196.6,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0812BFKXP",
@@ -815,8 +869,8 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B0842XB4BN",
     "image": "https://m.media-amazon.com/images/I/91PDPYo4jUL._AC_SL800_.jpg",
     "price_current": 199.99,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0842XB4BN?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0FYQ1SHHS",
@@ -869,8 +923,8 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B091QTV4S7",
     "image": "https://m.media-amazon.com/images/I/61c9mSzPIYL._AC_SL800_.jpg",
     "price_current": 219.9,
-    "affiliate_url": "https://www.amazon.com.br/dp/B091QTV4S7?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B09GSQVV7G",
@@ -1068,7 +1122,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61slLGniC-L._AC_SL800_.jpg",
     "price_current": 343.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B01F2LAUUG?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0GCVMJ8RL",
@@ -1103,8 +1157,8 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B07MT4TVSB",
     "image": "https://m.media-amazon.com/images/I/71TWRNweglL._AC_SL800_.jpg",
     "price_current": 379.04,
-    "affiliate_url": "https://www.amazon.com.br/dp/B07MT4TVSB?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FSTF4SGM?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0C2541ZGD",
@@ -1149,7 +1203,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/612gXC9waVL._AC_SL800_.jpg",
     "price_current": 399,
     "affiliate_url": "https://www.amazon.com.br/dp/B08R93TVRG?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0FSTF4SGM",
@@ -1194,7 +1248,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51RT9s0ObML._AC_SL800_.jpg",
     "price_current": 482,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CRT6HQ82?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0BWK86TKG",
@@ -1347,7 +1401,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/615AvAaOM8L._AC_SL800_.jpg",
     "price_current": 698.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0G4SLSGQ4",
@@ -1446,7 +1500,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51W9FnH1Q1L._AC_SL800_.jpg",
     "price_current": 1017.02,
     "affiliate_url": "https://www.amazon.com.br/dp/B07XM8KGBB?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0H6NYF37G",
@@ -1531,12 +1585,12 @@ const PRODUCTS = [
   },
   {
     "asin": "B0GLSLLGZL",
-    "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Marrom",
+    "title": "Smartphone Motorola Moto G77 5g - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5k extreme Amoled 120hz, ultrarresistente - Marrom",
     "source_url": "https://www.amazon.com.br/dp/B0GLSLLGZL",
     "image": "https://m.media-amazon.com/images/I/61zXvb3EmiL._AC_SL800_.jpg",
     "price_current": 1698.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GLSLLGZL?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0HG1M3V1Y",
@@ -1617,7 +1671,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61hTC1qv92L._AC_SL800_.jpg",
     "price_current": 2188.99,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPBR8V26?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0DFRSDH9P",
@@ -1715,8 +1769,8 @@ const PRODUCTS = [
     "source_url": "https://www.amazon.com.br/dp/B0F8LJSC9B",
     "image": "https://m.media-amazon.com/images/I/61G1x4+IXTL._AC_SL800_.jpg",
     "price_current": 3298.99,
-    "affiliate_url": "https://www.amazon.com.br/dp/B0F8LJSC9B?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "affiliate_url": "https://www.amazon.com.br/dp/B0F8KVQZQX?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B07CKDWL5R",
@@ -1743,7 +1797,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/71rq8UFkcvL._AC_SL800_.jpg",
     "price_current": 3967.37,
     "affiliate_url": "https://www.amazon.com.br/dp/B0F6CX2QK4?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
   {
     "asin": "B0FCW79ZM3",
@@ -1797,6 +1851,24 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/61tUK0-AiTL._AC_SL800_.jpg",
     "price_current": 7990,
     "affiliate_url": "https://www.amazon.com.br/dp/B0GKQTTCMM?tag=mdm0a40-20",
-    "last_checked_at": "2026-09-12T11:46:26.000Z"
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
+  },
+  {
+    "asin": "B0CZ4LQCQJ",
+    "title": "Monitor Samsung ViewFinity S9 27\" 5k, Tela Plana, 60Hz, 5ms, Thunderbolt 4, Smart Hub, Gaming Mode 27\"",
+    "source_url": "https://www.amazon.com.br/dp/B0CZ4LQCQJ",
+    "image": "https://m.media-amazon.com/images/I/41aVgm5pxNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 7699.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CZ4LQCQJ?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
+  },
+  {
+    "asin": "B0FY3WHPDH",
+    "title": "Acer Nitro V 15 Notebook Gamer 15.6\" Intel Core i9 RTX 4060 16GB Windows",
+    "source_url": "https://www.amazon.com.br/dp/B0FY3WHPDH",
+    "image": "https://m.media-amazon.com/images/I/71TFTrBp3ZL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "price_current": 7748.0,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0FY3WHPDH?tag=mdm0a40-20",
+    "last_checked_at": "2026-09-24T00:47:28.000Z"
   }
 ];
