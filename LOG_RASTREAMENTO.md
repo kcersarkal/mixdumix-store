@@ -270,3 +270,30 @@
 ### Último Ponto Concluído
 
 ✅ Imagem removida somente da página individual de Pedidos (`?pedido=ID`); rota, conteúdo, botões, rastreamento, tag `mdm0a40-20`, Home e `?produto` removido — todos confirmados por validação. Sem commit e sem push, aguardando revisão do usuário.
+
+---
+
+# Log de Rastreamento - Reformulação Completa para Blog Editorial e Conformidade Amazon
+
+## Data: 2026-09-26
+
+### Objetivo da Alteração
+- Transformar a plataforma em um **blog editorial de guias e avaliações de produtos** no padrão revista/portal, eliminando a aparência de loja ("Store" / "thin affiliate").
+- Atender com rigor a todas as diretrizes do **Programa de Associados da Amazon**:
+  1. Remoção completa de redirecionamentos intermediários, popups ocultos (`window.open("about:blank")` com `setTimeout`) e webhooks bloqueantes que pudessem mascarar links.
+  2. Inclusão da caixa de transparência obrigatória da Amazon em destaque antes de qualquer recomendação ("Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas").
+  3. Substituição de botões diretos de compra na Home por cards de artigos informativos com botão "Saiba mais", que abrem a análise completa do produto (`?artigo=ASIN`).
+  4. Manutenção de duas abas independentes: "Guias & Artigos" e "Pedidos da Comunidade".
+  5. Atualização do sitemap e roteamento seguro.
+
+### Backup Criado
+- `index.html.backup.before-blog-redesign.txt`
+
+### Arquivos Modificados
+- `index.html` — Novo layout responsivo estilo portal/revista com Hero Banner de destaque, filtros por categoria, cards de artigos com resumo de 2 linhas, páginas de artigos ricas com aviso obrigatório da Amazon e botões diretos seguros.
+- `gerar_sitemap.py` — Rota atualizada para `?artigo=ASIN`.
+- `sitemap.xml` — Todas as URLs atualizadas para `?artigo=ASIN`.
+- `produtos.js` — Todas as 200 imagens limpas: remoção de parâmetros de widget e upgrade para alta resolução permanente na CDN (`_AC_SL800_`).
+- `adicionar_produto_amazon.py` / `adicionar_produto_amazon.js` — Scripts de automação criados para extrair dados limpos da Amazon (título, foto HD e tag de afiliado) e cadastrar no blog automaticamente.
+- `LOG_RASTREAMENTO.md` — Registro desta etapa.
+

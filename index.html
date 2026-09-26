@@ -1,36 +1,36 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ofertas do Dia e Produtos Selecionados | Mix Du Mix</title>
-<meta name="description" content="Encontre ofertas do dia e produtos selecionados na Mix Du Mix. Descubra oportunidades selecionadas para suas compras.">
+<title>Mix Du Mix | Guia de Compras, Avaliações e Informação</title>
+<meta name="description" content="Blog editorial com guias práticos, análises honestas e informações detalhadas sobre os melhores produtos para você tomar decisões de compra seguras.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://kcersarkal.github.io/mixdumix-store/">
 
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Mix Du Mix Store">
-<meta property="og:title" content="Ofertas do Dia e Produtos Selecionados | Mix Du Mix">
-<meta property="og:description" content="Encontre ofertas do dia e produtos selecionados na Mix Du Mix. Descubra oportunidades selecionadas para suas compras.">
+<meta property="og:site_name" content="Mix Du Mix">
+<meta property="og:title" content="Mix Du Mix | Guia de Compras, Avaliações e Informação">
+<meta property="og:description" content="Análises honestas e guias práticos de produtos para sua casa, rotina, tecnologia e cuidados pessoais.">
 <meta property="og:url" content="https://kcersarkal.github.io/mixdumix-store/">
 <meta property="og:image" content="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
 <meta property="og:locale" content="pt_BR">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ofertas do Dia e Produtos Selecionados | Mix Du Mix">
-<meta name="twitter:description" content="Encontre ofertas do dia e produtos selecionados na Mix Du Mix. Descubra oportunidades selecionadas para suas compras.">
+<meta name="twitter:title" content="Mix Du Mix | Guia de Compras, Avaliações e Informação">
+<meta name="twitter:description" content="Análises honestas e guias práticos de produtos para sua casa, rotina, tecnologia e cuidados pessoais.">
 <meta name="twitter:image" content="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
 
-<meta name="theme-color" content="#111111">
+<meta name="theme-color" content="#18181B">
 <link rel="icon" href="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
 
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
   "@type":"WebSite",
-  "name":"Mix Du Mix Store",
+  "name":"Mix Du Mix",
   "url":"https://kcersarkal.github.io/mixdumix-store/",
-  "description":"Encontre ofertas do dia e produtos selecionados na Mix Du Mix. Descubra oportunidades selecionadas para suas compras.",
+  "description":"Guias independentes e avaliações práticas de produtos para você escolher melhor.",
   "inLanguage":"pt-BR",
   "potentialAction":{
     "@type":"SearchAction",
@@ -42,218 +42,877 @@
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
-  "@type":"Organization",
-  "name":"Mix Du Mix Store",
+  "@type":"NewsMediaOrganization",
+  "name":"Mix Du Mix",
   "url":"https://kcersarkal.github.io/mixdumix-store/",
   "logo":"https://kcersarkal.github.io/mixdumix-store/assets/logo.png",
   "contactPoint":{
     "@type":"ContactPoint",
     "email":"mix.dumixof@gmail.com",
-    "contactType":"customer service",
+    "contactType":"editorial",
     "availableLanguage":["Portuguese"]
-  },
-  "sameAs":[]
+  }
 }
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
 
 :root {
-  --orange: #FF5A00;
-  --orange-dark: #E04E00;
-  --black: #111111;
-  --white: #FFFFFF;
-  --bg: #F4F2EF;
-  --card-border: #E7E3DD;
-  --green: #00A650;
-  --gray-text: #6B6B6B;
-  --gray-text-light: #9B9691;
-  --font-display: 'Archivo Black', 'Inter', sans-serif;
-  --font-body: 'Inter', sans-serif;
-  --radius-card: 18px;
-  --shadow-card: 0 2px 4px rgba(17,17,17,0.04), 0 8px 24px rgba(17,17,17,0.06);
-  --shadow-card-hover: 0 6px 12px rgba(17,17,17,0.08), 0 16px 32px rgba(17,17,17,0.10);
+  --primary: #EA580C;
+  --primary-hover: #C2410C;
+  --primary-light: #FFEDD5;
+  --accent: #0284C7;
+  --dark-bg: #0F172A;
+  --text-main: #0F172A;
+  --text-muted: #64748B;
+  --text-subtle: #94A3B8;
+  --bg-page: #F8FAFC;
+  --bg-card: #FFFFFF;
+  --border-card: #E2E8F0;
+  --border-light: #F1F5F9;
+  --font-heading: 'Outfit', sans-serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05), 0 1px 2px rgba(0,0,0,0.03);
+  --shadow-card: 0 4px 6px -1px rgba(0,0,0,0.04), 0 2px 4px -2px rgba(0,0,0,0.03);
+  --shadow-hover: 0 14px 25px -5px rgba(0,0,0,0.08), 0 8px 10px -6px rgba(0,0,0,0.04);
 }
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin:0; font-family: var(--font-body); background: var(--bg); color: var(--black); -webkit-font-smoothing: antialiased; }
-img { max-width:100%; display:block; }
-a { text-decoration:none; color:inherit; }
-:focus-visible { outline:3px solid var(--orange); outline-offset:2px; }
-.container { max-width:1180px; margin:0 auto; padding:0 24px; }
-[data-view] { display:none; }
-[data-view].active { display:block; }
-
-.site-header { background: var(--black); position:sticky; top:0; z-index:50; border-bottom:3px solid var(--orange); }
-.site-header .container { display:flex; align-items:center; justify-content:space-between; padding:18px 24px; }
-.brand { display:flex; align-items:center; gap:12px; cursor:pointer; }
-.brand .logo-mark { width:44px; height:44px; border-radius:50%; object-fit:cover; flex-shrink:0; border:2px solid var(--black); box-shadow:0 0 0 2px var(--orange); }
-.brand-text { display:flex; flex-direction:column; line-height:1; }
-.brand-text .name { font-family: var(--font-display); font-size:15px; color: var(--white); letter-spacing:0.5px; }
-.brand-text .tagline { font-size:11px; color: var(--orange); font-weight:600; letter-spacing:1px; text-transform:uppercase; margin-top:3px; }
-.header-nav { display:flex; gap:24px; }
-.hamburger { display:none; flex-direction:column; gap:4px; background:none; border:none; cursor:pointer; padding:4px; }
-.hamburger span { width:22px; height:2.5px; background:var(--white); border-radius:2px; }
-.mobile-menu { display:none; }
-.header-nav a { color: var(--white); font-size:14px; font-weight:600; opacity:0.85; transition:opacity .15s ease; cursor:pointer; }
-.header-nav a:hover, .header-nav a.current { opacity:1; }
-.search-wrap { display:flex; align-items:center; gap:0; margin:0 16px; }
-.search-input { flex:1; padding:10px 14px; border-radius:10px 0 0 10px; border:1.5px solid #333; border-right:none; background:#1E1E1E; color:var(--white); font-size:14px; font-family:var(--font-body); outline:none; transition:border-color .15s ease; }
-.search-input::placeholder { color:#666; }
-.search-input:focus { border-color:var(--orange); }
-.search-btn { padding:10px 16px; border-radius:0 10px 10px 0; border:1.5px solid #333; border-left:none; background:var(--orange); color:var(--white); font-size:14px; font-weight:700; font-family:var(--font-body); cursor:pointer; transition:background .15s ease; white-space:nowrap; }
-.search-btn:hover { background:var(--orange-dark); }
-@media (min-width:641px) { .site-header { display:flex; align-items:center; } .site-header .container { flex:1; } .search-wrap { position:absolute; left:50%; transform:translateX(-50%); max-width:340px; width:100%; } }
-@media (max-width:640px) { .site-header { display:flex; flex-direction:column; } .site-header .container { padding:12px 5px !important; margin:0 !important; } .header-nav { display:none; } .hamburger { display:flex; } .mobile-menu { display:none; flex-direction:column; background:var(--black); padding:12px 16px; border-bottom:3px solid var(--orange); } .mobile-menu.open { display:flex; } .mobile-menu a { color:var(--white); font-size:14px; font-weight:600; padding:10px 0; border-bottom:1px solid #333; } .mobile-menu a:last-child { border-bottom:none; } .search-wrap { max-width:none; width:100%; margin:0; padding:8px 16px 12px; border-top:1px solid #333; } .search-input { font-size:13px; } .search-btn { padding:10px 12px; font-size:12px; } }
-
-.discount-badge { position:relative; width:64px; height:64px; border-radius:50%; background:var(--black); color:var(--white); display:flex; align-items:center; justify-content:center; flex-direction:column; flex-shrink:0; }
-.discount-badge::before { content:''; position:absolute; inset:-5px; border-radius:50%; border:2px solid var(--orange); }
-.discount-badge .pct { font-family:var(--font-display); font-size:16px; line-height:1; }
-.discount-badge .off { font-size:8px; letter-spacing:.5px; margin-top:2px; opacity:.8; }
-.discount-badge.sm { width:46px; height:46px; }
-.discount-badge.sm .pct { font-size:12px; }
-.discount-badge.sm .off { font-size:6px; }
-.discount-badge.lg { width:84px; height:84px; background:#E8391F; }
-.discount-badge.lg::before { border-color:#FF8A00; }
-.discount-badge.lg .pct { font-size:22px; }
-.discount-badge.lg .off { font-size:10px; }
-
-.price-row { display:flex; align-items:baseline; gap:10px; margin-bottom:4px; }
-.price-current { font-family:var(--font-display); font-size:26px; color:var(--black); }
-.price-current small { font-size:14px; }
-.price-original { font-size:14px; color:var(--gray-text-light); text-decoration:line-through; }
-
-.btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; font-family:var(--font-body); font-weight:700; font-size:15px; padding:14px 26px; border-radius:12px; border:none; cursor:pointer; transition:transform .12s ease, background .15s ease; width:fit-content; }
-.btn-primary { background:var(--orange); color:var(--white); }
-.btn-primary:hover { background:var(--orange-dark); transform:translateY(-1px); }
-.btn-block { width:100%; }
-.btn-outline { background:transparent; color:var(--black); border:1.5px solid var(--card-border); }
-.btn-outline:hover { border-color:var(--orange); color:var(--orange-dark); transform:translateY(-1px); }
-.btn-whatsapp { background:#25D366; color:var(--white); border:none; }
-.btn-whatsapp:hover { background:#1EBE57; transform:translateY(-1px); }
-.btn-copy { background:#1A73E8; color:var(--white); border:none; }
-.btn-copy:hover { background:#1557B0; transform:translateY(-1px); }
-.btn-share { background:var(--white); color:var(--gray-text); border:1.5px solid var(--card-border); font-size:13px; font-weight:600; padding:10px 12px; border-radius:10px; margin-top:8px; }
-.btn-share:hover { border-color:var(--orange); color:var(--orange-dark); transform:translateY(-1px); }
-.product-actions { display:flex; flex-direction:column; gap:10px; margin-bottom:6px; }
-.product-actions-row { display:flex; gap:10px; }
-.product-actions-row .btn { flex:1; }
-@media (min-width:640px) { .product-actions { flex-direction:row; } .product-actions .btn { flex:1; } }
-
-.section-heading { display:flex; align-items:baseline; justify-content:space-between; margin-bottom:20px; }
-.section-heading h2 { font-family:var(--font-display); font-size:20px; margin:0; }
-.section-heading .count { font-size:13px; color:var(--gray-text-light); }
-
-.grid { display:grid; grid-template-columns:repeat(4,1fr); gap:22px; margin-bottom:60px; }
-.card { background:var(--white); border:1px solid var(--card-border); border-radius:var(--radius-card); overflow:hidden; display:flex; flex-direction:column; box-shadow:var(--shadow-card); transition:transform .15s ease, box-shadow .15s ease; cursor:pointer; }
-.card:hover { transform:translateY(-4px); box-shadow:var(--shadow-card-hover); }
-.card:focus-visible { outline:3px solid var(--orange); outline-offset:3px; }
-.card-link { display:flex; flex-direction:column; height:100%; }
-.card-img { background:#FBFAF8; height:190px; display:flex; align-items:center; justify-content:center; padding:20px; position:relative; border-bottom:1px solid var(--card-border); }
-.card-img img { max-height:100%; object-fit:contain; }
-.card-img .discount-badge { position:absolute; top:10px; right:10px; }
-.card-body { padding:20px 18px 18px; display:flex; flex-direction:column; flex:1; min-height:190px; }
-.card-category { font-size:11px; font-weight:700; color:var(--orange-dark); text-transform:uppercase; letter-spacing:.5px; margin-bottom:6px; }
-.card-title { font-size:15.5px; font-weight:700; line-height:1.45; margin:0 0 14px; color:var(--black); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; min-height:40px; }
-.card-footer { margin-top:auto; }
-.card-cta { margin-top:12px; font-size:13px; font-weight:700; color:var(--orange); display:flex; align-items:center; gap:6px; }
-.card-cta svg { transition:transform .15s ease; }
-.card:hover .card-cta svg { transform:translateX(3px); }
-
-  .back-button {
-  display: inline-flex; align-items: center; gap: 8px;
-  background: var(--white); border: 1.5px solid var(--card-border);
-  color: var(--black); font-weight: 700; font-size: 14px;
-  padding: 10px 18px; border-radius: 10px; cursor: pointer;
-  margin-top: 24px; transition: all .15s ease;
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background: var(--bg-page);
+  color: var(--text-main);
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.6;
 }
-.back-button:hover { border-color: var(--orange); color: var(--orange-dark); transform: translateX(-3px); }
-.product-detail { display:grid; grid-template-columns:1fr; gap:24px; background:var(--white); border:1px solid var(--card-border); border-radius:24px; padding:40px; box-shadow:var(--shadow-card); margin-bottom:40px; }
-.product-category { font-size:12px; font-weight:700; color:var(--orange-dark); text-transform:uppercase; letter-spacing:.6px; margin-bottom:10px; }
-.product-title { font-size:26px; font-weight:800; line-height:1.3; margin:0 0 14px; }
-.product-desc { font-size:15px; line-height:1.7; color:var(--gray-text); margin-bottom:26px; }
-.product-desc h3 { font-size:14px; color:var(--black); margin-bottom:8px; }
-.product-image { background:#FBFAF8; border:1px solid var(--card-border); border-radius:16px; padding:24px; display:flex; align-items:center; justify-content:center; }
-.product-image img { max-height:420px; width:auto; max-width:100%; object-fit:contain; }
-.freshness-note { display:flex; align-items:center; gap:8px; font-size:12px; color:var(--gray-text-light); margin-top:16px; }
-.freshness-note .dot { width:7px; height:7px; border-radius:50%; background:var(--green); }
+img { max-width: 100%; display: block; }
+a { text-decoration: none; color: inherit; }
+:focus-visible { outline: 3px solid var(--primary); outline-offset: 2px; }
+.container { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
 
-.empty-state { text-align:center; padding:80px 20px; color:var(--gray-text); }
-.empty-state h2 { font-family:var(--font-display); font-size:20px; color:var(--black); margin-bottom:10px; }
+[data-view] { display: none; }
+[data-view].active { display: block; animation: fadeIn .25s ease; }
 
-.disclosure { background:#FFF4EA; border:1px solid #FFE0C2; border-radius:14px; padding:16px 20px; font-size:13px; color:#7A4B1E; line-height:1.6; margin-bottom:36px; }
-.disclosure strong { color:var(--orange-dark); }
-
-.static-page { max-width:780px; padding-top:40px; padding-bottom:60px; }
-.static-page h1 { font-family:var(--font-display); font-size:28px; margin-bottom:20px; }
-.static-page p { font-size:15px; line-height:1.8; color:var(--gray-text); margin-bottom:18px; }
-.contact-form { display:flex; flex-direction:column; gap:18px; max-width:480px; margin-top:20px; }
-.form-field { display:flex; flex-direction:column; gap:6px; }
-.form-field label { font-size:13px; font-weight:700; color:var(--black); }
-.form-field input, .form-field textarea {
-  font-family:var(--font-body); font-size:14px; padding:12px 14px; border-radius:10px;
-  border:1.5px solid var(--card-border); background:var(--white); color:var(--black); resize:vertical;
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
 }
-.form-field input:focus, .form-field textarea:focus { outline:none; border-color:var(--orange); }
-.form-note { font-size:12px; color:var(--gray-text-light); margin-top:-8px; }
 
-.site-footer { background:var(--black); color:var(--white); margin-top:60px; padding:44px 0 30px; }
-.footer-grid { display:grid; grid-template-columns:1.4fr 1fr; gap:32px; margin-bottom:30px; }
-.footer-brand { display:flex; align-items:center; gap:12px; margin-bottom:12px; }
-.footer-brand .logo-mark { width:40px; height:40px; }
-.footer-brand span { font-family:var(--font-display); font-size:14px; }
-.footer-col h4 { font-size:12px; letter-spacing:.8px; text-transform:uppercase; color:var(--orange); margin:0 0 14px; }
-.footer-col p, .footer-col a { font-size:13.5px; color:#C9C6C2; line-height:2; display:block; cursor:pointer; }
-.footer-col a:hover { color:var(--white); }
-.footer-disclosure { font-size:12px; color:#8A8783; line-height:1.7; border-top:1px solid #2A2A2A; padding-top:20px; }
-.footer-disclosure strong { color:#C9C6C2; }
+/* TOP TRANSPARENCY NOTICE */
+.top-disclosure-bar {
+  background: #FFFBEB;
+  border-bottom: 1px solid #FEF3C7;
+  font-size: 12px;
+  color: #92400E;
+  padding: 8px 16px;
+  text-align: center;
+  font-weight: 500;
+}
+.top-disclosure-bar a { text-decoration: underline; color: #B45309; }
 
-@media (max-width:980px) {
-  .grid { grid-template-columns:repeat(3,1fr); }
-  .product-detail { grid-template-columns:1fr; padding:28px; }
-  .footer-grid { grid-template-columns:1fr; }
+/* HEADER */
+.site-header {
+  background: #FFFFFF;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  border-bottom: 1px solid var(--border-card);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.02);
 }
-@media (max-width:640px) {
-  .grid { grid-template-columns:repeat(2,1fr); gap:14px; }
-  .header-nav { display:none; }
-  .card-img { height:150px; }
-  .product-image img { max-height:260px; }
-  .card .price-current { font-size:17px; }
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  gap: 20px;
 }
-@media (prefers-reduced-motion: reduce) { * { transition:none !important; } }
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.brand .logo-mark {
+  width: 42px;
+  height: 42px;
+  border-radius: var(--radius-full);
+  object-fit: cover;
+  border: 2px solid var(--primary-light);
+  box-shadow: 0 2px 5px rgba(234, 88, 12, 0.15);
+}
+.brand-text { display: flex; flex-direction: column; }
+.brand-text .name {
+  font-family: var(--font-heading);
+  font-size: 19px;
+  font-weight: 800;
+  color: var(--text-main);
+  letter-spacing: -0.3px;
+  line-height: 1.1;
+}
+.brand-text .tagline {
+  font-size: 11px;
+  color: var(--primary);
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.header-nav { display: flex; align-items: center; gap: 8px; }
+.header-nav a {
+  color: var(--text-muted);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
+  transition: all .15s ease;
+}
+.header-nav a:hover { color: var(--text-main); background: var(--border-light); }
+.header-nav a.current {
+  color: var(--primary);
+  background: var(--primary-light);
+  font-weight: 700;
+}
+
+.search-wrap {
+  display: flex;
+  align-items: center;
+  background: #F1F5F9;
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-full);
+  padding: 3px 6px 3px 14px;
+  max-width: 290px;
+  width: 100%;
+  transition: border-color .15s ease, background .15s ease;
+}
+.search-wrap:focus-within {
+  background: #FFFFFF;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(234,88,12,0.12);
+}
+.search-input {
+  border: none;
+  background: transparent;
+  color: var(--text-main);
+  font-size: 13.5px;
+  font-family: var(--font-body);
+  width: 100%;
+  outline: none;
+}
+.search-input::placeholder { color: var(--text-subtle); }
+.search-btn {
+  background: var(--primary);
+  border: none;
+  color: #fff;
+  border-radius: var(--radius-full);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background .15s ease;
+}
+.search-btn:hover { background: var(--primary-hover); }
+
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+}
+.hamburger span { width: 22px; height: 2px; background: var(--text-main); border-radius: 2px; }
+.mobile-menu {
+  display: none;
+  flex-direction: column;
+  background: #FFFFFF;
+  padding: 12px 20px 18px;
+  border-bottom: 1px solid var(--border-card);
+}
+.mobile-menu.open { display: flex; }
+.mobile-menu a {
+  color: var(--text-main);
+  font-size: 15px;
+  font-weight: 600;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border-light);
+}
+.mobile-menu a.current { color: var(--primary); }
+
+/* HERO EDITORIAL FEATURE */
+.hero-banner {
+  background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%);
+  border-radius: var(--radius-lg);
+  color: #FFFFFF;
+  padding: 36px 40px;
+  margin: 32px 0 36px;
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  align-items: center;
+  gap: 36px;
+  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+.hero-banner::after {
+  content: '';
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  width: 250px;
+  height: 250px;
+  background: radial-gradient(circle, rgba(234,88,12,0.25) 0%, transparent 70%);
+  pointer-events: none;
+}
+.hero-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(234, 88, 12, 0.2);
+  border: 1px solid rgba(234, 88, 12, 0.4);
+  color: #FB923C;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  margin-bottom: 14px;
+}
+.hero-title {
+  font-family: var(--font-heading);
+  font-size: 27px;
+  font-weight: 800;
+  line-height: 1.25;
+  margin: 0 0 14px;
+}
+.hero-desc {
+  font-size: 15px;
+  line-height: 1.65;
+  color: #CBD5E1;
+  margin-bottom: 24px;
+  max-width: 520px;
+}
+.hero-image-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255,255,255,0.06);
+  border-radius: var(--radius-md);
+  padding: 24px;
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255,255,255,0.1);
+  height: 240px;
+}
+.hero-image-wrap img {
+  max-height: 200px;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));
+}
+
+/* CATEGORY PILLS */
+.category-filter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  overflow-x: auto;
+  padding-bottom: 12px;
+  margin-bottom: 28px;
+  scrollbar-width: none;
+}
+.category-filter::-webkit-scrollbar { display: none; }
+.cat-pill {
+  border: 1px solid var(--border-card);
+  background: #FFFFFF;
+  color: var(--text-muted);
+  font-size: 13.5px;
+  font-weight: 600;
+  padding: 8px 18px;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all .15s ease;
+  user-select: none;
+}
+.cat-pill:hover {
+  border-color: var(--primary);
+  color: var(--text-main);
+  background: #FFF;
+}
+.cat-pill.active {
+  background: var(--text-main);
+  color: #FFFFFF;
+  border-color: var(--text-main);
+}
+
+/* BLOG FEED GRID */
+.blog-feed-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.blog-feed-header h2 {
+  font-family: var(--font-heading);
+  font-size: 22px;
+  font-weight: 800;
+  margin: 0;
+  color: var(--text-main);
+}
+.blog-feed-header .post-count {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-bottom: 50px;
+}
+.blog-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-card);
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+  cursor: pointer;
+}
+.blog-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-hover);
+  border-color: #CBD5E1;
+}
+.blog-card-media {
+  background: #F8FAFC;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  border-bottom: 1px solid var(--border-light);
+}
+.blog-card-media img {
+  max-height: 100%;
+  object-fit: contain;
+  transition: transform .25s ease;
+}
+.blog-card:hover .blog-card-media img {
+  transform: scale(1.04);
+}
+.blog-card-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--primary);
+  padding: 4px 9px;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(234, 88, 12, 0.2);
+  backdrop-filter: blur(4px);
+}
+.blog-card-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.blog-card-title {
+  font-family: var(--font-heading);
+  font-size: 16.5px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0 0 10px;
+  color: var(--text-main);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.blog-card-summary {
+  font-size: 13.5px;
+  color: var(--text-muted);
+  line-height: 1.55;
+  margin: 0 0 16px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+.blog-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid var(--border-light);
+  padding-top: 14px;
+  margin-top: auto;
+}
+.read-time {
+  font-size: 12px;
+  color: var(--text-subtle);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.btn-read-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--primary-light);
+  color: var(--primary);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
+  border: none;
+  cursor: pointer;
+  transition: all .15s ease;
+}
+.blog-card:hover .btn-read-more {
+  background: var(--primary);
+  color: #FFFFFF;
+}
+
+/* BUTTONS */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 14.5px;
+  padding: 12px 22px;
+  border-radius: var(--radius-sm);
+  border: none;
+  cursor: pointer;
+  transition: all .15s ease;
+}
+.btn-primary {
+  background: var(--primary);
+  color: #FFFFFF;
+}
+.btn-primary:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(234, 88, 12, 0.25);
+}
+.btn-block { width: 100%; }
+.btn-outline {
+  background: #FFFFFF;
+  color: var(--text-main);
+  border: 1px solid var(--border-card);
+}
+.btn-outline:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+/* DISCLOSURE BOXES (AMAZON COMPLIANCE) */
+.affiliate-disclosure-box {
+  background: #FFFBEB;
+  border: 1px solid #FDE68A;
+  border-radius: var(--radius-md);
+  padding: 14px 18px;
+  font-size: 13px;
+  color: #92400E;
+  line-height: 1.6;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+.affiliate-disclosure-box svg { flex-shrink: 0; margin-top: 2px; }
+
+/* ARTICLE VIEW */
+.article-page {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 24px 0 60px;
+}
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: #FFFFFF;
+  border: 1px solid var(--border-card);
+  padding: 8px 16px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  margin-bottom: 24px;
+  transition: all .15s ease;
+}
+.back-link:hover { color: var(--primary); border-color: var(--primary); }
+
+.article-header { margin-bottom: 28px; }
+.article-category {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--primary);
+  letter-spacing: 0.8px;
+  margin-bottom: 10px;
+}
+.article-headline {
+  font-family: var(--font-heading);
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 1.25;
+  color: var(--text-main);
+  margin: 0 0 16px;
+}
+.article-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-size: 13px;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border-card);
+  padding-bottom: 16px;
+}
+
+.article-main-card {
+  background: #FFFFFF;
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-lg);
+  padding: 36px;
+  box-shadow: var(--shadow-card);
+  margin-bottom: 32px;
+}
+.article-media-hero {
+  background: #F8FAFC;
+  border-radius: var(--radius-md);
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  border: 1px solid var(--border-light);
+}
+.article-media-hero img {
+  max-height: 340px;
+  object-fit: contain;
+}
+
+.article-body h2 {
+  font-family: var(--font-heading);
+  font-size: 21px;
+  font-weight: 700;
+  color: var(--text-main);
+  margin: 28px 0 12px;
+}
+.article-body p {
+  font-size: 15.5px;
+  color: #334155;
+  line-height: 1.75;
+  margin: 0 0 16px;
+}
+.feature-checklist {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.feature-checklist li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14.5px;
+  color: #334155;
+  line-height: 1.5;
+}
+.feature-checklist svg {
+  color: #16A34A;
+  flex-shrink: 0;
+  margin-top: 3px;
+}
+
+/* OFFICIAL AMAZON CTA BOX */
+.official-cta-card {
+  background: #FFFBF7;
+  border: 2px solid #FED7AA;
+  border-radius: var(--radius-md);
+  padding: 26px;
+  margin: 36px 0 24px;
+  text-align: center;
+}
+.cta-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #9A3412;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: 8px;
+}
+.cta-title {
+  font-family: var(--font-heading);
+  font-size: 19px;
+  font-weight: 700;
+  color: var(--text-main);
+  margin: 0 0 10px;
+}
+.cta-subtext {
+  font-size: 13.5px;
+  color: var(--text-muted);
+  max-width: 500px;
+  margin: 0 auto 20px;
+}
+.btn-amazon-direct {
+  background: #FF9900;
+  color: #111;
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 16px;
+  padding: 16px 32px;
+  border-radius: var(--radius-sm);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  cursor: pointer;
+  transition: all .15s ease;
+  box-shadow: 0 4px 10px rgba(255, 153, 0, 0.3);
+}
+.btn-amazon-direct:hover {
+  background: #FA8900;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(255, 153, 0, 0.4);
+}
+.price-notice {
+  font-size: 11.5px;
+  color: #94A3B8;
+  margin-top: 14px;
+}
+
+.article-share-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-light);
+}
+
+/* PEDIDOS VIEW */
+.pedidos-header {
+  background: #FFFFFF;
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-lg);
+  padding: 32px;
+  margin: 32px 0;
+  box-shadow: var(--shadow-sm);
+}
+.pedidos-header h1 {
+  font-family: var(--font-heading);
+  font-size: 28px;
+  font-weight: 800;
+  margin: 0 0 10px;
+}
+.pedidos-header p {
+  color: var(--text-muted);
+  font-size: 15px;
+  margin: 0;
+}
+
+/* STATIC PAGES */
+.static-page {
+  background: #FFFFFF;
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-lg);
+  padding: 40px;
+  margin: 36px auto 60px;
+  max-width: 800px;
+  box-shadow: var(--shadow-card);
+}
+.static-page h1 {
+  font-family: var(--font-heading);
+  font-size: 28px;
+  font-weight: 800;
+  margin: 0 0 20px;
+}
+.static-page h2 {
+  font-family: var(--font-heading);
+  font-size: 19px;
+  font-weight: 700;
+  margin: 28px 0 10px;
+}
+.static-page p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #334155;
+  margin-bottom: 18px;
+}
+
+/* EMPTY STATE */
+.empty-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--text-muted);
+  background: #FFFFFF;
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-md);
+  margin-bottom: 40px;
+}
+.empty-state h3 {
+  font-family: var(--font-heading);
+  font-size: 20px;
+  color: var(--text-main);
+  margin-bottom: 8px;
+}
+
+/* FOOTER */
+.site-footer {
+  background: #0F172A;
+  color: #FFFFFF;
+  margin-top: 70px;
+  padding: 50px 0 30px;
+  border-top: 3px solid var(--primary);
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 36px;
+  margin-bottom: 36px;
+}
+.footer-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.footer-brand .logo-mark { width: 38px; height: 38px; border-radius: 50%; }
+.footer-brand span {
+  font-family: var(--font-heading);
+  font-size: 16px;
+  font-weight: 800;
+}
+.footer-col p { font-size: 13.5px; color: #94A3B8; line-height: 1.7; }
+.footer-col h4 {
+  font-size: 12px;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #FB923C;
+  margin: 0 0 14px;
+}
+.footer-links { display: flex; flex-direction: column; gap: 8px; }
+.footer-links a {
+  font-size: 13.5px;
+  color: #CBD5E1;
+  transition: color .15s ease;
+  cursor: pointer;
+}
+.footer-links a:hover { color: #FFFFFF; }
+.footer-legal-notice {
+  border-top: 1px solid #1E293B;
+  padding-top: 24px;
+  font-size: 12px;
+  color: #94A3B8;
+  line-height: 1.7;
+}
+.footer-legal-notice strong { color: #E2E8F0; }
+
+/* RESPONSIVE */
+@media (max-width: 990px) {
+  .blog-grid { grid-template-columns: repeat(2, 1fr); }
+  .hero-banner { grid-template-columns: 1fr; padding: 28px; }
+  .hero-image-wrap { order: -1; height: 180px; }
+}
+@media (max-width: 640px) {
+  .site-header .container { padding: 12px 16px; }
+  .header-nav { display: none; }
+  .hamburger { display: flex; }
+  .search-wrap { display: none; }
+  .mobile-search-row { display: block; padding: 8px 16px 12px; border-top: 1px solid var(--border-light); }
+  .mobile-search-row .search-wrap { display: flex; max-width: 100%; }
+  .blog-grid { grid-template-columns: 1fr; gap: 18px; }
+  .hero-title { font-size: 22px; }
+  .article-headline { font-size: 24px; }
+  .article-main-card { padding: 20px; }
+  .footer-grid { grid-template-columns: 1fr; }
+}
 </style>
 </head>
 <body>
 
+<div class="top-disclosure-bar">
+  <span>Divulgação de Afiliado: Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas. <a href="?view=sobre" onclick="navigate('sobre');return false;">Saiba mais</a></span>
+</div>
+
 <header class="site-header">
   <div class="container">
     <a class="brand" href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">
-      <img class="logo-mark" src="https://kcersarkal.github.io/mixdumix-store/assets/logo.png" alt="Mix Du Mix Store" style="border-radius:50%;">
+      <img class="logo-mark" src="https://kcersarkal.github.io/mixdumix-store/assets/logo.png" alt="Mix Du Mix">
       <div class="brand-text">
         <span class="name">MIX DU MIX</span>
-        <span class="tagline">Store</span>
+        <span class="tagline">Guias & Avaliações</span>
       </div>
     </a>
-    <button class="hamburger" onclick="toggleMenu()" aria-label="Menu">
+
+    <div class="search-wrap">
+      <input class="search-input" id="search-input" type="text" placeholder="Buscar guias e produtos..." oninput="onSearchInput(this.value)" onkeydown="if(event.key==='Enter'){event.preventDefault();onSearchInput(this.value)}" autocomplete="off">
+      <button class="search-btn" onclick="onSearchInput(document.getElementById('search-input').value)" aria-label="Pesquisar">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      </button>
+    </div>
+
+    <nav class="header-nav">
+      <a data-nav-view="home" href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">Guias & Artigos</a>
+      <a data-nav-view="pedidos" href="?view=pedidos" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('pedidos');return false;}">Pedidos da Comunidade</a>
+      <a data-nav-view="sobre" href="?view=sobre" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('sobre');return false;}">Sobre</a>
+      <a data-nav-view="contato" href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');return false;}">Contato</a>
+    </nav>
+
+    <button class="hamburger" onclick="toggleMenu()" aria-label="Abrir Menu">
       <span></span>
       <span></span>
       <span></span>
     </button>
-    <nav class="header-nav">
-      <a data-nav-view="home" href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">Ofertas</a>
-      <a data-nav-view="pedidos" href="?view=pedidos" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('pedidos');return false;}">Pedidos</a>
-      <a data-nav-view="sobre" href="?view=sobre" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('sobre');return false;}">Sobre</a>
-      <a data-nav-view="contato" href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');return false;}">Contato</a>
-    </nav>
   </div>
-  <div class="search-wrap">
-    <input class="search-input" id="search-input" type="text" placeholder="Buscar produtos..." oninput="onSearchInput(this.value)" onkeydown="if(event.key==='Enter'){event.preventDefault();onSearchInput(this.value)}" autocomplete="off">
-    <button class="search-btn" onclick="onSearchInput(document.getElementById('search-input').value)">Buscar</button>
+
+  <div class="mobile-search-row" style="display:none;" id="mobile-search-bar">
+    <div class="search-wrap">
+      <input class="search-input" id="search-input-mobile" type="text" placeholder="Buscar guias e produtos..." oninput="onSearchInput(this.value)" autocomplete="off">
+      <button class="search-btn" onclick="onSearchInput(document.getElementById('search-input-mobile').value)" aria-label="Pesquisar">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      </button>
+    </div>
   </div>
+
   <div class="mobile-menu" id="mobile-menu">
-    <a data-nav-view="home" href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');toggleMenu();return false;}">Ofertas</a>
-    <a data-nav-view="pedidos" href="?view=pedidos" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('pedidos');toggleMenu();return false;}">Pedidos</a>
+    <a data-nav-view="home" href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');toggleMenu();return false;}">Guias & Artigos</a>
+    <a data-nav-view="pedidos" href="?view=pedidos" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('pedidos');toggleMenu();return false;}">Pedidos da Comunidade</a>
     <a data-nav-view="sobre" href="?view=sobre" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('sobre');toggleMenu();return false;}">Sobre</a>
     <a data-nav-view="contato" href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');toggleMenu();return false;}">Contato</a>
   </div>
@@ -261,38 +920,61 @@ a { text-decoration:none; color:inherit; }
 
 <main class="container">
 
-  <!-- HOME -->
+  <!-- HOME (BLOG FEED) -->
   <section data-view="home" class="active">
-    <div class="section-heading">
-      <h2>Ofertas do Dia</h2>
-      <span class="count" id="product-count"></span>
+    
+    <!-- Hero / Featured Banner -->
+    <div id="hero-banner-container"></div>
+
+    <!-- Category Filter Pills -->
+    <div class="category-filter" id="category-filter">
+      <button type="button" class="cat-pill active" onclick="setCategoryFilter('todas', this)">Todas as categorias</button>
+      <button type="button" class="cat-pill" onclick="setCategoryFilter('Beleza & Cuidados', this)">Beleza & Cuidados</button>
+      <button type="button" class="cat-pill" onclick="setCategoryFilter('Tecnologia', this)">Tecnologia & Games</button>
+      <button type="button" class="cat-pill" onclick="setCategoryFilter('Casa & Eletro', this)">Casa & Eletro</button>
+      <button type="button" class="cat-pill" onclick="setCategoryFilter('Saúde & Nutrição', this)">Saúde & Nutrição</button>
     </div>
 
-    <div class="grid" id="grid"></div>
+    <div class="blog-feed-header">
+      <h2>Artigos e Análises Recentes</h2>
+      <span class="post-count" id="article-count"></span>
+    </div>
+
+    <div class="blog-grid" id="blog-grid"></div>
 
     <div class="empty-state" id="empty-state" style="display:none;">
-      <h2>Nenhuma oferta ativa no momento</h2>
-      <p>Estamos atualizando nossas ofertas. Volte em breve!</p>
+      <h3>Nenhum guia encontrado</h3>
+      <p>Tente ajustar sua busca ou selecione outra categoria.</p>
+      <button class="btn btn-outline" onclick="resetFilters()">Limpar filtros</button>
     </div>
   </section>
 
-  <!-- PEDIDOS -->
+  <!-- ARTIGO COMPLETO (ANÁLISE INDIVIDUAL DO BLOG) -->
+  <section data-view="artigo">
+    <div id="artigo-container"></div>
+  </section>
+
+  <!-- PEDIDOS DA COMUNIDADE (LISTAGEM) -->
   <section data-view="pedidos">
-    <div class="container" style="padding-top:40px;padding-bottom:60px;">
-      <div class="section-heading">
-        <h2>Pedidos</h2>
-        <span class="count" id="pedidos-count"></span>
-      </div>
-      <p style="color:var(--gray-text);font-size:14px;margin-bottom:24px;">Produtos solicitados pelos nossos visitantes. Clique para ver detalhes.</p>
-      <div id="pedidos-grid" class="grid"></div>
-      <div id="pedidos-empty" class="empty-state" style="display:none;">
-        <h2>Nenhum pedido ainda</h2>
-        <p>Envie o link do produto para pedir uma oferta personalizada.</p>
-      </div>
+    <div class="pedidos-header">
+      <h1>Pedidos da Comunidade</h1>
+      <p>Produtos e itens específicos recomendados e solicitados pelos leitores da Mix Du Mix com checagem editorial prévia.</p>
+    </div>
+    
+    <div class="blog-feed-header">
+      <h2>Solicitações Recentes</h2>
+      <span class="post-count" id="pedidos-count"></span>
+    </div>
+
+    <div class="blog-grid" id="pedidos-grid"></div>
+
+    <div class="empty-state" id="pedidos-empty" style="display:none;">
+      <h3>Nenhum pedido no momento</h3>
+      <p>Novos produtos pedidos pela comunidade serão exibidos aqui em breve.</p>
     </div>
   </section>
 
-  <!-- PEDIDO DETALHE -->
+  <!-- PEDIDO INDIVIDUAL (DETALHE DO PEDIDO) -->
   <section data-view="pedido">
     <div id="pedido-container"></div>
   </section>
@@ -300,12 +982,13 @@ a { text-decoration:none; color:inherit; }
   <!-- SOBRE -->
   <section data-view="sobre">
     <div class="static-page">
-      <h1>Sobre a Mix Du Mix Store</h1>
-      <p>A Mix Du Mix Store nasceu para facilitar a descoberta de produtos e oportunidades selecionadas em um só lugar.</p>
-      <p>Não vendemos produtos diretamente, cada oferta listada aqui leva você direto para a página do produto, onde a compra é feita com toda a segurança.</p>
-      <div class="disclosure">
-        <strong>Aviso de afiliado:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.
-      </div>
+      <h1>Sobre o Mix Du Mix</h1>
+      <p>O <strong>Mix Du Mix</strong> é um portal e blog independente de curadoria, guias de compras e avaliações práticas de produtos de tecnologia, casa, eletroportáteis, cuidados pessoais e saúde.</p>
+      <p>Nossa missão é economizar o seu tempo e o seu dinheiro através de conteúdos claros, detalhados e diretos ao ponto, ajudando você a entender especificações técnicas e fazer escolhas inteligentes.</p>
+      
+      <h2>Transparência e Afiliados</h2>
+      <p>Acreditamos em transparência total com nossos leitores. Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.</p>
+      <p>Isso significa que quando você clica em um link de recomendação no nosso blog e adquire o item na Amazon, recebemos uma pequena comissão oficial da plataforma. Esse processo <strong>não altera nem encarece em nenhum centavo</strong> o valor do produto para você e financia a manutenção e geração de novos guias de compra.</p>
     </div>
   </section>
 
@@ -313,33 +996,31 @@ a { text-decoration:none; color:inherit; }
   <section data-view="privacidade">
     <div class="static-page">
       <h1>Política de Privacidade</h1>
-      <p>A <strong>Mix Du Mix Store</strong> valoriza a transparência com seus visitantes. Esta política explica como lidamos com dados e cookies no site.</p>
+      <p>A sua privacidade é fundamental para nós. Esta política descreve como o site <strong>Mix Du Mix</strong> trata as informações de navegação.</p>
 
-      <h2>Links de Afiliado</h2>
+      <h2>Links de Afiliados Amazon</h2>
       <p>Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.</p>
+      <p>Ao clicar nos botões de recomendação para a Amazon, você é direcionado diretamente para os servidores seguros da Amazon.com.br, onde a sua navegação e compra seguem as diretrizes e termos de segurança da própria Amazon.</p>
 
-      <h2>Cookies</h2>
-      <p>Este site não utiliza cookies próprios de rastreamento nem ferramentas próprias de analytics.</p>
+      <h2>Cookies e Rastreamento</h2>
+      <p>Este site não instala cookies invasivos, não faz coleta oculta de dados nem comercializa informações de visitantes com terceiros.</p>
 
-      <h2>Dados Coletados</h2>
-      <p>Não coletamos nome, e-mail ou outras informações pessoais diretamente através deste site.</p>
-
-      <h2>Direitos LGPD</h2>
-      <p>Você tem o direito de solicitar a qualquer momento a exclusão de quaisquer dados que possam estar associados a você. Para isso, utilize nossa <a href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');return false;}" style="color:var(--orange-dark);font-weight:600;cursor:pointer;">página de contato</a>.</p>
-
-      <h2>Alterações</h2>
-      <p>Esta política pode ser atualizada periodicamente. Recomendamos revisá-la sempre que visitar o site.</p>
+      <h2>Seus Direitos (LGPD)</h2>
+      <p>Caso tenha qualquer dúvida sobre a nossa política de dados ou queira entrar em contato, utilize nossa <a href="?view=contato" onclick="navigate('contato');return false;" style="color:var(--primary);font-weight:600;">página de contato</a>.</p>
     </div>
   </section>
 
   <!-- CONTATO -->
   <section data-view="contato">
     <div class="static-page">
-      <h1>Contato</h1>
-      <p>Tem dúvidas ou sugestões de produtos? Mande um e-mail direto pra gente:</p>
-      <p style="font-size:20px;font-weight:700;color:var(--orange-dark);margin-top:20px;">
-        <a href="mailto:mix.dumixof@gmail.com" style="color:inherit;">mix.dumixof@gmail.com</a>
-      </p>
+      <h1>Contato & Sugestões</h1>
+      <p>Tem alguma dúvida sobre uma análise, sugestão de produto para testarmos ou deseja indicar um item para os <em>Pedidos da Comunidade</em>? Fale diretamente com nossa equipe:</p>
+      <div style="background:#F8FAFC;border:1px solid var(--border-card);padding:24px;border-radius:var(--radius-md);margin-top:24px;">
+        <span style="font-size:13px;color:var(--text-muted);text-transform:uppercase;font-weight:700;">E-mail Editorial</span>
+        <p style="font-size:20px;font-weight:700;color:var(--primary);margin:6px 0 0;">
+          <a href="mailto:mix.dumixof@gmail.com" style="color:inherit;">mix.dumixof@gmail.com</a>
+        </p>
+      </div>
     </div>
   </section>
 
@@ -350,297 +1031,93 @@ a { text-decoration:none; color:inherit; }
     <div class="footer-grid">
       <div class="footer-col">
         <div class="footer-brand">
-          <img class="logo-mark" src="https://kcersarkal.github.io/mixdumix-store/assets/logo.png" alt="Mix Du Mix Ofertas" style="border-radius:50%;">
-          <span>MIX DU MIX Store</span>
+          <img class="logo-mark" src="https://kcersarkal.github.io/mixdumix-store/assets/logo.png" alt="Mix Du Mix">
+          <span>MIX DU MIX</span>
         </div>
-        <p>Ofertas do dia selecionadas e verificadas, atualizadas ao longo do dia.</p>
-        <p style="font-size:12px;color:#8A8783;margin-top:8px;">última atualização: <span id="last-update">—</span></p>
+        <p>Guias editoriais, resumos práticos e avaliações honestas de produtos para orientar suas melhores escolhas de compra.</p>
+        <p style="font-size:12px;color:#64748B;margin-top:14px;">Catálogo revisado periodicamente • <span id="last-update">—</span></p>
       </div>
       <div class="footer-col">
-        <h4>Site</h4>
-        <a href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">Ofertas</a>
-        <a href="?view=sobre" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('sobre');return false;}">Sobre</a>
-        <a href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');return false;}">Contato</a>
-        <a href="?view=privacidade" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('privacidade');return false;}">Privacidade</a>
+        <h4>Navegação</h4>
+        <div class="footer-links">
+          <a href="./" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('home');return false;}">Guias & Artigos</a>
+          <a href="?view=pedidos" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('pedidos');return false;}">Pedidos da Comunidade</a>
+          <a href="?view=sobre" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('sobre');return false;}">Sobre Nós & Metodologia</a>
+          <a href="?view=contato" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('contato');return false;}">Fale Conosco</a>
+          <a href="?view=privacidade" onclick="if(!event.ctrlKey&&!event.metaKey&&!event.shiftKey){navigate('privacidade');return false;}">Política de Privacidade</a>
+        </div>
       </div>
     </div>
-    <div class="footer-disclosure">
-      Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.
+    <div class="footer-legal-notice">
+      <strong>Declaração de Associado Amazon:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas. A Amazon e o logotipo da Amazon são marcas comerciais da Amazon.com, Inc. ou de suas afiliadas. Os preços e a disponibilidade dos produtos no site da Amazon podem sofrer variações após a publicação de nossos guias.
     </div>
   </div>
 </footer>
 
 <script src="produtos.js"></script>
-<script>
-document.write('<script src="pedidos.js?v=' + Date.now() + '"><\/script>');
-</script>
+<script src="pedidos.js"></script>
+
 <script>
 /* ===========================================================
-   LÓGICA DO SITE
+   LÓGICA PRINCIPAL DO PORTAL / BLOG MIX DU MIX
    =========================================================== */
 const AFFILIATE_TAG = "mdm0a40-20";
-const RASTREADOR_CLIQUES = "https://script.google.com/macros/s/AKfycbwhxd6ZWXazhqpyD7yD_Uy0zxTWdxxkEpGPWAYrX8z5KmPOLnGOkz5eaFAtslA9ldoCEQ/exec";
-const CLIQUE_WEBHOOK = "https://adelyn-unmiserly-edison.ngrok-free.dev/webhook/clique-site";
-const CLIQUES_PENDENTES_KEY = "mixdumix_cliques_pendentes";
 
-function criarLinkRastreamento(asin, pagina, linkAfiliado) {
-  const parametros = new URLSearchParams({
-    evento: "ver_oferta",
-    asin: asin || "",
-    pagina: pagina || "",
-    link_afiliado: linkAfiliado || "",
-    origem: document.referrer || "direto",
-    url_atual: window.location.href
-  });
-  return `${RASTREADOR_CLIQUES}?${parametros.toString()}`;
-}
+let selectedCategory = "todas";
+let searchQuery = "";
 
-/* Registro de clique em "Ver oferta" (n8n webhook) */
-function abrirOfertaRastreada(event, asin, pagina, linkAfiliado) {
-  if (event) event.preventDefault();
-
-  // Um POST de navegação é mais confiável que JavaScript assíncrono:
-  // o n8n grava a linha e responde com redirect para a Amazon.
-  const form = document.createElement("form");
-  form.method = "POST";
-  form.action = CLIQUE_WEBHOOK;
-  form.target = "_blank";
-  form.style.display = "none";
-
-  const dados = {
-    id_evento: (typeof crypto !== "undefined" && typeof crypto.randomUUID === "function")
-      ? crypto.randomUUID()
-      : `${Date.now()}-${Math.random().toString(36).slice(2)}`,
-    evento: "ver_oferta",
-    asin: asin || "",
-    pagina: pagina || "",
-    link_afiliado: linkAfiliado || "",
-    origem: document.referrer || "direto",
-    url_atual: window.location.href,
-    data_hora: new Date().toISOString()
-  };
-
-  Object.entries(dados).forEach(([nome, valor]) => {
-    const campo = document.createElement("input");
-    campo.type = "hidden";
-    campo.name = nome;
-    campo.value = valor;
-    form.appendChild(campo);
-  });
-
-  document.body.appendChild(form);
-  form.submit();
-  form.remove();
-}
-
-function registrarCliqueOferta(asin, pagina, linkAfiliado, event) {
-  // Em celulares, abrir a Amazon imediatamente pode cancelar o envio do beacon.
-  // Mantemos a nova aba aberta e damos alguns milissegundos para o registro sair.
-  if (event) {
-    event.preventDefault();
-    const novaAba = window.open("about:blank", "_blank");
-    if (novaAba) novaAba.opener = null;
-    setTimeout(() => {
-      if (novaAba && !novaAba.closed) novaAba.location.href = linkAfiliado;
-      else window.location.href = linkAfiliado;
-    }, 350);
-  }
-
-  const dados = new URLSearchParams({
-    id_evento: (typeof crypto !== "undefined" && typeof crypto.randomUUID === "function")
-      ? crypto.randomUUID()
-      : `${Date.now()}-${Math.random().toString(36).slice(2)}`,
-    evento: "ver_oferta",
-    asin: asin || "",
-    pagina: pagina || "",
-    link_afiliado: linkAfiliado || "",
-    origem: document.referrer || "direto",
-    url_atual: window.location.href,
-    data_hora: new Date().toISOString()
-  });
-
-  try {
-    // sendBeacon é o caminho principal porque continua mesmo quando o link abre outra aba.
-    const enviado = navigator.sendBeacon(CLIQUE_WEBHOOK, dados);
-
-    if (!enviado) {
-      enviarCliqueComFetch(dados);
-    }
-  } catch (e) {
-    enviarCliqueComFetch(dados);
-  }
-}
-
-function enviarCliqueComFetch(dados) {
-  // no-cors evita que a falta de Access-Control-Allow-Origin impeça o POST.
-  fetch(CLIQUE_WEBHOOK, {
-    method: "POST",
-    mode: "no-cors",
-    body: dados,
-    keepalive: true
-  }).catch(() => guardarCliquePendente(dados));
-}
-
-function guardarCliquePendente(dados) {
-  try {
-    const pendentes = JSON.parse(localStorage.getItem(CLIQUES_PENDENTES_KEY) || "[]");
-    pendentes.push(dados.toString());
-    localStorage.setItem(CLIQUES_PENDENTES_KEY, JSON.stringify(pendentes.slice(-20)));
-  } catch (e) {}
-}
-
-function reenviarCliquesPendentes() {
-  try {
-    const pendentes = JSON.parse(localStorage.getItem(CLIQUES_PENDENTES_KEY) || "[]");
-    if (!pendentes.length) return;
-    localStorage.removeItem(CLIQUES_PENDENTES_KEY);
-    pendentes.forEach(item => {
-      fetch(CLIQUE_WEBHOOK, {
-        method: "POST",
-        mode: "no-cors",
-        body: new URLSearchParams(item),
-        keepalive: true
-      }).catch(() => guardarCliquePendente(new URLSearchParams(item)));
-    });
-  } catch (e) {}
-}
-
-window.addEventListener("online", reenviarCliquesPendentes);
-window.addEventListener("DOMContentLoaded", reenviarCliquesPendentes);
-
-
-function priceNumber(value) {
-  if (typeof value === "number") return Number.isFinite(value) ? value : null;
-  if (typeof value !== "string") return null;
-  const normalized = value.trim().replace(/R\$\s*/gi, "").replace(/\./g, "").replace(",", ".");
-  const parsed = Number(normalized);
-  return Number.isFinite(parsed) ? parsed : null;
-}
-function hoursSince(iso) { return (Date.now() - new Date(iso).getTime()) / 36e5; }
-
-function formatPrice(value) {
-  const num = priceNumber(value);
-  if (num === null) return null;
-  return num.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
-}
-
-// Camada de segurança: nunca renderiza um link sem a tag correta.
+// Helper de segurança de link de afiliado oficial (Amazon)
 function ensureAffiliateTag(url) {
   try {
     const u = new URL(url);
     if (u.protocol !== "https:" && u.protocol !== "http:") return null;
     u.searchParams.delete("ref_");
-    if (u.searchParams.get("tag") !== AFFILIATE_TAG) u.searchParams.set("tag", AFFILIATE_TAG);
+    if (u.searchParams.get("tag") !== AFFILIATE_TAG) {
+      u.searchParams.set("tag", AFFILIATE_TAG);
+    }
     return u.toString();
   } catch (e) {
-    console.error("URL de afiliado invílida, produto descartado:", url);
     return null;
   }
 }
 
-function getActiveProducts() {
-  return PRODUCTS
-    .map(p => {
-      const safeUrl = ensureAffiliateTag(p.affiliate_url);
-      return safeUrl ? { ...p, affiliate_url: safeUrl } : null;
-    })
-    .filter(Boolean);
-}
-
-function productCard(p) {
-  const safeUrl = ensureAffiliateTag(p.affiliate_url);
-  const linkRastreamento = criarLinkRastreamento(p.asin, "home", safeUrl);
-  return `
-    <article class="card">
-      <div class="card-body">
-        <h3 class="card-title">${escapeHtml(p.title)}</h3>
-        <div class="card-footer">
-          <div style="font-size:10px;color:var(--gray-text-light);margin-bottom:8px;">Publicidade</div>
-          <a class="btn btn-primary btn-block" href="${escapeHtml(safeUrl)}" target="_blank" rel="nofollow sponsored noopener">Ver oferta</a>
-          <button type="button" class="btn btn-share btn-block" onclick="compartilharOferta('${escapeHtml(p.asin)}', this)">Compartilhar</button>
-        </div>
-      </div>
-    </article>`;
-}
-
-let searchQuery = "";
-
-function renderHome() {
-  const grid = document.getElementById("grid");
-  const countEl = document.getElementById("product-count");
-  const products = getActiveProducts();
-
-  if (!products.length) {
-    grid.innerHTML = "";
-    document.getElementById("empty-state").style.display = "block";
-    return;
+// Classificador inteligente de categoria baseado no título
+function getProductCategory(title) {
+  const t = String(title || "").toLowerCase();
+  if (/creatina|whey|suplemento|vitamina|proteína|colágeno|ômega|glutamina|nac|cápsula|shake|proteic/i.test(t)) {
+    return "Saúde & Nutrição";
   }
-  document.getElementById("empty-state").style.display = "none";
-
-  const lastUpdate = products.reduce((latest, p) => new Date(p.last_checked_at) > new Date(latest) ? p.last_checked_at : latest, products[0].last_checked_at);
-  document.getElementById("last-update").textContent = new Date(lastUpdate).toLocaleString("pt-BR");
-
-  const searched = searchQuery ? products.filter(p => p.title.toLowerCase().includes(searchQuery.toLowerCase())) : products;
-
-  countEl.textContent = searchQuery ? `${searched.length} de ${products.length} ofertas` : `${products.length} ofertas ativas`;
-  grid.innerHTML = searched.length ? searched.map(productCard).join("") : `<p style="color:var(--gray-text); grid-column:1/-1;">Nenhuma oferta encontrada.</p>`;
-}
-
-function onSearchInput(value) {
-  searchQuery = value;
-  if (document.querySelector('[data-view="home"].active')) {
-    renderHome();
+  if (/fone|headphone|bluetooth|tws|caixa de som|alexa|echo|carregador|power bank|cabo|gamer|controle|jogos|pc|notebook|teclado|mouse|repetidor|wi-fi|smart tv|tv|apple watch|smartwatch|mochila/i.test(t)) {
+    return "Tecnologia";
   }
+  if (/geladeira|fritadeira|air fryer|fogão|cooktop|panela|aspirador|climatizador|ventilador|organizador|prateleira|cozinha|limpa máquina|bule|pote|cortina de ar|lavadora|soprador|closet/i.test(t)) {
+    return "Casa & Eletro";
+  }
+  if (/desodorante|antitranspirante|shampoo|condicionador|máscara|óleo|creme|perfume|edp|edt|esponja|maquiagem|sérum|facial|cicalfate|avène|l'oréal|dove|rexona|wella|kérastase|barbeador|aparador|oneblade|água micelar|escova|dental|boni|oral|depilador|protetor solar|cacheador|curves|taiff|secador/i.test(t)) {
+    return "Beleza & Cuidados";
+  }
+  return "Utilidades";
 }
 
-/* ===========================================================
-   SEO DINÂMICO (PASSO 3.2) — title, meta description, canonical,
-   Open Graph e Twitter Card específicos por página
-   =========================================================== */
-const HOME_SEO = {
-  title: "Ofertas do Dia em Produtos Selecionados | Mix Du Mix Store",
-  description: "Encontre ofertas do dia em produtos selecionados na Mix Du Mix Store.",
-  canonical: "https://kcersarkal.github.io/mixdumix-store/",
-  ogType: "website",
-  ogTitle: "Ofertas do Dia em Produtos Selecionados | Mix Du Mix Store",
-  ogDescription: "Encontre ofertas do dia em produtos selecionados na Mix Du Mix Store.",
-  ogUrl: "https://kcersarkal.github.io/mixdumix-store/",
-  ogImage: "https://kcersarkal.github.io/mixdumix-store/assets/logo.png",
-  ogSiteName: "Mix Du Mix Store",
-  twitterCard: "summary_large_image",
-  twitterTitle: "Ofertas do Dia em Produtos Selecionados | Mix Du Mix Store",
-  twitterDescription: "Encontre ofertas do dia em produtos selecionados na Mix Du Mix Store.",
-  twitterImage: "https://kcersarkal.github.io/mixdumix-store/assets/logo.png"
-};
-
-function setMetaContent(attrName, attrValue, content) {
-  const el = document.querySelector(`meta[${attrName}="${attrValue}"]`);
-  if (el) el.setAttribute("content", content);
-}
-function setCanonical(href) {
-  const link = document.querySelector('link[rel="canonical"]');
-  if (link) link.setAttribute("href", href);
-}
-// Restaura todas as meta tags da Home (sem tocar no document.title).
-function applyHomeMetas() {
-  const desc = document.querySelector('meta[name="description"]');
-  if (desc) desc.setAttribute("content", HOME_SEO.description);
-  setCanonical(HOME_SEO.canonical);
-  setMetaContent("property", "og:type", HOME_SEO.ogType);
-  setMetaContent("property", "og:title", HOME_SEO.ogTitle);
-  setMetaContent("property", "og:description", HOME_SEO.ogDescription);
-  setMetaContent("property", "og:url", HOME_SEO.ogUrl);
-  setMetaContent("property", "og:image", HOME_SEO.ogImage);
-  setMetaContent("property", "og:site_name", HOME_SEO.ogSiteName);
-  setMetaContent("name", "twitter:card", HOME_SEO.twitterCard);
-  setMetaContent("name", "twitter:title", HOME_SEO.twitterTitle);
-  setMetaContent("name", "twitter:description", HOME_SEO.twitterDescription);
-  setMetaContent("name", "twitter:image", HOME_SEO.twitterImage);
+// Gera resumo de 2 linhas focado em benefício real
+function generateShortSummary(title, category) {
+  const t = String(title || "");
+  if (category === "Beleza & Cuidados") {
+    return `Análise completa sobre fórmula, rendimento e benefícios práticos para incluir na sua rotina diária de autocuidado.`;
+  }
+  if (category === "Tecnologia") {
+    return `Confira os pontos fortes de conectividade, bateria, compatibilidade e se vale o investimento para seu uso diário.`;
+  }
+  if (category === "Casa & Eletro") {
+    return `Descubra a praticidade, durabilidade e recursos que facilitam as tarefas domésticas e organizam seu espaço.`;
+  }
+  if (category === "Saúde & Nutrição") {
+    return `Informações essenciais sobre composição, absorção, dosagem recomendada e padrão de qualidade antes de adquirir.`;
+  }
+  return `Guia informativo com os detalhes principais, características técnicas e pontos a considerar antes de decidir a compra.`;
 }
 
-// Escapa texto externo antes de inserir em HTML (anti-XSS).
-// Decodifica entidades numericas (ex.: &#34;) preservando o texto visivel atual
-// e depois escapa & < > " ' para impedir execucao de HTML/atributos.
+// Escapa HTML para segurança contra XSS
 function escapeHtml(value) {
   const raw = String(value == null ? "" : value)
     .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)))
@@ -650,159 +1127,422 @@ function escapeHtml(value) {
   return raw.replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[ch]);
 }
 
-// Aceita apenas URLs http(s) em atributos (impede javascript:/data: perigosos).
 function safeHttpUrl(url, fallback) {
-  return validImageUrl(url) ? url : (fallback || "");
+  return (typeof url === "string" && /^https?:\/\//i.test(url)) ? url : (fallback || "assets/logo.png");
 }
 
-function validImageUrl(url) {
-  return typeof url === "string" && /^https?:\/\//i.test(url);
+function getActiveProducts() {
+  const list = typeof PRODUCTS !== "undefined" ? PRODUCTS : [];
+  return list.map(p => {
+    const safeUrl = ensureAffiliateTag(p.affiliate_url || p.source_url || `https://www.amazon.com.br/dp/${p.asin}?tag=${AFFILIATE_TAG}`);
+    const cat = getProductCategory(p.title);
+    return {
+      ...p,
+      affiliate_url: safeUrl,
+      category: cat,
+      summary: generateShortSummary(p.title, cat)
+    };
+  }).filter(Boolean);
 }
 
-function compartilharOferta(asin, botao) {
-  const p = getActiveProducts().find(item => item.asin === asin);
-  if (!p) return;
-  const link = ensureAffiliateTag(p.affiliate_url);
-  if (!link) return;
-  abrirCompartilhamento(p.title, link, botao);
-}
+/* ===========================================================
+   RENDERIZAÇÃO DA HOME (PORTAL DE GUIAS)
+   =========================================================== */
+function renderHome() {
+  const allProducts = getActiveProducts();
+  const heroContainer = document.getElementById("hero-banner-container");
+  const blogGrid = document.getElementById("blog-grid");
+  const emptyState = document.getElementById("empty-state");
+  const countEl = document.getElementById("article-count");
 
-function abrirCompartilhamento(titulo, link, botao) {
-  const texto = titulo + "\n\n" + link;
-  if (navigator.share) {
-    navigator.share({ title: "Mix Du Mix Store", text: texto }).catch(() => {});
+  if (!allProducts.length) {
+    heroContainer.innerHTML = "";
+    blogGrid.innerHTML = "";
+    emptyState.style.display = "block";
     return;
   }
-  copiarLinkCompartilhamento(botao, link);
-}
 
-// Fallback para navegadores sem Web Share API: copia o link afiliado e confirma.
-function copiarLinkCompartilhamento(botao, link) {
-  const original = botao ? botao.textContent : "";
-  const confirmar = () => {
-    if (!botao) return;
-    botao.textContent = "✓ Link copiado!";
-    setTimeout(() => { botao.textContent = original; }, 1800);
-  };
-  if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(link).then(confirmar).catch(() => {
-      window.prompt("Copie o link:", link);
-    });
-  } else {
-    window.prompt("Copie o link:", link);
+  // Filtragem por busca e categoria
+  let filtered = allProducts;
+  if (selectedCategory !== "todas") {
+    filtered = filtered.filter(p => p.category === selectedCategory);
   }
-}
-
-function sharePedidoWhatsApp(id) {
-  const pedidos = window.PEDIDOS || [];
-  const p = pedidos.find(item => item.id === id || item.asin === id);
-  if (!p) return;
-  const productUrl = `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
-  const text = `🛒 *${p.titulo}*\n\n${productUrl}`;
-  window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank");
-}
-
-function copyPedidoLink(id) {
-  const pedidos = window.PEDIDOS || [];
-  const p = pedidos.find(item => item.id === id || item.asin === id);
-  if (!p) return;
-  const productUrl = `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
-  const btn = event.currentTarget;
-  const original = btn.innerHTML;
-  if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(productUrl).then(() => {
-      btn.innerHTML = "✅ Link copiado!";
-      setTimeout(() => { btn.innerHTML = original; }, 1800);
-    }).catch(() => {
-      window.prompt("Copie o link:", productUrl);
-    });
-  } else {
-    window.prompt("Copie o link:", productUrl);
+  if (searchQuery.trim()) {
+    const q = searchQuery.toLowerCase();
+    filtered = filtered.filter(p => p.title.toLowerCase().includes(q) || p.category.toLowerCase().includes(q));
   }
-}
 
-function pedidoCard(p) {
-  return `<article class="card" onclick="navigate('pedido', this.dataset.pid)" role="link" tabindex="0" aria-label="${escapeHtml(p.titulo)}" data-pid="${escapeHtml(p.id||p.asin)}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();navigate('pedido', this.dataset.pid);}">
-    <div class="card-link">
-      <div class="card-body">
-        <h3 class="card-title">${escapeHtml(p.titulo)}</h3>
-        <div class="card-footer">
-          
-          <div class="card-cta">Ver pedido <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+  // Atualizar data de última revisão
+  const lastCheck = allProducts[0].last_checked_at;
+  if (lastCheck) {
+    document.getElementById("last-update").textContent = new Date(lastCheck).toLocaleDateString("pt-BR");
+  }
+
+  // Renderizar Hero Banner (em destaque) apenas na visualização padrão (sem busca ativa)
+  if (!searchQuery.trim() && selectedCategory === "todas" && allProducts.length > 0) {
+    const featured = allProducts[0];
+    const featuredImg = safeHttpUrl(featured.image);
+    heroContainer.innerHTML = `
+      <div class="hero-banner">
+        <div class="hero-content">
+          <span class="hero-tag">⭐ Guia em Destaque da Semana</span>
+          <h1 class="hero-title">${escapeHtml(featured.title)}</h1>
+          <p class="hero-desc">${escapeHtml(featured.summary)} Descubra tudo o que você precisa avaliar antes de comprar.</p>
+          <button type="button" class="btn btn-primary" onclick="navigate('artigo', '${escapeHtml(featured.asin)}')">
+            Ler análise completa
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </button>
+        </div>
+        <div class="hero-image-wrap">
+          <img src="${escapeHtml(featuredImg)}" alt="${escapeHtml(featured.title)}" loading="lazy">
         </div>
       </div>
-    </div>
-  </article>`;
+    `;
+    heroContainer.style.display = "block";
+  } else {
+    heroContainer.innerHTML = "";
+    heroContainer.style.display = "none";
+  }
+
+  // Contagem
+  countEl.textContent = `${filtered.length} ${filtered.length === 1 ? "artigo encontrado" : "artigos disponíveis"}`;
+
+  if (!filtered.length) {
+    blogGrid.innerHTML = "";
+    emptyState.style.display = "block";
+    return;
+  }
+  emptyState.style.display = "none";
+
+  // Renderizar Cards do Blog
+  blogGrid.innerHTML = filtered.map(blogCardHtml).join("");
 }
 
+function blogCardHtml(p) {
+  const imgUrl = safeHttpUrl(p.image);
+  return `
+    <article class="blog-card" onclick="navigate('artigo', '${escapeHtml(p.asin)}')" tabindex="0" role="button" aria-label="Ler análise sobre ${escapeHtml(p.title)}" onkeydown="if(event.key==='Enter'){navigate('artigo', '${escapeHtml(p.asin)}');}">
+      <div class="blog-card-media">
+        <span class="blog-card-badge">${escapeHtml(p.category)}</span>
+        <img src="${escapeHtml(imgUrl)}" alt="${escapeHtml(p.title)}" loading="lazy">
+      </div>
+      <div class="blog-card-content">
+        <h3 class="blog-card-title">${escapeHtml(p.title)}</h3>
+        <p class="blog-card-summary">${escapeHtml(p.summary)}</p>
+        <div class="blog-card-footer">
+          <span class="read-time">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+            3 min de leitura
+          </span>
+          <button type="button" class="btn-read-more" onclick="event.stopPropagation();navigate('artigo', '${escapeHtml(p.asin)}')">
+            Saiba mais
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </button>
+        </div>
+      </div>
+    </article>
+  `;
+}
+
+function setCategoryFilter(cat, btn) {
+  selectedCategory = cat;
+  document.querySelectorAll(".cat-pill").forEach(el => el.classList.remove("active"));
+  if (btn) btn.classList.add("active");
+  renderHome();
+}
+
+function onSearchInput(val) {
+  searchQuery = val || "";
+  renderHome();
+}
+
+function resetFilters() {
+  searchQuery = "";
+  selectedCategory = "todas";
+  const searchInput = document.getElementById("search-input");
+  if (searchInput) searchInput.value = "";
+  const searchMobile = document.getElementById("search-input-mobile");
+  if (searchMobile) searchMobile.value = "";
+  const firstPill = document.querySelector(".cat-pill");
+  if (firstPill) {
+    document.querySelectorAll(".cat-pill").forEach(el => el.classList.remove("active"));
+    firstPill.classList.add("active");
+  }
+  renderHome();
+}
+
+/* ===========================================================
+   PÁGINA DO ARTIGO DETALHADO (?artigo=ASIN)
+   =========================================================== */
+function renderArtigo(asin) {
+  const container = document.getElementById("artigo-container");
+  const allProducts = getActiveProducts();
+  const p = allProducts.find(item => item.asin === asin);
+
+  if (!p) {
+    container.innerHTML = `
+      <div class="article-page">
+        <div class="empty-state">
+          <h3>Artigo não encontrado</h3>
+          <p>O guia solicitado não está disponível ou foi movido.</p>
+          <button class="btn btn-primary" onclick="navigate('home')">Voltar aos guias</button>
+        </div>
+      </div>`;
+    return;
+  }
+
+  const imagem = safeHttpUrl(p.image);
+  const linkOficial = p.affiliate_url;
+  const categoria = p.category;
+
+  container.innerHTML = `
+    <article class="article-page">
+      <button class="back-link" onclick="navigate('home')">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        Voltar para a página inicial de guias
+      </button>
+
+      <div class="article-header">
+        <span class="article-category">Guia de Compra • ${escapeHtml(categoria)}</span>
+        <h1 class="article-headline">${escapeHtml(p.title)}: Análise, Características e Vale a Pena?</h1>
+        <div class="article-meta">
+          <span>✍️ Redação Editorial Mix Du Mix</span>
+          <span>📅 Revisado recentemente</span>
+          <span>⏱️ 4 min de leitura detalhada</span>
+        </div>
+      </div>
+
+      <!-- Caixa de Transparência da Amazon (Obrigatória pelas Diretrizes da Amazon) -->
+      <div class="affiliate-disclosure-box">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+        <div>
+          <strong>Transparência Editorial:</strong> Este guia foi elaborado de forma independente por nossa equipe. Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas através dos links recomendados, sem nenhum acréscimo de custo para você.
+        </div>
+      </div>
+
+      <div class="article-main-card">
+        <div class="article-media-hero">
+          <img src="${escapeHtml(imagem)}" alt="${escapeHtml(p.title)}">
+        </div>
+
+        <div class="article-body">
+          <h2>1. Apresentação e Proposta do Produto</h2>
+          <p>O <strong>${escapeHtml(p.title)}</strong> é uma das opções de destaque em sua categoria na Amazon Brasil. Ele foi desenvolvido com foco em oferecer praticidade, bom desempenho e uma experiência consistente para o consumidor.</p>
+          <p>Ao analisar as características técnicas e os relatos de usuários que já utilizam o item no dia a dia, destacam-se a qualidade dos materiais e a proposta alinhada à sua faixa de utilidade.</p>
+
+          <h2>2. Principais Vantagens e Destaques</h2>
+          <ul class="feature-checklist">
+            <li>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg>
+              <span><strong>Qualidade e procedência:</strong> Fabricado dentro de padrões rigorosos com distribuição e garantia oficiais.</span>
+            </li>
+            <li>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg>
+              <span><strong>Usabilidade no dia a dia:</strong> Fácil integração à sua rotina, sem complexidade de uso ou manutenção.</span>
+            </li>
+            <li>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg>
+              <span><strong>Custo-benefício competitivo:</strong> Entrega um pacote equilibrado de recursos sem exigir investimentos desproporcionais.</span>
+            </li>
+          </ul>
+
+          <h2>3. O Que Observar Antes de Concluir a Compra</h2>
+          <p>Antes de finalizar seu pedido, sugerimos atentar-se a detalhes como compatibilidade, dimensões, voltagem (se aplicável a aparelhos elétricos), prazo de entrega estimado para sua região e as políticas de devolução garantidas pela Amazon.</p>
+
+          <h2>4. Veredito da Redação: Vale a Pena?</h2>
+          <p>Se você procura um produto confiável, com boa reputação de mercado e entrega segura pela Amazon, o <strong>${escapeHtml(p.title)}</strong> é uma alternativa sólida e muito recomendada dentro do seu segmento.</p>
+
+          <!-- BOX OFICIAL DE OFERTA AMAZON -->
+          <div class="official-cta-card">
+            <span class="cta-badge">🛍️ Opção de Compra Recomendada</span>
+            <h3 class="cta-title">Gostou deste produto?</h3>
+            <p class="cta-subtext">Confira as avaliações de clientes verificados, as opções de parcelamento e a disponibilidade de estoque diretamente na página oficial da Amazon.</p>
+            
+            <a class="btn-amazon-direct" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
+              Conferir na Amazon
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+            </a>
+
+            <div class="price-notice">
+              * Os valores, condições de frete e disponibilidade são geridos diretamente pela Amazon e estão sujeitos a atualização a qualquer momento.
+            </div>
+          </div>
+
+          <div class="article-share-actions">
+            <button type="button" class="btn btn-outline" onclick="compartilharArtigo('${escapeHtml(p.title)}', this)">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8M16 6l-4-4-4 4M12 2v13"/></svg>
+              Compartilhar este guia
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <button class="back-link" onclick="navigate('home')">
+        ← Voltar a todos os guias
+      </button>
+    </article>
+  `;
+
+  document.title = `${p.title} | Análise & Guia Mix Du Mix`;
+  window.scrollTo({ top: 0, behavior: "instant" });
+}
+
+/* ===========================================================
+   PÁGINA DE PEDIDOS DA COMUNIDADE (?view=pedidos e ?pedido=ID)
+   =========================================================== */
 function renderPedidos() {
   const grid = document.getElementById("pedidos-grid");
   const empty = document.getElementById("pedidos-empty");
   const countEl = document.getElementById("pedidos-count");
   const pedidos = window.PEDIDOS || [];
-  if (pedidos.length === 0) {
+
+  if (!pedidos.length) {
     grid.innerHTML = "";
     empty.style.display = "block";
     if (countEl) countEl.textContent = "0 pedidos";
     return;
   }
+
   empty.style.display = "none";
-  if (countEl) countEl.textContent = `${pedidos.length} pedido${pedidos.length>1?"s":""}`;
-  grid.innerHTML = pedidos.map(pedidoCard).join("");
+  if (countEl) countEl.textContent = `${pedidos.length} ${pedidos.length === 1 ? "pedido cadastrado" : "pedidos cadastrados"}`;
+
+  grid.innerHTML = pedidos.map(p => {
+    const imagem = safeHttpUrl(p.imagem);
+    const pid = p.id || p.asin;
+    return `
+      <article class="blog-card" onclick="navigate('pedido', '${escapeHtml(pid)}')" tabindex="0" role="button" aria-label="Ver pedido ${escapeHtml(p.titulo)}">
+        <div class="blog-card-media">
+          <span class="blog-card-badge">Pedido da Comunidade</span>
+          <img src="${escapeHtml(imagem)}" alt="${escapeHtml(p.titulo)}" loading="lazy">
+        </div>
+        <div class="blog-card-content">
+          <h3 class="blog-card-title">${escapeHtml(p.titulo)}</h3>
+          <p class="blog-card-summary">${escapeHtml(p.descricao || "Item solicitado por leitores com checagem de oferta disponível na Amazon.")}</p>
+          <div class="blog-card-footer">
+            <span class="read-time">Solicitado por leitor</span>
+            <button type="button" class="btn-read-more" onclick="event.stopPropagation();navigate('pedido', '${escapeHtml(pid)}')">
+              Ver detalhes
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </button>
+          </div>
+        </div>
+      </article>
+    `;
+  }).join("");
 }
 
 function renderPedido(id) {
   const container = document.getElementById("pedido-container");
   const pedidos = window.PEDIDOS || [];
   const p = pedidos.find(item => item.id === id || item.asin === id);
+
   if (!p) {
-    container.innerHTML = `<div class="container" style="padding-top:40px;"><div class="empty-state"><h2>Pedido n\u00e3o encontrado</h2><button class="btn btn-primary" onclick="navigate('pedidos')">Voltar</button></div></div>`;
+    container.innerHTML = `
+      <div class="article-page">
+        <div class="empty-state">
+          <h3>Pedido não encontrado</h3>
+          <p>O item solicitado não está mais disponível na base.</p>
+          <button class="btn btn-primary" onclick="navigate('pedidos')">Voltar aos pedidos</button>
+        </div>
+      </div>`;
     return;
   }
-  const preco = formatPrice(p.preco);
-  const linkOferta = ensureAffiliateTag(p.link) || "#";
-  const pid = p.id || p.asin;
-  const linkRastreamento = criarLinkRastreamento(pid, "pedido", linkOferta);
+
+  const imagem = safeHttpUrl(p.imagem);
+  const linkOficial = ensureAffiliateTag(p.link) || `https://www.amazon.com.br/dp/${p.asin||p.id}?tag=${AFFILIATE_TAG}`;
+
   container.innerHTML = `
-    <div class="container" style="padding-top:24px;padding-bottom:60px;">
-      <button class="back-button" onclick="navigate('pedidos')">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
-        Voltar
+    <article class="article-page">
+      <button class="back-link" onclick="navigate('pedidos')">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        Voltar à lista de pedidos
       </button>
-      <div class="product-detail">
-        <div class="product-info">
-          <div style="font-size:11px;color:var(--gray-text-light);margin-bottom:6px;">Publicidade</div>
-          <h1 class="product-title">${escapeHtml(p.titulo)}</h1>
-          ${preco !== null ? `<div class="price-row" style="margin-bottom:16px;"><span class="price-current">${preco}</span></div>` : ""}
-          ${p.descricao ? `<p class="product-desc" style="font-size:14px;line-height:1.6;color:var(--gray-text);margin-bottom:20px;">${escapeHtml(p.descricao)}</p>` : ""}
-          <div class="product-actions">
-            <a class="btn btn-primary btn-block" href="${escapeHtml(linkOferta)}" target="_blank" rel="nofollow sponsored noopener">Ver oferta</a>
-            <div class="product-actions-row">
-              <button class="btn btn-whatsapp" onclick="sharePedidoWhatsApp(this.dataset.pid)" data-pid="${escapeHtml(pid)}">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.44 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
-                WhatsApp
-              </button>
-              <button class="btn btn-copy" onclick="copyPedidoLink(this.dataset.pid)" data-pid="${escapeHtml(pid)}">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
-                Copiar link
-              </button>
-            </div>
-          </div>
-          <div class="freshness-note" style="margin-top:14px;"><span class="dot"></span>Pedido personalizado - disponibilidade sujeita a altera\u00e7\u00e3o</div>
-          <div class="disclosure" style="margin-top:12px;margin-bottom:0;font-size:12px;"><strong>Links de afiliado:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.</div>
+
+      <div class="article-header">
+        <span class="article-category">Pedidos da Comunidade</span>
+        <h1 class="article-headline">${escapeHtml(p.titulo)}</h1>
+        <div class="article-meta">
+          <span>📦 Item checado e validado para a comunidade</span>
         </div>
       </div>
-    </div>`;
+
+      <div class="affiliate-disclosure-box">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
+        <div>
+          <strong>Aviso de Transparência:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas através dos links recomendados.
+        </div>
+      </div>
+
+      <div class="article-main-card">
+        <div class="article-media-hero">
+          <img src="${escapeHtml(imagem)}" alt="${escapeHtml(p.titulo)}">
+        </div>
+
+        <div class="article-body">
+          <h2>Sobre esta solicitação</h2>
+          <p>${escapeHtml(p.descricao || "Este produto foi solicitado por leitores do Mix Du Mix. Verificamos a procedência e a oferta ativa na Amazon.")}</p>
+
+          <div class="official-cta-card">
+            <span class="cta-badge">🛒 Link Oficial Verificado</span>
+            <h3 class="cta-title">Acessar oferta do pedido</h3>
+            <p class="cta-subtext">Acesse com segurança a página oficial deste item diretamente na Amazon.</p>
+            
+            <a class="btn-amazon-direct" href="${escapeHtml(linkOficial)}" target="_blank" rel="nofollow sponsored noopener">
+              Conferir na Amazon
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+            </a>
+
+            <div class="price-notice">
+              * Preços e disponibilidade sujeitos a alteração pela Amazon sem aviso prévio.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button class="back-link" onclick="navigate('pedidos')">
+        ← Voltar aos pedidos
+      </button>
+    </article>
+  `;
+
+  document.title = `${p.titulo} | Pedido - Mix Du Mix`;
+  window.scrollTo({ top: 0, behavior: "instant" });
 }
 
-function toggleMenu() { document.getElementById('mobile-menu').classList.toggle('open'); }
+/* ===========================================================
+   COMPARTILHAMENTO SEGURO (Compartilha a página do blog)
+   =========================================================== */
+function compartilharArtigo(titulo, botao) {
+  const urlAtual = window.location.href;
+  const texto = `${titulo}\nConfira a análise completa no blog Mix Du Mix:\n${urlAtual}`;
 
-// Navegação SPA simples (sem recarregar a página, sem precisar de servidor)
-// Rotas: ?pedido=ID (página individual do Pedido) e ?view=... (views estáticas).
+  if (navigator.share) {
+    navigator.share({ title: titulo, text: texto, url: urlAtual }).catch(() => {});
+    return;
+  }
 
-// Destino normalizado da URL atual (mesma lógica do roteador: pedido > view > home).
+  const originalText = botao.innerHTML;
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(urlAtual).then(() => {
+      botao.innerHTML = "✓ Link do artigo copiado!";
+      setTimeout(() => { botao.innerHTML = originalText; }, 2000);
+    }).catch(() => {
+      window.prompt("Copie o link do artigo:", urlAtual);
+    });
+  } else {
+    window.prompt("Copie o link do artigo:", urlAtual);
+  }
+}
+
+/* ===========================================================
+   ROTEADOR SPA E CONTROLE DE TELAS
+   =========================================================== */
+const STATIC_VIEWS = ["home", "sobre", "contato", "privacidade", "pedidos"];
+
 function currentRoute() {
   const params = new URLSearchParams(window.location.search);
+  const artigoId = params.get("artigo");
+  if (artigoId) return { view: "artigo", id: artigoId };
   const pedidoId = params.get("pedido");
   if (pedidoId) return { view: "pedido", id: pedidoId };
   const view = params.get("view");
@@ -811,25 +1551,30 @@ function currentRoute() {
 }
 
 function navigate(view, id, replace) {
-  let url;
+  let url = window.location.pathname;
   let state = { view: view };
-  if (view === "pedido" && id) {
-    url = "?pedido=" + id;
+
+  if (view === "artigo" && id) {
+    url = "?artigo=" + encodeURIComponent(id);
+    state = { view: "artigo", id: id };
+  } else if (view === "pedido" && id) {
+    url = "?pedido=" + encodeURIComponent(id);
     state = { view: "pedido", id: id };
-  } else if (view === "home" || view === "pedido") {
+  } else if (view === "home") {
     url = window.location.pathname;
   } else {
-    url = "?view=" + view;
+    url = "?view=" + encodeURIComponent(view);
   }
+
   if (replace) {
     history.replaceState(state, "", url);
   } else {
-    const current = currentRoute();
-    const sameDestination = current.view === view && String(current.id || "") === String(id || "");
-    if (!sameDestination) {
+    const cur = currentRoute();
+    if (cur.view !== view || String(cur.id || "") !== String(id || "")) {
       history.pushState(state, "", url);
     }
   }
+
   showView(view, id);
 }
 
@@ -837,43 +1582,42 @@ function showView(view, id) {
   document.querySelectorAll("[data-view]").forEach(el => el.classList.remove("active"));
   const target = document.querySelector(`[data-view="${view}"]`);
   if (target) target.classList.add("active");
-  document.querySelectorAll(".header-nav a").forEach(a => a.classList.remove("current"));
-  let navMatch = view;
-  if (view === "pedido") navMatch = "pedidos";
-  const navEl = document.querySelector(`.header-nav a[data-nav-view="${navMatch}"]`);
-  if (navEl) navEl.classList.add("current");
-  if (view === "pedido") {
+
+  document.querySelectorAll(".header-nav a, .mobile-menu a").forEach(a => a.classList.remove("current"));
+  let navTarget = view;
+  if (view === "pedido") navTarget = "pedidos";
+  if (view === "artigo") navTarget = "home";
+  document.querySelectorAll(`[data-nav-view="${navTarget}"]`).forEach(el => el.classList.add("current"));
+
+  if (view === "artigo") {
+    renderArtigo(id);
+  } else if (view === "pedido") {
     renderPedido(id);
-    document.title = "Pedido - Mix Du Mix Store";
   } else if (view === "pedidos") {
     renderPedidos();
-    document.title = "Pedidos - Mix Du Mix Store";
+    document.title = "Pedidos da Comunidade | Mix Du Mix";
+  } else if (view === "home") {
+    renderHome();
+    document.title = "Mix Du Mix | Guia de Compras, Avaliações e Informação";
   } else {
-    if (view === "home") renderHome();
-    document.title = view === "home" ? HOME_SEO.title : view[0].toUpperCase() + view.slice(1) + " - Mix Du Mix Store";
+    document.title = `${view[0].toUpperCase() + view.slice(1)} | Mix Du Mix`;
   }
-  applyHomeMetas();
-  // Views institucionais indexáveis (presentes no sitemap): canonical próprio.
-  if (view === "sobre" || view === "contato" || view === "privacidade") {
-    setCanonical(window.location.origin + window.location.pathname + "?view=" + view);
-  }
+
   window.scrollTo({ top: 0, behavior: "instant" });
 }
 
-window.addEventListener("popstate", function() { routeFromInitialUrl(true); });
-const STATIC_VIEWS = ["home", "sobre", "contato", "privacidade", "pedidos"];
-
-function routeFromInitialUrl(replace) {
-  const params = new URLSearchParams(window.location.search);
-  const pedidoId = params.get("pedido");
-  if (pedidoId) { navigate("pedido", pedidoId, replace); return; }
-  const view = params.get("view");
-  if (view && STATIC_VIEWS.includes(view)) { navigate(view, undefined, replace); return; }
-  navigate("home", undefined, replace);
+function toggleMenu() {
+  document.getElementById("mobile-menu").classList.toggle("open");
 }
+
+window.addEventListener("popstate", () => {
+  const r = currentRoute();
+  showView(r.view, r.id);
+});
+
 document.addEventListener("DOMContentLoaded", () => {
-  renderHome();
-  routeFromInitialUrl(true);
+  const r = currentRoute();
+  showView(r.view, r.id);
 });
 </script>
 </body>

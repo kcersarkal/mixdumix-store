@@ -44,7 +44,7 @@ def extrair_asins_unicos(conteudo):
 def montar_urls(asins):
     urls = [BASE]  # Home (unica)
     urls += [BASE + "?view=" + v for v in VIEWS_INDEXAVEIS]
-    urls += [BASE + "?produto=" + a for a in asins]
+    urls += [BASE + "?artigo=" + a for a in asins]
     return urls
 
 
