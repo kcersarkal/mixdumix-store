@@ -399,7 +399,7 @@ const PRODUCTS = [
     "asin": "B0DZ34QV33",
     "title": "Tech T-shirt Gola U Feminino",
     "source_url": "https://www.amazon.com.br/dp/B0DZ34QV33",
-    "image": "https://m.media-amazon.com/images/I/31Ac05CHFLL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "image": "https://m.media-amazon.com/images/I/31Ac05CHFLL._AC_SL800_.jpg",
     "price_current": 69.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DZ34QV33?tag=mdm0a40-20",
     "last_checked_at": "2026-09-24T00:47:28.000Z"
@@ -408,7 +408,7 @@ const PRODUCTS = [
     "asin": "B0CJMV9ZQG",
     "title": "Roupa Íntima Bigfral Derma Plus P/M 24 Unidades",
     "source_url": "https://www.amazon.com.br/dp/B0CJMV9ZQG",
-    "image": "https://m.media-amazon.com/images/I/71fCLETIrtL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "image": "https://m.media-amazon.com/images/I/71fCLETIrtL._AC_SL800_.jpg",
     "price_current": 70.55,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJMV9ZQG?tag=mdm0a40-20",
     "last_checked_at": "2026-09-24T00:47:28.000Z"
@@ -417,7 +417,7 @@ const PRODUCTS = [
     "asin": "B0FQ6VY7S2",
     "title": "Kit 3 Pacotes Café Especial em Grãos Coffee Mais Variedades: Caparaó, Intenso e Solos Vulcânicos - 100% Arábica (3x250g)",
     "source_url": "https://www.amazon.com.br/dp/B0FQ6VY7S2",
-    "image": "https://m.media-amazon.com/images/I/61f5fOGM32L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "image": "https://m.media-amazon.com/images/I/61f5fOGM32L._AC_SL800_.jpg",
     "price_current": 70.71,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQ6VY7S2?tag=mdm0a40-20",
     "last_checked_at": "2026-09-24T00:47:28.000Z"
@@ -426,7 +426,7 @@ const PRODUCTS = [
     "asin": "B0DLVH2WN4",
     "title": "NAC 600mg 120 Cápsulas 4 Meses de Uso, Longa Duração 2x Mais, com Molibdênio e Selênio, Fortalvit",
     "source_url": "https://www.amazon.com.br/dp/B0DLVH2WN4",
-    "image": "https://m.media-amazon.com/images/I/61XbBNvBG-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "image": "https://m.media-amazon.com/images/I/61XbBNvBG-L._AC_SL800_.jpg",
     "price_current": 73.05,
     "affiliate_url": "https://www.amazon.com.br/dp/B0DLVH2WN4?tag=mdm0a40-20",
     "last_checked_at": "2026-09-24T00:47:28.000Z"
@@ -435,7 +435,7 @@ const PRODUCTS = [
     "asin": "B0985RJT3K",
     "title": "Philco Ferro a Vapor Travel Ceramic Bivolt Base em Cerâmica",
     "source_url": "https://www.amazon.com.br/dp/B0985RJT3K",
-    "image": "https://m.media-amazon.com/images/I/51cMAvfwILL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "image": "https://m.media-amazon.com/images/I/51cMAvfwILL._AC_SL800_.jpg",
     "price_current": 74.9,
     "affiliate_url": "https://www.amazon.com.br/dp/B0985RJT3K?tag=mdm0a40-20",
     "last_checked_at": "2026-09-24T00:47:28.000Z"
@@ -444,7 +444,7 @@ const PRODUCTS = [
     "asin": "B0F4SPQ2W6",
     "title": "Lixeira com Pedal Tramontina Loop em Aço Inox com Acabamento Polido e Balde Interno 5 L",
     "source_url": "https://www.amazon.com.br/dp/B0F4SPQ2W6",
-    "image": "https://m.media-amazon.com/images/I/5168lvuU82L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "image": "https://m.media-amazon.com/images/I/5168lvuU82L._AC_SL800_.jpg",
     "price_current": 74.97,
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4SPQ2W6?tag=mdm0a40-20",
     "last_checked_at": "2026-09-24T00:47:28.000Z"
@@ -1857,8 +1857,8 @@ const PRODUCTS = [
     "asin": "B0CZ4LQCQJ",
     "title": "Monitor Samsung ViewFinity S9 27\" 5k, Tela Plana, 60Hz, 5ms, Thunderbolt 4, Smart Hub, Gaming Mode 27\"",
     "source_url": "https://www.amazon.com.br/dp/B0CZ4LQCQJ",
-    "image": "https://m.media-amazon.com/images/I/41aVgm5pxNL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 7699.0,
+    "image": "https://m.media-amazon.com/images/I/41aVgm5pxNL._AC_SL800_.jpg",
+    "price_current": 7699,
     "affiliate_url": "https://www.amazon.com.br/dp/B0CZ4LQCQJ?tag=mdm0a40-20",
     "last_checked_at": "2026-09-24T00:47:28.000Z"
   },
@@ -1866,8 +1866,8 @@ const PRODUCTS = [
     "asin": "B0FY3WHPDH",
     "title": "Acer Nitro V 15 Notebook Gamer 15.6\" Intel Core i9 RTX 4060 16GB Windows",
     "source_url": "https://www.amazon.com.br/dp/B0FY3WHPDH",
-    "image": "https://m.media-amazon.com/images/I/71TFTrBp3ZL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "price_current": 7748.0,
+    "image": "https://m.media-amazon.com/images/I/71TFTrBp3ZL._AC_SL800_.jpg",
+    "price_current": 7748,
     "affiliate_url": "https://www.amazon.com.br/dp/B0FY3WHPDH?tag=mdm0a40-20",
     "last_checked_at": "2026-09-24T00:47:28.000Z"
   }
